@@ -1,36 +1,4 @@
 
-[Illustration]
-
-
-
-
-The Wind in the Willows
-
-by Kenneth Grahame
-
-Author Of “The Golden Age,” “Dream Days,” Etc.
-
-
-Contents
-
- CHAPTER I. THE RIVER BANK
- CHAPTER II. THE OPEN ROAD
- CHAPTER III. THE WILD WOOD
- CHAPTER IV. MR. BADGER
- CHAPTER V. DULCE DOMUM
- CHAPTER VI. MR. TOAD
- CHAPTER VII. THE PIPER AT THE GATES OF DAWN
- CHAPTER VIII. TOAD’S ADVENTURES
- CHAPTER IX. WAYFARERS ALL
- CHAPTER X. THE FURTHER ADVENTURES OF TOAD
- CHAPTER XI. “LIKE SUMMER TEMPESTS CAME HIS TEARS”
- CHAPTER XII. THE RETURN OF ULYSSES
-
-
-
-
-I.
-THE RIVER BANK
 
 
 The Mole had been working very hard all the morning, spring-cleaning
@@ -513,10 +481,6 @@ among them.
 
 
 
-II.
-THE OPEN ROAD
-
-
 “Ratty,” said the Mole suddenly, one bright summer morning, “if you
 please, I want to ask you a favour.”
 
@@ -970,12 +934,6 @@ had been looking up his friends and gossiping, came strolling along to
 find him. “Heard the news?” he said. “There’s nothing else being talked
 about, all along the river bank. Toad went up to Town by an early train
 this morning. And he has ordered a large and very expensive motor-car.”
-
-
-
-
-III.
-THE WILD WOOD
 
 
 The Mole had long wanted to make the acquaintance of the Badger. He
@@ -1444,10 +1402,6 @@ deep-toned bell respond.
 
 
 
-IV.
-MR. BADGER
-
-
 THEY waited patiently for what seemed a very long time, stamping in the
 snow to keep their feet warm. At last they heard the sound of slow
 shuffling footsteps approaching the door from the inside. It seemed, as
@@ -1913,8 +1867,6 @@ way, to last for a lifetime.
 
 
 
-V.
-DULCE DOMUM
 
 
 The sheep ran huddling together against the hurdles, blowing out thin
@@ -2453,8 +2405,7 @@ same simple welcome.
 
 
 
-VI.
-MR. TOAD
+
 
 
 It was a bright morning in the early part of summer; the river had
@@ -2941,11 +2892,6 @@ length and breadth of Merry England.
 
 
 
-
-VII.
-THE PIPER AT THE GATES OF DAWN
-
-
 The Willow-Wren was twittering his thin little song, hidden himself in
 the dark selvedge of the river bank. Though it was past ten o’clock at
 night, the sky still clung to and retained some lingering skirts of
@@ -3326,9 +3272,6 @@ lingering there, the weary Rat was fast asleep.
 
 
 
-
-VIII.
-TOAD’S ADVENTURES
 
 
 When Toad found himself immured in a dank and noisome dungeon, and knew
@@ -3802,10 +3745,6 @@ of a hollow tree, where with branches and dead leaves he made himself
 as comfortable a bed as he could, and slept soundly till the morning.
 
 
-
-
-IX.
-WAYFARERS ALL
 
 
 The Water Rat was restless, and he did not exactly know why. To all
@@ -4389,10 +4328,6 @@ a good deal more than he scribbled; but it was joy to the Mole to know
 that the cure had at least begun.
 
 
-
-
-X.
-THE FURTHER ADVENTURES OF TOAD
 
 
 The front door of the hollow tree faced eastwards, so Toad was called
@@ -5011,9 +4946,6 @@ It was the Water Rat!
 
 
 
-
-XI.
-“LIKE SUMMER TEMPESTS CAME HIS TEARS”
 
 
 The Rat put out a neat little brown paw, gripped Toad firmly by the
@@ -5655,10 +5587,6 @@ adventures; and why should they not be truly ours, as much as the
 somewhat inadequate things that really come off?
 
 
-
-
-XII.
-THE RETURN OF ULYSSES
 
 
 When it began to grow dark, the Rat, with an air of excitement and

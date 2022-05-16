@@ -1,54 +1,4 @@
 
-[Illustration]
-
-
-
-
-In the Days of the Comet
-
-by H. G. Wells
-
-
-“The World’s Great Age begins anew,
-    The Golden Years return,
-The Earth doth like a Snake renew
-    Her Winter Skin outworn:
-Heaven smiles, and Faiths and Empires gleam
-Like Wrecks of a Dissolving Dream.”
-
-
-Contents
-
- PROLOGUE
- THE MAN WHO WROTE IN THE TOWER
-
- BOOK THE FIRST — THE COMET
- I. DUST IN THE SHADOWS
- II. NETTIE
- III. THE REVOLVER
- IV. WAR
- V. THE PURSUIT OF THE TWO LOVERS
-
- BOOK THE SECOND — THE GREEN VAPORS
- I. THE CHANGE
- II. THE AWAKENING
- III. THE CABINET COUNCIL
-
- BOOK THE THIRD — THE NEW WORLD
- I. LOVE AFTER THE CHANGE
- II. MY MOTHER’S LAST DAYS
- III. BELTANE AND NEW YEAR’S EVE
-
- EPILOGUE
- THE WINDOW OF THE TOWER
-
-
-
-
-PROLOGUE
-THE MAN WHO WROTE IN THE TOWER
-
-
 I saw a gray-haired man, a figure of hale age, sitting at a desk and
 writing.
 
@@ -127,15 +77,7 @@ place had written.
 
 
 
-BOOK THE FIRST THE COMET
 
-
-
-
-CHAPTER THE FIRST DUST IN THE SHADOWS
-
-
-§ 1
 
 I have set myself to write the story of the Great Change, so far as it
 has affected my own life and the lives of one or two people closely
@@ -280,7 +222,6 @@ details of environment as being remarkable, as significant, as indeed
 obviously the outward visible manifestations of the old world disorder
 in our hearts.
 
-§ 2
 
 Parload stood at the open window, opera-glass in hand, and sought and
 found and was uncertain about and lost again, the new comet.
@@ -599,7 +540,6 @@ Rawdon won’t give me a rise in my wages, and after having asked I don’t
 think I can stand going on upon the old terms anymore. See? So I may
 have to clear out of Clayton for good and all.”
 
-§ 3
 
 That made Parload put down the opera-glass and look at me.
 
@@ -831,7 +771,7 @@ the part of those who like myself have stories of that time to tell, to
 supply, by a scrupulous spiritual realism, some antidote to that
 glamour.
 
-§ 4
+
 
 Always with Parload I was chief talker.
 
@@ -955,7 +895,7 @@ I got over it by a rhetorical turn. “Why should one sacrifice the
 future of the world—why should one even sacrifice one’s own
 future—because one’s mother is totally destitute of imagination?”
 
-§ 5
+
 
 It was late when I parted from Parload and came back to my own home.
 
@@ -1117,12 +1057,6 @@ picked it up.)
 
 
 
-
-CHAPTER THE SECOND
-NETTIE
-
-
-§ 1
 
 I cannot now remember (_the story resumed_), what interval separated
 that evening on which Parload first showed me the comet—I think I only
@@ -1385,7 +1319,6 @@ You can still see how we figured it in any museum by looking up the
 caricatures of capital and labor that adorned the German and American
 socialistic papers of the old time.
 
-§ 2
 
 I had cast Nettie off in an eloquent epistle, had really imagined the
 affair was over forever—“I’ve done with women,” I said to Parload—and
@@ -1497,7 +1430,7 @@ standing quite still, looking away towards the gray and lichenous
 shrubbery wall and, as I think now, listening. Her lips were a little
 apart, curved to that faint, sweet shadow of a smile.
 
-§ 3
+
 
 I recall with a vivid precision her queer start when she heard the
 rustle of my approaching feet, her surprise, her eyes almost of dismay
@@ -1531,7 +1464,7 @@ I was too intent to explain myself to think of what might lie in that.
 “I wanted to tell you,” I said, “that I didn’t mean quite . . . the
 things I put in my letter.”
 
-§ 4
+
 
 When I and Nettie had been sixteen we had been just of an age and
 contemporaries altogether. Now we were a year and three-quarters older,
@@ -1694,7 +1627,6 @@ But that afternoon, even in his eyes, I didn’t shine. Failing any other
 stimulus, he reverted to my search for a situation, but even that did
 not engage me.
 
-§ 5
 
 For a long time I feared I should have to go back to Clayton without
 another word to Nettie, she seemed insensible to the need I felt for a
@@ -1834,7 +1766,7 @@ But Nettie remained thoughtful and said very little. She was lost in
 perplexities I could not fathom, and presently she slipped away from us
 and went upstairs.
 
-§ 6
+
 
 I was, of course, too footsore to walk back to Clayton, but I had a
 shilling and a penny in my pocket for the train between Checkshill and
@@ -1976,7 +1908,7 @@ I felt like a bombshell of swearing that must presently burst with some
 violence as I went on my silent way. He had so completely got the best
 of our encounter.
 
-§ 7
+
 
 There comes a memory, an odd intermixture of two entirely divergent
 things, that stands out with the intensest vividness.
@@ -2055,8 +1987,6 @@ should express the monstrous indignation that possessed me.
 
 
 
-CHAPTER THE THIRD
-THE REVOLVER
 
 
 § 1
@@ -3636,7 +3566,7 @@ insignificant as it was disturbing.
 
 
 
-CHAPTER THE FOURTH WAR
+
 
 
 § 1
@@ -4444,10 +4374,6 @@ I reached Birmingham before darkness came, and just caught the last
 train for Monkshampton, where I had planned to pass the night.
 
 
-
-
-CHAPTER THE FIFTH
-THE PURSUIT OF THE TWO LOVERS
 
 
 § 1
@@ -5280,17 +5206,6 @@ things ceased to be.
 
 
 
-
-BOOK THE SECOND
-THE GREEN VAPORS
-
-
-
-
-CHAPTER THE FIRST
-THE CHANGE
-
-
 § 1
 
 I seemed to awaken out of a refreshing sleep.
@@ -6041,10 +5956,6 @@ painfully on my shoulder and he rose. . . .
 
 
 
-CHAPTER THE SECOND
-THE AWAKENING
-
-
 § 1
 
 So the great Day came to me.
@@ -6639,11 +6550,6 @@ But that expression was the world’s.
 
 
 
-
-CHAPTER THE THIRD
-THE CABINET COUNCIL
-
-
 § 1
 
 And what a strange unprecedented thing was that cabinet council at
@@ -7100,14 +7006,6 @@ must have foreseen—or else why was my heart so glad?
 
 
 
-BOOK THE THIRD
-THE NEW WORLD
-
-
-
-
-CHAPTER THE FIRST
-LOVE AFTER THE CHANGE
 
 
 § 1
@@ -7952,9 +7850,6 @@ that worshiping with me.
 
 
 
-CHAPTER THE SECOND
-MY MOTHER’S LAST DAYS
-
 
 § 1
 
@@ -8395,9 +8290,6 @@ stumbled and failed in pain and darkness before our air grew clear.
 
 
 
-
-CHAPTER THE THIRD
-BELTANE AND NEW YEAR’S EVE
 
 
 § 1
