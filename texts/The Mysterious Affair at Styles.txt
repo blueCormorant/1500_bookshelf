@@ -1,35 +1,4 @@
 
-
-
-
-The Mysterious Affair at Styles
-
-by Agatha Christie
-
-Contents
-
-
-CHAPTER I. I GO TO STYLES
-CHAPTER II. THE 16TH AND 17TH OF JULY
-CHAPTER III. THE NIGHT OF THE TRAGEDY
-CHAPTER IV. POIROT INVESTIGATES
-CHAPTER V. “IT ISN’T STRYCHNINE, IS IT?”
-CHAPTER VI. THE INQUEST
-CHAPTER VII. POIROT PAYS HIS DEBTS
-CHAPTER VIII. FRESH SUSPICIONS
-CHAPTER IX. DR. BAUERSTEIN
-CHAPTER X. THE ARREST
-CHAPTER XI. THE CASE FOR THE PROSECUTION
-CHAPTER XII. THE LAST LINK
-CHAPTER XIII. POIROT EXPLAINS
-
-
-
-
-CHAPTER I.
-I GO TO STYLES
-
-
 The intense interest aroused in the public by what was known at the
 time as “The Styles Case” has now somewhat subsided. Nevertheless, in
 view of the world-wide notoriety which attended it, I have been asked,
@@ -566,7 +535,6 @@ foreboding crept over me. I brushed it aside.
 He nodded rather gloomily.
 
 “Yes, it’s a fine property. It’ll be mine some day—should be mine now
-by rights, if my father had only made a decent will. And then I
 shouldn’t be so damned hard up as I am now.”
 
 “Hard up, are you?”
@@ -591,8 +559,6 @@ mind. Just for a moment I had a premonition of approaching evil.
 
 
 
-CHAPTER II.
-THE 16TH AND 17TH OF JULY
 
 
 I had arrived at Styles on the 5th of July. I come now to the events of
@@ -639,7 +605,6 @@ acting with her in the tableaux.
 
 The following morning, Mrs. Inglethorp stayed in bed to breakfast, as
 she was rather overtired; but she appeared in her briskest mood about
-12.30, and swept Lawrence and myself off to a luncheon party.
 
 “Such a charming invitation from Mrs. Rolleston. Lady Tadminster’s
 sister, you know. The Rollestons came over with the Conqueror—one of
@@ -962,8 +927,6 @@ need sit up. I will take the latch-key.”
 
 
 
-CHAPTER III.
-THE NIGHT OF THE TRAGEDY
 
 
 To make this part of my story clear, I append the following plan of the
@@ -971,7 +934,6 @@ first floor of Styles. The servants’ rooms are reached through the door
 B. They have no communication with the right wing, where the
 Inglethorps’ rooms were situated.
 
-[Illustration]
 
 It seemed to be the middle of the night when I was awakened by Lawrence
 Cavendish. He had a candle in his hand, and the agitation of his face
@@ -1265,8 +1227,6 @@ description of strychnine poisoning.
 
 
 
-CHAPTER IV.
-POIROT INVESTIGATES
 
 
 The house which the Belgians occupied in the village was quite close to
@@ -1486,7 +1446,6 @@ We went up together to the room of the tragedy. For convenience I
 append a plan of the room and the principal articles of furniture in
 it.
 
-[Illustration]
 
 Poirot locked the door on the inside, and proceeded to a minute
 inspection of the room. He darted from one object to the other with the
@@ -1657,7 +1616,6 @@ of half charred paper.
 
 I scrutinized the fragment. This is an exact reproduction of it:—
 
-[Illustration]
 
 I was puzzled. It was unusually thick, quite unlike ordinary notepaper.
 Suddenly an idea struck me.
@@ -2196,13 +2154,10 @@ me. It was rather a curious document. A plain, dirty looking old
 envelope with a few words scrawled across it, apparently at random. The
 following is a facsimile of it.
 
-[Illustration]
 
 
 
 
-CHAPTER V.
-“IT ISN’T STRYCHNINE, IS IT?”
 
 
 “Where did you find this?” I asked Poirot, in lively curiosity.
@@ -2499,7 +2454,6 @@ most tragic affair.”
 “Can you give us no help in solving it, monsieur?” interposed Poirot,
 speaking for the first time since we had entered the room.
 
-“I?”
 
 “Yes, we heard that Mrs. Inglethorp wrote to you last night. You should
 have received the letter this morning.”
@@ -2860,7 +2814,6 @@ Friday.’ You ought to be ashamed of yourself, John Cavendish.”
 
 “What do you want me to do?” asked John, unable to help a faint smile.
 “Dash it all, Evie, I can’t haul him down to the local police station
-by the scruff of his neck.”
 
 “Well, you might do something. Find out how he did it. He’s a crafty
 beggar. Dare say he soaked fly papers. Ask cook if she’s missed any.”
@@ -3464,8 +3417,6 @@ could save him!”
 
 
 
-CHAPTER VI.
-THE INQUEST
 
 
 In the interval before the inquest, Poirot was unfailing in his
@@ -3707,7 +3658,6 @@ know all that can be known of the subsequent happenings. But I should
 be obliged if you would tell us all you overheard of the quarrel the
 day before.”
 
-“I?”
 
 There was a faint insolence in her voice. She raised her hand and
 adjusted the ruffle of lace at her neck, turning her head a little as
@@ -3806,21 +3756,19 @@ the evening of the 17th. Poirot and I had, of course already seen it.
 It added nothing to our knowledge of the tragedy. The following is a
 facsimile:
 
-STYLES COURT
-ESSEX
 hand written note:
 
-     July 17th
-     My dear Evelyn
-     Can we not bury
-     the hachet? I have
-     found it hard to forgive
-     the things you said
-     against my dear husband
-     but I am an old woman
-     & very fond of you
-     Yours affectionately,
-    Emily Inglethorpe
+July 17th
+My dear Evelyn
+Can we not bury
+the hachet? I have
+found it hard to forgive
+the things you said
+against my dear husband
+but I am an old woman
+& very fond of you
+Yours affectionately,
+Emily Inglethorpe
 
 
 It was handed to the jury who scrutinized it attentively.
@@ -4077,8 +4025,6 @@ being given:
 
 
 
-CHAPTER VII.
-POIROT PAYS HIS DEBTS
 
 
 As we came out of the Stylites Arms, Poirot drew me aside by a gentle
@@ -4370,7 +4316,6 @@ I was relieved.
 “Oh, Lawrence! No, I don’t think so. He’s always a nervous chap.”
 
 “His suggestion that his mother might have been poisoned accidentally
-by means of the tonic she was taking, that did not strike you as
 strange— _hein?_”
 
 “No, I can’t say it did. The doctors ridiculed it of course. But it was
@@ -4497,9 +4442,7 @@ tangible reality. We had read of such things—now we ourselves were
 actors in the drama. To-morrow the daily papers, all over England,
 would blazon out the news in staring headlines:
 
-“MYSTERIOUS TRAGEDY IN ESSEX”
 
-    “WEALTHY LADY POISONED”
 
 
 There would be pictures of Styles, snap-shots of “The family leaving
@@ -4589,8 +4532,6 @@ village. There is absolutely no question as to the alibi!”
 
 
 
-CHAPTER VIII.
-FRESH SUSPICIONS
 
 
 There was a moment’s stupefied silence. Japp, who was the least
@@ -5322,8 +5263,6 @@ There are times when it is one’s duty to assert oneself.
 
 
 
-CHAPTER IX.
-DR. BAUERSTEIN
 
 
 I had had no opportunity as yet of passing on Poirot’s message to
@@ -5407,14 +5346,12 @@ The boom of the gong sounded from the house, and we went in together.
 Poirot had been asked by John to remain to lunch, and was already
 seated at the table.
 
-By tacit consent, all mention of the tragedy was barred. We conversed
 on the war, and other outside topics. But after the cheese and biscuits
 had been handed round, and Dorcas had left the room, Poirot suddenly
 leant forward to Mrs. Cavendish.
 
 “Pardon me, madame, for recalling unpleasant memories, but I have a
 little idea”—Poirot’s “little ideas” were becoming a perfect
-byword—“and would like to ask one or two questions.”
 
 “Of me? Certainly.”
 
@@ -5982,8 +5919,6 @@ I waited to hear no more, but tore up the village to find Poirot.
 
 
 
-CHAPTER X.
-THE ARREST
 
 
 To my extreme annoyance, Poirot was not in, and the old Belgian who
@@ -6718,8 +6653,6 @@ as I turned to catch her I met the quiet triumph in Poirot’s eyes.
 
 
 
-CHAPTER XI.
-THE CASE FOR THE PROSECUTION
 
 
 The trial of John Cavendish for the murder of his stepmother took place
@@ -7298,7 +7231,6 @@ Strychnine?”
 
 Lawrence stammered pitiably.
 
-“I—I——”
 
 With a satisfied and expressive countenance, Sir Ernest observed:
 
@@ -7556,8 +7488,6 @@ But night fell, and Poirot had not returned.
 
 
 
-CHAPTER XII.
-THE LAST LINK
 
 
 Poirot’s abrupt departure had intrigued us all greatly. Sunday morning
@@ -7890,13 +7820,13 @@ Dispensary of the Red Cross Hospital at Tadminster:
 “‘The following prescription has become famous in text books:
 
 
-          Strychninae Sulph. . . . . . 1 gr.
+Strychninae Sulph. . . . . . 1 gr.
 
-          Potass Bromide . . . . . . . 3vi
+Potass Bromide . . . . . . . 3vi
 
-          Aqua ad. . . . . . . . . . . . . 3viii
+Aqua ad. . . . . . . . . . . . . 3viii
 
-          Fiat Mistura
+Fiat Mistura
 
 
 _This solution deposits in a few hours the greater part of the
@@ -7940,12 +7870,12 @@ clearing his throat, read:
 
 Dearest Evelyn:
 
-    ‘You will be anxious at hearing nothing. It is all right—only it
-    will be to-night instead of last night. You understand. There’s a
-    good time coming once the old woman is dead and out of the way. No
-    one can possibly bring home the crime to me. That idea of yours
-    about the bromides was a stroke of genius! But we must be very
-    circumspect. A false step——’
+‘You will be anxious at hearing nothing. It is all right—only it
+will be to-night instead of last night. You understand. There’s a
+good time coming once the old woman is dead and out of the way. No
+one can possibly bring home the crime to me. That idea of yours
+about the bromides was a stroke of genius! But we must be very
+circumspect. A false step——’
 
 
 “Here, my friends, the letter breaks off. Doubtless the writer was
@@ -7965,8 +7895,6 @@ introduce you to the murderer, Mr. Alfred Inglethorp!”
 
 
 
-CHAPTER XIII.
-POIROT EXPLAINS
 
 
 “Poirot, you old villain,” I said, “I’ve half a mind to strangle you!
@@ -8394,7 +8322,6 @@ Mademoiselle Cynthia knew something about the matter. He was nearly
 driven desperate. First he crushed the coffee-cup to powder under his
 feet, remembering that _she_ had gone up with his mother the night
 before, and he determined that there should be no chance of testing its
-contents. Thenceforward, he strenuously, and quite uselessly, upheld
 the theory of ‘Death from natural causes’.”
 
 “And what about the ‘extra coffee-cup’?”
@@ -8512,7 +8439,6 @@ I sighed.
 yourself, my friend. We may hunt together again, who knows? And then——”
 
 
-THE END
 
 
 
