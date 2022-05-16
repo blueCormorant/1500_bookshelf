@@ -1,109 +1,5 @@
 
 
-
-cover 
-
-
-
-The Mysteries of Udolpho
-
-
-
- A Romance 
-
-
- Interspersed With Some Pieces of Poetry 
-
-
-
- By Ann Radcliffe 
-
-
-
-Contents
-
-
- VOLUME I
- CHAPTER I
- CHAPTER II
- CHAPTER III
- CHAPTER IV
- CHAPTER V
- CHAPTER VI
- CHAPTER VII
- CHAPTER VIII
- CHAPTER IX
- CHAPTER X
- CHAPTER XI
- CHAPTER XII
- CHAPTER XIII
-
- VOLUME II
- CHAPTER I
- CHAPTER II
- CHAPTER III
- CHAPTER IV
- CHAPTER V
- CHAPTER VI
- CHAPTER VII
- CHAPTER VIII
- CHAPTER IX
- CHAPTER X
- CHAPTER XI
- CHAPTER XII
-
- VOLUME III
- CHAPTER I
- CHAPTER II
- CHAPTER III
- CHAPTER IV
- CHAPTER V
- CHAPTER VI
- CHAPTER VII
- CHAPTER VIII
- CHAPTER IX
- CHAPTER X
- CHAPTER XI
- CHAPTER XII
- CHAPTER XIII
-
- VOLUME IV
- CHAPTER I
- CHAPTER II
- CHAPTER III
- CHAPTER IV
- CHAPTER V
- CHAPTER VI
- CHAPTER VII
- CHAPTER VIII
- CHAPTER IX
- CHAPTER X
- CHAPTER XI
- CHAPTER XII
- CHAPTER XIII
- CHAPTER XIV
- CHAPTER XV
- CHAPTER XVI
- CHAPTER XVII
- CHAPTER XVIII
- CHAPTER XIX
-
-
-
-Fate sits on these dark battlements, and frowns,
-And, as the portals open to receive me,
-Her voice, in sullen echoes through the courts,
-Tells of a nameless deed.
-
-
-
-
-VOLUME 1
-
-
-
-CHAPTER I
-
 home is the resort
 Of love, of joy, of peace and plenty, where,
 Supporting and supported, polish’d friends
@@ -919,8 +815,6 @@ to bestow any on his daughter.
 
 
 
- CHAPTER II
-
 I could a tale unfold, whose lightest word
 Would harrow up thy soul.
                     SHAKESPEARE
@@ -1234,8 +1128,6 @@ recollecting that she was intruding upon his private sorrows, softly
 withdrew from the chamber.
 
 
-
- CHAPTER III
 
 O how canst thou renounce the boundless store
 Of charms which nature to her vot’ry yields!
@@ -1608,8 +1500,6 @@ but the name of Valancourt, written in them, told him to whom they
 belonged.
 
 
-
- CHAPTER IV
 
 In truth he was a strange and wayward wight,
 Fond of each gentle, and each dreadful scene,
@@ -2186,7 +2076,7 @@ tranquil slumber.
 
 
 
- CHAPTER V
+
 
 While in the rosy vale
 Love breath’d his infant sighs, from anguish free.
@@ -2500,8 +2390,6 @@ frequent efforts to appear cheerful. After one of the most melancholy
 evenings they had yet passed together, they separated for the night.
 
 
-
- CHAPTER VI
 
 I care not, Fortune! what you me deny;
 You cannot rob me of free nature’s grace;
@@ -3277,8 +3165,6 @@ the window to repose.
 
 
 
- CHAPTER VII
-
 Let those deplore their doom,
 Whose hope still grovels in this dark sojourn.
 But lofty souls can look beyond the tomb,
@@ -3672,8 +3558,6 @@ what they could to comfort her. The old man sat and wept with her.
 Agnes was more erroneously officious.
 
 
-
- CHAPTER VIII
 
 O’er him, whose doom thy virtues grieve,
 Aerial forms shall sit at eve,
@@ -4357,8 +4241,6 @@ room.
 
 
 
- CHAPTER IX
-
 Can Music’s voice, can Beauty’s eye,
 Can Painting’s glowing hand supply
 A charm so suited to my mind,
@@ -4529,8 +4411,6 @@ obeyed him, and determined, that another day should not reproach her
 with the neglect.
 
 
-
- CHAPTER X
 
 Can such things be,
 And overcome us like a summer’s cloud,
@@ -5120,8 +5000,6 @@ refreshment of a short oblivion.
 
 
 
- CHAPTER XI
-
 I leave that flowery path for eye
 Of childhood, where I sported many a day,
 Warbling and sauntering carelessly along;
@@ -5292,8 +5170,6 @@ the sweet emulation of practising precepts, which her father had so
 frequently inculcated.
 
 
-
- CHAPTER XII
 
 Some pow’r impart the spear and shield,
 At which the wizard passions fly,
@@ -6221,8 +6097,6 @@ and benevolent sentiments animating each.
 
 
 
- CHAPTER XIII
-
 As when a shepherd of the Hebrid-Isles,
 Placed far amid the melancholy main,
 (Whether it be lone fancy him beguiles,
@@ -7101,12 +6975,6 @@ her wretchedness.
 
 
 
-VOLUME 2
-
-
-
- CHAPTER I
-
 Where’er I roam, whatever realms I see,
 My heart untravell’d still shall turn to thee.
                     GOLDSMITH
@@ -7504,7 +7372,7 @@ And friends belov’d, more joy than wealth can bring!
 
 
 
- CHAPTER II
+
 
 _Titania_.  If you will patiently dance in our round,
 And see our moonlight revels, go with us.
@@ -7991,7 +7859,7 @@ There, in cool seas, I love to lave.
 
 
 
- CHAPTER III
+
 
 He is a great observer, and he looks
 Quite through the deeds of men:  he loves no plays,
@@ -9403,7 +9271,7 @@ gardens, and retired to repose.
 
 
 
- CHAPTER IV
+
 
 And poor Misfortune feels the lash of Vice.
                     THOMSON
@@ -9762,7 +9630,7 @@ morning.
 
 
 
- CHAPTER V
+
 
 Dark power! with shudd’ring, meek submitted thought
 Be mine to read the visions old
@@ -10661,7 +10529,7 @@ clock struck one before she closed her eyes to sleep.
 
 
 
- CHAPTER VI
+
 
 I think it is the weakness of mine eyes,
 That shapes this monstrous apparition.
@@ -12096,7 +11964,7 @@ hearth, where some feeble embers remained.
 
 
 
- CHAPTER VII
+
 
 Of aery tongues, that syllable men’s names
 On sands and shores and desert wildernesses.
@@ -12993,7 +12861,7 @@ separating for the night, retired to their respective apartments.
 
 
 
- CHAPTER VIII
+
 
 He wears the rose of youth upon his cheek.
                     SHAKESPEARE
@@ -13156,7 +13024,7 @@ him.
 
 
 
- CHAPTER IX
+
 
 The image of a wicked, heinous fault
 Lives in his eye; that close aspect of his
@@ -13816,7 +13684,7 @@ still, she retired to sleep.
 
 
 
- CHAPTER X
+
 
 And shall no lay of death
 With pleasing murmur sooth
@@ -14489,7 +14357,7 @@ respite from suffering.
 
 
 
- CHAPTER XI
+
 
 Who rears the bloody hand?
                     SAYERS
@@ -14784,7 +14652,7 @@ probably hear them again.”
 
 
 
- CHAPTER XII
+
 
 Then, oh, you blessed ministers above,
 Keep me in patience; and, in ripen’d time,
@@ -15243,7 +15111,7 @@ VOLUME 3
 
 
 
- CHAPTER I
+
 
 I will advise you where to plant yourselves;
 Acquaint you with the perfect spy o’ the time,
@@ -15712,7 +15580,7 @@ alone by Emily, during the whole night.
 
 
 
- CHAPTER II
+
 
 unfold
 What worlds, or what vast regions, hold
@@ -15952,7 +15820,7 @@ address the figure, if it should appear again.
 
 
 
- CHAPTER III
+
 
 Such are those thick and gloomy shadows damp,
 Oft seen in charnel-vaults and sepulchres,
@@ -16601,7 +16469,7 @@ pervaded her mind.
 
 
 
- CHAPTER IV
+
 
 There is one within,
 Besides the things that we have heard and seen,
@@ -16799,7 +16667,7 @@ giveth comfort.
 
 
 
- CHAPTER V
+
 
 The midnight clock has toll’d; and hark, the bell
 Of death beats slow! heard ye the note profound?
@@ -17389,7 +17257,7 @@ conclude her present state of torturing suspense.
 
 
 
- CHAPTER VI
+
 
 might we but hear
 The folded flocks penn’d in their wattled cotes,
@@ -18477,7 +18345,7 @@ her new situation to banish sleep.
 
 
 
- CHAPTER VII
+
 
 Was nought around but images of rest,
 Sleep-soothing groves and quiet lawns between,
@@ -18893,7 +18761,7 @@ escape the detection of Montoni.
 
 
 
- CHAPTER VIII
+
 
 My tongue hath but a heavier tale to say.
 I play the torturer, by small and small,
@@ -19711,7 +19579,7 @@ retired to rest.
 
 
 
- CHAPTER IX
+
 
 Thus on the chill Lapponian’s dreary land,
 For many a long month lost in snow profound,
@@ -20693,7 +20561,7 @@ For lovers’ spirits guard the holy shade!
 
 
 
- CHAPTER X
+
 
 Oh! the joy
 Of young ideas painted on the mind
@@ -21173,7 +21041,7 @@ Tomorrow, to fresh woods and pastures new.
 
 
 
- CHAPTER XI
+
 
 What transport to retrace our early plays,
 Our easy bliss, when each thing joy supplied
@@ -21728,7 +21596,7 @@ well, and unchanged in his affections, she, at length, sunk to repose.
 
 
 
- CHAPTER XII
+
 
 Oft woo’d the gleam of Cynthia, silver-bright,
 In cloisters dim, far from the haunts of Folly,
@@ -22036,7 +21904,7 @@ to her letter.
 
 
 
- CHAPTER XIII
+
 
 As when a wave, that from a cloud impends,
 And, swell’d with tempests, on the ship descends,
@@ -22759,7 +22627,7 @@ VOLUME 4
 
 
 
- CHAPTER I
+
 
 Is all the council that we two have shared,
 the hours that we have spent,
@@ -23060,7 +22928,7 @@ irresolute, and a frame, trembling with illness.
 
 
 
- CHAPTER II
+
 
 Come, weep with me;—past hope, past cure, past help!
                     ROMEO AND JULIET
@@ -23163,7 +23031,7 @@ her own room.
 
 
 
- CHAPTER III
+
 
 This is no mortal business, nor no sound
 That the earth owes!
@@ -23557,7 +23425,7 @@ she had heard.
 
 
 
- CHAPTER IV
+
 
 Now it is the time of night,
 That, the graves all gaping wide,
@@ -23907,7 +23775,7 @@ remain in her room during the night.
 
 
 
- CHAPTER V
+
 
 Hail, mildly-pleasing Solitude!
 Companion of the wise and good!
@@ -24213,7 +24081,7 @@ heaven.
 
 
 
- CHAPTER VI
+
 
 Ye gods of quiet, and of sleep profound!
 Whose soft dominion o’er this castle sways,
@@ -24795,7 +24663,7 @@ Thus closed the hour.
 
 
 
- CHAPTER VII
+
 
 Enjoy the honey-heavy dew of slumber;
 Thou hast no figures, nor no fantasies,
@@ -25297,7 +25165,7 @@ the nuns to the chapel.
 
 
 
- CHAPTER VIII
+
 
 Be thou a spirit of health, or goblin damn’d,
 Bring with thee airs from heaven, or blasts from hell,
@@ -25442,7 +25310,7 @@ Tacitus, which he had brought to beguile the tediousness of the night.
 
 
 
- CHAPTER IX
+
 
 Give thy thoughts no tongue.
                     SHAKESPEARE
@@ -25801,7 +25669,7 @@ servant of the Count.
 
 
 
- CHAPTER X
+
 
 Lull’d in the countless chambers of the brain,
 Our thoughts are link’d by many a hidden chain:
@@ -26301,7 +26169,7 @@ without having observed a shadow of Valancourt or of any other person.
 
 
 
- CHAPTER XI
+
 
 Ah happy hills! ah pleasing shade!
 Ah fields belov’d in vain!
@@ -26527,7 +26395,7 @@ kindness to her old servant expressed for herself.
 
 
 
- CHAPTER XII
+
 
 Light thickens, and the crow
 Makes wing to the rooky wood:
@@ -27506,7 +27374,7 @@ in alarm, hastily to pursue their route.
 
 
 
- CHAPTER XIII
+
 
 Ah why did Fate his steps decoy
 In stormy paths to roam,
@@ -27974,7 +27842,7 @@ answer, and saw him no more.
 
 
 
- CHAPTER XIV
+
 
 Call up him, that left half told
 The story of Cambuscan bold.
@@ -28369,7 +28237,7 @@ as he talked much of living in Italy, did not appear very improbable.
 
 
 
- CHAPTER XV
+
 
 Sweet is the breath of vernal shower,
 The bees’ collected treasures sweet,
@@ -28523,7 +28391,7 @@ I ask the still, sweet tear, that listening Fancy weeps!
 
 
 
- CHAPTER XVI
+
 
 Unnatural deeds
 Do breed unnatural troubles:  infected minds
@@ -29107,7 +28975,7 @@ had betrayed.
 
 
 
- CHAPTER XVII
+
 
 But in these cases,
 We still have judgment here; that we but teach
@@ -29515,7 +29383,7 @@ been able to obliterate from her conscience.
 
 
 
- CHAPTER XVIII
+
 
 Then, fresh tears
 Stood on her cheek, as doth the honey-dew
@@ -29799,7 +29667,7 @@ _accident_ as this, since she had found Ludovico himself.
 
 
 
- CHAPTER XIX
+
 
 Now my task is smoothly done,
 I can fly, or I can run
