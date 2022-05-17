@@ -1,73 +1,6 @@
 
 
 
-
-
-THE ADVENTURES OF SIR LAUNCELOT GREAVES
-
-by Tobias Smollett
-
-
-With the Author’s Preface, and an Introduction by G. H. Maynadier, Ph.D.
-Department of English, Harvard University
-
-
-
-
-CONTENTS
-
-
-  INTRODUCTION
-
-  CHAPTER
-     I   In which certain Personages of this delightful History are
-           introduced to the Reader’s Acquaintance
-    II   In which the Hero of these Adventures makes his First
-           Appearance on the Stage of Action
-   III   Which the Reader, on perusal, may wish were Chapter the last
-    IV   In which it appears that the Knight, when heartily set in for
-           sleeping, was not easily disturbed
-     V   In which this Recapitulation draws to a close
-    VI   In which the Reader will perceive that in some Cases Madness
-           is catching
-   VII   In which the Knight resumes his Importance
-  VIII   Which is within a hair’s-breadth of proving highly
-           interesting will interest the Curiosity of the Reader
-    IX   Which may serve to show, that true Patriotism is of no Party
-     X   Which showeth that he who plays at Bowls, will sometimes meet
-           with Rubbers
-    XI   Description of a modern Magistrate
-   XII   Which shows there are more Ways to kill a Dog than Hanging
-  XIII   In which our Knight is tantalised with a transient Glimpse
-           of Felicity
-   XIV   Which shows that a Man cannot always sip, when the Cup is
-           at his Lip
-    XV   Exhibiting an Interview, which, it is to be hoped, will
-           interest the Curiosity of the Reader
-   XVI   Which, it is to be hoped, the Reader will find an agreeable
-           Medley of Mirth and Madness, Sense and Absurdity
-  XVII   Containing Adventures of Chivalry equally new and surprising
- XVIII   In which the Rays of Chivalry shine with renovated Lustre
-   XIX   Containing the Achievements of the Knights of the Griffin and
-           Crescent
-    XX   In which our Hero descends into the Mansions of the Damned
-   XXI   Containing further Anecdotes relating to the Children of
-           Wretchedness
-  XXII   In which Captain Crowe is sublimed into the Regions of
-           Astrology
- XXIII   In which the Clouds that cover the Catastrophe begin to
-           disperse
-  XXIV   The Knot that puzzles human Wisdom, the Hand of Fortune
-           sometimes will untie familiar as her Garter
-   XXV   Which, it is to be hoped, will be, on more accounts than one,
-           agreeable to the Reader
-
-
-
-
-INTRODUCTION
-
-
 It was on the great northern road from York to London, about the
 beginning of the month of October, and the hour of eight in the evening,
 that four travellers were, by a violent shower of rain, driven for
@@ -165,7 +98,7 @@ misgivings when he makes Ferret exclaim to the hero: “What! .  .  .  you
 set up for a modern Don Quixote?  The scheme is rather too stale and
 extravagant.  What was a .  .  .  well-timed satire in Spain near two
 hundred years ago, will .  .  .  appear .  .  .  insipid and absurd
- .  .  .  at this time of day, in a country like England.”  Whether from
+.  .  .  at this time of day, in a country like England.”  Whether from
 the author’s half-heartedness or from some other cause, there is no
 denying that the Quixotism in Sir Launcelot Greaves is flat.  It is a
 drawback to the book rather than an aid.  The plot could have developed
@@ -231,22 +164,17 @@ another claim to interest.  It is one of the earliest English novels,
 indeed the earliest from the pen of a great writer, published in serial
 form.
 
-G. H. MAYNADIER.
 
 
 
 
 
 
-THE ADVENTURES OF SIR LAUNCELOT GREAVES
 
 
 
 
-CHAPTER ONE
 
-IN WHICH CERTAIN PERSONAGES OF THIS DELIGHTFUL HISTORY ARE INTRODUCED TO
-THE READER’S ACQUAINTANCE.
 
 
 It was on the great northern road from York to London, about the
@@ -499,10 +427,7 @@ edification.
 
 
 
-CHAPTER TWO
 
-IN WHICH THE HERO OF THESE ADVENTURES MAKES HIS FIRST APPEARANCE ON THE
-STAGE OF ACTION.
 
 
 The outward door of the Black Lion had already sustained two dreadful
@@ -542,7 +467,6 @@ danger; the young lawyer is only seizing Dolly in tail.”
 
 Certain it is, Dolly squeaked at that instant in the cellar; and Clarke
 appearing soon after in some confusion, declared she had been frightened
-by a flash of lightning.  But this assertion was not confirmed by the
 young lady herself, who eyed him with a sullen regard, indicating
 displeasure, though not indifference; and when questioned by her mother,
 replied, “A doan’t maind what a-says, so a doan’t, vor all his goalden
@@ -605,7 +529,7 @@ had not cleared your stowage of the water you had taken in at your upper
 works, and lightened your veins, d’ye see, by taking away some of your
 blood, adad! you had driven before the gale, and never been brought up
 in this world again, d’ye see.”  “What, then you would persuade me,”
- replied the patient, “that the only way to save my life was to shed my
+replied the patient, “that the only way to save my life was to shed my
 precious blood?  Look ye, friend, it shall not be lost blood to me.--I
 take you all to witness, that there surgeon, or apothecary, or farrier,
 or dog-doctor, or whatsoever he may be, has robbed me of the balsam of
@@ -727,7 +651,7 @@ Answer boldly without fear or scruple.”
 To this interrogation the misanthrope replied, with a faltering accent,
 “If not a vagrant, you incur the penalty for riding armed in affray of
 the peace.”  “But, instead of riding armed in affray of the peace,”
- resumed the other, “I ride in preservation of the peace; and gentlemen
+resumed the other, “I ride in preservation of the peace; and gentlemen
 are allowed by the law to wear armour for their defence.  Some ride with
 blunderbusses, some with pistols, some with swords, according to their
 various inclinations.  Mine is to wear the armour of my forefathers.
@@ -739,7 +663,7 @@ put me in bodily fear for the sake of the jest, the law will punish you
 in earnest,” cried the other.  “But my intention,” answered the knight,
 “is carefully to avoid all those occasions of offence.”  “Then,” said
 Ferret, “you may go unarmed, like other sober people.”  “Not so,”
- answered the knight; “as I propose to travel all times, and in all
+answered the knight; “as I propose to travel all times, and in all
 places, mine armour may guard me against the attempts of treachery; it
 may defend me in combat against odds, should I be assaulted by a
 multitude, or have occasion to bring malefactors to justice.”
@@ -764,13 +688,13 @@ Ferret, emboldened by the passive tameness with which the stranger bore
 his last reflection, began to think he had nothing of Hector but his
 outside, and gave a loose to all the acrimony of his party rancour.
 Hearing the knight mention a company of licensed thieves, “What else,”
- cried he, “is the majority of the nation?  What is your standing army at
+cried he, “is the majority of the nation?  What is your standing army at
 home, that eat up their fellow-subjects?  What are your mercenaries
 abroad, whom you hire to fight their own quarrels?  What is your militia,
 that wise measure of a sagacious ministry, but a larger gang of petty
 thieves, who steal sheep and poultry through mere idleness; and were
 they confronted with an enemy, would steal themselves away?  What is your
- .  .  .  but a knot of thieves, who pillage the nation under colour of
+.  .  .  but a knot of thieves, who pillage the nation under colour of
 law, and enrich themselves with the wreck of their country?  When you
 consider the enormous debt of above an hundred millions, the intolerable
 load of taxes and impositions under which we groan, and the manner in
@@ -835,7 +759,6 @@ unutterable sorrow.  The company were, in some measure, infected by his
 despondence, concerning the cause of which, however, they would not
 venture to inquire.
 
-By this time the landlady, having disposed of the squire, desired to
 know, with many curtsies, if his honour would not choose to put off his
 wet garments, assuring him, that she had a very good feather bed at his
 service, upon which many gentlevolks of the virst quality had lain, that
@@ -855,7 +778,7 @@ such a man of war--”
 Here he was interrupted by his nephew, Tom Clarke, who had disappeared at
 the knight’s first entrance, and now produced himself with an eagerness
 in his look, while the tears stared in his eyes.--“Lord bless my soul!”
- cried he, “I know that gentleman, and his servant, as well as I know my
+cried he, “I know that gentleman, and his servant, as well as I know my
 own father!--I am his own godson, uncle; he stood for me when he was a
 boy--yes, indeed, sir, my father was steward to the estate--I may say I
 was bred up in the family of Sir Everhard Greaves, who has been dead
@@ -877,9 +800,7 @@ next chapter.
 
 
 
-CHAPTER THREE
 
-WHICH THE READER, ON PERUSAL, MAY WISH WERE CHAPTER THE LAST.
 
 
 The doctor prescribed a repetatur of the julep, and mixed the
@@ -909,7 +830,6 @@ person in this audience, being provoked by this preamble, dashed the pipe
 he had just filled in pieces against the grate; and after having
 pronounced the interjection pish! with an acrimony of aspect altogether
 peculiar to himself, “If,” said he, “impertinence and folly were felony
-by the statute, there would be no warrant of unexceptionable evidence to
 hang such an eternal babbler.”  “Anan, babbler!” cried Tom, reddening
 with passion, and starting up; “I’d have you to know, sir, that I can
 bite as well as babble; and that, if I am so minded, I can run upon the
@@ -1248,8 +1168,8 @@ perhaps I should barely do her justice.  I don’t pretend to be a limner,
 gemmen; nor does it become me to delineate such excellence; but surely I
 may presume to repeat from the play--
 
-     Oh! she is all that painting can express,
-     Or youthful poets fancy when they love?
+Oh! she is all that painting can express,
+Or youthful poets fancy when they love?
 
 “At that time she might be about seventeen, tall and fair, and so
 exquisitely shaped--you may talk of your Venus de Medicis, your Dianas,
@@ -1333,7 +1253,6 @@ grandsire the famous Arabian Mustapha.--Scipio was bred by my father, who
 would not have taken a hundred guineas for him, from any other person but
 the young squire--indeed, I have heard my poor father say”----
 
-By this time Ferret’s impatience was become so outrageous, that he
 exclaimed in a furious tone, “D--n your father, and his horse, and his
 colt into the bargain!”
 
@@ -1363,10 +1282,7 @@ next opportunity the incidents that succeeded this denunciation of war.
 
 
 
-CHAPTER FOUR
 
-IN WHICH IT APPEARS THAT THE KNIGHT, WHEN HEARTILY SET IN FOR SLEEPING,
-WAS NOT EASILY DISTURBED.
 
 
 In all probability the kitchen of the Black Lion, from a domestic temple
@@ -1392,7 +1308,7 @@ the neck of that thrice-honoured sage’s head, in velvet bonnet cased, who
 presides by rotation at the genial board, distinguished by the title of
 the Beef-steak Club where the delicate rumps irresistibly attract the
 stranger’s eye, and, while they seem to cry, “Come cut me--come cut me,”
- constrain, by wondrous sympathy, each mouth to overflow.  Where the
+constrain, by wondrous sympathy, each mouth to overflow.  Where the
 obliging and humorous Jemmy B----t, the gentle Billy H----d, replete with
 human kindness, and the generous Johnny B----d, respected and beloved by
 all the world, attend as the priests and ministers of mirth, good cheer,
@@ -1819,9 +1735,7 @@ time to breathe and digest what he has already heard.
 
 
 
-CHAPTER FIVE
 
-IN WHICH THIS RECAPITULATION DRAWS TO A CLOSE.
 
 
 When the landlady entered the room from whence the groaning proceeded,
@@ -1872,7 +1786,6 @@ great many others of the same nature, and particularly the laudable
 vengeance he took of a country lawyer.  I’m sorry that any such miscreant
 should belong to the profession.  He was clerk of the assize, gemmen, in
 a certain town, not a great way distant; and having a blank pardon left
-by the judges for some criminals whose cases were attended with
 favourable circumstances, he would not insert the name of one who could
 not procure a guinea for the fee; and the poor fellow, who had only stole
 an hour-glass out of a shoemaker’s window, was actually executed, after a
@@ -2190,9 +2103,7 @@ exceed fourscore or ninety miles.”
 
 
 
-CHAPTER SIX
 
-IN WHICH THE READER WILL PERCEIVE THAT IN SOME CASES MADNESS IS CATCHING.
 
 
 Mr. Clarke having made an end of his narrative, the surgeon thanked him
@@ -2209,7 +2120,6 @@ a sea-laugh, and this was followed by an eager exclamation of “Rare
 pastime, strike my yards and topmasts!--I’ve a good mind--why shouldn’t--
 many a losing voyage I’ve--smite my taffrel but I wool”--
 
-By this time he had relaxed so much in his fumigation, that the tip of
 his nose and one eye reappeared; and as he had drawn his wig forwards, so
 as to cover his whole forehead, the figure that now saluted their eyes
 was much more ferocious and terrible than the fire-breathing chimera of
@@ -2227,7 +2137,7 @@ see.”
 
 “Now, the Lord forbid!” cried Clarke, with tears in his eyes, “I’d rather
 see you dead than brought to such a dilemma.”  “Mayhap thou wouldst,”
- answered the uncle; “for then, my lad, there would be some picking--aha!
+answered the uncle; “for then, my lad, there would be some picking--aha!
 dost thou tip me the traveller, my boy?”  Tom assured him he scorned any
 such mercenary views.  “I am only concerned,” said he, “that you should
 take any step that might tend to the disgrace of yourself or your family;
@@ -2260,7 +2170,6 @@ other was very gravely turned to the captain, whom he addressed to this
 effect.  “It is not far from hence to Sheffield, where you might be
 fitted completely in half a day--then you must wake your armour in church
 or chapel, and be dubbed.  As for this last ceremony, it may be performed
-by any person whatsoever.  Don Quixote was dubbed by his landlord; and
 there are many instances on record, of errants obliging and compelling
 the next person they met to cross their shoulders, and dub them knights.
 I myself would undertake to be your godfather; and I have interest enough
@@ -2356,7 +2265,7 @@ sorrowful ditty.”--“By no means,” cried the doctor; “such pastimes are
 neither suitable to the place, nor the occasion, which is altogether a
 religious exercise.  If you have got any psalms by heart, you may sing a
 stave or two, or repeat the Doxology.”--“Would I had Tom Laverick here,”
- replied our novitiate; “he would sing your anthems like a sea-mew--a had
+replied our novitiate; “he would sing your anthems like a sea-mew--a had
 been a clerk a-shore--many’s the time and often I’ve given him a rope’s
 end for singing psalms in the larboard watch.  Would I had hired the son
 of a b---h to have taught me a cast of his office--but it cannot be holp,
@@ -2368,9 +2277,7 @@ essential part of their project.
 
 
 
-CHAPTER SEVEN
 
-IN WHICH THE KNIGHT RESUMES HIS IMPORTANCE.
 
 
 Doctor Fillet having borrowed a couple of sheets from the landlady,
@@ -2546,7 +2453,6 @@ his roar.  Ferret sat in his corner, maintaining the most mortifying
 silence, and enjoying the impatience of the knight, who in vain requested
 an explanation of this mystery.  At length his eyes began to lighten,
 when, seizing Crabshaw in one hand, and the ostler in the other, he swore
-by Heaven he would dash their souls out, and raze the house to the
 foundation, if they did not instantly disclose the particulars of this
 transaction.  The good woman fell on her knees, protesting, in the name
 of the Lord, that she was innocent as the child unborn, thof she had lent
@@ -2597,7 +2503,6 @@ promised to use his influence in persuading him to desist from the
 preposterous design he had formed.
 
 The lawyer, thus assured, repaired immediately to the church, accompanied
-by the squire, and held a parley with his uncle, who, when he understood
 that the knight in person desired a conference, surrendered up the arms
 quietly, and returned to the public-house.
 
@@ -2621,7 +2526,7 @@ comfort, my lad.”
 
 When he had thus disburdened his conscience, Sir Launcelot introduced
 the subject of the new occupation at which he aspired.  “I understand,”
- said he, “that you are desirous of treading the paths of errantry,
+said he, “that you are desirous of treading the paths of errantry,
 which, I assure you, are thorny and troublesome.  Nevertheless, as
 your purpose is to exercise your humanity and benevolence, so your
 ambition is commendable.  But towards the practice of chivalry, there is
@@ -2679,9 +2584,7 @@ grumbling, on the back of Gilbert.
 
 
 
-CHAPTER EIGHT
 
-WHICH IS WITHIN A HAIR’S-BREADTH OF PROVING HIGHLY INTERESTING.
 
 
 Leaving Captain Crowe and his nephew for the present, though they, and
@@ -2717,7 +2620,7 @@ distemper be?”
 “Madness,” answered Sir Launcelot.  “Bodikins,” exclaimed the squire, “I
 doubt as how other volks are leame of the same leg--but it an’t vor such
 small gentry as he to be mad; they mun leave that to their betters.”
- “You seem to hint at me, Crabshaw.  Do you really think I am mad?”  “I
+“You seem to hint at me, Crabshaw.  Do you really think I am mad?”  “I
 may say as how I have looked your honour in the mouth; and a sorry dog
 should I be, if I did not know your humours as well as I know e’er a
 beast in the steable at Greavesbury Hall.”  “Since you are so well
@@ -2803,7 +2706,6 @@ be rarely buttered o’ both sides, i’faith.  But, I hope, as by the
 blessing of God I have run mad, so I shall in good time grow valiant,
 under your honour’s precept and example.”
 
-By this time a very disagreeable night was succeeded by a fair bright
 morning, and a market-town appeared at the distance of three or four
 miles, when Crabshaw, having no longer the fear of hobgoblins before his
 eyes, and being moreover cheered by the sight of a place where he hoped
@@ -2849,7 +2751,7 @@ at once attracted the whole attention of the populace.  Timothy seeing
 his master fell down on his knees, crying, “The thief has run away with
 Gilbert--you may pound me into a peast, as the saying is.  But now I’se
 as mad as your worship, I an’t afeard of the divil and all his works.”
- Sir Launcelot desiring the beadle would forbear, was instantly obeyed by
+Sir Launcelot desiring the beadle would forbear, was instantly obeyed by
 that officer, who had no inclination to put the authority of his place in
 competition with the power of such a figure, armed at all points, mounted
 on a fiery steed, and ready for the combat.  He ordered Crabshaw to
@@ -2898,7 +2800,7 @@ that thou hast played me an hundred dog’s tricks; biting, and kicking,
 and plunging, as if the devil was in thy body; and now thou couldst run
 away with a thief, and leave me to be flayed alive by measter.  What
 canst thou say for thyself, thou cruel, hard-hearted, unchristian tuoad?”
- To this tender expostulation, which afforded much entertainment to the
+To this tender expostulation, which afforded much entertainment to the
 boys, Gilbert answered not one word; but seemed altogether insensible to
 the caresses of Timothy, who forthwith led him into the stable.  On the
 whole, he seems to have been an unsocial animal; for it does not appear
@@ -2955,9 +2857,7 @@ Crabshaw felt an ambition to follow his master’s example.
 
 
 
-CHAPTER NINE
 
-WHICH MAY SERVE TO SHOW, THAT TRUE PATRIOTISM IS OF NO PARTY.
 
 
 The knight had not enjoyed his repose above two hours, when he was
@@ -2970,7 +2870,6 @@ clamour, confusion, and uproar.
 
 Sir Launcelot being thus alarmed, started from his bed, and running to
 the window, beheld a cavalcade of persons well mounted, and distinguished
-by blue cockades.  They were generally attired like jockies, with
 gold-laced hats and buckskin breeches, and one of them bore a standard of
 blue silk, inscribed in white letters, LIBERTY AND THE LANDED INTEREST.
 He who rode at their head was a jolly figure, of a florid complexion and
@@ -3007,7 +2906,7 @@ names and characters of the competitors.
 In order to gratify this desire, he made repeated application to the
 bell-rope that depended from the ceiling of his apartment; but this
 produced nothing, except the repetition of the words, “Coming, sir,”
- which echoed from three or four different corners of the house.  The
+which echoed from three or four different corners of the house.  The
 waiters were so distracted by a variety of calls, that they stood
 motionless, in the state of the schoolman’s ass between two bundles of
 hay, incapable of determining where they should first offer their
@@ -3035,7 +2934,6 @@ from his shoulders.  So may I thrive in the occupation of an arrant
 squire.”
 
 Before his master had time to inquire into particulars, they were joined
-by a decent man in boots, who was likewise a traveller, and had seen the
 rise and progress of Timothy’s disaster.  He gave the knight to
 understand, that Crabshaw had sent for a barber, and already undergone
 one half of the operation, when the operator received the long-expected
@@ -3177,7 +3075,6 @@ a country justice of peace, a man who has scarce ever travelled beyond
 the excursion of a fox-chase, whose conversation never rambles farther
 than his stable, his kennel, and the barnyard; who rejects decorum as
 degeneracy, mistakes rusticity for independence, ascertains his courage
-by leaping over gates and ditches, and founds his triumph on feats of
 drinking; who holds his estate by a factious tenure, professes himself
 the blind slave of a party, without knowing the principles that gave it
 birth, or the motives by which it is actuated, and thinks that all
@@ -3264,10 +3161,7 @@ master, he looked like a pillar, or rather a pillory of mud.
 
 
 
-CHAPTER TEN
 
-WHICH SHOWETH THAT HE WHO PLAYS AT BOWLS, WILL SOMETIMES MEET WITH
-RUBBERS.
 
 
 Sir Launcelot, boiling with indignation at the venality and faction of
@@ -3286,7 +3180,6 @@ heard the orator express himself to this effect:--
 “Very likely you may undervalue me and my medicine, because I don’t
 appear upon a stage of rotten boards, in a shabby velvet coat, and
 tie-periwig, with a foolish fellow in a motley coat, to make you laugh,
-by making wry faces; but I scorn to use these dirty arts for engaging
 your attention.  These paltry tricks, ad captandum vulgus, can have no
 effect but on idiots; and if you are idiots, I don’t desire you should
 be my customers.  Take notice, I don’t address you in the style of a
@@ -3390,7 +3283,6 @@ produced such an effect upon his hearers, that his whole cargo was
 immediately exhausted.  He had just stepped down from his stool, when the
 constable with his staff arrived, and took him under his guidance.  Mr.
 Ferret, on this occasion, attempted to interest the people in his behalf,
-by exhorting them to vindicate the liberty of the subject against such an
 act of oppression; but finding them deaf to the tropes and figures of his
 elocution, he addressed himself to our knight, reminding him of his duty
 to protect the helpless and the injured, and earnestly soliciting his
@@ -3497,7 +3389,7 @@ Launcelot, in a terrific tone, laying his hand on his sword.  “What young
 lady, ha?  What name did she call upon?”--Clarke, falling on his knees,
 answered, not without stammering, “Miss Aurelia Darnel; to the best of my
 recollection, she called upon Sir Launcelot Greaves.”--“Sacred powers!”
- cried our adventurer, “which way did the carriage proceed?”
+cried our adventurer, “which way did the carriage proceed?”
 
 When Tom told him that the coach quitted the post-road, and struck away to
 the right at full speed, Sir Launcelot was seized with a pensive fit; his
@@ -3515,7 +3407,6 @@ little satisfaction, there being reason to think the servants were
 enjoined secrecy.
 
 The knight, in order to meditate on this unexpected adventure, sat down
-by his old friend, and entered into a reverie, which lasted about a
 quarter of an hour, and might have continued longer had it not been
 interrupted by the voice of Crabshaw, who bawled aloud, “Look to it, my
 masters--as you brew you must drink--this shall be a dear day’s work to
@@ -3566,9 +3457,7 @@ squire’s disgrace.
 
 
 
-CHAPTER ELEVEN
 
-DESCRIPTION OF A MODERN MAGISTRATE.
 
 
 Before the knight would take any resolution for extricating himself from
@@ -3885,7 +3774,7 @@ tribunal.”
 The justice seemed to be not a little disturbed at this peremptory
 declaration; which, however, had no other effect upon his wife, but that
 of enraging her choler, and inflaming her countenance.  “Sirrah! sirrah!”
- cried she, “do you dares to insult a worshipful magistrate on the bench?
+cried she, “do you dares to insult a worshipful magistrate on the bench?
 --Can you deny that you are a vagram, and a dilatory sort of a person?
 Han’t the man with the satchel made an affidavy of it?--If I was my
 husband, I’d lay you fast by the heels for your resumption, and ferk you
@@ -3899,11 +3788,11 @@ such advantages.  Howsomever, I shall make you give an account of
 yourself and your companions; for I believes as how you are in a gang,
 and all in a story, and perhaps you may be found one day in a cord.--What
 are you, friend?  What is your station and degree?”--“I am a gentleman,”
- replied the knight.--“Ay, that is English for a sorry fellow,” said the
+replied the knight.--“Ay, that is English for a sorry fellow,” said the
 justice.  “Every idle vagabond, who has neither home nor habitation,
 trade nor profession, designs himself a gentleman.  But I must know how
 you live?”--“Upon my means.”--“What are your means?”--“My estate.”
- “Whence does it arise?”--“From inheritance.”--“Your estate lies in brass,
+“Whence does it arise?”--“From inheritance.”--“Your estate lies in brass,
 and that you have inherited from nature; but do you inherit lands and
 tenements?”--“Yes.”--“But they are neither here nor there, I doubt.
 Come, come, friend, I shall bring you about presently.”  Here the
@@ -3914,9 +3803,7 @@ his curiosity.
 
 
 
-CHAPTER TWELVE
 
-WHICH SHOWS THERE ARE MORE WAYS TO KILL A DOG THAN HANGING.
 
 
 Mr. Fillet no sooner appeared in the judgment-chamber of Justice Gobble,
@@ -3970,7 +3857,7 @@ at the vices of the rich.  Your husband is little obliged to you for this
 confession, woman.”--“Woman!” cried Mrs. Gobble, impurpled with wrath,
 and fixing her hands on her sides by way of defiance, “I scorn your
 words.--Marry come up! woman, quotha! no more a woman than your worship.”
- Then bursting into tears, “Husband,” continued she, “if you had the soul
+Then bursting into tears, “Husband,” continued she, “if you had the soul
 of a louse, you would not suffer me to be abused at this rate; you would
 not sit still on the bench, and hear your spouse called such contemptible
 epitaphs.--Who cares for his title and his knightship?  You and I,
@@ -3989,15 +3876,15 @@ justice had not complied with the form of proceeding directed by statute,
 the imprisonment was coram non judice, void.  “Right, sir,” said the
 other lawyer; “if a justice commits a felon for trial without binding
 over the prosecutor to the assizes, he shall be fined.”--“And again,”
- cried Clarke, “if a justice issues a warrant for commitment, where there
+cried Clarke, “if a justice issues a warrant for commitment, where there
 is no accusation, action will lie against the justice.”  “Moreover,”
- replied the stranger, “if a justice of peace is guilty of any
+replied the stranger, “if a justice of peace is guilty of any
 misdemeanour in his office, information lies against him in Banco Regis,
 where he shall be punished by fine and imprisonment”  “And, besides,”
- resumed the accurate Tom, “the same court will grant an information
+resumed the accurate Tom, “the same court will grant an information
 against a justice of peace, on motion, for sending even a servant to the
 house of correction or common jail without sufficient cause.”--“True!”
- exclaimed the other limb of the law, “and, for contempt of the law,
+exclaimed the other limb of the law, “and, for contempt of the law,
 attachment may be had against justices of peace in Banco Regis.  A
 justice of the peace was fined a thousand marks for corrupt practices.”
 
@@ -4122,14 +4009,14 @@ duty brought tears into the eyes of our adventurer, who assured him his
 mother should be carefully attended, and want for nothing; but that it
 would be very improper to see her at present, as the surprise might shock
 her too much, considering that she believed him dead.  “Ey, indeed,”
- cried the landlady, “we were all of the same opinion, being as the report
+cried the landlady, “we were all of the same opinion, being as the report
 went, that poor Greaves Oakley was killed in battle.”  “Lord, mistress,”
- said Oakley, “there wan’t a word of truth in it, I’ll assure you.--What,
+said Oakley, “there wan’t a word of truth in it, I’ll assure you.--What,
 d’ye think I’d tell a lie about the matter?  Hurt I was, to be sure, but
 that don’t signify; we gave ‘em as good as they brought, and so parted.--
 Well, if so be I can’t see mother, I’ll go and have some chat with Suky.
 --What d’ye look so glum for? she an’t married, is she?”  “No, no,”
- replied the woman, “not married, but almost heart-broken.  Since thou
+replied the woman, “not married, but almost heart-broken.  Since thou
 wast gone she has done nothing but sighed, and wept, and pined herself
 into a decay.  I’m afraid thou hast come too late to save her life.”
 
@@ -4229,7 +4116,6 @@ she was blest with a sight of poor Greaves, and fainted away in his arms.
 We shall not dwell upon this tender scene, because it is but of a
 secondary concern in the history of our knight-errant.  Let it suffice to
 say, their mutual happiness was unspeakable.  She was afterwards visited
-by Sir Launcelot, whom she no sooner beheld, than springing forwards with
 all the eagerness of maternal affection, she clasped him to her breast,
 crying, “My dear child! my Launcelot! my pride! my darling! my kind
 benefactor!  This is not the first time I have hugged you in these arms!
@@ -4258,9 +4144,7 @@ in the character of housekeeper at Greavesbury Hall.
 
 
 
-CHAPTER THIRTEEN
 
-IN WHICH OUR KNIGHT IS TANTALISED WITH A TRANSIENT GLIMPSE OF FELICITY.
 
 
 The success of our adventurer, which we have particularised in the last
@@ -4434,7 +4318,7 @@ threatened them with the vengeance of his master, they cursed and abused
 him, calling him Sancho Panza, and such dog’s names; and bade him tell
 his master, Don Quicksot, that, if he made any noise, they would confine
 him to his cage, and lie with his mistress, Dulcinea.  “To be sure, sir,”
- said he, “they thought you as great a nincompoop as your squire-trimtram,
+said he, “they thought you as great a nincompoop as your squire-trimtram,
 like master, like man; but I hope as how you will give them a Rowland for
 their Oliver.”
 
@@ -4538,7 +4422,7 @@ resides with cowardice.  My contempt is changed into compassion, and as
 you are probably of good families, I must insist upon this young man’s
 drawing his sword, and acquitting himself in such a manner as may screen
 him from the most infamous censure which an officer can undergo.”
- “Lack-a-day, sir,” said the other, “we are no officers, but prentices
+“Lack-a-day, sir,” said the other, “we are no officers, but prentices
 to two London haberdashers, travellers for orders; Captain is a good
 travelling name, and we have dressed ourselves like officers to procure
 more respect upon the road.”
@@ -4602,9 +4486,7 @@ of his dear Aurelia, and sighing bitterly, withdrew to his own apartment.
 
 
 
-CHAPTER FOURTEEN
 
-WHICH SHOWS THAT A MAN CANNOT ALWAYS SIP, WHEN THE CUP IS AT HIS LIP.
 
 
 Those who have felt the doubts, the jealousies, the resentments, the
@@ -4910,10 +4792,7 @@ fatigue of this chapter.
 
 
 
-CHAPTER FIFTEEN
 
-EXHIBITING AN INTERVIEW, WHICH, IT IS TO BE HOPED, WILL INTEREST THE
-CURIOSITY OF THE READER.
 
 
 The mind of the delicate Aurelia was strangely agitated by the
@@ -4942,8 +4821,8 @@ amiable pair in personal beauty and accomplishments.  Aurelia shone with
 all the fabled graces of nymph or goddess; and to Sir Launcelot might be
 applied what the divine poet Ariosto says of the Prince Zerbino:
 
-     Natura il fece e poi ruppe la stampa
-     When Nature stamp’d him, she the die destroy’d.
+Natura il fece e poi ruppe la stampa
+When Nature stamp’d him, she the die destroy’d.
 
 Our adventurer having made his obeisance to this supposed Miss Meadows,
 told her, with an air of pleasantry, that although he thought himself
@@ -5010,7 +4889,7 @@ ring which he had presented in her mother’s presence, as an interchanged
 testimony of plighted faith.  Starting at the well-known object, the
 sight of which conjured up a strange confusion of ideas, “This,” said he,
 “was once the pledge of something still more cordial than esteem.”
- Aurelia, blushing at this remark, while her eyes lightened with unusual
+Aurelia, blushing at this remark, while her eyes lightened with unusual
 vivacity, replied, in a severer tone, “Sir, you best know how it lost its
 original signification.”--“By Heaven! I do not, madam!” exclaimed our
 adventurer.  “With me it was ever held a sacred idea throned within my
@@ -5026,7 +4905,6 @@ of the purest passion that ever warmed the human breast, until I was
 denied access, and formally discarded by that cruel dismission?”--“I must
 beg your pardon, sir,” cried Aurelia, interrupting him hastily, “I know
 not what you mean.”--“That fatal sentence,” said he, “if not pronounced
-by your own lips, at least written by your own fair hand, which drove me
 out an exile for ever from the paradise of your affection.”--“I would
 not,” she replied, “do Sir Launcelot Greaves the injury to suppose him
 capable of imposition; but you talk of things to which I am an utter
@@ -5150,7 +5028,6 @@ In the midst of this emotion, he bethought himself of hallooing aloud,
 that, in case he should be in the neighbourhood of any inhabited place,
 he might be heard and assisted.  He accordingly practised this expedient,
 which was not altogether without effect; for he was immediately answered
-by an old friend, no other than his own steed Bronzomarte, who, hearing
 his master’s voice, neighed strenuously at a small distance.  The knight,
 being well acquainted with the sound, heard it with astonishment, and,
 advancing in the right direction, found his noble charger fastened to a
@@ -5245,10 +5122,7 @@ his heart with such precipitation.
 
 
 
-CHAPTER SIXTEEN
 
-WHICH, IT IS TO BE HOPED, THE READER WILL FIND AN AGREEABLE MEDLEY OF
-MIRTH AND MADNESS, SENSE AND ABSURDITY.
 
 
 It was not without reason that our adventurer afflicted himself; his
@@ -5416,7 +5290,7 @@ dressed remarkably plain; seemed to be turned of fifty; had a careless
 air, and a sarcastical turn in his countenance.  Before he entered the
 sick man’s chamber, he asked some questions concerning the disease; and
 when the apothecary, pointing to his own head, said, “It lies all here,”
- the doctor, turning to Sir Launcelot, replied, “If that be all there’s
+the doctor, turning to Sir Launcelot, replied, “If that be all there’s
 nothing in it.”
 
 Upon a more particular inquiry about the symptoms, he was told that the
@@ -5456,7 +5330,7 @@ of the nurse, and throw the one into the next river, and the other over
 the next tree, and in so doing you will do a charitable deed to your
 fellow-creatures; for he and she do the devil’s work in partnership, and
 have sent many a score of their betters home to him before their time.”
- --“Oh, he begins to talk sensibly.”--“Have a good heart,” said the
+--“Oh, he begins to talk sensibly.”--“Have a good heart,” said the
 physician.  “What is your disorder?”--“Physic.”--“What do you chiefly
 complain of?”--“The doctor.”--“Does your head ache?”--“Yea, with
 impertinence.”  “Have you a pain in your back?”--“Yes, where the blister
@@ -5464,7 +5338,7 @@ lies.”--“Are you sick at stomach?”--“Yes, with hunger.”--“Do you fee
 shiverings?”--“Always at sight of the apothecary.”--“Do you perceive any
 load in your bowels?”--“I would the apothecary’s conscience was as
 clear.”--“Are you thirsty?”--“Not thirsty enough to drink barley-water.”
- --“Be pleased to look into his fauces,” said the apothecary; “he has got
+--“Be pleased to look into his fauces,” said the apothecary; “he has got
 a rough tongue, and a very foul mouth, I’ll assure you.”--“I have known
 that the case with some limbs of the faculty, where they stood more in
 need of correction than of physic.--Well, my honest friend, since you
@@ -5531,9 +5405,7 @@ henceforth we may cruise in the same latitudes, brother; and I’ll be
 d--ned if I don’t stand by you as long as I have a stick standing, or can
 carry a rag of canvas.”
 
-By this address our knight recognised the novice Captain Crowe, who had
 found means to accommodate himself with a very strange suit of armour.
-By way of helmet, he wore one of the caps used by the light horse, with
 straps buckled under his chin, and contrived in such a manner as to
 conceal his whole visage, except the eyes.  Instead of cuirass, mail,
 greaves, and other pieces of complete armour, he was cased in a
@@ -5554,9 +5426,7 @@ name.
 
 
 
-CHAPTER SEVENTEEN
 
-CONTAINING ADVENTURES OF CHIVALRY EQUALLY NEW AND SURPRISING.
 
 
 The knight Sir Launcelot, and the novice Crowe, retreated with equal
@@ -5726,7 +5596,6 @@ Prickle, except by the form and authority of the law.  He therefore
 proposed to hear evidence in a judicial capacity, and his clerk being in
 attendance, the court was immediately opened in the knight’s apartment.
 
-By this time Mr. Clarke had made such good use of his time in explaining
 the law to his audience, and displaying the great wealth and unbounded
 liberality of Sir Launcelot Greaves, that he had actually brought over to
 his sentiments the constable and the commonalty, tag-rag, and bob-tail,
@@ -5927,15 +5796,12 @@ until the next chapter makes its appearance.
 
 
 
-CHAPTER EIGHTEEN
 
-IN WHICH THE RAYS OF CHIVALRY SHINE WITH RENOVATED LUSTRE.
 
 
 
 Our hero little dreamed that he had a formidable rival in the person of
 the knight, who arrived about eleven, at the sign of the St. George, and,
-by the noise he made, gave intimation of his importance.  This was no
 other than Squire Sycamore, who, having received advice that Miss Aurelia
 Darnel had eloped from the place of her retreat, immediately took the
 field in quest of that lovely fugitive; hoping that, should he have the
@@ -5995,10 +5861,10 @@ whatever faults or foibles you might have, Sycamore, that you was not
 deficient in generosity,--though to be sure it is often very absurdly
 displayed.”--“Ay, that’s one of my greatest foibles; I can’t refuse even
 a scoundrel, when I think he is in want.--Here, Dawdle, take that note.”
- --“Not I, sir,--what d’ye mean?--what right have I to your notes?”
- --“Nay, but Dawdle,--come.”--“By no means; it looks like the abuse of
+--“Not I, sir,--what d’ye mean?--what right have I to your notes?”
+--“Nay, but Dawdle,--come.”--“By no means; it looks like the abuse of
 good-nature;--all the world knows you’re good-natured to a fault.”
- --“Come, dear Davy, you shall--you must oblige me.”--Thus urged, Dawdle
+--“Come, dear Davy, you shall--you must oblige me.”--Thus urged, Dawdle
 accepted the bank-note with great reluctance, and restored the idea to
 the right owner.
 
@@ -6106,8 +5972,8 @@ d’ye see.”  Dawdle hearing this request, began to retrieve his faculties,
 and throwing himself into the attitude of Hamlet when the ghost appears,
 exclaimed in theatrical accent,
 
-     Angels and ministers of grace defend us!
-     Art thou a spirit of grace, or goblin damn’d?
+Angels and ministers of grace defend us!
+Art thou a spirit of grace, or goblin damn’d?
 
 As he seemed to bend his eye on vacancy, the captain began to think that
 he really saw something preternatural, and stared wildly round.  Then
@@ -6118,11 +5984,11 @@ having by this time recollected himself perfectly, continued
 notwithstanding to spout tragedy, and, in the words of Macbeth,
 pronounced,
 
-     What man dare, I dare:
-     Approach thou like the rugged Russian bear,
-     The arm’d rhinoceros, or Hyrcanian tiger;
-     Take any shape but that, and my firm nerves
-     Shall never tremble.
+What man dare, I dare:
+Approach thou like the rugged Russian bear,
+The arm’d rhinoceros, or Hyrcanian tiger;
+Take any shape but that, and my firm nerves
+Shall never tremble.
 
 “‘Ware names, Jack,” cried the impatient mariner, “if so be as how you’ll
 bear a hand and rig yourself, and take a short trip with me into the
@@ -6206,7 +6072,7 @@ than Sir Launcelot, and would wager five hundred to fifty guineas, that
 he would unhorse him at the first encounter.  “There is no occasion for
 laying wagers,” replied Mr. Dawdle; “the doubt may be determined in half
 an hour--Sir Launcelot is not a man to avoid you at full gallop.”
- Sycamore, after some hesitation, declared he would follow and provoke him
+Sycamore, after some hesitation, declared he would follow and provoke him
 to battle, on condition that Dawdle would engage Crowe; and this
 condition was accepted.  For, though Davy had no stomach to the trial, he
 could not readily find an excuse for declining it.  Besides, he had
@@ -6220,9 +6086,7 @@ we shall reserve it for a more conspicuous place in these memoirs.
 
 
 
-CHAPTER NINETEEN
 
-CONTAINING THE ACHIEVEMENTS OF THE KNIGHTS OF THE GRIFFIN AND CRESCENT.
 
 
 Mr. Sycamore, alias the knight of the Griffin, so denominated from a
@@ -6234,7 +6098,6 @@ along the highway that led towards London, that being the road which our
 adventurer pursued.  As they were extremely well mounted, and proceeded
 at a round pace, they, in less than two hours, came up with Sir Launcelot
 and his company; and Sycamore sent another formal defiance to the knight
-by his trumpeter, Dawdle having, for good reasons, declined that office.
 
 Our adventurer hearing himself thus addressed, and seeing his rival, who
 had passed him, posted to obstruct his progress, armed cap-a-pee, with
@@ -6540,9 +6403,7 @@ the night.
 
 
 
-CHAPTER TWENTY
 
-IN WHICH OUR HERO DESCENDS INTO THE MANSION OF THE DAMNED.
 
 
 The first step which Sir Launcelot took in the morning that succeeded his
@@ -6579,7 +6440,6 @@ another way, he contented himself with a less enchanting situation, and
 Crowe accompanied him out of pure friendship.
 
 At night, Mr. Clarke arrived at our hero’s house with tidings that were
-by no means agreeable.  He told him, that Clump had left a letter for
 Dolly, informing her, that his master, Squire Darnel, was to set out
 early in the morning for Yorkshire; but he could give no account of her
 lady, who had the day before been conveyed, he knew not whither, in a
@@ -6781,7 +6641,6 @@ jail, and the miseries of indigence.--But I see the dispute is now
 terminated, and the money is to be drank; if you’ll dine with us you
 shall be welcome; if not, you may die in your sobriety, and be d--ned.”
 
-By this time the doctor had given out, and allowed the brewer to be the
 better man; yet he would not honour the festival with his presence, but
 retired to his chamber, exceedingly mortified at his defeat. Our hero was
 reconducted to Mr. Felton’s apartment, where he sat some time without
@@ -6805,9 +6664,7 @@ prison.
 
 
 
-CHAPTER TWENTY-ONE
 
-CONTAINING FURTHER ANECDOTES RELATING TO THE CHILDREN ON WRETCHEDNESS.
 
 
 Dinner being cheerfully discussed, and our adventurer expressing an eager
@@ -7131,9 +6988,7 @@ and he promised to assist the deputy with his advice in laying it out.
 
 
 
-CHAPTER TWENTY-TWO
 
-IN WHICH CAPTAIN CROWE IS SUBLIMED INTO THE REGIONS ON ASTROLOGY.
 
 
 Three whole days had our adventurer prosecuted his inquiry about the
@@ -7205,7 +7060,6 @@ and God’s revenge against murder.
 
 The cookmaid lay in a little apartment contiguous to the kitchen; and
 whether disturbed by these horrible tales of apparitions, or titillated
-by the savoury steams that issued from the punch-bowl, she made a virtue
 of necessity, or appetite, and dressing herself in the dark, suddenly
 appeared before them to the no small perturbation of both.  Timothy, in
 particular, was so startled, that, in his endeavours to make a hasty
@@ -7384,7 +7238,7 @@ captain, he demanded, “What cheer, ho?” with some signs of apprehension.
 Crabshaw making no return to this salute, he asked if the conjurer had
 taken an observation, and told him anything.  Then the other replied, he
 had told him more than he desired to know.  “Why, an that be the case,”
- said the seaman, “I have no occasion to go aloft this trip, brother.”
+said the seaman, “I have no occasion to go aloft this trip, brother.”
 
 This evasion would not serve his turn.  Old Tisiphone was at hand, and
 led him up growling into the hall of audience, which he did not examine
@@ -7461,9 +7315,7 @@ lamentation was lulled asleep among the litter.
 
 
 
-CHAPTER TWENTY-THREE
 
-IN WHICH THE CLOUDS THAT COVER THE CATASTROPHE BEGIN TO DISPERSE.
 
 
 We must now leave Captain Crowe and his nephew Mr. Clarke, arguing with
@@ -7614,7 +7466,6 @@ hour, and yet be esteemed as an oracle.
 The master of the house finding Sir Launcelot so tame and tractable,
 indulged him after dinner with a walk in a little private garden, under
 the eye of a servant who followed him at a distance.  Here he was saluted
-by a brother-prisoner, a man seemingly turned of thirty, tall and thin,
 with staring eyes, a hook-nose, and a face covered with pimples.
 
 The usual compliments having passed, the stranger, without further
@@ -7640,15 +7491,15 @@ skelter, and became as formidable to the writers of the age as the
 Boeotian band of Thebes.  My friend Bullock, indeed, was once rolled in
 the kennel; but soon
 
-     He vig’rous rose, and from th’ effluvia strong
-     Imbib’d new life, and scour’d and stunk along.
+He vig’rous rose, and from th’ effluvia strong
+Imbib’d new life, and scour’d and stunk along.
 
 “Here is a satire, which I wrote in an alehouse when I was drunk--I can
 prove it by the evidence of the landlord and his wife; I fancy you’ll own
 I have some right to say with my friend Horace,
 
-     Qui me commorit, (melius non tangere clamo,)
-     Flebit, et insignis tota cantabitur urbe.”
+Qui me commorit, (melius non tangere clamo,)
+Flebit, et insignis tota cantabitur urbe.”
 
 The knight, having perused the papers, declared his opinion that the
 verses were tolerably good; but at the same time observed that the author
@@ -7765,10 +7616,7 @@ provided he was not altogether destitute of conscience and humanity.
 
 
 
-CHAPTER TWENTY-FOUR
 
-THE KNOT THAT PUZZLES HUMAN WISDOM, THE HAND OF FORTUNE SOMETIMES WILL
-UNTIE FAMILIAR AS HER GARTER.
 
 
 When the doctor made his next appearance in Sir Launcelot’s apartment,
@@ -7796,7 +7644,6 @@ ignorance of my name and family, you shall understand that I am Sir
 Launcelot Greaves, of the county of York, Baronet; and that my nearest
 relation is Sir Reginald Meadows, of Cheshire, the eldest son of my
 mother’s sister--that gentleman, I am sure, had no concern in seducing me
-by false pretences under the clouds of night into the fields, where I was
 surprised, overpowered, and kidnapped by armed ruffians.  Had he really
 believed me insane, he would have proceeded according to the dictates of
 honour, humanity, and the laws of his country.  Situated as I am, I have
@@ -7816,7 +7663,7 @@ our adventurer he would do him all the service in his power; but in the
 meantime advised him to take the potion he had prescribed.
 
 The knight’s eyes lightening with indignation, “I am now convinced,”
- cried he, “that you are an accomplice in the villany which has been
+cried he, “that you are an accomplice in the villany which has been
 practised upon me; that you are a sordid wretch, without principle or
 feeling, a disgrace to the faculty, and a reproach to human nature--yes,
 sirrah, you are the most perfidious of all assassins--you are the
@@ -7887,7 +7734,6 @@ formidable posse, and, embarking them in coaches, repaired with all
 possible expedition to the house of Mr. Shackle, who did not think proper
 to dispute their claim, but admitted them, though not without betraying
 evident symptoms of consternation.  One of the servants directing them,
-by his master’s order, to Sir Launcelot’s apartment, they hurried
 upstairs in a body, occasioning such a noise as did not fail to alarm the
 physician, who had just opened the door to retire, when he perceived
 their irruption.  Captain Crowe conjecturing he was guilty from the
@@ -8022,7 +7868,7 @@ too noble to be thus evinced;--but let not my unseasonable transports
 detain you a moment longer on this detested scene.  Give me leave to hand
 you into the coach, and commit you to the care of this good lady,
 attended by this honest young gentleman, who is my particular friend.”
- So saying, he presented Mr. Thomas Clarke, who had the honour to salute
+So saying, he presented Mr. Thomas Clarke, who had the honour to salute
 the fair hand of the ever-amiable Aurelia.
 
 The ladies being safely coached under the escort of the lawyer, Sir
@@ -8140,10 +7986,7 @@ the lawyer.
 
 
 
-CHAPTER THE LAST
 
-WHICH, IT IS TO BE HOPED, WILL BE, ON MORE ACCOUNTS THAN ONE, AGREEABLE
-TO THE READER.
 
 
 Sir Launcelot, having vindicated the liberty, confirmed the safety, and
@@ -8423,7 +8266,6 @@ your fate with Mr. Clarke, your mistress gives me leave to assure you she
 will stock the farm at her own expense, and we will celebrate the wedding
 at Greavesbury Hall”--
 
-By this time the hearts of these grateful lovers had overflowed.  Dolly
 was sitting on her knees, bathing her lady’s hand with her tears, and Mr.
 Clarke appeared in the same attitude by Sir Launcelot.  The uncle, almost
 as affected as the nephew by the generosity of our adventurer, cried
@@ -8533,7 +8375,6 @@ worthy families, whose mutual animosity the union of his parents had so
 happily extinguished.
 
 
-THE END
 
 
 

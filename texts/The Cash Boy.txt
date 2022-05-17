@@ -1,18 +1,4 @@
 
-
-
-
-
-THE CASH BOY
-
-By Horatio Alger, Jr.
-
-
-
-
-PREFACE
-
-
 “The Cash Boy,” by Horatio Alger, Jr., as the name implies, is a story
 about a boy and for boys.
 
@@ -37,9 +23,7 @@ an old man, his own relatives and right name were revealed to him.
 
 
 
-CHAPTER I
 
-A REVELATION
 
 
 A group of boys was assembled in an open field to the west of the public
@@ -252,9 +236,7 @@ gather my strength to tell you what must be told.”
 
 
 
-CHAPTER II
 
-MRS. FOWLER’S STORY
 
 
 “Not my mother!” he exclaimed. “Who, then, is my mother?”
@@ -283,7 +265,7 @@ talk any more. Wait till to-morrow.”
 In the afternoon Frank had a call from Sam Pomeroy.
 
 “The club is to play to-morrow afternoon against a picked nine, Frank,”
- he said. “Will you be there?”
+he said. “Will you be there?”
 
 “I can’t, Sam,” he answered. “My mother is very sick, and it is my duty
 to stay at home with her.”
@@ -447,7 +429,6 @@ and he placed a card in my hands. ‘Have you anything to ask?’
 he is sick?’
 
 “‘Then write to A. M., care of Giles Warner, No. ---- Nassau Street.
-By the way, it will be necessary for you to send him your postoffice
 address after your removal in order that he may send you your quarterly
 dues.’
 
@@ -456,9 +437,7 @@ seen him since.”
 
 
 
-CHAPTER III
 
-LEFT ALONE
 
 Frank listened to this revelation with wonder. For the first time in his
 life he asked himself, “Who am I?”
@@ -579,9 +558,7 @@ While you were out your mother had another hemorrhage, and--and--”
 
 
 
-CHAPTER IV
 
-THE TOWN AUTOCRAT
 
 
 “The Widder Fowler is dead,” remarked Deacon Pinkerton, at the supper
@@ -697,7 +674,6 @@ When Frank had made up his bundle, urged by some impulse, he opened a
 drawer in his mother’s bureau. His mind was full of the story she had
 told him, and he thought it just possible that he might find something
 to throw additional light upon his past history. While exploring the
-contents of the drawer he came to a letter directed to him in his
 mother’s well-known handwriting. He opened it hastily, and with a
 feeling of solemnity, read as follows:
 
@@ -713,7 +689,6 @@ Him I commit you and Grace.
 
 “Your affectionate mother,
 
-“RUTH FOWLER.”
 
 
 Frank, following the instructions of the letter, found the gold pieces
@@ -808,9 +783,7 @@ making this visit first. It will be a saving to the town.”
 
 
 
-CHAPTER V
 
-A LITTLE MISUNDERSTANDING
 
 
 “Have you carried Frank Fowler to the poorhouse?” asked Tom Pinkerton,
@@ -947,9 +920,7 @@ York.
 
 
 
-CHAPTER VI
 
-FRANK GETS A PLACE
 
 
 “So this is New York,” said Frank to himself, as he emerged from the
@@ -1258,9 +1229,7 @@ expressing the hope that he would soon be able to send for her.
 
 
 
-CHAPTER VII
 
-THE CASH BOY HAS AN ADVENTURE
 
 
 Four weeks passed. The duties of a cash-boy are simple enough, and Frank
@@ -1475,9 +1444,7 @@ to herself. “That boy reminds me of somebody. Who is it?”
 
 
 
-CHAPTER VIII
 
-AN UNEXPECTED ENGAGEMENT
 
 
 “Take a seat, Frank,” said Mr. Wharton, pointing to a luxurious armchair
@@ -1638,9 +1605,7 @@ There was something in her tone that made Frank feel uncomfortable.
 
 
 
-CHAPTER IX
 
-THE HOUSEKEEPER’S NEPHEW
 
 
 “By no means,” said Mr. Wharton, as the housekeeper was about to
@@ -1836,9 +1801,7 @@ evening closed at a neighboring billiard saloon.
 
 
 
-CHAPTER X
 
-THE HOUSEKEEPER SCHEMING
 
 
 If Mrs. Bradley had been wiser, she would have felt less confident of
@@ -1957,11 +1920,10 @@ hear you read.”
 “That boy is in the way,” she said to herself, when she was left
 alone. “He is in my way, and Tom’s way. I can see that he is artfully
 intriguing for Mr. Wharton’s favor, but I must checkmate him. It’s odd,”
- she resumed, after a pause, “but there is something in his face and
+she resumed, after a pause, “but there is something in his face and
 voice that seems familiar to me. What is it?”
 
 
-* * * * *
 
 
 The following evening the housekeeper received another visit from her
@@ -2154,9 +2116,7 @@ Bradley.
 
 
 
-CHAPTER XI
 
-JOHN WADE
 
 
 A tall man, with a sallow complexion, and heavily-bearded face, stood
@@ -2368,7 +2328,7 @@ is so artful that he knows just how to manage your uncle. No doubt he
 put the idea into Mr. Wharton’s head, and he may do it yet.”
 
 “Does my uncle give any reason for the fancy he has taken to the boy?”
- demanded John.
+demanded John.
 
 “Yes,” said the housekeeper. “He has taken it into his head that the
 boy resembles your cousin, George, who died abroad. You were with him, I
@@ -2383,7 +2343,7 @@ notice of him.”
 
 “He said: ‘What would I give, Mrs. Bradley, if I had such a grandson?
 If George’s boy had lived, he would have been about Frank’s age. And,”
- continued the housekeeper, “I might as well speak plainly. You’re my
+continued the housekeeper, “I might as well speak plainly. You’re my
 master’s heir, or ought to be; but if this artful boy stays here long,
 there’s no knowing what your uncle may be influenced to do. If he gets
 into his dotage, he may come to adopt him, and leave the property away
@@ -2424,9 +2384,7 @@ speak of this subject again.”
 
 
 
-CHAPTER XII
 
-A FALSE FRIEND
 
 
 When John Wade re-entered the library, Frank was reading, but Mr.
@@ -2584,9 +2542,7 @@ friend.
 
 
 
-CHAPTER XIII
 
-THE SPIDER AND THE FLY
 
 
 “Uncle,” said John Wade, “you spoke of inviting Frank Fowler to occupy
@@ -2713,9 +2669,7 @@ work of him.”
 
 
 
-CHAPTER XIV
 
-SPRINGING THE TRAP
 
 
 “I am going to give you a few days’ vacation, Frank,” said Mr. Wharton,
@@ -2730,7 +2684,6 @@ have got to feel at home here now.”
 
 When Frank returned at night, Mr. Wharton was already gone. John Wade
 and the housekeeper seated themselves in the library after dinner, and
-by their invitation our hero joined them.
 
 “By the way, Frank,” said John Wade, “did I ever show you this Russia
 leather pocketbook?” producing one from his pocket.
@@ -2871,9 +2824,7 @@ he had a presentiment that her visit boded fresh evil for him.
 
 
 
-CHAPTER XV
 
-FROM BAD TO WORSE
 
 
 Frank’s misgivings were not without good cause. The housekeeper’s call
@@ -3138,9 +3089,7 @@ on.
 
 
 
-CHAPTER XVI
 
-AN ACCOMPLICE FOUND
 
 
 No sooner had John Wade parted from our hero than he saw approaching him
@@ -3316,9 +3265,7 @@ He went out, locking the door behind him
 
 
 
-CHAPTER XVII
 
-FRANK AND HIS JAILER
 
 
 It was twenty minutes before Frank, waiting impatiently, heard the steps
@@ -3348,7 +3295,7 @@ can’t get anything out of me,” said Frank.
 “I suppose that was all a lie about your keeping store?”
 
 “It was a pretty little story, told for your amusement, my dear boy,”
- said Graves. “I was afraid you wouldn’t come without it.”
+said Graves. “I was afraid you wouldn’t come without it.”
 
 “You are a villain!” said Frank.
 
@@ -3402,10 +3349,8 @@ It was the face of a woman.
 
 
 
-CHAPTER XVIII
 
 
-“OVER THE HILL TO THE POORHOUSE”
 
 
 We are compelled for a time to leave our hero in the hands of his
@@ -3635,9 +3580,7 @@ Such was the new home for which poor Grace was expected to be grateful.
 
 
 
-CHAPTER XIX
 
-WHAT FRANK HEARD THROUGH THE CREVICE
 
 
 Frank looked with some surprise at the woman who was looking through
@@ -3780,9 +3723,7 @@ Mr. Wharton, his kind benefactor?”
 
 
 
-CHAPTER XX
 
-THE ESCAPE
 
 
 It was eight o’clock the next morning before Frank’s breakfast was
@@ -3974,7 +3915,7 @@ forced to it.”
 prisoner.”
 
 “Since he knows that you have escaped, he is probably on your track,”
- said Mrs. Parker. “It will be hardly safe for you to go to Mr.
+said Mrs. Parker. “It will be hardly safe for you to go to Mr.
 Wharton’s.”
 
 “Why?”
@@ -4023,9 +3964,7 @@ handsomely.”
 
 
 
-CHAPTER XXI
 
-JOHN WADE’S DISAPPOINTMENT
 
 
 Mr. Wharton sat at dinner with his nephew and the housekeeper. He
@@ -4059,7 +3998,6 @@ information that our hero was no longer in the store.
 I now return to Mr. Wharton at dinner.
 
 “Here is a letter for you, sir,” said the housekeeper. “It was brought
-by the postman this afternoon.”
 
 Mr. Wharton adjusted his spectacles and read as follows:
 
@@ -4073,7 +4011,6 @@ the kindness to name your own time?
 
 “Yours respectfully,
 
-“MORRIS HALL.”
 
 
 “Read that, John,” said his uncle, passing him the letter.
@@ -4214,9 +4151,7 @@ disposition.
 
 
 
-CHAPTER XXII
 
-CONCLUSION
 
 
 Meanwhile poor Grace had fared badly at the poorhouse in Crawford. It
@@ -4286,7 +4221,6 @@ some time.”
 
 The carriage rolled on.
 
-* * * * *
 
 A few words only remain. Our hero was placed at a classical school,
 and in due time entered college, where he acquitted himself with

@@ -1,34 +1,5 @@
 
 
-
-
-cover 
-
-
-
-The Call of the Wild
-
-
-
-by Jack London
-
-
-
-Contents
-
-
- Chapter I. Into the Primitive
- Chapter II. The Law of Club and Fang
- Chapter III. The Dominant Primordial Beast
- Chapter IV. Who Has Won to Mastership
- Chapter V. The Toil of Trace
- Chapter VI. For the Love of a Man
- Chapter VII. The Sounding of the Call
-
-
-
-Chapter I. Into the Primitive
-
 “Old longings nomadic leap,
 Chafing at custom’s chain;
 Again from its brumal sleep
@@ -49,7 +20,6 @@ Buck lived at a big house in the sun-kissed Santa Clara Valley. Judge
 Miller’s place, it was called. It stood back from the road, half hidden
 among the trees, through which glimpses could be caught of the wide
 cool veranda that ran around its four sides. The house was approached
-by gravelled driveways which wound about through wide-spreading lawns
 and under the interlacing boughs of tall poplars. At the rear things
 were on even a more spacious scale than at the front. There were great
 stables, where a dozen grooms and boys held forth, rows of vine-clad
@@ -472,7 +442,6 @@ when the loaded sled shot downhill at their heels.
 “T’ree vair’ good dogs,” François told Perrault. “Dat Buck, heem pool
 lak hell. I tich heem queek as anyt’ing.”
 
-By afternoon, Perrault, who was in a hurry to be on the trail with his
 despatches, returned with two more dogs. “Billee” and “Joe” he called
 them, two brothers, and true huskies both. Sons of the one mother
 though they were, they were as different as day and night. Billee’s one
@@ -490,7 +459,6 @@ was his appearance that Spitz was forced to forego disciplining him;
 but to cover his own discomfiture he turned upon the inoffensive and
 wailing Billee and drove him to the confines of the camp.
 
-By evening Perrault secured another dog, an old husky, long and lean
 and gaunt, with a battle-scarred face and a single eye which flashed a
 warning of prowess that commanded respect. He was called Sol-leks,
 which means the Angry One. Like Dave, he asked nothing, gave nothing,
@@ -764,7 +732,6 @@ furry forms,—starving huskies, four or five score of them, who had
 scented the camp from some Indian village. They had crept in while Buck
 and Spitz were fighting, and when the two men sprang among them with
 stout clubs they showed their teeth and fought back. They were crazed
-by the smell of the food. Perrault found one with head buried in the
 grub-box. His club landed heavily on the gaunt ribs, and the grub-box
 was capsized on the ground. On the instant a score of the famished
 brutes were scrambling for the bread and bacon. The clubs fell upon
@@ -869,7 +836,6 @@ which descent was ultimately made by the aid of the rope, and night
 found them back on the river with a quarter of a mile to the day’s
 credit.
 
-By the time they made the Hootalinqua and good ice, Buck was played
 out. The rest of the dogs were in like condition; but Perrault, to make
 up lost time, pushed them late and early. The first day they covered
 thirty-five miles to the Big Salmon; the next day thirty-five more to
@@ -1291,7 +1257,6 @@ François’s breath.
 one t’ousan’ dollair, by Gar! Eh? Wot you say, Perrault?”
 
 And Perrault nodded. He was ahead of the record then, and gaining day
-by day. The trail was in excellent condition, well packed and hard, and
 there was no new-fallen snow with which to contend. It was not too
 cold. The temperature dropped to fifty below zero and remained there
 the whole trip. The men rode and ran by turn, and the dogs were kept on
@@ -1423,7 +1388,6 @@ consultation. He was brought from his nest to the fire and was pressed
 and prodded till he cried out many times. Something was wrong inside,
 but they could locate no broken bones, could not make it out.
 
-By the time Cassiar Bar was reached, he was so weak that he was falling
 repeatedly in the traces. The Scotch half-breed called a halt and took
 him out of the team, making the next dog, Sol-leks, fast to the sled.
 His intention was to rest Dave, letting him run free behind the sled.
@@ -1728,7 +1692,6 @@ and frightened, the Insides without confidence in their masters.
 
 Buck felt vaguely that there was no depending upon these two men and
 the woman. They did not know how to do anything, and as the days went
-by it became apparent that they could not learn. They were slack in all
 things, without order or discipline. It took them half the night to
 pitch a slovenly camp, and half the morning to break that camp and get
 the sled loaded in fashion so slovenly that for the rest of the day
@@ -1740,7 +1703,6 @@ distance used by the men as a basis in their dog-food computation.
 It was inevitable that they should go short on dog-food. But they
 hastened it by overfeeding, bringing the day nearer when underfeeding
 would commence. The Outside dogs, whose digestions had not been trained
-by chronic famine to make the most of little, had voracious appetites.
 And when, in addition to this, the worn-out huskies pulled weakly, Hal
 decided that the orthodox ration was too small. He doubled it. And to
 cap it all, when Mercedes, with tears in her pretty eyes and a quaver
@@ -1771,7 +1733,6 @@ less than die on half the ration of the husky. The Newfoundland went
 first, followed by the three short-haired pointers, the two mongrels
 hanging more grittily on to life, but going in the end.
 
-By this time all the amenities and gentlenesses of the Southland had
 fallen away from the three people. Shorn of its glamour and romance,
 Arctic travel became to them a reality too harsh for their manhood and
 womanhood. Mercedes ceased weeping over the dogs, being too occupied
@@ -2220,7 +2181,6 @@ quite another fashion. The three partners were lining a long and narrow
 poling-boat down a bad stretch of rapids on the Forty-Mile Creek. Hans
 and Pete moved along the bank, snubbing with a thin Manila rope from
 tree to tree, while Thornton remained in the boat, helping its descent
-by means of a pole, and shouting directions to the shore. Buck, on the
 bank, worried and anxious, kept abreast of the boat, his eyes never off
 his master.
 
@@ -2712,7 +2672,6 @@ seeking vainly for fresh sign of the wild brother, killing his meat as
 he travelled and travelling with the long, easy lope that seems never
 to tire. He fished for salmon in a broad stream that emptied somewhere
 into the sea, and by this stream he killed a large black bear, blinded
-by the mosquitoes while likewise fishing, and raging through the forest
 helpless and terrible. Even so, it was a hard fight, and it aroused the
 last latent remnants of Buck’s ferocity. And two days later, when he
 returned to his kill and found a dozen wolverenes quarrelling over the
@@ -2860,7 +2819,6 @@ over the face of things. He could feel a new stir in the land. As the
 moose were coming into the land, other kinds of life were coming in.
 Forest and stream and air seemed palpitant with their presence. The
 news of it was borne in upon him, not by sight, or sound, or smell, but
-by some other and subtler sense. He heard nothing, saw nothing, yet
 knew that the land was somehow different; that through it strange
 things were afoot and ranging; and he resolved to investigate after he
 had finished the business in hand.
