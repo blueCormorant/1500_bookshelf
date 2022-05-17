@@ -1,52 +1,5 @@
 
 
-
-
-The
-Life and Adventures
-of
-Robinson Crusoe
-
-By
-
-Daniel Defoe
-
-_With Illustrations by H. M. Brock_
-
-London
-Seeley, Service & Co. Limited
-38 Great Russell Street
-
-
-Contents
-
- CHAPTER I—START IN LIFE
- CHAPTER II—SLAVERY AND ESCAPE
- CHAPTER III—WRECKED ON A DESERT ISLAND
- CHAPTER IV—FIRST WEEKS ON THE ISLAND
- CHAPTER V—BUILDS A HOUSE—THE JOURNAL
- CHAPTER VI—ILL AND CONSCIENCE-STRICKEN
- CHAPTER VII—AGRICULTURAL EXPERIENCE
- CHAPTER VIII—SURVEYS HIS POSITION
- CHAPTER IX—A BOAT
- CHAPTER X—TAMES GOATS
- CHAPTER XI—FINDS PRINT OF MAN’S FOOT ON THE SAND
- CHAPTER XII—A CAVE RETREAT
- CHAPTER XIII—WRECK OF A SPANISH SHIP
- CHAPTER XIV—A DREAM REALISED
- CHAPTER XV—FRIDAY’S EDUCATION
- CHAPTER XVI—RESCUE OF PRISONERS FROM CANNIBALS
- CHAPTER XVII—VISIT OF MUTINEERS
- CHAPTER XVIII—THE SHIP RECOVERED
- CHAPTER XIX—RETURN TO ENGLAND
- CHAPTER XX—FIGHT BETWEEN FRIDAY AND A BEAR
-
-
-
-
-CHAPTER I. START IN LIFE
-
-
 I was born in the year 1632, in the city of York, of a good family,
 though not of that country, my father being a foreigner of Bremen, who
 settled first at Hull. He got a good estate by merchandise, and leaving
@@ -301,7 +254,6 @@ seas, and we thought once or twice our anchor had come home; upon which
 our master ordered out the sheet-anchor, so that we rode with two
 anchors ahead, and the cables veered out to the bitter end.
 
-By this time it blew a terrible storm indeed; and now I began to see
 terror and amazement in the faces even of the seamen themselves. The
 master, though vigilant in the business of preserving the ship, yet as
 he went in and out of his cabin by me, I could hear him softly to
@@ -388,7 +340,6 @@ towards the shore almost as far as Winterton Ness.
 
 We were not much more than a quarter of an hour out of our ship till we
 saw her sink, and then I understood for the first time what was meant
-by a ship foundering in the sea. I must acknowledge I had hardly eyes
 to look up when the seamen told me she was sinking; for from the moment
 that they rather put me into the boat than that I might be said to go
 in, my heart was, as it were, dead within me, partly with fright,
@@ -485,7 +436,6 @@ voyage.
 
 
 
-CHAPTER II. SLAVERY AND ESCAPE
 
 
 That evil influence which carried me first away from my father’s
@@ -749,7 +699,6 @@ But as soon as it grew dusk in the evening, I changed my course, and
 steered directly south and by east, bending my course a little towards
 the east, that I might keep in with the shore; and having a fair, fresh
 gale of wind, and a smooth, quiet sea, I made such sail that I believe
-by the next day, at three o’clock in the afternoon, when I first made
 the land, I could not be less than one hundred and fifty miles south of
 Sallee; quite beyond the Emperor of Morocco’s dominions, or indeed of
 any other king thereabouts, for we saw no people.
@@ -848,7 +797,6 @@ that if I stood along this coast till I came to that part where the
 English traded, I should find some of their vessels upon their usual
 design of trade, that would relieve and take us in.
 
-By the best of my calculation, that place where I now was must be that
 country which, lying between the Emperor of Morocco’s dominions and the
 negroes, lies waste and uninhabited, except by wild beasts; the negroes
 having abandoned it and gone farther south for fear of the Moors, and
@@ -919,7 +867,6 @@ in two days’ time, and it afterwards served me to lie upon.
 
 
 
-CHAPTER III. WRECKED ON A DESERT ISLAND
 
 
 After this stop, we made on to the southward continually for ten or
@@ -1414,7 +1361,6 @@ having thus struck upon the sand, and sticking too fast for us to
 expect her getting off, we were in a dreadful condition indeed, and had
 nothing to do but to think of saving our lives as well as we could. We
 had a boat at our stern just before the storm, but she was first staved
-by dashing against the ship’s rudder, and in the next place she broke
 away, and either sunk or was driven off to sea; so there was no hope
 from her. We had another boat on board, but how to get her off into the
 sea was a doubtful thing. However, there was no time to debate, for we
@@ -1570,7 +1516,6 @@ refreshed with it than, I think, I ever was on such an occasion.
 
 
 
-CHAPTER IV. FIRST WEEKS ON THE ISLAND
 
 
 When I waked it was broad day, the weather clear, and the storm abated,
@@ -2354,7 +2299,6 @@ was forced to leave it off.
 
 
 
-CHAPTER V. BUILDS A HOUSE—THE JOURNAL
 
 
 September 30, 1659.—I, poor miserable Robinson Crusoe, being
@@ -2456,7 +2400,6 @@ finished it, though not to my liking; nor was it long before I learned
 to mend it.
 
 _Nov._ 7.—Now it began to be settled fair weather. The 7th, 8th, 9th,
-10th, and part of the 12th (for the 11th was Sunday) I took wholly up
 to make me a chair, and with much ado brought it to a tolerable shape,
 but never to please me; and even in the making I pulled it in pieces
 several times.
@@ -2848,13 +2791,11 @@ look for more.
 
 
 
-CHAPTER VI. ILL AND CONSCIENCE-STRICKEN
 
 
 When I came down to the ship I found it strangely removed. The
 forecastle, which lay before buried in sand, was heaved up at least six
 feet, and the stern, which was broke in pieces and parted from the rest
-by the force of the sea, soon after I had left rummaging her, was
 tossed as it were up, and cast on one side; and the sand was thrown so
 high on that side next her stern, that whereas there was a great place
 of water before, so that I could not come within a quarter of a mile of
@@ -3334,7 +3275,6 @@ rain which fell in September and October.
 
 
 
-CHAPTER VII. AGRICULTURAL EXPERIENCE
 
 
 I had now been in this unhappy island above ten months. All possibility
@@ -3660,7 +3600,6 @@ imagined I could spare.
 
 
 
-CHAPTER VIII. SURVEYS HIS POSITION
 
 
 I mentioned before that I had a great mind to see the whole island, and
@@ -3762,7 +3701,6 @@ my further misfortune, that the weather proved hazy for three or four
 days while I was in the valley, and not being able to see the sun, I
 wandered about very uncomfortably, and at last was obliged to find the
 seaside, look for my post, and come back the same way I went: and then,
-by easy journeys, I turned homeward, the weather being exceeding hot,
 and my gun, ammunition, hatchet, and other things very heavy.
 
 In this journey my dog surprised a young kid, and seized upon it; and
@@ -4028,7 +3966,6 @@ when I had it, fit for my use.
 
 
 
-CHAPTER IX. A BOAT
 
 
 But first I was to prepare more land, for I had now seed enough to sow
@@ -4145,7 +4082,6 @@ it on the outside with my axe and hatchet, and then with the help of
 fire and infinite labour, made a hollow place in it, as the Indians in
 Brazil make their canoes. After this, I made a great heavy pestle or
 beater of the wood called the iron-wood; and this I prepared and laid
-by against I had my next crop of corn, which I proposed to myself to
 grind, or rather pound into meal to make bread.
 
 My next difficulty was to make a sieve or searce, to dress my meal, and
@@ -4602,7 +4538,6 @@ the utmost enjoyment of human society in the world?
 
 
 
-CHAPTER X. TAMES GOATS
 
 
 I cannot say that after this, for five years, any extraordinary thing
@@ -5018,7 +4953,6 @@ the wilderness, where I saw nothing at first but to perish for hunger!
 
 
 
-CHAPTER XI. FINDS PRINT OF MAN’S FOOT ON THE SAND
 
 
 It would have made a Stoic smile to have seen me and my little family
@@ -5035,7 +4969,6 @@ as a mark of especial favour.
 
 But these were not the two cats which I brought on shore at first, for
 they were both of them dead, and had been interred near my habitation
-by my own hand; but one of them having multiplied by I know not what
 kind of creature, these were two which I had preserved tame; whereas
 the rest ran wild in the woods, and became indeed troublesome to me at
 last, for they would often come into my house, and plunder me too, till
@@ -5228,7 +5161,6 @@ fancying every stump at a distance to be a man. Nor is it possible to
 describe how many various shapes my affrighted imagination represented
 things to me in, how many wild ideas were found every moment in my
 fancy, and what strange, unaccountable whimsies came into my thoughts
-by the way.
 
 When I came to my castle (for so I think I called it ever after this),
 I fled into it like one pursued. Whether I went over by the ladder, as
@@ -5380,7 +5312,6 @@ that I might be assured it was my own foot: but when I came to the
 place, first, it appeared evidently to me, that when I laid up my boat
 I could not possibly be on shore anywhere thereabouts; secondly, when I
 came to measure the mark with my own foot, I found my foot not so large
-by a great deal. Both these things filled my head with new
 imaginations, and gave me the vapours again to the highest degree, so
 that I shook with cold like one in an ague; and I went home again,
 filled with the belief that some man or men had been on shore there;
@@ -5487,7 +5418,6 @@ more than my mere fear suggested to me.
 
 
 
-CHAPTER XII. A CAVE RETREAT
 
 
 While this was doing, I was not altogether careless of my other
@@ -5760,7 +5690,6 @@ twenty or thirty naked savages, for an offence which I had not at all
 entered into any discussion of in my thoughts, any farther than my
 passions were at first fired by the horror I conceived at the unnatural
 custom of the people of that country, who, it seems, had been suffered
-by Providence, in His wise disposition of the world, to have no other
 guide than that of their own abominable and vitiated passions; and
 consequently were left, and perhaps had been so for some ages, to act
 such horrid things, and receive such dreadful customs, as nothing but
@@ -5804,7 +5733,6 @@ and barbarians, and had several bloody and barbarous rites in their
 customs, such as sacrificing human bodies to their idols, were yet, as
 to the Spaniards, very innocent people; and that the rooting them out
 of the country is spoken of with the utmost abhorrence and detestation
-by even the Spaniards themselves at this time, and by all other
 Christian nations of Europe, as a mere butchery, a bloody and unnatural
 piece of cruelty, unjustifiable either to God or man; and for which the
 very name of a Spaniard is reckoned to be frightful and terrible, to
@@ -5960,7 +5888,6 @@ contrived to burn some wood here, as I had seen done in England, under
 turf, till it became chark or dry coal: and then putting the fire out,
 I preserved the coal to carry home, and perform the other services for
 which fire was wanting, without danger of smoke. But this is
-by-the-bye. While I was cutting down some wood here, I perceived that,
 behind a very thick branch of low brushwood or underwood, there was a
 kind of hollow place: I was curious to look in it; and getting with
 difficulty into the mouth of it, I found it was pretty large, that is
@@ -6055,7 +5982,6 @@ there, to prevent offence to my nose.
 
 
 
-CHAPTER XIII. WRECK OF A SPANISH SHIP
 
 
 I was now in the twenty-third year of my residence in this island, and
@@ -6303,7 +6229,6 @@ it rational so much as to wish or expect that they did not all perish
 there, except the possibility only of their being taken up by another
 ship in company; and this was but mere possibility indeed, for I saw
 not the least sign or appearance of any such thing. I cannot explain,
-by any possible energy of words, what a strange longing I felt in my
 soul upon this sight, breaking out sometimes thus: “Oh that there had
 been but one or two, nay, or but one soul saved out of this ship, to
 have escaped to me, that I might but have had one companion, one
@@ -6470,7 +6395,6 @@ pieces of eight, which held about eleven hundred pieces in all; and in
 one of them, wrapped up in a paper, six doubloons of gold, and some
 small bars or wedges of gold; I suppose they might all weigh near a
 pound. In the other chest were some clothes, but of little value; but,
-by the circumstances, it must have belonged to the gunner’s mate;
 though there was no powder in it, except two pounds of fine glazed
 powder, in three flasks, kept, I suppose, for charging their
 fowling-pieces on occasion. Upon the whole, I got very little by this
@@ -6496,7 +6420,6 @@ again and fetch it.
 
 
 
-CHAPTER XIV. A DREAM REALISED
 
 
 Having now brought all my things on shore and secured them, I went back
@@ -6796,7 +6719,6 @@ swam were yet more than twice as strong swimming over the creek as the
 fellow was that fled from them. It came very warmly upon my thoughts,
 and indeed irresistibly, that now was the time to get me a servant,
 and, perhaps, a companion or assistant; and that I was plainly called
-by Providence to save this poor creature’s life. I immediately ran down
 the ladders with all possible expedition, fetched my two guns, for they
 were both at the foot of the ladders, as I observed before, and getting
 up again with the same haste to the top of the hill, I crossed towards
@@ -7053,7 +6975,6 @@ place where I lived.
 
 
 
-CHAPTER XV. FRIDAY’S EDUCATION
 
 
 After I had been two or three days returned to my castle, I thought
@@ -7204,7 +7125,6 @@ _Master_.—Have you been here with them?
 _Friday_.—Yes, I have been here (points to the NW. side of the island,
 which, it seems, was their side).
 
-By this I understood that my man Friday had formerly been among the
 savages who used to come on shore on the farther part of the island, on
 the same man-eating occasions he was now brought for; and some time
 after, when I took the courage to carry him to that side, being the
@@ -7460,9 +7380,7 @@ this boat, Friday stood, musing a great while, and said nothing. I
 asked him what it was he studied upon. At last says he, “Me see such
 boat like come to place at my nation.” I did not understand him a good
 while; but at last, when I had examined further into it, I understood
-by him that a boat, such as that had been, came on shore upon the
 country where he lived: that is, as he explained it, was driven thither
-by stress of weather. I presently imagined that some European ship must
 have been cast away upon their coast, and the boat might get loose and
 drive ashore; but was so dull that I never once thought of men making
 their escape from a wreck thither, much less whence they might come: so
@@ -7572,7 +7490,6 @@ this was his way of talking.
 
 
 
-CHAPTER XVI. RESCUE OF PRISONERS FROM CANNIBALS
 
 
 Upon the whole, I was by this time so fixed upon my design of going
@@ -8116,7 +8033,6 @@ cast away; but, as to what they would do if they came safe on shore, he
 said he knew not; but it was his opinion that they were so dreadfully
 frightened with the manner of their being attacked, the noise, and the
 fire, that he believed they would tell the people they were all killed
-by thunder and lightning, not by the hand of man; and that the two
 which appeared—viz. Friday and I—were two heavenly spirits, or furies,
 come down to destroy them, and not men with weapons. This, he said, he
 knew; because he heard them all cry out so, in their language, one to
@@ -8136,7 +8052,6 @@ field, at any time.
 
 
 
-CHAPTER XVII. VISIT OF MUTINEERS
 
 
 In a little time, however, no more canoes appearing, the fear of their
@@ -8297,7 +8212,6 @@ to bring any man who would not first swear in the presence of himself
 and the old savage that he would in no way injure, fight with, or
 attack the person he should find in the island, who was so kind as to
 send for them in order to their deliverance; but that they would stand
-by him and defend him against all such attempts, and wherever they went
 would be entirely under and subjected to his command; and that this
 should be put in writing, and signed in their hands. How they were to
 have done this, when I knew they had neither pen nor ink, was a
@@ -8574,7 +8488,6 @@ stepping to him, told him it was too late to cry for help, he should
 call upon God to forgive his villainy, and with that word knocked him
 down with the stock of his musket, so that he never spoke more; there
 were three more in the company, and one of them was slightly wounded.
-By this time I was come; and when they saw their danger, and that it
 was in vain to resist, they begged for mercy. The captain told them he
 would spare their lives if they would give him an assurance of their
 abhorrence of the treachery they had been guilty of, and would swear to
@@ -8658,7 +8571,6 @@ thoughts.
 
 
 
-CHAPTER XVIII. THE SHIP RECOVERED
 
 
 While we were thus preparing our designs, and had first, by main
@@ -8887,7 +8799,6 @@ patience to let him come so near as to be sure of him, for they only
 heard his tongue before: but when they came nearer, the captain and
 Friday, starting up on their feet, let fly at them. The boatswain was
 killed upon the spot: the next man was shot in the body, and fell just
-by him, though he did not die till an hour or two after; and the third
 ran for it. At the noise of the fire I immediately advanced with my
 whole army, which was now eight men, viz. myself, generalissimo;
 Friday, my lieutenant-general; the captain and his two men, and the
@@ -9220,7 +9131,6 @@ bade them be sure to sow and increase them.
 
 
 
-CHAPTER XIX. RETURN TO ENGLAND
 
 
 Having done all this I left them the next day, and went on board the
@@ -9744,7 +9654,6 @@ killed.
 
 
 
-CHAPTER XX. FIGHT BETWEEN FRIDAY AND A BEAR
 
 
 But never was a fight managed so hardily, and in such a surprising
@@ -9880,7 +9789,6 @@ went forward on our journey.
 The ground was still covered with snow, though not so deep and
 dangerous as on the mountains; and the ravenous creatures, as we heard
 afterwards, were come down into the forest and plain country, pressed
-by hunger, to seek for food, and had done a great deal of mischief in
 the villages, where they surprised the country people, killed a great
 many of their sheep and horses, and some people too.
 
@@ -9966,7 +9874,6 @@ But here we had a most horrible sight; for riding up to the entrance
 where the horse came out, we found the carcasses of another horse and
 of two men, devoured by the ravenous creatures; and one of the men was
 no doubt the same whom we heard fire the gun, for there lay a gun just
-by him fired off; but as to the man, his head and the upper part of his
 body was eaten up. This filled us with horror, and we knew not what
 course to take; but the creatures resolved us soon, for they gathered
 about us presently, in hopes of prey; and I verily believe there were
@@ -10167,6 +10074,3 @@ island.
 All these things, with some very surprising incidents in some new
 adventures of my own, for ten years more, I shall give a farther
 account of in the Second Part of my Story.
-
-
-
