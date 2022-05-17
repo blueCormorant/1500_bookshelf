@@ -1,17 +1,4 @@
 
-
-
-
-
-THE CRYSTAL STOPPER
-
-by Maurice LeBlanc
-
-
-
-
-CHAPTER I. THE ARRESTS
-
 The two boats fastened to the little pier that jutted out from the
 garden lay rocking in its shadow. Here and there lighted windows showed
 through the thick mist on the margins of the lake. The Enghien Casino
@@ -169,7 +156,6 @@ light which I saw shining did not come from here...”
 “I can’t say... Is this the drawing-room?”
 
 “No,” replied Gilbert, who was not afraid to speak pretty loudly, “no.
-By way of precaution, he keeps everything on the first floor, in his
 bedroom and in the two rooms on either side of it.”
 
 “And where is the staircase?”
@@ -297,7 +283,7 @@ stunning...”
 
 “We can’t lay our hands on it. And I was thinking... There’s a cupboard
 with a big lock to it in the pantry... You see, we can’t very well...”
- He was already on his way to the villa. Vaucheray ran back too.
+He was already on his way to the villa. Vaucheray ran back too.
 
 “I’ll give you ten minutes, not a second longer!” cried Lupin. “In ten
 minutes, I’m off.”
@@ -634,8 +620,8 @@ One of the policemen discharged his revolver, without thinking.
 The wind carried the sound of words across the water. The gentleman was
 singing as he rowed:
 
-  “Go, little bark,
-   Float in the dark...”
+“Go, little bark,
+Float in the dark...”
 
 But the commissary saw a skiff fastened to the landing-stage of the
 adjoining property. He scrambled over the hedge separating the two
@@ -679,7 +665,7 @@ The boat, carried by its own impetus, was approaching the other.
 The commissary growled:
 
 “We won’t let ourselves be sniped. Let’s fire at him. Are you ready?”
- And he roared, once more, “Surrender... if not...!”
+And he roared, once more, “Surrender... if not...!”
 
 No reply.
 
@@ -773,7 +759,6 @@ exclamation escaped him. The crystal stopper had disappeared...
 
 
 
-CHAPTER II. EIGHT FROM NINE LEAVES ONE
 
 Notwithstanding my friendly relations with Lupin and the many flattering
 proofs of his confidence which he has given me, there is one thing which
@@ -875,13 +860,11 @@ always the same men, watched Gilbert and Vaucheray, day and night, and
 never let them out of their sight.
 
 Lupin, at this time, had not yet promoted himself to the crowning honour
-of his career, the post of chief of the detective-service, [*] and,
 consequently, was not able to take steps at the Law Courts to insure the
 execution of his plans. After a fortnight of fruitless endeavours, he
 was obliged to bow.
 
-     * See 813, by Maurice Leblanc, translated by Alexander
-     Teixeira de Mattos.
+Teixeira de Mattos.
 
 He did so with a raging heart and a growing sense of anxiety.
 
@@ -1127,7 +1110,7 @@ the end of his desk, and rested it against the desk, as though he wished
 to keep it in sight. The marks were figures; and Lupin was able to read
 the following subtraction-sum:
 
-   “9 - 8 = 1”
+“9 - 8 = 1”
 
 And Daubrecq, speaking between his teeth, thoughtfully uttered the
 syllables:
@@ -1237,15 +1220,14 @@ importance.
 Without further delay, he opened the letter which Daubrecq had handed
 him for the secretary-general of police. It contained these few lines:
 
- “Within reach of your hand, my dear Prasville, within reach of your
- hand!  You touched it!  A little more and the trick was done... But
- you’re too big a fool.  And to think that they couldn’t hit upon
- any one better than you to make me bite the dust.  Poor old France!
+“Within reach of your hand, my dear Prasville, within reach of your
+hand!  You touched it!  A little more and the trick was done... But
+you’re too big a fool.  And to think that they couldn’t hit upon
+any one better than you to make me bite the dust.  Poor old France!
 
- “Good-bye, Prasville.  But, if I catch you in the act, it will be a
- bad lookout for you: my maxim is to shoot at sight.
+“Good-bye, Prasville.  But, if I catch you in the act, it will be a
+bad lookout for you: my maxim is to shoot at sight.
 
-         “DAUBRECQ”
 
 “Within reach of your hand,” repeated Lupin, after reading the note.
 “And to think that the rogue may be writing the truth! The most
@@ -1257,16 +1239,16 @@ generally.”
 The information supplied to Lupin by a private inquiry-office consisted
 of the following details:
 
-      “ALEXIS DAUBRECQ, deputy of the Bouches-du-Rhone for the past two
- years; sits among the independent members.  Political opinions not
- very clearly defined, but electoral position exceedingly strong,
- because of the enormous sums which he spends in nursing his
- constituency.  No private income.  Nevertheless, has a house in
- Paris, a villa at Enghien and another at Nice and loses heavily at
- play, though no one knows where the money comes from.  Has great
- influence and obtains all he wants without making up to ministers
- or, apparently, having either friends or connections in political
- circles.”
+“ALEXIS DAUBRECQ, deputy of the Bouches-du-Rhone for the past two
+years; sits among the independent members.  Political opinions not
+very clearly defined, but electoral position exceedingly strong,
+because of the enormous sums which he spends in nursing his
+constituency.  No private income.  Nevertheless, has a house in
+Paris, a villa at Enghien and another at Nice and loses heavily at
+play, though no one knows where the money comes from.  Has great
+influence and obtains all he wants without making up to ministers
+or, apparently, having either friends or connections in political
+circles.”
 
 “That’s a trade docket,” said Lupin to himself. “What I want is
 a domestic docket, a police docket, which will tell me about the
@@ -1452,7 +1434,6 @@ Constraining himself to keep his temper, he asked:
 The conclusion was evident. It remained to discover how the visitor had
 been able to effect her theft. By slipping from one window to the other,
 outside the flat? Impossible: Lupin found the window of his room shut.
-By opening the communicating door? Impossible: Lupin found it locked and
 barred with its two inner bolts.
 
 Nevertheless, a person cannot pass through a wall by a mere operation of
@@ -1537,7 +1518,6 @@ whom he had been unable to save from paying the awful penalty...
 
 
 
-CHAPTER III. THE HOME LIFE OF ALEXIS DAUBRECQ
 
 When Daubrecq the deputy came in from lunch on the day after the police
 had searched his house he was stopped by Clemence, his portress, who
@@ -1571,14 +1551,12 @@ and at once burst into lamentations:
 “More of your tricks and nothing but tricks! Why can’t you leave me
 alone, instead of sending me to do your dirty work?”
 
-“How can I help it, you dear old Victoire? [*] When I want a person of
 respectable appearance and incorruptible morals, I think of you. You
 ought to be flattered.”
 
 
-     * See The Hollow Needle by Maurice Leblanc, translated by
-     Alexander Teixeira de Mattos, and later volumes of the Lupin
-     series.
+Alexander Teixeira de Mattos, and later volumes of the Lupin
+series.
 
 “That’s all you care about me!” she cried. “You run me into danger once
 more; and you think it’s funny!”
@@ -1712,14 +1690,14 @@ This time, Lupin had started:
 “Give it here,” he said, snatching the letter from her. The envelope
 bore no address. But there was another, inside it, on which he read:
 
-   “Monsieur Arsene Lupin,
-     c/o Victoire.”
+“Monsieur Arsene Lupin,
+c/o Victoire.”
 
 “The devil!” he said. “This is a bit thick!” He tore open the second
 envelope. It contained a sheet of paper with the following words,
 written in large capitals:
 
-     “Everything you are doing is useless and dangerous... Give it up.”
+“Everything you are doing is useless and dangerous... Give it up.”
 
 Victoire uttered one moan and fainted. As for Lupin, he felt himself
 blush up to his eyes, as though he had been grossly insulted. He
@@ -1971,7 +1949,7 @@ that the deputy had an appointment with a lady for half-past eight and
 that he was going to take her to a theatre:
 
 “I shall get a pit-tier box, like the one we had six weeks ago,”
- Daubrecq had said. And he added, with a laugh, “I hope that I shall not
+Daubrecq had said. And he added, with a laugh, “I hope that I shall not
 have the burglars in during that time.”
 
 There was not a doubt in Lupin’s mind. Daubrecq was about to spend his
@@ -1995,8 +1973,8 @@ The accomplices arrived in a motor-car.
 At that moment, Achille, his man, brought him a telegram, addressed to
 M. Michel Beaumont, Rue Chateaubriand, which ran:
 
- “Do not come to theatre this evening.  Danger of your
-  intervention spoiling everything.”
+“Do not come to theatre this evening.  Danger of your
+intervention spoiling everything.”
 
 There was a flower-vase on the chimney-piece beside him. Lupin took it
 and smashed it to pieces.
@@ -2013,7 +1991,6 @@ into the work.
 
 “Come along,” he said to his accomplices.
 
-By his instructions, the chauffeur set them down near the Square
 Lamartine, but kept the motor going. Lupin foresaw that Daubrecq, in
 order to escape the detectives watching the house, would jump into the
 first taxi; and he did not intend to be outdistanced.
@@ -2309,31 +2286,30 @@ Mechanically, to divert his thoughts, he turned to his correspondence
 and tore the wrapper from an evening paper. Among the late news he found
 the following paragraphs:
 
-   “THE VILLA MARIE-THERESE CASE”
 
-      “The real identity of Vaucheray, one of the alleged
- murderers of Leonard the valet, has at last been ascertained.
- He is a miscreant of the worst type, a hardened criminal who
- has already twice been sentenced for murder, in default, under
- another name.
+“The real identity of Vaucheray, one of the alleged
+murderers of Leonard the valet, has at last been ascertained.
+He is a miscreant of the worst type, a hardened criminal who
+has already twice been sentenced for murder, in default, under
+another name.
 
- “No doubt, the police will end by also discovering the real name
- of his accomplice, Gilbert.  In any event, the examining-magistrate
- is determined to commit the prisoners for trial as soon as possible.
+“No doubt, the police will end by also discovering the real name
+of his accomplice, Gilbert.  In any event, the examining-magistrate
+is determined to commit the prisoners for trial as soon as possible.
 
- “The public will have no reason to complain of the delays of the law.”
+“The public will have no reason to complain of the delays of the law.”
 
 In between other newspapers and prospectuses lay a letter.
 
 Lupin jumped when he saw it. It was addressed:
 
-   “Monsieur de Beaumont, Michel.”
+“Monsieur de Beaumont, Michel.”
 
 “Oh,” he gasped, “a letter from Gilbert!”
 
 It contained these few words:
 
- “Help, governor!... I am frightened. I am frightened...”
+“Help, governor!... I am frightened. I am frightened...”
 
 Once again, Lupin spent a night alternating between sleeplessness and
 nightmares. Once again, he was tormented by atrocious and terrifying
@@ -2341,7 +2317,6 @@ visions.
 
 
 
-CHAPTER IV. THE CHIEF OF THE ENEMIES
 
 “Poor boy!” murmured Lupin, when his eyes fell on Gilbert’s letter next
 morning. “How he must feel it!”
@@ -2438,7 +2413,6 @@ Lupin stood astounded: in his hand lay the crystal stopper.
 solution had thrown him off his balance.
 
 But the fact remained, visible and palpable. He recognized by its shape,
-by its size, by the worn gilding of its facets, recognized beyond any
 possible doubt the crystal stopper which he had seen before. He even
 remarked a tiny, hardly noticeable little scratch on the stem which he
 remembered perfectly.
@@ -2666,7 +2640,6 @@ hand, had not shaken slightly. Some one was coming upstairs.
 And, as the ascent continued, Lupin became aware of the uncanny feeling
 that he heard nothing more than before. He knew, because of the rail,
 that a thing was coming and he could count the number of steps climbed
-by noting each vibration of the rail; but no other indication gave him
 that dim sensation of presence which we feel in distinguishing movements
 which we do not see, in perceiving sounds which we do not hear. And yet
 a blacker darkness ought to have taken shape within the darkness and
@@ -2757,7 +2730,7 @@ streamed from the terrified eyes.
 “Where did you pick that up?” asked Victoire, aghast.
 
 “At the foot of the stairs, as it was coming out of Daubrecq’s bedroom,”
- replied Lupin, feeling the jersey in the hope that the child had brought
+replied Lupin, feeling the jersey in the hope that the child had brought
 a booty of some kind from that room.
 
 Victoire was stirred to pity:
@@ -3010,7 +2983,6 @@ terrified Lupin. She gave a scream of horror, tried to rise and fainted.
 
 
 
-CHAPTER V. THE TWENTY-SEVEN
 
 The child was sleeping peacefully on the bed. The mother did not move
 from the sofa on which Lupin had laid her; but her easier breathing and
@@ -3553,7 +3525,6 @@ row the boats.”
 
 “Yes. On your return from the villa, when you landed after being pursued
 on the lake by the commissary of police, you said a few words to them,
-by way of explanation, as you went to your car. Mad with fright, they
 rushed to my place, where they had been before, and told me the hideous
 news. Gilbert was in prison! Oh, what an awful night! What was I to do?
 Look for you? Certainly; and implore your assistance. But where was I to
@@ -3863,7 +3834,6 @@ strength failed and she fell to the ground, moaning, ‘It’s he... it’s
 that man... all is lost!’ She looked like a madwoman.”
 
 “Suddenly, she put a little bottle to her lips and swallowed the
-contents.”
 
 “What happened next?”
 
@@ -3912,7 +3882,6 @@ car, shouted to the driver:
 
 
 
-CHAPTER VI. THE DEATH-SENTENCE
 
 Lupin’s motor-car was not only an office, a writing-room furnished
 with books, stationery, pens and ink, but also a regular actor’s
@@ -3973,8 +3942,8 @@ is a capital one; for none of us... so far...”
 Concentrating all his attention, he examined the objects in the room;
 and he remembered the note which Daubrecq wrote to Prasville:
 
- “Within reach of your hand, my dear Prasville!...
-  You touched it!  A little more and the trick was done...”
+“Within reach of your hand, my dear Prasville!...
+You touched it!  A little more and the trick was done...”
 
 Nothing seemed to have moved since that day. The same things were lying
 about on the desk: books, account-books, a bottle of ink, a stamp-box,
@@ -4132,7 +4101,7 @@ nature, made him say, with a laugh:
 Daubrecq bowed his head, by way of thanks, and muttered:
 
 “I haven’t quite finished... A little patience, if you don’t mind.”
- And he continued, “Hullo! Prasville!... No, no, old chap, I’m not
+And he continued, “Hullo! Prasville!... No, no, old chap, I’m not
 humbugging... You’ll find Lupin here, with me, in my study... Lupin,
 who’s worrying me like the rest of you... Oh, one more or less makes no
 difference to me! But, all the same, this one’s a bit too pushing. And
@@ -4788,7 +4757,6 @@ surrounding clamour:
 
 A tumult and hustling followed. The municipal guards and the policemen
 rushed into court and laid hold of a big, red-faced man, who was stated
-by his neighbours to be the author of that outburst and who struggled
 hand and foot.
 
 Questioned without delay, he gave his name, Philippe Bonel, an
@@ -4883,7 +4851,6 @@ chance of success lost...
 
 
 
-CHAPTER VII. THE PROFILE OF NAPOLEON
 
 Soon as the prefect of police, the chief of the criminal-investigation
 department and the examining-magistrates had left Daubrecq’s house,
@@ -5449,19 +5416,19 @@ that again is out of the question.”
 He glanced through a few pages of the book. The title of one chapter
 struck him: The Lovers’ Towers. He read the opening lines:
 
- “In the old days, the donjon was known to the people of the
- neighbourhood as the Lovers’ Tower, in memory of a fatal tragedy
- that marked it in the Middle Ages.  The Comte de Mortepierre,
- having received proofs of his wife’s faithlessness, imprisoned
- her in the torture-chamber, where she spent twenty years.  One
- night, her lover, the Sire de Tancarville, with reckless courage,
- set up a ladder in the river and then clambered up the face of
- the cliff till he came to the window of the room.  After filing
- the bars, he succeeded in releasing the woman he loved and
- bringing her down with him by means of a rope.  They both reached
- the top of the ladder, which was watched by his friends, when a
- shot was fired from the patrol-path and hit the man in the
- shoulder.  The two lovers were hurled into space....”
+“In the old days, the donjon was known to the people of the
+neighbourhood as the Lovers’ Tower, in memory of a fatal tragedy
+that marked it in the Middle Ages.  The Comte de Mortepierre,
+having received proofs of his wife’s faithlessness, imprisoned
+her in the torture-chamber, where she spent twenty years.  One
+night, her lover, the Sire de Tancarville, with reckless courage,
+set up a ladder in the river and then clambered up the face of
+the cliff till he came to the window of the room.  After filing
+the bars, he succeeded in releasing the woman he loved and
+bringing her down with him by means of a rope.  They both reached
+the top of the ladder, which was watched by his friends, when a
+shot was fired from the patrol-path and hit the man in the
+shoulder.  The two lovers were hurled into space....”
 
 There was a pause, after he had read this, a long pause during which
 each of them drew a mental picture of the tragic escape. So, three or
@@ -5567,7 +5534,6 @@ peering into the gloom from the Lovers’ Tower, it meant a shot... and
 death.
 
 And he climbed... he climbed... He had climbed so long that he ended
-by imagining that the goal was passed. Beyond a doubt, he had slanted
 unawares to the right or left and he would finish at the patrol-path.
 What a stupid upshot! And what other upshot could there be to an
 attempt which the swift force of events had not allowed him to study and
@@ -5592,7 +5558,6 @@ Lupin crawled along. His head reached the bars. And he saw...
 
 
 
-CHAPTER VIII. THE LOVERS’ TOWER
 
 The torture-chamber showed beneath him. It was a large, irregular room,
 divided into unequal portions by the four wide, massive pillars that
@@ -5731,7 +5696,7 @@ Sebastiani, another turn!”
 
 But his pain was too great. He raised his head with a last effort,
 uttered incoherent words, succeeded in twice saying, “Marie... Marie...”
- and fell back, exhausted and lifeless.
+and fell back, exhausted and lifeless.
 
 “Let go at once!” said d’Albufex to Sebastiani. “Hang it all, can we
 have overdone it?”
@@ -5905,7 +5870,7 @@ things. It’s not those two I must be at, but Daubrecq. He’s done for; he
 has not a kick left in him. If he has told the marquis his secret, there
 is no reason why he shouldn’t tell it to Clarisse and me, when we employ
 the same methods. That’s settled! We’ll kidnap the Daubrecq bird.”
- And he continued, “Besides, what do I risk? If the scheme miscarries,
+And he continued, “Besides, what do I risk? If the scheme miscarries,
 Clarisse and I will rush off to Paris and, together with Prasville,
 organize a careful watch in the Square Lamartine to prevent d’Albufex
 from benefiting by Daubrecq’s revelations. The great thing is for
@@ -5997,12 +5962,11 @@ it.
 
 He read the letter half-aloud:
 
- “Rely implicitly on the bearer of this note.  He has succeeded
- in discovering the marquis’ secret, with the money which we gave
- him, and has contrived a plan of escape.  Everything is prepared
- for your flight.
+“Rely implicitly on the bearer of this note.  He has succeeded
+in discovering the marquis’ secret, with the money which we gave
+him, and has contrived a plan of escape.  Everything is prepared
+for your flight.
 
-       “EUPHRASIE ROUSSELOT”
 
 He read the letter again, repeated, “Euphrasie... Euphrasie...” and
 raised his head once more.
@@ -6042,7 +6006,6 @@ The huntsman brought him a bottle of wine, a glass and some food:
 “How goes it, monsieur le depute?” he cried. “Well, perhaps we did
 squeeze a little hard... It’s very painful, that thumbscrewing. Seems
 they often did it at the time of the Great Revolution and Bonaparte...
-in the days of the chauffeurs. [*] A pretty invention! Nice and clean...
 no bloodshed... And it didn’t last long either! In twenty minutes, you
 came out with the missing word!” Sebastiani burst out laughing. “By the
 way, monsieur le depute, my congratulations! A capital hiding-place. Who
@@ -6053,9 +6016,8 @@ half-finished. We had to know the rest. Say what you like, it’s amusing!
 Just think, on your study-table! Upon my word, what a joke!”
 
 
-     * The name given to the brigands in the Vendee, who tortured
-     their victims with fire to make them confess where their
-     money was hidden.--Translator’s Note.
+their victims with fire to make them confess where their
+money was hidden.--Translator’s Note.
 
 
 The huntsman rose and walked up and down the room, rubbing his hands:
@@ -6269,7 +6231,6 @@ abyss.
 
 
 
-CHAPTER IX. IN THE DARK
 
 An hotel bedroom at Amiens.
 
@@ -6870,13 +6831,13 @@ cut about with scissors?”
 
 The letter contained the following lines:
 
- “Daubrecq has spent the week at the Hotel Central.  This morning
- he had his luggage taken to the Gare de ---  and telephoned to
- reserve a berth in the sleeping-car --- for ---
+“Daubrecq has spent the week at the Hotel Central.  This morning
+he had his luggage taken to the Gare de ---  and telephoned to
+reserve a berth in the sleeping-car --- for ---
 
- “I do not know when the train starts.  But I shall be at the
- station all the afternoon.  Come as soon as you can, all three
- of you.  We will arrange to kidnap him.”
+“I do not know when the train starts.  But I shall be at the
+station all the afternoon.  Come as soon as you can, all three
+of you.  We will arrange to kidnap him.”
 
 “What next?” said the Masher. “At which station? And where’s the
 sleeping-car for? She has cut out just the words we wanted!”
@@ -6927,15 +6888,13 @@ stood up and said:
 
 “I am sure of nothing with Daubrecq. But, as we have to choose,
 according to the contents of the letter, between the Gare de l’Est and
-the Gare de Lyon, [*] I am presuming that his business, his pleasure
 and his health are more likely to take Daubrecq in the direction of
 Marseilles and the Riviera than to the Gare de l’Est.”
 
-     * These are the only two main-line stations in Paris with the
-     word de in their name.  The others have du, as the Gare du
-     Nord or the Gare du Luxembourg, d’ as the Gare d’Orleans, or
-     no participle at all, as the Gare Saint-Lazare or the Gare
-     Montparnasse.--Translator’s Note.
+word de in their name.  The others have du, as the Gare du
+Nord or the Gare du Luxembourg, d’ as the Gare d’Orleans, or
+no participle at all, as the Gare Saint-Lazare or the Gare
+Montparnasse.--Translator’s Note.
 
 It was past seven when Lupin and his companions left the Hotel Franklin.
 A motor-car took them across Paris at full speed, but they soon saw that
@@ -7028,7 +6987,6 @@ Clarisse. They had not.
 He had, therefore, to set to work and hunt through all the hotels and
 lodging-houses in the principality. Oh, the time wasted!
 
-By the following evening, Lupin knew, beyond a doubt, that Daubrecq and
 Clarisse were not at Monte Carlo, nor at Monaco, nor at the Cap d’Ail,
 nor at La Turbie, nor at Cap Martin.
 
@@ -7037,10 +6995,9 @@ nor at La Turbie, nor at Cap Martin.
 At last, on the Saturday, he received, at the poste restante, a telegram
 which had been readdressed from the Hotel Franklin and which said:
 
- “He got out at Cannes and is going on to San Remo, Hotel Palace
- des Ambassadeurs.
+“He got out at Cannes and is going on to San Remo, Hotel Palace
+des Ambassadeurs.
 
-         “CLARISSE.”
 
 The telegram was dated the day before.
 
@@ -7105,7 +7062,6 @@ and Vaucheray.
 
 
 
-CHAPTER X. EXTRA-DRY?
 
 On one of the hills that girdle Nice with the finest scenery in the
 world, between the Vallon de Saint-Silvestre and the Vallon de La
@@ -7180,7 +7136,6 @@ He grinned:
 “No, you’re out of it, dear friend. As the children say, you’re not
 ‘burning’ at all. Oh, not a bit of it! And it’s so easy! Shall I help
 you? It’s next to you, dear friend, on that little table... And yet,
-by Jove, there’s not much on that little table! Something to read,
 something to write with, something to smoke, something to eat... and
 that’s all... Will you have one of these candied fruits?... Or perhaps
 you would rather wait for the more substantial meal which I have
@@ -7277,7 +7232,7 @@ on, as he produced a telegram:
 
 She gave a yell of dismay. She had read:
 
- “Execution on Tuesday morning.”
+“Execution on Tuesday morning.”
 
 And she at once flung herself on Daubrecq, crying:
 
@@ -7550,7 +7505,6 @@ Clarisse turned her face. Two revolver-barrels, pointed at Daubrecq,
 showed on the right, a little above the chair. She saw only that: those
 two huge, formidable revolvers, gripped in two clenched hands. She saw
 only that and also Daubrecq’s face, which fear was discolouring little
-by little, until it turned livid. And, almost at the same time, some one
 slipped behind Daubrecq, sprang up fiercely, flung one of his arms round
 Daubrecq’s neck, threw him to the ground with incredible violence and
 applied a pad of cotton-wool to his face. A sudden smell of chloroform
@@ -7711,7 +7665,6 @@ Dry champagne? Extra-dry?”
 
 
 
-CHAPTER XI. THE CROSS OF LORRAINE
 
 The moment Lupin had finished lunch, he at once and, so to speak,
 without transition, recovered all his mastery and authority. The
@@ -7842,12 +7795,11 @@ feel at all sick, don’t mind... Off you go, Masher!”
 He watched the car move into the distance and then told the cabman to
 drive to a post-office, where he dispatched a telegram in these words:
 
- “M. Prasville, Prefecture de Police, Paris:
+“M. Prasville, Prefecture de Police, Paris:
 
- “Person found.  Will bring you document eleven o’clock
- to-morrow morning.  Urgent communication.
+“Person found.  Will bring you document eleven o’clock
+to-morrow morning.  Urgent communication.
 
-        “CLARISSE.”
 
 Clarisse and Lupin reached the station by half-past two.
 
@@ -7948,7 +7900,6 @@ of Maryland, a band put on, gummed, sealed, stamped and dated by the
 State, under the control of the Inland Revenue Office? Only think! The
 State the accomplice of such an act of infamy! The Inland R-r-r-revenue
 Awfice lending itself to such a trick! No, a thousand times no!
-The Regie [*] is not perfect. It makes matches that won’t light and
 cigarettes filled with hay. But there’s all the difference in the world
 between recognizing that fact and believing the Inland Revenue to be
 in league with Daubrecq with the object of hiding the list of the
@@ -7973,9 +7924,8 @@ But to Clarisse these topics mattered much less than did her anxiety as
 to the acts which must be performed to save her son; and she sat wrapped
 in her own thoughts and hardly listened to him.
 
-     * The department of the French excise which holds the
-     monopoly for the manufacture and sale of tobacco, cigars,
-     cigarettes and matches--Translator’s Note.
+monopoly for the manufacture and sale of tobacco, cigars,
+cigarettes and matches--Translator’s Note.
 
 
 “Are you sure,” she kept on repeating, “that you will succeed?”
@@ -8022,8 +7972,8 @@ and stating that all was going well and that they hoped to keep their
 appointment punctually that evening. The other was from Prasville, dated
 from the Havre and addressed to Clarisse:
 
- “Impossible return to-morrow Monday morning.  Come to my office
- five o’clock.  Reckon on you absolutely.”
+“Impossible return to-morrow Monday morning.  Come to my office
+five o’clock.  Reckon on you absolutely.”
 
 “Five o’clock!” said Clarisse. “How late!”
 
@@ -8067,12 +8017,11 @@ Lupin rang for his servant:
 
 Lupin opened one of them and at once read the following lines:
 
-   “ARSENE LUPIN’S ACCOMPLICES”
 
-  “We know from a positive source that Arsene Lupin’s
-  accomplices, Gilbert and Vaucheray, will be executed
-  to-morrow, Tuesday, morning. M. Deibler has inspected
-  the scaffold.  Everything is ready.”
+“We know from a positive source that Arsene Lupin’s
+accomplices, Gilbert and Vaucheray, will be executed
+to-morrow, Tuesday, morning. M. Deibler has inspected
+the scaffold.  Everything is ready.”
 
 He raised his head with a defiant look.
 
@@ -8443,7 +8392,6 @@ likes.”
 Prasville continued his examination with the aid of a magnifying-glass
 and compared the sheet with the scrap of torn paper. Next, he took from
 the cash-box some other sheets of letter-paper and examined one of these
-by holding it up to the light:
 
 “That’s done,” he said. “My mind is made up. Forgive me, dear friend: it
 was a very difficult piece of work.... I passed through various stages.
@@ -8493,11 +8441,9 @@ the chairman of the Canal Company, of which there are a few samples in
 this cash-box. Now all these samples have as a water-mark a little cross
 of Lorraine which is almost invisible, but which can just be seen in the
 thickness of the paper when you hold it up to the light. The sheet which
-you have brought me does not contain that little cross of Lorraine.” [*]
 
-     * The Cross of Lorraine is a cross with two horizontal lines
-     or bars across the upper half of the perpendicular beam.
-     --Translator’s Note.
+or bars across the upper half of the perpendicular beam.
+--Translator’s Note.
 
 Lupin felt a nervous trembling shake him from head to foot and he dared
 not turn his eyes on Clarisse, realizing what a terrible blow this was
@@ -8653,7 +8599,6 @@ secretaire-general.”
 
 
 
-CHAPTER XII. THE SCAFFOLD
 
 “I will save him, I will save him,” Lupin repeated, without ceasing, in
 the taxicab in which he and Clarisse drove away. “I swear that I will
@@ -8734,42 +8679,42 @@ after.”
 He glanced through the paper, which was still clutched in Clarisse’
 hand, and read the following lines:
 
- “The strictest measures have been taken to keep order at the
- execution of Gilbert and Vaucheray, lest Arsene Lupin should make
- an attempt to rescue his accomplices from the last penalty. At
- twelve o’clock to-night a cordon of troops will be drawn across
- all the approaches to the Sante Prison.  As already stated, the
- execution will take place outside the prison-walls, in the square
- formed by the Boulevard Arago and the Rue de la Sante.
+“The strictest measures have been taken to keep order at the
+execution of Gilbert and Vaucheray, lest Arsene Lupin should make
+an attempt to rescue his accomplices from the last penalty. At
+twelve o’clock to-night a cordon of troops will be drawn across
+all the approaches to the Sante Prison.  As already stated, the
+execution will take place outside the prison-walls, in the square
+formed by the Boulevard Arago and the Rue de la Sante.
 
- “We have succeeded in obtaining some details of the attitude of
- the two condemned men.  Vaucheray observes a stolid sullenness and
- is awaiting the fatal event with no little courage:
+“We have succeeded in obtaining some details of the attitude of
+the two condemned men.  Vaucheray observes a stolid sullenness and
+is awaiting the fatal event with no little courage:
 
- “‘Crikey,’ he says, ‘I can’t say I’m delighted; but I’ve got to
- go through it and I shall keep my end up.’  And he adds, ‘Death
- I don’t care a hang about!  What worries me is the thought that
- they’re going to cut my head off.  Ah, if the governor could only
- hit on some trick to send me straight off to the next world before
- I had time to say knife! A drop of Prussic acid, governor, if you
- please!’
+“‘Crikey,’ he says, ‘I can’t say I’m delighted; but I’ve got to
+go through it and I shall keep my end up.’  And he adds, ‘Death
+I don’t care a hang about!  What worries me is the thought that
+they’re going to cut my head off.  Ah, if the governor could only
+hit on some trick to send me straight off to the next world before
+I had time to say knife! A drop of Prussic acid, governor, if you
+please!’
 
- “Gilbert’s calmness is even more impressive, especially when we
- remember how he broke down at the trial.  He retains an unshaken
- confidence in the omnipotence of Arsene Lupin:
+“Gilbert’s calmness is even more impressive, especially when we
+remember how he broke down at the trial.  He retains an unshaken
+confidence in the omnipotence of Arsene Lupin:
 
- “‘The governor shouted to me before everybody not to be afraid,
- that he was there, that he answered for everything.  Well, I’m not
- afraid.  I shall rely on him until the last day, until the last
- minute, at the very foot of the scaffold.  I know the governor!
- There’s no danger with him.  He has promised and he will keep his
- word.  If my head were off, he’d come and clap it on my shoulders
- and firmly!  Arsene Lupin allow his chum Gilbert to die?  Not he!
- Excuse my humour!’
+“‘The governor shouted to me before everybody not to be afraid,
+that he was there, that he answered for everything.  Well, I’m not
+afraid.  I shall rely on him until the last day, until the last
+minute, at the very foot of the scaffold.  I know the governor!
+There’s no danger with him.  He has promised and he will keep his
+word.  If my head were off, he’d come and clap it on my shoulders
+and firmly!  Arsene Lupin allow his chum Gilbert to die?  Not he!
+Excuse my humour!’
 
- “There is a certain touching frankness in all this enthusiasm
- which is not without a dignity of its own.  We shall see if Arsene
- Lupin deserves the confidence so blindly placed in him.”
+“There is a certain touching frankness in all this enthusiasm
+which is not without a dignity of its own.  We shall see if Arsene
+Lupin deserves the confidence so blindly placed in him.”
 
 Lupin was hardly able to finish reading the article for the tears that
 dimmed his eyes: tears of affection, tears of pity, tears of distress.
@@ -8806,8 +8751,8 @@ And his persuasion of his own helplessness was so deep, so definite that
 he felt no shock of any kind on receiving a telegram from the Masher
 that said:
 
- “Motor accident.  Essential part broken.  Long repair.
-  Arrive to-morrow morning.”
+“Motor accident.  Essential part broken.  Long repair.
+Arrive to-morrow morning.”
 
 It was a last proof to show that fate had uttered its decree. He no
 longer thought of rebelling against the decision.
@@ -8822,7 +8767,7 @@ Then he stretched himself on a couch and rang for his man:
 “Go to bed, Achille, and don’t wake me on any pretence whatever.”
 
 “Then there’s nothing to be done for Gilbert and Vaucheray, governor?”
- said Achille.
+said Achille.
 
 “Nothing.”
 
@@ -8848,7 +8793,6 @@ whole staff of police-magistrates, officers and functionaries, brought
 together for the occasion, moved about among the troops.
 
 The guillotine was set up in silence, in the middle of the square formed
-by the boulevard and the street; and the sinister sound of hammering was
 heard.
 
 But, at five o’clock, the crowd gathered, notwithstanding the rain, and
@@ -9233,13 +9177,12 @@ And he walked away, mumbling, with an air of amazement:
 
 The visiting-card which he held in his hand bore these words:
 
-     M. Nicole,
+M. Nicole,
 
-      Master of Arts, Private Tutor.
+Master of Arts, Private Tutor.
 
 
 
-CHAPTER XIII. THE LAST BATTLE
 
 When Prasville returned to his office he saw M. Nicole sitting on a
 bench in the waiting-room, with his bent back, his ailing air, his
@@ -9895,7 +9838,6 @@ to the papers this evening.”
 “Oh, so you had them on you?” said Prasville.
 
 “I felt so certain, monsieur le secretaire-general, that we should end
-by coming to an understanding.”
 
 He took from his hat a fat envelope, sealed with five red seals, which
 was pinned inside the lining, and handed it to Prasville, who thrust it
@@ -10262,10 +10204,8 @@ You don’t know the story? Well, it’s worth hearing.”
 And, straightway, Lupin, who was in a confidential vein, began to tell
 me the story of his marriage to Angelique de Sarzeau-Vendome, Princesse
 de Bourbon-Conde, to-day Sister Marie-Auguste, a humble nun in the
-Visitation Convent... [*]
 
-     * See The Confessions of Arsene Lupin By Maurice Leblanc
-     Translated by Alexander Teixeira de Mattos
+Translated by Alexander Teixeira de Mattos
 
 But, after the first few words, he stopped, as though his narrative had
 suddenly ceased to interest him, and he remained pensive.

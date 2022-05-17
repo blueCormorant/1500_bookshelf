@@ -1,83 +1,13 @@
 
-
-
-
-
-
-THE SKETCH BOOK OF GEOFFREY CRAYON, GENT.
-
-
-By Washington Irving
-
-
-
-
-CONTENTS:
-
-  Preface
-  The Author’s Account of Himself
-  The Voyage
-  Roscoe
-  The Wife
-  Rip Van Winkle
-  English Writers on America
-  Rural Life in England
-  The Broken Heart
-  The Art of Book-making
-  A Royal Poet
-  The Country Church
-  The Widow and her Son
-  A Sunday in London
-  The Boar’s Head Tavern
-  The Mutability of Literature
-  Rural Funerals
-  The Inn Kitchen
-  The Spectre Bridegroom
-  Westminster Abbey
-  Christmas
-  The Stage-Coach
-  Christmas Eve
-  Christmas Day
-  The Christmas Dinner
-  London Antiques
-  Little Britain
-  Statford-on-Avon
-  Traits of Indian Character
-  Philip of Pokanoket
-  John Bull
-  The Pride of the Village
-  The Angler
-  The Legend of Sleepy Hollow
-  L’Envoy
-
-
-
-
-THE SKETCH-BOOK OF GEOFFREY CRAYON, GENT.
-
-
-“I have no wife nor children, good or bad, to provide for. A mere
-spectator of other men’s fortunes and adventures, and how they play
-their parts; which, methinks, are diversely presented unto me, as from a
-common theatre or scene.”--BURTON.
-
-
-
-
-PREFACE TO THE REVISED EDITION.
-
-
 THE following papers, with two exceptions, were written in England, and
 formed but part of an intended series for which I had made notes and
 memorandums. Before I could mature a plan, however, circumstances
 compelled me to send them piecemeal to the United States, where they
 were published from time to time in portions or numbers. It was not my
 intention to publish them in England, being conscious that much of their
-contents could be interesting only to American readers, and, in truth,
 being deterred by the severity with which American productions had been
 treated by the British press.
 
-By the time the contents of the first volume had appeared in this
 occasional manner, they began to find their way across the Atlantic,
 and to be inserted, with many kind encomiums, in the London Literary
 Gazette. It was said, also, that a London bookseller intended to publish
@@ -108,9 +38,8 @@ without which I really feel no satisfaction in engaging--but I will
 do all I can to promote their circulation, and shall be most ready to
 attend to any future plan of yours.
 
-    With much regard, I remain, dear sir,
-                     Your faithful servant,
-                                 JOHN MURRAY.
+With much regard, I remain, dear sir,
+Your faithful servant,
 
 This was disheartening, and might have deterred me from any further
 prosecution of the matter, had the question of republication in Great
@@ -122,7 +51,6 @@ Mr.) Scott, being encouraged to do so by the cordial reception I had
 experienced from him at Abbotsford a few years previously, and by the
 favorable opinion he had expressed to others of my earlier writings. I
 accordingly sent him the printed numbers of the Sketch-Book in a parcel
-by coach, and at the same time wrote to him, hinting that since I had
 had the pleasure of partaking of his hospitality, a reverse had taken
 place in my affairs which made the successful exercise of my pen
 all-important to me; I begged him, therefore, to look over the literary
@@ -177,7 +105,7 @@ have myself.”
 I then went on to explain that I found myself peculiarly unfitted for
 the situation offered to me, not merely by my political opinions, but by
 the very constitution and habits of my mind. “My whole course of life,”
- I observed, “has been desultory, and I am unfitted for any periodically
+I observed, “has been desultory, and I am unfitted for any periodically
 recurring task, or any stipulated labor of body or mind. I have no
 command of my talents, such as they are, and have to watch the varyings
 of my mind as I would those of a weathercock. Practice and training
@@ -210,28 +138,26 @@ attention. Or, if you think it of consequence in the first place to
 see me, I shall be in London in the course of a month, and whatever my
 experience can command is most heartily at your command. But I can add
 little to what I have said above, except my earnest recommendation to
-Constable to enter into the negotiation.” *
 
 
-     * I cannot avoid subjoining in a note a succeeding paragraph
-     of Scott’s letter, which, though it does not relate to the
-     main subject of our correspondence, was too characteristic
-     to be omitted. Some time previously I had sent Miss Sophia
-     Scott small duodecimo American editions of her father’s
-     poems published in Edinburgh in quarto volumes; showing the
-     “nigromancy” of the American press, by which a quart of wine
-     is conjured into a pint bottle. Scott observes: “In my
-     hurry, I have not thanked you in Sophia’s name for the kind
-     attention which furnished her with the American volumes. I
-     am not quite sure I can add my own, since you have made her
-     acquainted with much more of papa’s folly than she would
-     ever otherwise have learned; for I had taken special care
-     they should never see any of those things during their
-     earlier years. I think I have told you that Walter is
-     sweeping the firmament with a feather like a maypole and
-     indenting the pavement with a sword like a scythe--in other
-     words, he has become a whiskered hussar in the 18th
-     Dragoons.”
+of Scott’s letter, which, though it does not relate to the
+main subject of our correspondence, was too characteristic
+to be omitted. Some time previously I had sent Miss Sophia
+Scott small duodecimo American editions of her father’s
+poems published in Edinburgh in quarto volumes; showing the
+“nigromancy” of the American press, by which a quart of wine
+is conjured into a pint bottle. Scott observes: “In my
+hurry, I have not thanked you in Sophia’s name for the kind
+attention which furnished her with the American volumes. I
+am not quite sure I can add my own, since you have made her
+acquainted with much more of papa’s folly than she would
+ever otherwise have learned; for I had taken special care
+they should never see any of those things during their
+earlier years. I think I have told you that Walter is
+sweeping the firmament with a feather like a maypole and
+indenting the pavement with a sword like a scythe--in other
+words, he has become a whiskered hussar in the 18th
+Dragoons.”
 
 
 Before the receipt of this most obliging letter, however, I had
@@ -260,8 +186,8 @@ my family. My faithful friend Knickerbocker is to be next examined and
 illustrated. Constable was extremely willing to enter into consideration
 of a treaty for your works, but I foresee will be still more so when
 
-    Your name is up, and may go
-    From Toledo to Madrid.
+Your name is up, and may go
+From Toledo to Madrid.
 
 “----And that will soon be the case. I trust to be in London about the
 middle of the month, and promise myself great pleasure in once again
@@ -293,19 +219,15 @@ golden-hearted man in acknowledging my obligations to him. But who of
 his literary contemporaries ever applied to him for aid or counsel that
 did not experience the most prompt, generous, and effectual assistance?
 
-W. I.
-
-SUNNYSIDE, 1848.
 
 
 
 
-THE SKETCH BOOK.
 
 
 
 
-THE AUTHOR’S ACCOUNT OF HIMSELF
+
 
 I am of this mind with Homer, that as the snaile that crept out of her
 shel was turned eftsoones into a toad I and thereby was forced to make a
@@ -405,19 +327,17 @@ in his whole collection.
 
 
 
-THE VOYAGE.
 
-        Ships, ships, I will descrie you
-          Amidst the main,
-        I will come and try you,
-        What you are protecting,
-        And projecting,
-          What’s your end and aim.
-    One goes abroad for merchandise and trading,
-    Another stays to keep his country from invading,
-    A third is coming home with rich and wealthy lading.
-    Hallo! my fancie, whither wilt thou go?
-                                           OLD POEM.
+Ships, ships, I will descrie you
+Amidst the main,
+I will come and try you,
+What you are protecting,
+And projecting,
+What’s your end and aim.
+One goes abroad for merchandise and trading,
+Another stays to keep his country from invading,
+A third is coming home with rich and wealthy lading.
+Hallo! my fancie, whither wilt thou go?
 
 To an American visiting Europe, the long voyage he has to make is an
 excellent preparative. The temporary absence of worldly scenes and
@@ -628,14 +548,12 @@ in the land.
 
 
 
-ROSCOE.
 
-    ----In the service of mankind to be
-    A guardian god below; still to employ
-    The mind’s brave ardor in heroic aims,
-    Such as may raise us o’er the grovelling herd,
-    And make us shine for ever--that is life.
-                                            THOMSON.
+----In the service of mankind to be
+A guardian god below; still to employ
+The mind’s brave ardor in heroic aims,
+Such as may raise us o’er the grovelling herd,
+And make us shine for ever--that is life.
 
 ONE of the first places to which a stranger is taken in Liverpool is
 the Athenaeum. It is established on a liberal and judicious plan; it
@@ -733,7 +651,6 @@ merely in the channels of traffic; he has diverted from it invigorating
 rills to refresh the garden of literature. By his own example and
 constant exertions, he has effected that union of commerce and the
 intellectual pursuits, so eloquently recommended in one of his latest
-writings;* and has practically proved how beautifully they may be
 brought to harmonize, and to benefit each other. The noble institutions
 for literary and scientific purposes, which reflect such credit on
 Liverpool, and are giving such an impulse to the public mind, have
@@ -745,7 +662,6 @@ of mental improvement among its inhabitants, he has effected a great
 benefit to the cause of British literature.
 
 
-     * Address on the opening of the Liverpool Institution.
 
 
 In America, we know Mr. Roscoe only as the author; in Liverpool he is
@@ -846,37 +762,34 @@ to the pure feeling and elevated thought here displayed, it is the
 conviction, that the who leis no effusion of fancy, but a faithful
 transcript from the writer’s heart.
 
-                TO MY BOOKS.
 
-  As one who, destined from his friends to part,
-    Regrets his loss, but hopes again erewhile
-    To share their converse and enjoy their smile,
-  And tempers as he may affliction’s dart;
+As one who, destined from his friends to part,
+Regrets his loss, but hopes again erewhile
+To share their converse and enjoy their smile,
+And tempers as he may affliction’s dart;
 
-  Thus, loved associates, chiefs of elder art,
-    Teachers of wisdom, who could once beguile
-    My tedious hours, and lighten every toil,
-  I now resign you; nor with fainting heart;
+Thus, loved associates, chiefs of elder art,
+Teachers of wisdom, who could once beguile
+My tedious hours, and lighten every toil,
+I now resign you; nor with fainting heart;
 
-  For pass a few short years, or days, or hours,
-    And happier seasons may their dawn unfold,
-    And all your sacred fellowship restore:
-  When, freed from earth, unlimited its powers.
-  Mind shall with mind direct communion hold,
-   And kindred spirits meet to part no more.
-
+For pass a few short years, or days, or hours,
+And happier seasons may their dawn unfold,
+And all your sacred fellowship restore:
+When, freed from earth, unlimited its powers.
+Mind shall with mind direct communion hold,
+And kindred spirits meet to part no more.
 
 
 
-THE WIFE.
 
-    The treasures of the deep are not so precious
-    As are the concealed comforts of a man
-    Lock’d up in woman’s love. I scent the air
-    Of blessings, when I came but near the house,
-    What a delicious breath marriage sends forth--
-    The violet bed’s no sweeter!
-                                         MIDDLETON.
+
+The treasures of the deep are not so precious
+As are the concealed comforts of a man
+Lock’d up in woman’s love. I scent the air
+Of blessings, when I came but near the house,
+What a delicious breath marriage sends forth--
+The violet bed’s no sweeter!
 
 I HAVE often had occasion to remark the fortitude with which women
 sustain the most overwhelming reverses of fortune. Those disasters which
@@ -1147,18 +1060,13 @@ exquisite felicity.
 
 
 
-RIP VAN WINKLE.
 
-A POSTHUMOUS WRITING OF DIEDRICH KNICKERBOCKER.
 
-    By Woden, God of Saxons,
-    From whence comes Wensday, that is Wodensday,
-    Truth is a thing that ever I will keep
-    Unto thylke day in which I creep into
-    My sepulchre--
-                                        CARTWRIGHT.
+From whence comes Wensday, that is Wodensday,
+Truth is a thing that ever I will keep
+Unto thylke day in which I creep into
+My sepulchre--
 
-[The following Tale was found among the papers of the late Diedrich
 Knickerbocker, an old gentleman of New York, who was very curious in the
 Dutch History of the province and the manners of the descendants from
 its primitive settlers. His historical researches, however, did not lie
@@ -1335,7 +1243,6 @@ Vedder, a patriarch of the village, and landlord of the inn, at the
 door of which he took his seat from morning till night, just moving
 sufficiently to avoid the sun, and keep in the shade of a large tree; so
 that the neighbors could tell the hour by his movements as accurately as
-by a sun-dial. It is true, he was rarely heard to speak, but smoked his
 pipe incessantly. His adherents, however (for every great man has
 his adherents), perfectly understood him, and knew how to gather his
 opinions. When any thing that was read or related displeased him, he was
@@ -1456,11 +1363,9 @@ As Rip and his companion approached them, they suddenly desisted from
 their play, and stared at him with such a fixed statue-like gaze, and
 such strange uncouth, lack-lustre countenances, that his heart turned
 within him, and his knees smote together. His companion now emptied the
-contents of the keg into large flagons, and made signs to him to wait
 upon the company. He obeyed with fear and trembling; they quaffed the
 liquor in profound silence, and then returned to their game.
 
-By degrees, Rip’s awe and apprehension subsided. He even ventured, when
 no eye was fixed upon him, to taste the beverage which he found had much
 of the flavor of excellent Hollands. He was naturally a thirsty soul,
 and was soon tempted to repeat the draught. One taste provoked another;
@@ -1766,7 +1671,6 @@ Doolittle’s hotel. He was observed, at first, to vary on some points
 every time he told it, which was, doubtless, owing to his having so
 recently awaked. It at last settled down precisely to the tale I have
 related, and not a man, woman, or child in the neighborhood, but knew it
-by heart. Some always pretended to doubt the reality of it, and insisted
 that Rip had been out of his head, and that this was one point on which
 he always remained flighty. The old Dutch inhabitants, however, almost
 universally gave it full credit. Even to this day, they never hear a
@@ -1776,7 +1680,6 @@ a common wish of all henpecked husbands in the neighborhood, when life
 hangs heavy on their hands, that they might have a quieting draught out
 of Rip Van Winkle’s flagon.
 
-NOTE.
 
 The foregoing tale, one would suspect, had been suggested to Mr.
 Knickerbocker by a little German superstition about the Emperor
@@ -1797,9 +1700,7 @@ have seen a certificate on the subject taken before a country justice,
 and signed with cross, in the justice’s own handwriting. The story,
 therefore, is beyond the possibility of doubt.
 
-“D. K.”
 
-POSTSCRIPT.
 
 The following are travelling notes from a memorandum-book of Mr.
 Knickerbocker:
@@ -1845,18 +1746,15 @@ of his retreat he let it fall among the rocks, when a great stream
 gushed forth, which washed him away and swept him down precipices, where
 he was dished to pieces, and the stream made its way to the Hudson, and
 continues to flow to the present day, being the identical stream known
-by the name of the Kaaterskill.
 
 
 
 
-ENGLISH WRITERS ON AMERICA.
 
 Methinks I see in my mind a noble and puissant nation, rousting herself
 like a strong man after sleep, and shaking her invincible locks;
 methinks I see her as an eagle, mewing her mighty youth, and kindling
 her endazzled eyes at the full mid-day beam.--MILTON ON THE LIBERTY OF
-THE PRESS.
 
 IT is with feelings of deep regret that I observe the literary animosity
 daily growing up between England and America. Great curiosity has been
@@ -2169,12 +2067,10 @@ character.
 
 
 
-RURAL LIFE IN ENGLAND.
 
-    Oh! friendly to the best pursuits of man,
-    Friendly to thought, to virtue and to peace,
-    Domestic life in rural pleasures past!
-                                          COWPER.
+Oh! friendly to the best pursuits of man,
+Friendly to thought, to virtue and to peace,
+Domestic life in rural pleasures past!
 
 THE stranger who would form a correct opinion of the English character,
 must not confine his observations to the metropolis. He must go forth
@@ -2398,38 +2294,34 @@ and purest enjoyments; and I cannot close these desultory remarks
 better, than by quoting the words of a modern English poet, who has
 depicted it with remarkable felicity:
 
-    Through each gradation, from the castled hall,
-    The city dome, the villa crowned with shade,
-    But chief from modest mansions numberless,
-    In town or hamlet, shelt’ring middle life,
-    Down to the cottaged vale, and straw-roof’d shed;
-    This western isle has long been famed for scenes
-    Where bliss domestic finds a dwelling-place;
-    Domestic bliss, that, like a harmless dove,
-    (Honor and sweet endearment keeping guard,)
-    Can centre in a little quiet nest
-    All that desire would fly for through the earth;
-    That can, the world eluding, be itself
-    A world enjoyed; that wants no witnesses
-    But its own sharers, and approving Heaven;
-    That, like a flower deep hid in rock cleft,
-    Smiles, though ‘t is looking only at the sky.*
+Through each gradation, from the castled hall,
+The city dome, the villa crowned with shade,
+But chief from modest mansions numberless,
+In town or hamlet, shelt’ring middle life,
+Down to the cottaged vale, and straw-roof’d shed;
+This western isle has long been famed for scenes
+Where bliss domestic finds a dwelling-place;
+Domestic bliss, that, like a harmless dove,
+(Honor and sweet endearment keeping guard,)
+Can centre in a little quiet nest
+All that desire would fly for through the earth;
+That can, the world eluding, be itself
+A world enjoyed; that wants no witnesses
+But its own sharers, and approving Heaven;
+That, like a flower deep hid in rock cleft,
 
 
-     * From a poem on the death of the Princess Charlotte, by the
-     Reverend Rann Kennedy, A.M.
-
+Reverend Rann Kennedy, A.M.
 
 
 
 
-THE BROKEN HEART.
 
-                                  I never heard
-    Of any true affection, but ‘t was nipt
-    With care, that, like the caterpillar, eats
-    The leaves of the spring’s sweetest book, the rose.
-                                            MIDDLETON.
+
+I never heard
+Of any true affection, but ‘t was nipt
+With care, that, like the caterpillar, eats
+The leaves of the spring’s sweetest book, the rose.
 
 IT is a common practice with those who have outlived the susceptibility
 of early feeling, or have been brought up in the gay heartlessness of
@@ -2491,7 +2383,7 @@ under the slightest external injury. Look for her, after a little while,
 and you find friendship weeping over her untimely grave, and wondering
 that one, who but lately glowed with all the radiance of health and
 beauty, should so speedily be brought down to “darkness and the worm.”
- You will be told of some wintry chill, some casual indisposition, that
+You will be told of some wintry chill, some casual indisposition, that
 laid her low;--but no one knows of the mental malady which previously
 sapped her strength, and made her so easy a prey to the spoiler.
 
@@ -2602,30 +2494,29 @@ grave, the victim of a broken heart.
 It was on her that Moore, the distinguished Irish poet, composed the
 following lines:
 
-    She is far from the land where her young hero sleeps,
-        And lovers around her are sighing:
-    But coldly she turns from their gaze, and weeps,
-        For her heart in his grave is lying.
+She is far from the land where her young hero sleeps,
+And lovers around her are sighing:
+But coldly she turns from their gaze, and weeps,
+For her heart in his grave is lying.
 
-    She sings the wild song of her dear native plains,
-        Every note which he loved awaking--
-    Ah! little they think, who delight in her strains,
-        How the heart of the minstrel is breaking!
+She sings the wild song of her dear native plains,
+Every note which he loved awaking--
+Ah! little they think, who delight in her strains,
+How the heart of the minstrel is breaking!
 
-    He had lived for his love--for his country he died,
-        They were all that to life had entwined him--
-    Nor soon shall the tears of his country be dried,
-        Nor long will his love stay behind him!
+He had lived for his love--for his country he died,
+They were all that to life had entwined him--
+Nor soon shall the tears of his country be dried,
+Nor long will his love stay behind him!
 
-    Oh! make her a grave where the sunbeams rest,
-        When they promise a glorious morrow;
-    They’ll shine o’er her sleep, like a smile from the west,
-        From her own loved island of sorrow!
-
-
+Oh! make her a grave where the sunbeams rest,
+When they promise a glorious morrow;
+They’ll shine o’er her sleep, like a smile from the west,
+From her own loved island of sorrow!
 
 
-THE ART OF BOOK-MAKING.
+
+
 
 If that severe doom of Synesius be true,--“It is a greater offence to
 steal dead men’s labor, than their clothes,”--what shall become of most
@@ -2767,7 +2658,6 @@ authors, but that the number was increased. The long tables had
 disappeared, and, in place of the sage magi, I beheld a ragged,
 threadbare throng, such as may be seen plying about the great repository
 of cast-off clothes, Monmouth Street. Whenever they seized upon a book,
-by one of those incongruities common to dreams, methought it turned into
 a garment of foreign or antique fashion, with which they proceeded to
 equip themselves. I noticed, however, that no one pretended to clothe
 himself from any particular suit, but took a sleeve from one, a cape
@@ -2861,15 +2751,13 @@ of authors let loose upon me.
 
 
 
-A ROYAL POET.
 
-    Though your body be confined
-        And soft love a prisoner bound,
-    Yet the beauty of your mind
-        Neither check nor chain hath found.
-            Look out nobly, then, and dare
-            Even the fetters that you wear.
-                                               FLETCHER.
+Though your body be confined
+And soft love a prisoner bound,
+Yet the beauty of your mind
+Neither check nor chain hath found.
+Look out nobly, then, and dare
+Even the fetters that you wear.
 
 ON a soft sunny morning in the genial month of May I made an excursion
 to Windsor Castle. It is a place full of storied and poetical
@@ -2890,13 +2778,13 @@ the Second; and as I gazed upon them, depicted with amorous,
 half-dishevelled tresses, and the sleepy eye of love, I blessed the
 pencil of Sir Peter Lely, which had thus enabled me to bask in the
 reflected rays of beauty. In traversing also the “large green courts,”
- with sunshine beaming on the gray walls and glancing along the velvet
+with sunshine beaming on the gray walls and glancing along the velvet
 turf, my mind was engrossed with the image of the tender, the gallant,
 but hapless Surrey, and his account of his loiterings about them in his
 stripling days, when enamoured of the Lady Geraldine--
 
-    “With eyes cast up unto the maiden’s tower,
-      With easie sighs, such as men draw in love.”
+“With eyes cast up unto the maiden’s tower,
+With easie sighs, such as men draw in love.”
 
 In this mood of mere poetical susceptibility, I visited the ancient keep
 of the castle, where James the First of Scotland, the pride and theme of
@@ -2927,10 +2815,8 @@ disasters, proved fatal to his unhappy father. “The news,” we are told,
 that he was almost ready to give up the ghost into the hands of the
 servants that attended him. But being carried to his bedchamber, he
 abstained from all food, and in three days died of hunger and grief at
-Rothesay.” *
 
 
-     * Buchanan.
 
 
 James was detained in captivity above eighteen years; but, though
@@ -2948,10 +2834,8 @@ history. He was well learnt, we are told, “to fight with the sword,
 to joust, to tourney, to wrestle, to sing and dance; he was an expert
 mediciner, right crafty in playing both of lute and harp, and sundry
 other instruments of music, and was expert in grammar, oratory, and
-poetry.” *
 
 
-     * Ballenden’s translation of Hector Boyce.
 
 
 With this combination of manly and delicate accomplishments, fitting him
@@ -2960,21 +2844,20 @@ intense relish for joyous existence, it must have been a severe trial,
 in an age of bustle and chivalry, to pass the spring-time of his years
 in monotonous captivity. It was the good fortune of James, however, to
 be gifted with a powerful poetic fancy, and to be visited in his prison
-by the choicest inspirations of the muse. Some minds corrode, and grow
 inactive, under the loss of personal liberty; others grow morbid
 and irritable; but it is the nature of the poet to become tender and
 imaginative in the loneliness of confinement. He banquets upon the honey
 of his own thoughts, and, like the captive bird, pours forth his soul in
 melody.
 
-    Have you not seen the nightingale,
-        A pilgrim coop’d into a cage,
-    How doth she chant her wonted tale,
-        In that her lonely hermitage!
-    Even there her charming melody doth prove
-    That all her boughs are trees, her cage a grove.+
+Have you not seen the nightingale,
+A pilgrim coop’d into a cage,
+How doth she chant her wonted tale,
+In that her lonely hermitage!
+Even there her charming melody doth prove
+That all her boughs are trees, her cage a grove.+
 
-    + Roger L’Estrange.
++ Roger L’Estrange.
 
 Indeed, it is the divine attribute of the imagination, that it is
 irrepressible, unconfinable--that when the real world is shut out,
@@ -2983,7 +2866,6 @@ conjure up glorious shapes and forms and brilliant visions, to make
 solitude populous, and irradiate the gloom of the dungeon. Such was the
 world of pomp and pageant that lived round Tasso in his dismal cell at
 Ferrara, when he conceived the splendid scenes of his Jerusalem; and we
-may consider The King’s Quair,* composed by James during his captivity
 at Windsor, as another of those beautiful breakings forth of the soul
 from the restraint and gloom of the prison-house.
 
@@ -3009,7 +2891,6 @@ amidst the adulation and gayety of a court, we should never, in all
 probability, have had such a poem as the Quair.
 
 
-     * Quair, an old term for book.
 
 
 I have been particularly interested by those parts of the poem which
@@ -3090,44 +2971,42 @@ lay at the foot of the tower. It was a quiet, sheltered spot, adorned
 with arbors and green alleys, and protected from the passing gaze by
 trees and hawthorn hedges.
 
-    Now was there made fast by the tower’s wall,
-        A garden faire, and in the corners set
-    An arbour green with wandis long and small
-        Railed about, and so with leaves beset
-    Was all the place and hawthorn hedges knet,
-        That lyf* was none, walkyng there forbye,
-    That might within scarce any wight espye.
+Now was there made fast by the tower’s wall,
+A garden faire, and in the corners set
+An arbour green with wandis long and small
+Railed about, and so with leaves beset
+Was all the place and hawthorn hedges knet,
+That might within scarce any wight espye.
 
-    So thick the branches and the leves grene,
-        Beshaded all the alleys that there were,
-    And midst of every arbour might be seen,
-        The sharpe, grene, swete juniper,
-    Growing so fair with branches here and there,
-        That as it seemed to a lyf without,
-    The boughs did spread the arbour all about.
+So thick the branches and the leves grene,
+Beshaded all the alleys that there were,
+And midst of every arbour might be seen,
+The sharpe, grene, swete juniper,
+Growing so fair with branches here and there,
+That as it seemed to a lyf without,
+The boughs did spread the arbour all about.
 
-    And on the small grene twistis+ set
-        The lytel swete nightingales, and sung
-    So loud and clear, the hymnis consecrate
-        Of lovis use, now soft, now loud among,
-    That all the garden and the wallis rung
-    Right of their song----
+And on the small grene twistis+ set
+The lytel swete nightingales, and sung
+So loud and clear, the hymnis consecrate
+Of lovis use, now soft, now loud among,
+That all the garden and the wallis rung
+Right of their song----
 
 
-     * Lyf, Person.
 
-     + Twistis, small boughs or twigs. NOTE--The language of the
-     quotations is generally modernized.
++ Twistis, small boughs or twigs. NOTE--The language of the
+quotations is generally modernized.
 
 
 It was the month of May, when every thing was in bloom, and he
 interprets the song of the nightingale into the language of his
 enamoured feeling:
 
-    Worship, all ye that lovers be, this May;
-        For of your bliss the kalends are begun,
-    And sing with us, Away, winter, away.
-        Come, summer, come, the sweet season and sun.
+Worship, all ye that lovers be, this May;
+For of your bliss the kalends are begun,
+And sing with us, Away, winter, away.
+Come, summer, come, the sweet season and sun.
 
 As he gazes on the scene, and listens to the notes of the birds, he
 gradually relapses into one of those tender and undefinable reveries,
@@ -3138,23 +3017,21 @@ into ecstasy and song. If it really be so great a felicity, and if it be
 a boon thus generally dispensed to the most insignificant beings, why is
 he alone cut off from its enjoyments?
 
-    Oft would I think, O Lord, what may this be,
-        That love is of such noble myght and kynde?
-    Loving his folke, and such prosperitee,
-        Is it of him, as we in books do find;
-        May he oure hertes setten* and unbynd:
-    Hath he upon oure hertes such maistrye?
-    Or is all this but feynit fantasye?
+Oft would I think, O Lord, what may this be,
+That love is of such noble myght and kynde?
+Loving his folke, and such prosperitee,
+Is it of him, as we in books do find;
+Hath he upon oure hertes such maistrye?
+Or is all this but feynit fantasye?
 
-    For giff he be of so grete excellence
-        That he of every wight hath care and charge,
-    What have I gilt+ to him, or done offense,
-        That I am thral’d, and birdis go at large?
+For giff he be of so grete excellence
+That he of every wight hath care and charge,
+What have I gilt+ to him, or done offense,
+That I am thral’d, and birdis go at large?
 
 
-     * Setten, incline.
 
-     + Gilt, what injury have I done, etc.
++ Gilt, what injury have I done, etc.
 
 
 In the midst of his musing, as he casts his eye downward, he beholds
@@ -3175,7 +3052,6 @@ manner of his master, and, being doubtless taken from the life, is a
 perfect portrait of a beauty of that day. He dwells with the fondness
 of a lover on every article of her apparel, from the net of pearl,
 splendent with emeralds and sapphires, that confined her golden hair,
-even to the “goodly chaine of small orfeverye” * about her neck, whereby
 there hung a ruby in shape of a heart, that seemed, he says, like a
 spark of fire burning upon her white bosom. Her dress of white
 tissue was looped up to enable her to walk with more freedom. She was
@@ -3185,22 +3061,21 @@ exquisite symmetry which was a parlor favorite and pet among the
 fashionable dames of ancient times. James closes his description by a
 burst of general eulogium:
 
-    In her was youth, beauty, with humble port,
-        Bounty, richesse, and womanly feature:
-    God better knows than my pen can report,
-        Wisdom, largesse,+ estate,++ and cunning& sure.
-    In every point so guided her measure,
-        In word, in deed, in shape, in countenance,
-        That nature might no more her child advance.
+In her was youth, beauty, with humble port,
+Bounty, richesse, and womanly feature:
+God better knows than my pen can report,
+Wisdom, largesse,+ estate,++ and cunning& sure.
+In every point so guided her measure,
+In word, in deed, in shape, in countenance,
+That nature might no more her child advance.
 
 
-     * Wrought gold.
 
-     + Largesse, bounty.
++ Largesse, bounty.
 
-     ++ Estate, dignity.
+++ Estate, dignity.
 
-     & Cunning, discretion.
+& Cunning, discretion.
 
 
 The departure of the Lady Jane from the garden puts an end to this
@@ -3229,10 +3104,10 @@ window, and alights upon his hand, bearing in her bill a branch of red
 gilliflower, on the leaves of which is written, in letters of gold, the
 following sentence:
 
-    Awake! Awake! I bring, lover, I bring
-        The newis glad, that blissful is and sure
-    Of thy comfort; now laugh, and play, and sing,
-        For in the heaven decretit is thy cure.
+Awake! Awake! I bring, lover, I bring
+The newis glad, that blissful is and sure
+Of thy comfort; now laugh, and play, and sing,
+For in the heaven decretit is thy cure.
 
 He receives the branch with mingled hope and dread; reads it with
 rapture; and this he says was the first token of his succeeding
@@ -3390,13 +3265,11 @@ Scotland.
 
 
 
-THE COUNTRY CHURCH.
 
-                                A gentleman!
-    What o’ the woolpack? or the sugar-chest?
-    Or lists of velvet? which is ‘t, pound, or yard,
-    You vend your gentry by?
-                                        BEGGAR’S BUSH.
+A gentleman!
+What o’ the woolpack? or the sugar-chest?
+Or lists of velvet? which is ‘t, pound, or yard,
+You vend your gentry by?
 
 THERE are few places more favorable to the study of character than an
 English country church. I was once passing a few weeks at the seat of
@@ -3575,11 +3448,9 @@ aspirin family was rapt out of sight in a whirlwind.
 
 
 
-THE WIDOW AND HER SON.
 
-    Pittie olde age, within whose silver haires
-    Honour and reverence evermore have rain’d.
-                           MARLOWE’S TAMBURLAINE.
+Pittie olde age, within whose silver haires
+Honour and reverence evermore have rain’d.
 
 THOSE who are in the habit of remarking such matters must have noticed
 the passive quiet of an English landscape on Sunday. The clacking of
@@ -3591,8 +3462,8 @@ travellers. At such times I have almost fancied the wind sunk into
 quiet, and that the sunny landscape, with its fresh green tints melting
 into blue haze, enjoyed the hallowed calm.
 
-    Sweet day, so pure, so calm, so brigh’
-    The bridal of the earth and sky.
+Sweet day, so pure, so calm, so brigh’
+The bridal of the earth and sky.
 
 Well was it ordained that the day of devotion should be a day of rest.
 The holy repose which reigns over the face of nature has its moral
@@ -3681,7 +3552,7 @@ lower the coffin into the grave, she wrung her hands, and broke into
 an agony of grief. The poor woman who attended her took her by the arm
 endeavoring to raise her from the earth, and to whisper something like
 consolation: “Nay, now--nay, now--don’t take it so sorely to heart.”
- She could only shake her head, and wring her hands, as one not to be
+She could only shake her head, and wring her hands, as one not to be
 comforted.
 
 As they lowered the body into the earth, the creaking of the cords
@@ -3834,9 +3705,7 @@ parted.
 
 
 
-A SUNDAY IN LONDON.*
 
-     * Part of a sketch omitted in the preceding editions.
 
 
 IN a preceding paper I have spoken of an English Sunday in the country
@@ -3907,16 +3776,13 @@ hospitals, prisons, and penitentiaries.
 
 
 
-THE BOAR’S HEAD TAVERN, EASTCHEAP.
 
-A SHAKESPEARIAN RESEARCH.
 
 “A tavern is the rendezvous, the exchange, the staple of good fellows.
 I have heard my great-grandfather tell, how his great-great-grandfather
 should say, that it was an old proverb when his great-grandfather was a
 child, that ‘it was a good wind that blew a man to the wine.’”
 
-MOTHER BOMBIE.
 
 IT is a pious custom in some Catholic countries to honor the memory of
 saints by votive lights burnt before their pictures. The popularity of
@@ -3949,7 +3815,6 @@ attempt at a new reading; every doubtful line had been explained a dozen
 different ways, and perplexed beyond the reach of elucidation; and as
 to fine passages, they had all been amply praised by previous admirers;
 nay, so completely had the bard, of late, been overlarded with panegyric
-by a great German critic that it was difficult now to find even a fault
 that had not been argued into a beauty.
 
 In this perplexity I was one morning turning over his pages when I
@@ -3978,7 +3843,7 @@ revel, and has bequeathed a never-failing inheritance of jolly laughter,
 to make mankind merrier and better to the latest posterity.
 
 A thought suddenly struck me. “I will make a pilgrimage to Eastcheap,”
- said I, closing the book, “and see if the old Boar’s Head Tavern still
+said I, closing the book, “and see if the old Boar’s Head Tavern still
 exists. Who knows but I may light upon some legendary traces of Dame
 Quickly and her guests? At any rate, there will be a kindred pleasure in
 treading the halls once vocal with their mirth to that the toper enjoys
@@ -4085,25 +3950,23 @@ that doughty champion, William Walworth, Knight, who so manfully clove
 down the sturdy wight, Wat Tyler, in Smithfield--a hero worthy of
 honorable blazon, as almost the only Lord Mayor on record famous for
 deeds of arms, the sovereigns of Cockney being generally renowned as the
-most pacific of all potentates.*
 
 
-     * The following was the ancient inscription on the monument
-     of this worthy, which, unhappily, was destroyed in the great
-     conflagration.
+of this worthy, which, unhappily, was destroyed in the great
+conflagration.
 
-    Hereunder lyth a man of Fame,
-    William Walworth callyd by name:
-    Fishmonger he was in lyfftime here,
-    And twise Lord Maior, as in books appere;
-    Who, with courage stout and manly myght,
-    Slew Jack Straw in Kyng Richard’s sight.
-    For which act done, and trew entent,
-    The Kyng made him knyght incontinent
-    And gave him armes, as here you see,
-    To declare his fact and chivaldrie.
-    He left this lyff the yere of our God
-    Thirteen hundred fourscore and three odd.
+Hereunder lyth a man of Fame,
+William Walworth callyd by name:
+Fishmonger he was in lyfftime here,
+And twise Lord Maior, as in books appere;
+Who, with courage stout and manly myght,
+Slew Jack Straw in Kyng Richard’s sight.
+For which act done, and trew entent,
+The Kyng made him knyght incontinent
+And gave him armes, as here you see,
+To declare his fact and chivaldrie.
+He left this lyff the yere of our God
+Thirteen hundred fourscore and three odd.
 
 An error in the foregoing inscription has been corrected by the
 venerable Stow. “Whereas,” saith he, “it hath been far spread abroad by
@@ -4127,7 +3990,6 @@ whistling, banging about doors and windows, and twirling weathercocks,
 so that the living were frightened out of their beds, and even the dead
 could not sleep quietly in their graves, the ghost of honest Preston,
 which happened to be airing itself in the churchyard, was attracted
-by the well-known call of “Waiter!” from the Boar’s Head, and made its
 sudden appearance in the midst of a roaring club, just as the parish
 clerk was singing a stave from the “mirre garland of Captain Death;” to
 the discomfiture of sundry train-band captains and the conversion of an
@@ -4145,11 +4007,10 @@ frightened so many bold sentinels almost out of their wits.
 Be all this as it may, this Robert Preston seems to have been a worthy
 successor to the nimbletongued Francis, who attended upon the revels of
 Prince Hal; to have been equally prompt with his “Anon, anon, sir;”
- and to have transcended his predecessor in honesty; for Falstaff, the
+and to have transcended his predecessor in honesty; for Falstaff, the
 veracity of whose taste no man will venture to impeach, flatly accuses
 Francis of putting lime in his sack, whereas honest Preston’s epitaph
 lands him for the sobriety of his conduct, the soundness of his wine,
-and the fairness of his measure.* The worthy dignitaries of the church,
 however, did not appear much captivated by the sober virtues of the
 tapster; the deputy organist, who had a moist look out of the eye, made
 some shrewd remark on the abstemiousness of a man brought up among
@@ -4157,21 +4018,20 @@ full hogsheads, and the little sexton corroborated his opinion by a
 significant wink and a dubious shake of the head.
 
 
-     * As this inscription is rife with excellent morality, I
-     transcribe it for the admonition of delinquent tapsters. It
-     is no doubt, the production of some choice spirit who once
-     frequented the Boar’s Head.
+transcribe it for the admonition of delinquent tapsters. It
+is no doubt, the production of some choice spirit who once
+frequented the Boar’s Head.
 
-    Bacchus, to give the toping world surprise,
-    Produced one sober son, and here he lies.
-    Though rear’d among full hogsheads, he defy’d
-    The charms of wine, and every one beside.
-    O reader, if to justice thou ‘rt inclined,
-    Keep honest Preston daily in thy mind.
-    He drew good wine, took care to fill his pots,
-    Had sundry virtues that excused his faults.
-    You that on Bacchus have the like dependence,
-    Pray copy Bob in measure and attendance.
+Bacchus, to give the toping world surprise,
+Produced one sober son, and here he lies.
+Though rear’d among full hogsheads, he defy’d
+The charms of wine, and every one beside.
+O reader, if to justice thou ‘rt inclined,
+Keep honest Preston daily in thy mind.
+He drew good wine, took care to fill his pots,
+Had sundry virtues that excused his faults.
+You that on Bacchus have the like dependence,
+Pray copy Bob in measure and attendance.
 
 
 Thus far my researches, though they threw much light on the history of
@@ -4264,16 +4124,14 @@ the apprehension so much as antiquarian research; for I immediately
 perceived that this could be no other than the identical “parcel-gilt
 goblet,” on which Falstaff made his loving but faithless vow to Dame
 Quickly, and which would, of course, be treasured up with care among the
-regalia of her domains, as a testimony of that solemn contract.*
 
 
-     * “Thou didst swear to me upon a parcel-gilt goblet, sitting
-     in my Dolphin chamber, at the round table, by a sea-coal
-     fire, on Wednesday, in Whitsun-week, when the prince broke
-     thy head for likening his father to a singing man at
-     Windsor; thou didst swear to me then, as I was washing thy
-     wound, to marry me, and make me my lady, thy wife. Canst
-     thou deny it?”--Henry IV., Part 2.
+in my Dolphin chamber, at the round table, by a sea-coal
+fire, on Wednesday, in Whitsun-week, when the prince broke
+thy head for likening his father to a singing man at
+Windsor; thou didst swear to me then, as I was washing thy
+wound, to marry me, and make me my lady, thy wife. Canst
+thou deny it?”--Henry IV., Part 2.
 
 
 Mine hostess, indeed, gave me a long history how the goblet had been
@@ -4324,25 +4182,22 @@ Tyler, and illuminated by the great fire of London.
 
 All this I leave, as a rich mine, to be worked by future commentators,
 nor do I despair of seeing the tobacco-box, and the “parcel-gilt goblet”
- which I have thus brought to light the subject of future engravings,
+which I have thus brought to light the subject of future engravings,
 and almost as fruitful of voluminous dissertations and disputes as the
 shield of Achilles or the far-famed Portland Vase.
 
 
 
 
-THE MUTABILITY OF LITERATURE.
 
-A COLLOQUY IN WESTMINSTER ABBEY.
 
-        I know that all beneath the moon decays,
-    And what by mortals in this world is brought,
-    In time’s great periods shall return to nought.
-        I know that all the muses’ heavenly rays,
-    With toil of sprite which are so dearly bought,
-    As idle sounds, of few or none are sought--
-        That there is nothing lighter than mere praise.
-                         DRUMMOND OF HAWTHORNDEN.
+I know that all beneath the moon decays,
+And what by mortals in this world is brought,
+In time’s great periods shall return to nought.
+I know that all the muses’ heavenly rays,
+With toil of sprite which are so dearly bought,
+As idle sounds, of few or none are sought--
+That there is nothing lighter than mere praise.
 
 THERE are certain half-dreaming moods of mind in which we naturally
 steal away from noise and glare, and seek some quiet haunt where we may
@@ -4484,7 +4339,6 @@ Hanvill of St. Albans--of----”
 “Prithee, friend,” cried the quarto in a testy tone, “how old do you
 think me? You are talking of authors that lived long before my time, and
 wrote either in Latin or French, so that they in a manner expatriated
-themselves, and deserved to be forgotten;* but I, sir, was ushered into
 the world from the press of the renowned Wynkyn de Worde. I was written
 in my own native tongue, at a time when the language had become fixed;
 and indeed I was considered a model of pure and elegant English.”
@@ -4514,7 +4368,6 @@ subject to the dilapidations of time and the caprice of fashion. He
 looks back and beholds the early authors of his country, once the
 favorites of their day, supplanted by modern writers. A few short ages
 have covered them with obscurity, and their merits can only be relished
-by the quaint taste of the bookworm. And such, he anticipates, will be
 the fate of his own work, which, however it may be admired in its day
 and held up as a model of purity, will in the course of years grow
 antiquated and obsolete, until it shall become almost as unintelligible
@@ -4528,23 +4381,21 @@ reflected that in one hundred years not one of them would be in
 existence.”
 
 
-     * “In Latin and French hath many soueraine wittes had great
-     delyte to endite, and have many noble thinges fulfilde, but
-     certes there ben some that speaken their poisye in French,
-     of which speche the Frenchmen have as good a fantasye as w
-     ave in hearying of Frenchmen’s Englishe.”--CHAUCER’S
-     Testament of Love.
+delyte to endite, and have many noble thinges fulfilde, but
+certes there ben some that speaken their poisye in French,
+of which speche the Frenchmen have as good a fantasye as w
+ave in hearying of Frenchmen’s Englishe.”--CHAUCER’S
+Testament of Love.
 
-     + Holinshed in his Chronicle, observes, “Afterwards, also,
-     by diligent vell f Geffry Chaucer and John Gowre, in the
-     time of Richard the Second, and after them of John Scogan
-     and John Lydgate, monke of Berrie, our said toong was
-     brought to an excellent passe, notwithstanding that it never
-     came unto the type of perfection until the time of Queen
-     Elizabeth, wherein John Jewell, Bishop of Sarum, John Fox,
-     and sundrie learned and excellent writers, have fully
-     accomplished the ornature of the same to their great praise
-     and mortal commendation.”
++ Holinshed in his Chronicle, observes, “Afterwards, also,
+time of Richard the Second, and after them of John Scogan
+and John Lydgate, monke of Berrie, our said toong was
+brought to an excellent passe, notwithstanding that it never
+came unto the type of perfection until the time of Queen
+Elizabeth, wherein John Jewell, Bishop of Sarum, John Fox,
+and sundrie learned and excellent writers, have fully
+accomplished the ornature of the same to their great praise
+and mortal commendation.”
 
 
 “Ah,” said the little quarto, with a heavy sigh, “I see how it is: these
@@ -4556,7 +4407,6 @@ the ‘unparalleled John Lyly.’”
 “There you are again mistaken,” said I; “the writers whom you suppose in
 vogue, because they happened to be so when you were last in circulation,
 have long since had their day. Sir Philip Sidney’s Arcadia, the
-immortality of which was so fondly predicted by his admirers,* and
 which, in truth, was full of noble thoughts, delicate images, and
 graceful turns of language, is now scarcely ever mentioned. Sackville
 has strutted into obscurity; and even Lyly, though his writings were
@@ -4569,15 +4419,14 @@ then that some industrious diver after fragments of antiquity brings up
 a specimen for the gratification of the curious.
 
 
-     * “Live ever sweete booke; the simple image of his gentle
-     witt, and the golden pillar of his noble courage; and ever
-     notify unto the world that thy writer was the secretary of
-     eloquence, the breath of the muses, the honey bee of the
-     daintyest flowers of witt and arte, the pith of morale and
-     intellectual virtues, the arme of Bellona in the field, the
-     tongue of Suada in the chamber, the spirits of Practise in
-     esse, and the paragon of excellence in print.”--Harvey
-     Pierce’s Supererogation.
+witt, and the golden pillar of his noble courage; and ever
+notify unto the world that thy writer was the secretary of
+eloquence, the breath of the muses, the honey bee of the
+daintyest flowers of witt and arte, the pith of morale and
+intellectual virtues, the arme of Bellona in the field, the
+tongue of Suada in the chamber, the spirits of Practise in
+esse, and the paragon of excellence in print.”--Harvey
+Pierce’s Supererogation.
 
 
 “For my part,” I continued, “I consider this mutability of language a
@@ -4643,7 +4492,6 @@ term of English literature. There rise authors now and then who seem
 proof against the mutability of language because they have rooted
 themselves in the unchanging principles of human nature. They are like
 gigantic trees that we sometimes see on the banks of a stream, which
-by their vast and deep roots, penetrating through the mere surface and
 laying hold on the very foundations of the earth, preserve the soil
 around them from being swept away by the ever-flowing current, and hold
 up many a neighboring plant, and perhaps worthless weed, to perpetuity.
@@ -4689,7 +4537,6 @@ monkish legends and academical controversies! What bogs of theological
 speculations! What dreary wastes of metaphysics! Here and there only
 do we behold the heaven-illumined bards, elevated like beacons on
 their widely-separated heights, to transmit the pure light of poetical
-intelligence from age to age.” *
 
 I was just about to launch forth into eulogiums upon the poets of the
 day when the sudden opening of the door caused me to turn my head. It
@@ -4704,33 +4551,30 @@ to which I am subject, I have never, to this moment, been able to
 discover.
 
 
-  * Thorow earth and waters deepe,
-        The pen by skill doth passe:
-    And featly nyps the worldes abuse,
-        And shoes us in a glasse,
-    The vertu and the vice
-        Of every wight alyve;
-    The honey comb that bee doth make
-        Is not so sweet in hyve,
-    As are the golden leves
-        That drops from poet’s head!
-    Which doth surmount our common talke
-        As farre as dross doth lead.
-                                 Churchyard.
+The pen by skill doth passe:
+And featly nyps the worldes abuse,
+And shoes us in a glasse,
+The vertu and the vice
+Of every wight alyve;
+The honey comb that bee doth make
+Is not so sweet in hyve,
+As are the golden leves
+That drops from poet’s head!
+Which doth surmount our common talke
+As farre as dross doth lead.
+Churchyard.
 
 
 
 
 
-RURAL FUNERALS.
 
-    Here’s a few flowers! but about midnight more:
+Here’s a few flowers! but about midnight more:
 
-    The herbs that have oil them cold dew o’ the night
-    Are strewings fitt’st for graves----
-    You were as flowers now withered; even so
-    These herblets shall, which we upon you strow.
-                                            CYMBELINE.
+The herbs that have oil them cold dew o’ the night
+Are strewings fitt’st for graves----
+You were as flowers now withered; even so
+These herblets shall, which we upon you strow.
 
 AMONG the beautiful and simple-hearted customs of rural life which still
 linger in some parts of England are those of strewing flowers before the
@@ -4749,11 +4593,11 @@ In Glamorganshire, we are told, the bed whereon the corpse lies is
 covered with flowers, a custom alluded to in one of the wild and
 plaintive ditties of Ophelia:
 
-    White his shroud as the mountain snow,
+White his shroud as the mountain snow,
 
-        Larded all with sweet flowers;
-    Which be-wept to the grave did go,
-        With true love showers.
+Larded all with sweet flowers;
+Which be-wept to the grave did go,
+With true love showers.
 
 There is also a most delicate and beautiful rite observed in some of
 the remote villages of the south at the funeral of a female who has
@@ -4774,13 +4618,12 @@ melancholy effect to hear of a still evening in some lonely country
 scene the mournful melody of a funeral dirge swelling from a distance,
 and to see the train slowly moving along the landscape.
 
-    Thus, thus, and thus, we compass round
-    Thy harmless and unhaunted ground,
-    And as we sing thy dirge, we will,
-                          The daffodill
-    And other flowers lay upon
-    The altar of our love, thy stone.
-                                      HERRICK.
+Thus, thus, and thus, we compass round
+Thy harmless and unhaunted ground,
+And as we sing thy dirge, we will,
+The daffodill
+And other flowers lay upon
+The altar of our love, thy stone.
 
 There is also a solemn respect paid by the traveller to the passing
 funeral in these sequestered places; for such spectacles, occurring
@@ -4804,11 +4647,11 @@ In The Maid’s Tragedy, by Beaumont and Fletcher, there is a beautiful
 instance of the kind describing the capricious melancholy of a
 broken-hearted girl:
 
-                        When she sees a bank
-    Stuck full of flowers, she, with a sigh, will tell
-    Her servants, what a pretty place it were
-    To bury lovers in; and made her maids
-    Bluck ‘em, and strew her over like a corse.
+When she sees a bank
+Stuck full of flowers, she, with a sigh, will tell
+Her servants, what a pretty place it were
+To bury lovers in; and made her maids
+Bluck ‘em, and strew her over like a corse.
 
 The custom of decorating graves was once universally prevalent: osiers
 were carefully bent over them to keep the turf uninjured, and about
@@ -4845,20 +4688,19 @@ deceased, or were expressive of the feelings of the mourner. In an
 old poem, entitled “Corydon’s Doleful Knell,” a lover specifies the
 decorations he intends to use:
 
-    A garland shall be framed
-        By art and nature’s skill,
-    Of sundry-colored flowers,
-        In token of good-will.
+A garland shall be framed
+Of sundry-colored flowers,
+In token of good-will.
 
-    And sundry-colored ribbons
-        On it I will bestow;
-    But chiefly blacke and yellowe
-        With her to grave shall go.
+And sundry-colored ribbons
+On it I will bestow;
+But chiefly blacke and yellowe
+With her to grave shall go.
 
-    I’ll deck her tomb with flowers
-        The rarest ever seen;
-    And with my tears as showers
-        I’ll keep them fresh and green.
+I’ll deck her tomb with flowers
+The rarest ever seen;
+And with my tears as showers
+I’ll keep them fresh and green.
 
 The white rose, we are told, was planted at the grave of a virgin; her
 chaplet was tied with white ribbons, in token of her spotless innocence,
@@ -4879,26 +4721,26 @@ gloomy character were used, such as the yew and cypress, and if flowers
 were strewn, they were of the most melancholy colors. Thus, in poems by
 Thomas Stanley, Esq. (published in 1651), is the following stanza:
 
-                  Yet strew
-    Upon my dismall grave
-    Such offerings as you have,
-        Forsaken cypresse and yewe;
-    For kinder flowers can take no birth
-    Or growth from such unhappy earth.
+Yet strew
+Upon my dismall grave
+Such offerings as you have,
+Forsaken cypresse and yewe;
+For kinder flowers can take no birth
+Or growth from such unhappy earth.
 
 In The Maid’s Tragedy, a pathetic little air, is introduced,
 illustrative of this mode of decorating the funerals of females who had
 been disappointed in love:
 
-    Lay a garland on my hearse
-        Of the dismall yew,
-    Maidens, willow branches wear,
-        Say I died true.
+Lay a garland on my hearse
+Of the dismall yew,
+Maidens, willow branches wear,
+Say I died true.
 
-    My love was false, but I was firm,
-        From my hour of birth;
-    Upon my buried body lie
-        Lightly, gentle earth.
+My love was false, but I was firm,
+From my hour of birth;
+Upon my buried body lie
+Lightly, gentle earth.
 
 The natural effect of sorrow over the dead is to refine and elevate
 the mind; and we have a proof of it in the purity of sentiment and the
@@ -4915,27 +4757,26 @@ we have loved, with those refined associations which it awakened when
 blooming before us in youth and beauty. “Lay her i’ the earth,” says
 Laertes, of his virgin sister,
 
-    And from her fair and unpolluted flesh
-    May violets spring.
+And from her fair and unpolluted flesh
+May violets spring.
 
 Herrick, also, in his “Dirge of Jephtha,” pours forth a fragrant flow
 of poetical thought and image, which in a manner embalms the dead in the
 recollections of the living.
 
-    Sleep in thy peace, thy bed of spice,
-    And make this place all Paradise:
-    May sweets grow here! and smoke from hence
-                          Fat frankincense.
+Sleep in thy peace, thy bed of spice,
+And make this place all Paradise:
+May sweets grow here! and smoke from hence
+Fat frankincense.
 
-    Let balme and cassia send their scent
-    From out thy maiden monument.
-        *    *    *    *    *
-    May all shie maids at wonted hours
-    Come forth to strew thy tombe with flowers!
-    May virgins, when they come to mourn
-                         Male incense burn
-    Upon thine altar! then return
-    And leave thee sleeping in thy urn.
+Let balme and cassia send their scent
+From out thy maiden monument.
+May all shie maids at wonted hours
+Come forth to strew thy tombe with flowers!
+May virgins, when they come to mourn
+Male incense burn
+Upon thine altar! then return
+And leave thee sleeping in thy urn.
 
 I might crowd my pages with extracts from the older British poets, who
 wrote when these rites were more prevalent, and delighted frequently
@@ -4946,13 +4787,13 @@ meaning often conveyed in these floral tributes, and at the same time
 possesses that magic of language and appositeness of imagery for which
 he stands pre-eminent.
 
-                           With fairest flowers,
-    Whilst summer lasts, and I live here, Fidele,
-    I’ll sweeten thy sad grave; thou shalt not lack
-    The flower that’s like thy face, pale primrose; nor
-    The azured harebell like thy veins; no, nor
-    The leaf of eglantine; whom not to slander,
-    Outsweetened not thy breath.
+With fairest flowers,
+Whilst summer lasts, and I live here, Fidele,
+I’ll sweeten thy sad grave; thou shalt not lack
+The flower that’s like thy face, pale primrose; nor
+The azured harebell like thy veins; no, nor
+The leaf of eglantine; whom not to slander,
+Outsweetened not thy breath.
 
 There is certainly something more affecting in these prompt and
 spontaneous offerings of Nature than in the most costly monuments of
@@ -4996,10 +4837,10 @@ and when sober evening returns with its gathering shadows and subduing
 quiet, we call to mind many a twilight hour of gentle talk and
 sweet-souled melancholy.
 
-    Each lonely place shall him restore,
-        For him the tear be duly shed;
-    Beloved till life can charm no more,
-        And mourn’d till pity’s self be dead.
+Each lonely place shall him restore,
+For him the tear be duly shed;
+Beloved till life can charm no more,
+And mourn’d till pity’s self be dead.
 
 Another cause that perpetuates the memory of the deceased in the country
 is that the grave is more immediately in sight of the survivors. They
@@ -5098,7 +4939,6 @@ yet futile tributes of regret; but take warning by the bitterness of
 this thy contrite affliction over the dead, and henceforth be more
 faithful and affectionate in the discharge of thy duties to the living.
 
-      *      *      *      *      *
 
 In writing the preceding article it was not intended to give a full
 detail of the funeral customs of the English peasantry, but merely to
@@ -5154,10 +4994,8 @@ poetical devotion, and that he was practically a poet.
 
 
 
-THE INN KITCHEN.
 
-     Shall I not take mine ease in mine inn?
-                                FALSTAFF.
+Shall I not take mine ease in mine inn?
 
 DURING a journey that I once made through the Netherlands, I had arrived
 one evening at the Pomme d’Or, the principal inn of a small Flemish
@@ -5224,15 +5062,13 @@ the eye occasionally as he related the following story.
 
 
 
-THE SPECTRE BRIDEGROOM.
 
-A TRAVELLER’S TALE.*
 
-    He that supper for is dight,
-    He lyes full cold, I trow, this night!
-    Yestreen to chamber I him led,
-    This night Gray-steel has made his bed!
-   SIR EGER, SIR GRAHAME, and SIR GRAY-STEEL.
+He that supper for is dight,
+He lyes full cold, I trow, this night!
+Yestreen to chamber I him led,
+This night Gray-steel has made his bed!
+SIR EGER, SIR GRAHAME, and SIR GRAY-STEEL.
 
 ON the summit of one of the heights of the Odenwald, a wild and romantic
 tract of Upper Germany that lies not far from the confluence of the
@@ -5257,15 +5093,14 @@ neighbors, on account of disputes that had happened between their
 great-great-grandfathers.
 
 
-     * The erudite reader, well versed in good-for-nothing lore,
-     will perceive that the above Tale must have been suggested
-     to the old Swiss by a little French anecdote, a circumstance
-     said to have taken place in Paris.
+will perceive that the above Tale must have been suggested
+to the old Swiss by a little French anecdote, a circumstance
+said to have taken place in Paris.
 
-     + I.e., CAT’S ELBOW--the name of a family of those parts,
-     and very powerful in former times. The appellation, we are
-     told, was given in compliment to a peerless dame of the
-     family, celebrated for a fine arm.
++ I.e., CAT’S ELBOW--the name of a family of those parts,
+and very powerful in former times. The appellation, we are
+told, was given in compliment to a peerless dame of the
+family, celebrated for a fine arm.
 
 
 The baron had but one child, a daughter, but Nature, when she grants but
@@ -5428,7 +5263,6 @@ awaited him.
 In this way they had entered among the mountains of the Odenwald, and
 were traversing one of its most lonely and thickly wooded passes. It is
 well known that the forests of Germany have always been as much infested
-by robbers as its castles by spectres; and at this time the former were
 particularly numerous, from the hordes of disbanded soldiers wandering
 about the country. It will not appear extraordinary, therefore, that the
 cavaliers were attacked by a gang of these stragglers, in the midst
@@ -5508,7 +5342,6 @@ Here the baron interrupted him with a world of compliments and
 greetings, for, to tell the truth, he prided himself upon his courtesy
 and eloquence. The stranger attempted once or twice to stem the torrent
 of words, but in vain, so he bowed his head and suffered it to flow on.
-By the time the baron had come to a pause they had reached the inner
 court of the castle, and the stranger was again about to speak, when he
 was once more interrupted by the appearance of the female part of the
 family, leading forth the shrinking and blushing bride. He gazed on her
@@ -5562,7 +5395,6 @@ up with jolly old wine, is irresistible. Many good things were said by
 poorer and keener wits that would not bear repeating, except on similar
 occasions; many sly speeches whispered in ladies’ ears that almost
 convulsed them with suppressed laughter; and a song or two roared out
-by a poor but merry and broad-faced cousin of the baron that absolutely
 made the maiden aunts hold up their fans.
 
 Amidst all this revelry the stranger guest maintained a most singular
@@ -5585,7 +5417,6 @@ dismal story produced another still more dismal, and the baron nearly
 frightened some of the ladies into hysterics with the history of the
 goblin horseman that carried away the fair Leonora--a dreadful story
 which has since been put into excellent verse, and is read and believed
-by all the world.
 
 The bridegroom listened to this tale with profound attention. He kept
 his eyes steadily fixed on the baron, and, as the story drew to a close,
@@ -5614,7 +5445,6 @@ a tear stole to her eye.
 The baron followed the stranger to the great court of the castle, where
 the black charger stood pawing the earth and snorting with impatience.
 When they had reached the portal, whose deep archway was dimly lighted
-by a cresset, the stranger paused, and addressed the baron in a hollow
 tone of voice, which the vaulted roof rendered still more sepulchral.
 
 “Now that we are a lone,” said he, “I will impart to you the reason of
@@ -5787,23 +5617,20 @@ substantial flesh and blood. And so the story ends.
 
 
 
-WESTMINSTER ABBEY.
 
-    When I behold, with deep astonishment,
-    To famous Westminster how there resorte,
-    Living in brasse or stoney monument,
-    The princes and the worthies of all sorte;
-    Doe not I see reformde nobilitie,
-    Without contempt, or pride, or ostentation,
-    And looke upon offenselesse majesty,
-    Naked of pomp or earthly domination?
-    And how a play-game of a painted stone
-    Contents the quiet now and silent sprites,
-    Whome all the world which late they stood upon
-    Could not content nor quench their appetites.
-        Life is a frost of cold felicitie,
-        And death the thaw of all our vanitie.
-            CHRISTOLERO’S EPIGRAMS, BY T. B. 1598.
+When I behold, with deep astonishment,
+To famous Westminster how there resorte,
+Living in brasse or stoney monument,
+The princes and the worthies of all sorte;
+Doe not I see reformde nobilitie,
+Without contempt, or pride, or ostentation,
+And looke upon offenselesse majesty,
+Naked of pomp or earthly domination?
+And how a play-game of a painted stone
+Whome all the world which late they stood upon
+Could not content nor quench their appetites.
+Life is a frost of cold felicitie,
+And death the thaw of all our vanitie.
 
 ON one of those sober and rather melancholy days in the latter part of
 autumn when the shadows of morning and evening almost mingle together,
@@ -6053,11 +5880,11 @@ a time, and all was hushed. The stillness, the desertion, and obscurity
 that were gradually prevailing around gave a deeper and more solemn
 interest to the place;
 
-    For in the silent grave no conversation,
-    No joyful tread of friends, no voice of lovers,
-    No careful father’s counsel--nothing’s heard,
-    For nothing is, but all oblivion,
-    Dust, and an endless darkness.
+For in the silent grave no conversation,
+No joyful tread of friends, no voice of lovers,
+No careful father’s counsel--nothing’s heard,
+For nothing is, but all oblivion,
+Dust, and an endless darkness.
 
 Suddenly the notes of the deep-laboring organ burst upon the ear,
 falling with doubled and redoubled intensity, and rolling, as it were,
@@ -6153,7 +5980,6 @@ the perpetuity of an embalmment? The remains of Alexander the Great have
 been scattered to the wind, and his empty sarcophagus is now the mere
 curiosity of a museum. “The Egyptian mummies, which Cambyses or time
 hath spared, avarice now consumeth; Mizraim cures wounds, and Pharaoh is
-sold for balsams.” *
 
 What then is to ensure this pile which now towers above me from sharing
 the fate of mightier mausoleums? The time must come when its gilded
@@ -6167,27 +5993,24 @@ Thus man passes away; his name passes from record and recollection; his
 history is as a tale that is told, and his very monument becomes a ruin.
 
 
-     * Sir T. Browne.
 
 
 
 
 
-CHRISTMAS.
 
 But is old, old, good old Christmas gone? Nothing but the hair of his
 good, gray old head and beard left? Well, I will have that, seeing I
 cannot have more of him. HUE AND CRY AFTER CHRISTMAS.
 
-    A man might then behold
-        At Christmas, in each hall
-    Good fires to curb the cold,
-        And meat for great and small.
-    The neighbors were friendly bidden,
-        And all had welcome true,
-    The poor from the gates were not chidden
-        When this old cap was new.
-                                        OLD SONG.
+A man might then behold
+At Christmas, in each hall
+Good fires to curb the cold,
+And meat for great and small.
+The neighbors were friendly bidden,
+And all had welcome true,
+The poor from the gates were not chidden
+When this old cap was new.
 
 NOTHING in England exercises a more delightful spell over my imagination
 than the lingerings of the holiday customs and rural games of former
@@ -6334,13 +6157,13 @@ of the cock, heard sometimes in the profound repose of the country,
 “telling the night-watches to his feathery dames,” was thought by the
 common people to announce the approach of this sacred festival.
 
-    “Some say that ever ‘gainst that season comes
-    Wherein our Saviour’s birth is celebrated,
-    This bird of dawning singeth all night long;
-    And then, they say, no spirit dares stir abroad,
-    The nights are wholesome--then no planets strike,
-    No fairy takes, no witch hath power to charm,
-    So hallow’d and so gracious is the time.”
+“Some say that ever ‘gainst that season comes
+Wherein our Saviour’s birth is celebrated,
+This bird of dawning singeth all night long;
+And then, they say, no spirit dares stir abroad,
+The nights are wholesome--then no planets strike,
+No fairy takes, no witch hath power to charm,
+So hallow’d and so gracious is the time.”
 
 Amidst the general call to happiness, the bustle of the spirits, and
 stir of the affections which prevail at this period what bosom can
@@ -6371,15 +6194,13 @@ merry Christmas.
 
 
 
-THE STAGE-COACH.
 
-        Omne bene
-        Sine poena
-    Tempua est ludendi.
-        Venit hora
-        Absque mora
-    Libros deponendi.
-           OLD HOLIDAY SCHOOL-SONG.
+Omne bene
+Sine poena
+Tempua est ludendi.
+Venit hora
+Absque mora
+Libros deponendi.
 
 IN the preceding paper I have made some general observations on the
 Christmas festivities of England, and am tempted to illustrate them by
@@ -6563,15 +6384,13 @@ still seizing an occasional moment to exchange a flippant word and have
 a rallying laugh with the group round the fire. The scene completely
 realized Poor Robin’s humble idea of the comforts of midwinter:
 
-    Now trees their leafy hats do bare
-    To reverence Winter’s silver hair;
-    A handsome hostess, merry host,
-    A pot of ale now and a toast,
-    Tobacco and a good coal fire,
-    Are things this season doth require.*
+Now trees their leafy hats do bare
+To reverence Winter’s silver hair;
+A handsome hostess, merry host,
+A pot of ale now and a toast,
+Tobacco and a good coal fire,
 
 
-     * Poor Robin’s Almanack, 1684.
 
 
 I had not been long at the inn when a post-chaise drove up to the door.
@@ -6589,7 +6408,7 @@ a day or two at his father’s country-seat, to which he was going to pass
 the holidays and which lay at a few miles’ distance. “It is better
 than eating a solitary Christmas dinner at an inn,” said he, “and I can
 assure you of a hearty welcome in something of the old-fashioned style.”
- His reasoning was cogent, and I must confess the preparation I had seen
+His reasoning was cogent, and I must confess the preparation I had seen
 for universal festivity and social enjoyment had made me feel a little
 impatient of my loneliness. I closed, therefore, at once with his
 invitation; the chaise drove up to the door, and in a few moments I was
@@ -6598,17 +6417,15 @@ on my way to the family mansion of the Bracebridges.
 
 
 
-CHRISTMAS EVE.
 
-    Saint Francis and Saint Benedight
-    Blesse this house from wicked wight;
-    From the night-mare and the goblin,
-    That is hight good fellow Robin;
-    Keep it from all evil spirits,
-    Fairies, weezels, rats, and ferrets:
-        From curfew time
-        To the next prime.
-                       CARTWRIGHT.
+Saint Francis and Saint Benedight
+Blesse this house from wicked wight;
+From the night-mare and the goblin,
+That is hight good fellow Robin;
+Keep it from all evil spirits,
+Fairies, weezels, rats, and ferrets:
+From curfew time
+To the next prime.
 
 IT was a brilliant moonlight night, but extremely cold; our chaise
 whirled rapidly over the frozen ground; the postboy smacked his whip
@@ -6622,7 +6439,6 @@ in its purity, the old English country gentleman; for our men of fortune
 spend so much of their time in town, and fashion is carried so much into
 the country, that the strong rich peculiarities of ancient rural life
 are almost polished away. My father, however, from early years, took
-honest Peacham* for his textbook, instead of Chesterfield; he determined
 in his own mind that there was no condition more truly honorable and
 enviable than that of a country gentleman on his paternal lands, and
 therefore passes the whole of his time on his estate. He is a strenuous
@@ -6645,7 +6461,6 @@ I think it best to give you these hints about my worthy old father, to
 prepare you for any eccentricities that might otherwise appear absurd.”
 
 
-     * Peacham’s Complete Gentleman, 1622.
 
 
 We had passed for some time along the wall of a park, and at length the
@@ -6694,11 +6509,11 @@ one of the choicest gifts a parent could bestow.”
 
 We were interrupted by the clamor of a troop of dogs of all sorts and
 sizes, “mongrel, puppy, whelp, and hound, and curs of lower degree,”
- that disturbed by the ring of the porter’s bell and the rattling of the
+that disturbed by the ring of the porter’s bell and the rattling of the
 chaise, came bounding, open-mouthed, across the lawn.
 
-     “‘----The little dogs and all,  Tray, Blanch,
-     and Sweetheart, see, they bark at me!’”
+“‘----The little dogs and all,  Tray, Blanch,
+and Sweetheart, see, they bark at me!’”
 
 cried Bracebridge, laughing. At the sound of his voice the bark was
 changed into a yelp of delight, and in a moment he was surrounded and
@@ -6741,14 +6556,12 @@ ancient usage. Here were kept up the old games of hoodman blind, shoe
 the wild mare, hot cockles, steal the white loaf, bob apple, and snap
 dragon; the Yule-clog and Christmas candle were regularly burnt, and the
 mistletoe with its white berries hung up, to the imminent peril of all
-the pretty housemaids.*
 
 
-     * The mistletoe is still hung up in farm-houses and kitchens
-     at Christmas, and the young men have the privilege of
-     kissing the girls under it, plucking each time a berry from
-     the bush. When the berries are all plucked the privilege
-     ceases.
+at Christmas, and the young men have the privilege of
+kissing the girls under it, plucking each time a berry from
+the bush. When the berries are all plucked the privilege
+ceases.
 
 
 So intent were the servants upon their sports that we had to ring
@@ -6797,27 +6610,25 @@ make way for a fire of wood, in the midst of which was an enormous log
 glowing and blazing, and sending forth a vast volume of light and heat:
 this, I understood, was the Yule-clog, which the squire was particular
 in having brought in and illumined on a Christmas Eve, according to
-ancient custom.*
 
 
-     * The Yule-clog is a great log of wood, sometimes the root
-     of a tree, brought into the house with great ceremony on
-     Christmas Eve, laid in the fireplace, and lighted with the
-     brand of last year’s clog. While it lasted there was great
-     drinking, singing, and telling of tales. Sometimes it was
-     accompanied by Christmas candles; but in the cottages the
-     only light was from the ruddy blaze of the great wood fire.
-     The Yule-clog was to burn all night; if it went out, it was
-     considered a sign of ill luck.
+of a tree, brought into the house with great ceremony on
+Christmas Eve, laid in the fireplace, and lighted with the
+brand of last year’s clog. While it lasted there was great
+drinking, singing, and telling of tales. Sometimes it was
+accompanied by Christmas candles; but in the cottages the
+only light was from the ruddy blaze of the great wood fire.
+The Yule-clog was to burn all night; if it went out, it was
+considered a sign of ill luck.
 
 Herrick mentions it in one of his songs:
 
-        Come, bring with a noise,
-        My metric, merrie boys,
-    The Christmas Log to the firing;
-        While my good dame, she
-        Bids ye all be free,
-    And drink to your hearts’ desiring.
+Come, bring with a noise,
+My metric, merrie boys,
+The Christmas Log to the firing;
+While my good dame, she
+Bids ye all be free,
+And drink to your hearts’ desiring.
 
 The Yule-clog is still burnt in many farm-houses and kitchens in
 England, particularly in the north, and there are several superstitions
@@ -6903,12 +6714,12 @@ moment, and then, with a sparkle of the eye and a voice that was by no
 means bad, excepting that it ran occasionally into a falsetto like the
 notes of a split reed, he quavered forth a quaint old ditty:
 
-        Now Christmas is come,
-        Let us beat up the drum,
-    And call all our neighbors together;
-        And when they appear,
-        Let us make them such cheer,
-    As will keep out the wind and the weather, &c.
+Now Christmas is come,
+Let us beat up the drum,
+And call all our neighbors together;
+And when they appear,
+Let us make them such cheer,
+As will keep out the wind and the weather, &c.
 
 The supper had disposed every one to gayety, and an old harper was
 summoned from the servants’ hall, where he had been strumming all the
@@ -6957,29 +6768,29 @@ for a moment as if in an effort of memory, struck into another strain,
 and with a charming air of gallantry gave Herrick’s “Night-Piece to
 Julia:”
 
-        Her eyes the glow-worm lend thee,
-        The shooting stars attend thee,
-        And the elves also,
-        Whose little eyes glow
-    Like the sparks of fire, befriend thee.
+Her eyes the glow-worm lend thee,
+The shooting stars attend thee,
+And the elves also,
+Whose little eyes glow
+Like the sparks of fire, befriend thee.
 
-    No Will-o’-the-Wisp mislight thee;
-    Nor snake nor slow-worm bite thee;
-        But on thy way,
-        Not making a stay,
-    Since ghost there is none to affright thee,
+No Will-o’-the-Wisp mislight thee;
+Nor snake nor slow-worm bite thee;
+But on thy way,
+Not making a stay,
+Since ghost there is none to affright thee,
 
-    Then let not the dark thee cumber;
-    What though the moon does slumber,
-        The stars of the night
-        Will lend thee their light,
-    Like tapers clear without number.
+Then let not the dark thee cumber;
+What though the moon does slumber,
+The stars of the night
+Will lend thee their light,
+Like tapers clear without number.
 
-    Then, Julia, let me woo thee,
-    Thus, thus to come unto me,
-        And when I shall meet
-        Thy silvery feet,
-    My soul I’ll pour into thee.
+Then, Julia, let me woo thee,
+Thus, thus to come unto me,
+And when I shall meet
+Thy silvery feet,
+My soul I’ll pour into thee.
 
 The song might or might not have been intended in compliment to the
 fair Julia, for so I found his partner was called; she, however, was
@@ -7020,18 +6831,16 @@ and I fell asleep.
 
 
 
-CHRISTMAS DAY.
 
-    Dark and dull night, flie hence away,
-    And give the honor to this day
-    That sees December turn’d to May.
-   .  .  .  .  .  .  .
-    Why does the chilling winter’s morne
-    Smile like a field beset with corn?
-    Or smell like to a meade new-shorne,
-    Thus on the sudden?--come and see
-    The cause why things thus fragrant be.
-                                     HERRICK.
+Dark and dull night, flie hence away,
+And give the honor to this day
+That sees December turn’d to May.
+.  .  .  .  .  .  .
+Why does the chilling winter’s morne
+Smile like a field beset with corn?
+Or smell like to a meade new-shorne,
+Thus on the sudden?--come and see
+The cause why things thus fragrant be.
 
 WHEN I woke the next morning it seemed as if all the events of the
 preceding evening had been a dream, and nothing but the identity of the
@@ -7040,8 +6849,8 @@ pillow I heard the sound of little feet pattering outside of the door,
 and a whispering consultation. Presently a choir of small voices chanted
 forth an old Christmas carol, the burden of which was--
 
-    Rejoice, our Saviour he was born
-    On Christmas Day in the morning.
+Rejoice, our Saviour he was born
+On Christmas Day in the morning.
 
 I rose softly, slipt on my clothes, opened the door suddenly, and beheld
 one of the most beautiful little fairy groups that a painter could
@@ -7091,18 +6900,17 @@ and sudden sally of grateful feeling with which the worthy squire
 delivered one stanza, his eye glistening and his voice rambling out of
 all the bounds of time and tune:
 
-    “‘Tis Thou that crown’st my glittering hearth
-          With guiltless mirth,
-      And givest me Wassaile bowles to drink
-          Spiced to the brink;
-      Lord, ‘tis Thy plenty-dropping hand
-          That soiles my land:
-      And giv’st me for my bushell sowne,
-          Twice ten for one.”
+“‘Tis Thou that crown’st my glittering hearth
+With guiltless mirth,
+And givest me Wassaile bowles to drink
+Spiced to the brink;
+Lord, ‘tis Thy plenty-dropping hand
+That soiles my land:
+And giv’st me for my bushell sowne,
+Twice ten for one.”
 
 I afterwards understood that early morning service was read on every
 Sunday and saint’s day throughout the year, either by Mr. Bracebridge or
-by some member of the family. It was once almost universally the case
 at the seats of the nobility and gentry of England, and it is much to
 be regretted that the custom is falling into neglect; for the dullest
 observer must be sensible of the order and serenity prevalent in those
@@ -7135,7 +6943,6 @@ clipped yew trees carried with them an air of proud aristocracy. There
 appeared to be an unusual number of peacocks about the place, and I was
 making some remarks upon what I termed a flock of them that were basking
 under a sunny wall, when I was gently corrected in my phraseology
-by Master Simon, who told me that according to the most ancient and
 approved treatise on hunting I must say a muster of peacocks. “In the
 same way,” added he, with a slight air of pedantry, “we say a flight
 of doves or swallows, a bevy of quails, a herd of deer, of wrens, or
@@ -7185,8 +6992,8 @@ and I was told that the squire was a little particular in having his
 household at church on a Christmas morning, considering it a day of
 pouring out of thanks and rejoicing; for, as old Tusser observed,--
 
-     “At Christmas be merry, and thankful withal,
-     And feast thy poor neighbors, the great with the small.”
+“At Christmas be merry, and thankful withal,
+And feast thy poor neighbors, the great with the small.”
 
 “If you are disposed to go to church,” said Frank Bracebridge, “I can
 promise you a specimen of my cousin Simon’s musical achievements. As the
@@ -7242,7 +7049,6 @@ the mind, might be compared to a title-page of black-letter.
 On reaching the church-porch we found the parson rebuking the
 gray-headed sexton for having used mistletoe among the greens with which
 the church was decorated. It was, he observed, an unholy plant, profaned
-by having been used by the Druids in their mystic ceremonies; and,
 though it might be innocently employed in the festive ornamenting of
 halls and kitchens, yet it had been deemed by the Fathers of the Church
 as unhallowed and totally unfit for sacred purposes. So tenacious was
@@ -7312,7 +7118,6 @@ had a legion of ideal adversaries to contend with, having in the course
 of his researches on the subject of Christmas got completely embroiled
 in the sectarian controversies of the Revolution, when the Puritans made
 such a fierce assault upon the ceremonies of the Church, and poor old
-Christmas was driven out of the land by proclamation of Parliament.*
 The worthy parson lived but with times past, and knew but little of the
 present.
 
@@ -7332,20 +7137,19 @@ manner, to stand to the traditional customs of their fathers and feast
 and make merry on this joyful anniversary of the Church.
 
 
-     * From the “Flying Eagle,” a small gazette, published
-     December 24, 1652: “The House spent much time this day about
-     the business of the Navy, for settling the affairs at sea,
-     and before they rose, were presented with a terrible
-     remonstrance against Christmas day, grounded upon divine
-     Scriptures, 2 Cor. v. 16; I Cor. xv. 14, 17; and in honor of
-     the Lord’s Day, grounded upon these Scriptures, John xx. I;
-     Rev. i. 10; Psalms cxviii. 24; Lev. xxiii. 7, 11; Mark xv.
-     8; Psalms lxxxiv. 10, in which Christmas is called Anti-
-     christ’s masse, and those Masse-mongers and Papists who
-     observe it, etc. In consequence of which parliament spent
-     some time in consultation about the abolition of Christmas
-     day, passed orders to that effect, and resolved to sit on
-     the following day, which was commonly called Christmas day.”
+December 24, 1652: “The House spent much time this day about
+the business of the Navy, for settling the affairs at sea,
+and before they rose, were presented with a terrible
+remonstrance against Christmas day, grounded upon divine
+Scriptures, 2 Cor. v. 16; I Cor. xv. 14, 17; and in honor of
+the Lord’s Day, grounded upon these Scriptures, John xx. I;
+Rev. i. 10; Psalms cxviii. 24; Lev. xxiii. 7, 11; Mark xv.
+8; Psalms lxxxiv. 10, in which Christmas is called Anti-
+christ’s masse, and those Masse-mongers and Papists who
+observe it, etc. In consequence of which parliament spent
+some time in consultation about the abolition of Christmas
+day, passed orders to that effect, and resolved to sit on
+the following day, which was commonly called Christmas day.”
 
 
 I have seldom known a sermon attended apparently with more immediate
@@ -7353,7 +7157,6 @@ effects, for on leaving the church the congregation seemed one and
 all possessed with the gayety of spirit so earnestly enjoined by their
 pastor. The elder folks gathered in knots in the churchyard, greeting
 and shaking hands, and the children ran about crying Ule! Ule! and
-repeating some uncouth rhymes,* which the parson, who had joined us,
 informed me had been handed down from days of yore. The villagers doffed
 their hats to the squire as he passed, giving him the good wishes of the
 season with every appearance of heartfelt sincerity, and were invited by
@@ -7363,9 +7166,8 @@ me that, in the midst of his enjoyments, the worthy old cavalier had not
 forgotten the true Christmas virtue of charity.
 
 
-    * “Ule! Ule!
-       Three puddings in a pule;
-       Crack nuts and cry ule!”
+Three puddings in a pule;
+Crack nuts and cry ule!”
 
 
 On our way homeward his heart seemed overflowed with generous and happy
@@ -7389,16 +7191,15 @@ breaking through the chills of ceremony and selfishness and thawing
 every heart into a flow. He pointed with pleasure to the indications of
 good cheer reeking from the chimneys of the comfortable farm-houses and
 low thatched cottages. “I love,” said he, “to see this day well kept
-by rich and poor; it is a great thing to have one day in the year,
 at least, when you are sure of being welcome wherever you go, and of
 having, as it were, the world all thrown open to you; and I am almost
 disposed to join with Poor Robin in his malediction on every churlish
 enemy to this honest festival:
 
-    “‘Those who at Christmas do repine,
-       And would fain hence dispatch him,
-      May they with old Duke Humphry dine,
-       Or else may Squire Ketch catch’em.’”
+“‘Those who at Christmas do repine,
+And would fain hence dispatch him,
+May they with old Duke Humphry dine,
+Or else may Squire Ketch catch’em.’”
 
 The squire went on to lament the deplorable decay of the games and
 amusements which were once prevalent at this season among the lower
@@ -7406,16 +7207,15 @@ orders and countenanced by the higher, when the old halls of castles and
 manor-houses were thrown open at daylight; when the tables were covered
 with brawn and beef and humming ale; when the harp and the carol
 resounded all day long; and when rich and poor were alike welcome to
-enter and make merry.* “Our old games and local customs,” said he, “had
 a great effect in making the peasant fond of his home, and the promotion
 of them by the gentry made him fond of his lord. They made the times
 merrier and kinder and better, and I can truly say, with one of our old
 poets,
 
-    “‘I like them well: the curious preciseness
-      And all-pretended gravity of those
-      That seek to banish hence these harmless sports,
-      Have thrust away much ancient honesty.’”
+“‘I like them well: the curious preciseness
+And all-pretended gravity of those
+That seek to banish hence these harmless sports,
+Have thrust away much ancient honesty.’”
 
 “The nation,” continued he, “is altered; we have almost lost our
 simple true-hearted peasantry. They have broken asunder from the higher
@@ -7427,15 +7227,14 @@ pass more time on their estates, mingle more among the country-people,
 and set the merry old English games going again.”
 
 
-     * “An English gentleman, at the opening of the great day--
-     i.e. on Christmas Day in the morning--had all his tenants
-     and neighbors enter his hall by daybreak. The strong beer
-     was broached, and the black-jacks went plentifully about,
-     with toast, sugar and nutmeg, and good Cheshire cheese. The
-     Hackin (the great sausage) must be boiled by daybreak, or
-     else two young men must take the maiden (i.e. the cook) by
-     the arms and run her round the market-place till she is
-     shamed of her laziness.”--Round about our Sea-Coal Fire.
+i.e. on Christmas Day in the morning--had all his tenants
+and neighbors enter his hall by daybreak. The strong beer
+was broached, and the black-jacks went plentifully about,
+with toast, sugar and nutmeg, and good Cheshire cheese. The
+Hackin (the great sausage) must be boiled by daybreak, or
+else two young men must take the maiden (i.e. the cook) by
+the arms and run her round the market-place till she is
+shamed of her laziness.”--Round about our Sea-Coal Fire.
 
 
 Such was the good squire’s project for mitigating public discontent:
@@ -7511,21 +7310,20 @@ ran off with an air of roguish affected confusion.
 
 
 
-THE CHRISTMAS DINNER.
 
-    Lo, now is come our joyful’st feast!
-        Let every man be jolly.
-    Eache roome with yvie leaves is drest,
-        And every post with holly.
-    Now all our neighbours’ chimneys smoke,
-        And Christmas blocks are burning;
-    Their ovens they with bak’t meats choke
-        And all their spits are turning.
-            Without the door let sorrow lie,
-            And if, for cold, it hap to die,
-            Wee’l bury ‘t in a Christmas pye,
-            And evermore be merry.
-                                 WITHERS, Juvenilia.
+Lo, now is come our joyful’st feast!
+Let every man be jolly.
+Eache roome with yvie leaves is drest,
+And every post with holly.
+Now all our neighbours’ chimneys smoke,
+And Christmas blocks are burning;
+Their ovens they with bak’t meats choke
+And all their spits are turning.
+Without the door let sorrow lie,
+And if, for cold, it hap to die,
+Wee’l bury ‘t in a Christmas pye,
+And evermore be merry.
+WITHERS, Juvenilia.
 
 I HAD finished my toilet, and was loitering with Frank Bracebridge in
 the library, when we heard a distant thwacking sound, which he informed
@@ -7533,15 +7331,13 @@ me was a signal for the serving up of the dinner. The squire kept up old
 customs in kitchen as well as hall, and the rolling-pin, struck upon the
 dresser by the cook, summoned the servants to carry in the meats.
 
-    Just in this nick the cook knock’d thrice,
-    And all the waiters in a trice
-        His summons did obey;
-    Each serving-man, with dish in hand,
-    March’d boldly up, like our train-band,
-    Presented and away.*
+Just in this nick the cook knock’d thrice,
+And all the waiters in a trice
+His summons did obey;
+Each serving-man, with dish in hand,
+March’d boldly up, like our train-band,
 
 
-     * Sir John Suckling.
 
 
 The dinner was served up in the great hall, where the squire always held
@@ -7605,12 +7401,12 @@ conclusion of which the young Oxonian, on receiving a hint from the
 squire, gave, with an air of the most comic gravity, an old carol, the
 first verse of which was as follows
 
-        Caput apri defero
-        Reddens laudes Domino.
-    The boar’s head in hand bring I,
-    With garlands gay and rosemary.
-    I pray you all synge merily
-        Qui estis in convivio.
+Caput apri defero
+Reddens laudes Domino.
+The boar’s head in hand bring I,
+With garlands gay and rosemary.
+I pray you all synge merily
+Qui estis in convivio.
 
 Though prepared to witness many of these little eccentricities, from
 being apprised of the peculiar hobby of mine host, yet I confess the
@@ -7631,39 +7427,36 @@ and who was always more taken up with the text than the sentiment,
 objected to the Oxonian’s version of the carol, which he affirmed
 was different from that sung at college. He went on, with the dry
 perseverance of a commentator, to give the college reading, accompanied
-by sundry annotations, addressing himself at first to the company at
 large; but, finding their attention gradually diverted to other talk and
 other objects, he lowered his tone as his number of auditors diminished,
 until he concluded his remarks in an under voice to a fat-headed old
 gentleman next him who was silently engaged in the discussion of a huge
-plateful of turkey.*
 
 
-     * The old ceremony of serving up the boar’s head on
-     Christmas Day is still observed in the hall of Queen’s
-     College, Oxford. I was favored by the parson with a copy of
-     the carol as now sung, and as it may be acceptable to such
-     of my readers as are curious in these grave and learned
-     matters, I give it entire:
+Christmas Day is still observed in the hall of Queen’s
+College, Oxford. I was favored by the parson with a copy of
+the carol as now sung, and as it may be acceptable to such
+of my readers as are curious in these grave and learned
+matters, I give it entire:
 
-    The boar’s head in hand bear I,
-    Bedeck’d with bays and rosemary
-    And I pray you, my masters, be merry
-        Quot estis in convivio
-        Caput apri defero,
-        Reddens laudes domino.
+The boar’s head in hand bear I,
+Bedeck’d with bays and rosemary
+And I pray you, my masters, be merry
+Quot estis in convivio
+Caput apri defero,
+Reddens laudes domino.
 
-    The boar’s head, as I understand,
-    Is the rarest dish in all this land,
-    Which thus bedeck’d with a gay garland
-        Let us servire cantico.
-            Caput apri defero, etc.
+The boar’s head, as I understand,
+Is the rarest dish in all this land,
+Which thus bedeck’d with a gay garland
+Let us servire cantico.
+Caput apri defero, etc.
 
-    Our steward hath provided this
-    In honor of the King of Bliss,
-    Which on this day to be served is
-        In Reginensi Atrio.
-            Caput apri defero, etc., etc., etc.
+Our steward hath provided this
+In honor of the King of Bliss,
+Which on this day to be served is
+In Reginensi Atrio.
+Caput apri defero, etc., etc., etc.
 
 
 The table was literally loaded with good cheer, and presented an
@@ -7681,27 +7474,25 @@ overshadowed a considerable tract of the table. This, the squire
 confessed with some little hesitation, was a pheasant pie, though a
 peacock pie was certainly the most authentical; but there had been such
 a mortality among the peacocks this season that he could not prevail
-upon himself to have one killed.*
 
 
-     * The peacock was anciently in great demand for stately
-     entertainments. Sometimes it was made into a pie, at one end
-     of which the head appeared above the crust in all its
-     plumage, with the beak richly gilt; at the other end the
-     tail was displayed. Such pies were served up at the solemn
-     banquets of chivalry, when knights-errant pledged themselves
-     to undertake any perilous enterprise, whence came the
-     ancient oath, used by Justice Shallow, “by cock and pie.”
+entertainments. Sometimes it was made into a pie, at one end
+of which the head appeared above the crust in all its
+plumage, with the beak richly gilt; at the other end the
+tail was displayed. Such pies were served up at the solemn
+banquets of chivalry, when knights-errant pledged themselves
+to undertake any perilous enterprise, whence came the
+ancient oath, used by Justice Shallow, “by cock and pie.”
 
 The peacock was also an important dish for the Christmas feast; and
 Massinger, in his “City Madam,” gives some idea of the extravagance
 with which this, as well as other dishes, was prepared for the gorgeous
 revels of the olden times:
 
-  Men may talk of Country Christmasses,
-  Their thirty pound butter’d eggs, their pies of carps’ tongues;
-  Their pheasants drench’d with ambergris: the carcases of three
-  fat wethers bruised for gravy to make sauce for a single peacock!
+Men may talk of Country Christmasses,
+Their thirty pound butter’d eggs, their pies of carps’ tongues;
+Their pheasants drench’d with ambergris: the carcases of three
+fat wethers bruised for gravy to make sauce for a single peacock!
 
 
 It would be tedious, perhaps, to my wiser readers, who may not have
@@ -7729,22 +7520,19 @@ he particularly prided himself, alleging that it was too abstruse and
 complex for the comprehension of an ordinary servant. It was a potation,
 indeed, that might well make the heart of a toper leap within him, being
 composed of the richest and raciest wines, highly spiced and sweetened,
-with roasted apples bobbing about the surface.*
 
 
-     * The Wassail Bowl was sometimes composed of ale instead of
-     wine, with nutmeg, sugar, toast, ginger, and roasted crabs;
-     in this way the nut-brown beverage is still prepared in some
-     old families and round the hearths of substantial farmers at
-     Christmas. It is also called Lamb’s Wool, and is celebrated
-     by Herrick in his “Twelfth Night”:
+wine, with nutmeg, sugar, toast, ginger, and roasted crabs;
+in this way the nut-brown beverage is still prepared in some
+old families and round the hearths of substantial farmers at
+Christmas. It is also called Lamb’s Wool, and is celebrated
 
-        Next crowne the bowle full
-        With gentle Lamb’s Wool;
-    Add sugar, nutmeg, and ginger,
-        With store of ale too,
-        And thus ye must doe
-    To make the Wassaile a swinger.
+Next crowne the bowle full
+With gentle Lamb’s Wool;
+Add sugar, nutmeg, and ginger,
+With store of ale too,
+And thus ye must doe
+To make the Wassaile a swinger.
 
 
 The old gentleman’s whole countenance beamed with a serene look of
@@ -7752,14 +7540,12 @@ indwelling delight as he stirred this mighty bowl. Having raised it to
 his lips, with a hearty wish of a merry Christmas to all present, he
 sent it brimming round the board, for every one to follow his example,
 according to the primitive style, pronouncing it “the ancient fountain
-of good feeling, where all hearts met together.” *
 
 
-     * “The custom of drinking out of the same cup gave place to
-     each having his cup. When the steward came to the doore with
-     the Wassel, he was to cry three times, Wassel, Wassel,
-     Wassel, and then the chappell (chaplain) was to answer with
-     a song.”--Archaeologia.
+each having his cup. When the steward came to the doore with
+the Wassel, he was to cry three times, Wassel, Wassel,
+Wassel, and then the chappell (chaplain) was to answer with
+a song.”--Archaeologia.
 
 
 There was much laughing and rallying as the honest emblem of Christmas
@@ -7767,24 +7553,22 @@ joviality circulated and was kissed rather coyly by the ladies. When it
 reached Master Simon, he raised it in both hands, and with the air of a
 boon companion struck up an old Wassail Chanson:
 
-    The brown bowle,
-    The merry brown bowle,
-    As it goes round-about-a,
-        Fill
-        Still,
-    Let the world say what it will,
-    And drink your fill all out-a.
+The brown bowle,
+The merry brown bowle,
+As it goes round-about-a,
+Fill
+Still,
+Let the world say what it will,
+And drink your fill all out-a.
 
-    The deep canne,
-    The merry deep canne,
-    As thou dost freely quaff-a,
-        Sing
-        Fling,
-    Be as merry as a king,
-    And sound a lusty laugh-a.*
+The deep canne,
+The merry deep canne,
+As thou dost freely quaff-a,
+Sing
+Fling,
+Be as merry as a king,
 
 
-     * From Poor Robin’s Almanack.
 
 
 Much of the conversation during dinner turned upon family topics, to
@@ -7837,7 +7621,7 @@ study. Still, there seemed to be a spark of almost extinguished fire
 feebly glimmering in the bottom of his soul; and as the squire hinted
 at a sly story of the parson and a pretty milkmaid whom they once met
 on the banks of the Isis, the old gentleman made an “alphabet of faces,”
- which, as far as I could decipher his physiognomy, I verily believe was
+which, as far as I could decipher his physiognomy, I verily believe was
 indicative of laughter; indeed, I have rarely met with an old gentleman
 that took absolute offence at the imputed gallantries of his youth.
 
@@ -7851,10 +7635,10 @@ black-letter work entitled Cupid’s Solicitor for Love, containing store
 of good advice for bachelors, and which he promised to lend me; the
 first verse was to effect.
 
-    He that will woo a widow must not dally
-        He must make hay while the sun doth shine;
-    He must not stand with her, shall I, shall I,
-        But boldly say, Widow, thou must be mine.
+He that will woo a widow must not dally
+He must make hay while the sun doth shine;
+He must not stand with her, shall I, shall I,
+But boldly say, Widow, thou must be mine.
 
 This song inspired the fat-headed old gentleman, who made several
 attempts to tell a rather broad story out of Joe Miller that was pat to
@@ -7874,7 +7658,6 @@ children, and particularly at this happy holiday season, and could not
 help stealing out of the drawing-room on hearing one of their peals of
 laughter. I found them at the game of blindman’s-buff. Master Simon, who
 was the leader of their revels, and seemed on all occasions to fulfill
-the office of that ancient potentate, the Lord of Misrule,* was blinded
 in the midst of the hall. The little beings were as busy about him as
 the mock fairies about Falstaff, pinching him, plucking at the skirts of
 his coat, and tickling him with straws. One fine blue-eyed girl of about
@@ -7887,11 +7670,10 @@ I suspected the rogue of being not a whit more blinded than was
 convenient.
 
 
-     * At Christmasse there was in the Kinges house, wheresoever
-     hee was lodged, a lorde of misrule or mayster of merie
-     disportes, and the like had ye in the house of every
-     nobleman of honor, or good worshipper were he spirituall or
-     temporall.--STOW.
+hee was lodged, a lorde of misrule or mayster of merie
+disportes, and the like had ye in the house of every
+nobleman of honor, or good worshipper were he spirituall or
+temporall.--STOW.
 
 
 When I returned to the drawing-room I found the company seated round the
@@ -7968,15 +7750,13 @@ housekeeper had been consulted; the antique clothespresses and wardrobes
 rummaged and made to yield up the relics of finery that had not seen the
 light for several generations; the younger part of the company had been
 privately convened from the parlor and hall, and the whole had been
-bedizened out into a burlesque imitation of an antique mask.*
 
 
-     * Maskings or mummeries were favorite sports at Christmas in
-     old times, and the wardrobes at halls and manor-houses were
-     often laid under contribution to furnish dresses and
-     fantastic disguisings. I strongly suspect Master Simon to
-     have taken the idea of his from Ben Jonson’s “Masque of
-     Christmas.”
+old times, and the wardrobes at halls and manor-houses were
+often laid under contribution to furnish dresses and
+fantastic disguisings. I strongly suspect Master Simon to
+have taken the idea of his from Ben Jonson’s “Masque of
+Christmas.”
 
 
 Master Simon led the van, as “Ancient Christmas,” quaintly apparelled in
@@ -7986,7 +7766,7 @@ village steeple, and must indubitably have figured in the days of the
 Covenanters. From under this his nose curved boldly forth, flushed with
 a frost-bitten bloom that seemed the very trophy of a December blast. He
 was accompanied by the blue-eyed romp, dished up, as “Dame Mince Pie,”
- in the venerable magnificence of a faded brocade, long stomacher, peaked
+in the venerable magnificence of a faded brocade, long stomacher, peaked
 hat, and high-heeled shoes. The young officer appeared as Robin Hood, in
 a sporting dress of Kendal green and a foraging cap with a gold tassel.
 
@@ -8020,7 +7800,6 @@ resurrection of his old wardrobe with the simple relish of childish
 delight. He stood chuckling and rubbing his hands, and scarcely hearing
 a word the parson said, notwithstanding that the latter was discoursing
 most authentically on the ancient and stately dance of the Pavon, or
-peacock, from which he conceived the minuet to be derived.* For my
 part, I was in a continual excitement from the varied scenes of whim
 and innocent gayety passing before me. It was inspiring to see wild-eyed
 frolic and warm-hearted hospitality breaking out from among the chills
@@ -8035,22 +7814,21 @@ manor-house almost reeled with mirth and wassail, it seemed echoing back
 the joviality of long departed years.+
 
 
-     * Sir John Hawkins, speaking of the dance called the Pavon,
-     from pavo, a peacock, says, “It is a grave and majestic
-     dance; the method of dancing it anciently was by gentlemen
-     dressed with caps and swords, by those of the long robe in
-     their gowns, by the peers in their mantles, and by the
-     ladies in gowns with long trains, the motion whereof, in
-     dancing, resembled that of a peacock.”--History of Music.
+from pavo, a peacock, says, “It is a grave and majestic
+dance; the method of dancing it anciently was by gentlemen
+dressed with caps and swords, by those of the long robe in
+their gowns, by the peers in their mantles, and by the
+ladies in gowns with long trains, the motion whereof, in
+dancing, resembled that of a peacock.”--History of Music.
 
-     + At the time of the first publication of this paper the
-     picture of an old-fashioned Christmas in the country was
-     pronounced by some as out of date. The author had afterwards
-     an opportunity of witnessing almost all the customs above
-     described, existing in unexpected vigor in the skirts of
-     Derbyshire and Yorkshire, where he passed the Christmas
-     holidays. The reader will find some notice of them in the
-     author’s account of his sojourn at Newstead Abbey.
++ At the time of the first publication of this paper the
+picture of an old-fashioned Christmas in the country was
+pronounced by some as out of date. The author had afterwards
+an opportunity of witnessing almost all the customs above
+described, existing in unexpected vigor in the skirts of
+Derbyshire and Yorkshire, where he passed the Christmas
+holidays. The reader will find some notice of them in the
+author’s account of his sojourn at Newstead Abbey.
 
 
 But enough of Christmas and its gambols; it is time for me to pause
@@ -8075,14 +7853,12 @@ have written entirely in vain.
 
 
 
-LONDON ANTIQUES.
 
-                                  ----I do walk
-    Methinks like Guide Vaux, with my dark lanthorn,
-    Stealing to set the town o’ fire; i’ th’ country
-    I should be taken for William o’ the Wisp,
-    Or Robin Goodfellow.
-                                             FLETCHER.
+----I do walk
+Methinks like Guide Vaux, with my dark lanthorn,
+Stealing to set the town o’ fire; i’ th’ country
+I should be taken for William o’ the Wisp,
+Or Robin Goodfellow.
 
 I AM somewhat of an antiquity-hunter, and am fond of exploring London in
 quest of the relics of old times. These are principally to be found in
@@ -8281,7 +8057,6 @@ considered merely as a foretaste.
 
 
 
-LITTLE BRITAIN.
 
 What I write is most true..... I have a whole booke of cases lying by
 me, which if I should sette foorth, some grave auntients (within the
@@ -8324,13 +8099,11 @@ courts also contain many smaller houses, not on so grand a scale, but,
 like your small ancient gentry, sturdily maintaining their claims to
 equal antiquity. These have their gable ends to the street, great bow
 windows with diamond panes set in lead, grotesque carvings, and low
-arched doorways.*
 
 
-     * It is evident that the author of this interesting
-     communication has included, in his general title of Little
-     Britain, man of those little lanes and courts that belong
-     immediately to Cloth Fair.
+communication has included, in his general title of Little
+Britain, man of those little lanes and courts that belong
+immediately to Cloth Fair.
 
 
 In this most venerable and sheltered little nest have I passed several
@@ -8513,61 +8286,59 @@ variations, as he received it from his father’s lips; for it has been a
 standing favorite at the Half-Moon and Bunch of Grapes ever since it was
 written; nay, he affirms that his predecessors have often had the honor
 of singing it before the nobility and gentry at Christmas mummeries,
-when Little Britain was in all its glory.*
 
 
-     * As mine host of the Half-Moon’s Confession of Faith may
-     not be familiar to the majority of readers, and as it is a
-     specimen of the current songs of Little Britain, I subjoin
-     it in its original orthography. I would observe that the
-     whole club always join in the chorus with a fearful thumping
-     on the table and clattering of pewter pots.
+not be familiar to the majority of readers, and as it is a
+specimen of the current songs of Little Britain, I subjoin
+it in its original orthography. I would observe that the
+whole club always join in the chorus with a fearful thumping
+on the table and clattering of pewter pots.
 
-        I cannot eate but lytle meate,
-            My stomacke is not good,
-        But sure I thinke that I can drinke
-            With him that weares a hood.
-        Though I go bare, take ye no care,
-            I nothing am a colde,
-        I stuff my skyn so full within,
-            Of joly good ale and olde.
+I cannot eate but lytle meate,
+My stomacke is not good,
+But sure I thinke that I can drinke
+With him that weares a hood.
+Though I go bare, take ye no care,
+I nothing am a colde,
+I stuff my skyn so full within,
+Of joly good ale and olde.
 
-  Chorus. Backe and syde go bare, go bare,
-            Both foote and hand go colde,
-        But, belly, God send thee good ale ynoughe,
-            Whether it be new or olde.
+Chorus. Backe and syde go bare, go bare,
+Both foote and hand go colde,
+But, belly, God send thee good ale ynoughe,
+Whether it be new or olde.
 
-        I have no rost, but a nut brawne toste
-            And a crab laid in the fyre;
-        A little breade shall do me steade,
-            Much breade I not desyre.
-        No frost nor snow, nor winde, I trowe,
-            Can hurte mee, if I wolde,
-        I am so wrapt and throwly lapt
-            Of joly good ale and olde.
+I have no rost, but a nut brawne toste
+And a crab laid in the fyre;
+A little breade shall do me steade,
+Much breade I not desyre.
+No frost nor snow, nor winde, I trowe,
+Can hurte mee, if I wolde,
+I am so wrapt and throwly lapt
+Of joly good ale and olde.
 
-  Chorus. Backe and syde go bare, go bare, etc.
+Chorus. Backe and syde go bare, go bare, etc.
 
-        And Tyb my wife, that, as her lyfe,
-            Loveth well good ale to seeke,
-        Full oft drynkes shee, tyll ye may see,
-            The teares run downe her cheeke.
-        Then doth shee trowle to me the bowle,
-            Even as a mault-worme sholde,
-        And sayth, sweete harte, I took my parte
-            Of this jolly good ale and olde.
+And Tyb my wife, that, as her lyfe,
+Loveth well good ale to seeke,
+Full oft drynkes shee, tyll ye may see,
+The teares run downe her cheeke.
+Then doth shee trowle to me the bowle,
+Even as a mault-worme sholde,
+And sayth, sweete harte, I took my parte
+Of this jolly good ale and olde.
 
-  Chorus. Backe and syde go bare, go bare, etc.
+Chorus. Backe and syde go bare, go bare, etc.
 
-        Now let them drynke, tyll they nod and winke,
-            Even as goode fellowes sholde doe,
-        They shall not mysse to have the blisse,
-            Good ale doth bring men to;
-        And all poore soules that have scowred bowles,
-            Or have them lustily trolde,
-        God save the lyves of them and their wives,
-            Whether they be yonge or olde.
-  Chorus. Backe and syde go bare, go bare, etc.
+Now let them drynke, tyll they nod and winke,
+Even as goode fellowes sholde doe,
+They shall not mysse to have the blisse,
+Good ale doth bring men to;
+And all poore soules that have scowred bowles,
+Or have them lustily trolde,
+God save the lyves of them and their wives,
+Whether they be yonge or olde.
+Chorus. Backe and syde go bare, go bare, etc.
 
 
 It would do one’s heart good to hear, on a club night, the shouts of
@@ -8814,13 +8585,11 @@ Trotters to divide the distracted empire of LITTLE BRITAIN.
 
 
 
-STRATFORD-ON-AVON.
 
 Thou soft-flowing Avon, by thy silver stream Of things more than mortal
 sweet Shakespeare would dream The fairies by moonlight dance round his
 green bed, For hallow’d the turf is which pillow’d his head.
 
-GARRICK.
 
 TO a homeless man, who has no spot on this wide world which he can
 truly call his own, there is a momentary feeling of something like
@@ -8996,10 +8765,10 @@ awful. If they are indeed his own, they show that solicitude about
 the quiet of the grave which seems natural to fine sensibilities and
 thoughtful minds:
 
-    Good friend, for Jesus’ sake, forbeare
-    To dig the dust inclosed here.
-    Blessed be he that spares these stones,
-    And curst be he that moves my bones.
+Good friend, for Jesus’ sake, forbeare
+To dig the dust inclosed here.
+Blessed be he that spares these stones,
+And curst be he that moves my bones.
 
 Just over the grave, in a niche of the wall, is a bust of Shakespeare,
 put up shortly after his death and considered as a resemblance. The
@@ -9034,7 +8803,6 @@ on whom he is said to have written a ludicrous epitaph. There are other
 monuments around, but the mind refuses to dwell on anything that is not
 connected with Shakespeare. His idea pervades the place; the whole pile
 seems but as his mausoleum. The feelings, no longer checked and thwarted
-by doubt, here indulge in perfect confidence: other traces of him may be
 false or dubious, but here is palpable evidence and absolute certainty.
 As I trod the sounding pavement there was something intense and
 thrilling in the idea that in very truth the remains of Shakespeare were
@@ -9052,7 +8820,6 @@ prisoner and carried to the keeper’s lodge, where he remained all night
 in doleful captivity. When brought into the presence of Sir Thomas Lucy
 his treatment must have been galling and humiliating; for it so wrought
 upon his spirit as to produce a rough pasquinade which was affixed to
-the park gate at Charlecot.*
 
 This flagitious attack upon the dignity of the knight so incensed him
 that he applied to a lawyer at Warwick to put the severity of the laws
@@ -9071,20 +8838,19 @@ the justice’s armorial bearings, which, like those of the knight, had
 white luces+ in the quarterings.
 
 
-     * The following is the only stanza extant of this lampoon:
 
-    A parliament member, a justice of peace,
-    At home a poor scarecrow, at London an asse,
-    If lowsie is Lucy, as some volke miscalle it,
-    Then Lucy is lowsie, whatever befall it.
-        He thinks himself great;
-        Yet an asse in his state,
-    We allow by his ears but with asses to mate,
-    If Lucy is lowsie, as some volke miscalle it,
-    Then sing lowsie Lucy whatever befall it.
+A parliament member, a justice of peace,
+At home a poor scarecrow, at London an asse,
+If lowsie is Lucy, as some volke miscalle it,
+Then Lucy is lowsie, whatever befall it.
+He thinks himself great;
+Yet an asse in his state,
+We allow by his ears but with asses to mate,
+If Lucy is lowsie, as some volke miscalle it,
+Then sing lowsie Lucy whatever befall it.
 
-     + The luce is a pike or jack, and abounds in the Avon about
-     Charlecot.
++ The luce is a pike or jack, and abounds in the Avon about
+Charlecot.
 
 
 Various attempts have been made by his biographers to soften and explain
@@ -9108,13 +8874,11 @@ at mention of whom old men shake their heads and predict that they will
 one day come to the gallows. To him the poaching in Sir Thomas Lucy’s
 park was doubtless like a foray to a Scottish knight, and struck
 his eager, and as yet untamed, imagination as something delightfully
-adventurous.*
 
 
-     * A proof of Shakespeare’s random habits and associates in
-     his youthful days may be found in a traditionary anecdote,
-     picked up at Stratford by the elder Ireland, and mentioned
-     in his “Picturesque Views on the Avon.”
+his youthful days may be found in a traditionary anecdote,
+picked up at Stratford by the elder Ireland, and mentioned
+in his “Picturesque Views on the Avon.”
 
 About seven miles from Stratford lies the thirsty little market-town of
 Bedford, famous for its ale. Two societies of the village yeomanry used
@@ -9133,10 +8897,10 @@ was still standing, and goes by the name of Shakespeare’s tree.
 In the morning his companions awaked the bard, and proposed returning to
 Bedford, but he declined, saying he had enough, having drank with
 
-    Piping Pebworth, Dancing Marston,
-    Haunted Hilbro’, Hungry Grafton,
-    Dudging Exhall, Papist Wicksford,
-    Beggarly Broom, and Drunken Bedford.
+Piping Pebworth, Dancing Marston,
+Haunted Hilbro’, Hungry Grafton,
+Dudging Exhall, Papist Wicksford,
+Beggarly Broom, and Drunken Bedford.
 
 “The villages here alluded to,” says Ireland, “still bear the epithets
 thus given them: the people of Pebworth are still famed for their skill
@@ -9172,15 +8936,15 @@ speck on the white bosom of the cloud, while the ear was still filled
 with his music, it called to mind Shakespeare’s exquisite little song in
 Cymbeline:
 
-    Hark! hark! the lark at heav’n’s gate sings,
-        And Phoebus ‘gins arise,
-    His steeds to water at those springs,
-        On chaliced flowers that lies.
+Hark! hark! the lark at heav’n’s gate sings,
+And Phoebus ‘gins arise,
+His steeds to water at those springs,
+On chaliced flowers that lies.
 
-    And winking mary-buds begin
-        To ope their golden eyes;
-    With every thing that pretty bin,
-        My lady sweet arise!
+And winking mary-buds begin
+To ope their golden eyes;
+With every thing that pretty bin,
+My lady sweet arise!
 
 Indeed, the whole country about here is poetic ground: everything is
 associated with the idea of Shakespeare. Every old cottage that I saw
@@ -9190,19 +8954,17 @@ tales and wild superstitions which he has woven like witchcraft into
 his dramas. For in his time, we are told, it was a popular amusement in
 winter evenings “to sit round the fire, and tell merry tales of errant
 knights, queens, lovers, lords, ladies, giants, dwarfs, thieves,
-cheaters, witches, fairies, goblins, and friars.” *
 
 
-     * Scot, in his “Discoverie of Witchcraft,” enumerates a of
-     these fireside fancies: “And they have so fraid us with host
-     bull-beggars, spirits, witches, urchins, elves, hags,
-     fairies, satyrs, pans, faunes, syrens, kit with the can
-     sticke, tritons, centaurs, dwarfes, giantes, imps, calcars,
-     conjurors, nymphes, changelings, incubus, Robin-goodfellow,
-     the spoorne, the mare, the man in the oke, the hell-waine,
-     the fier drake, the puckle, Tom Thombe, hobgoblins, Tom
-     Tumbler, boneless, and such other bugs, that we were afraid
-     of our own shadowes.”
+these fireside fancies: “And they have so fraid us with host
+bull-beggars, spirits, witches, urchins, elves, hags,
+fairies, satyrs, pans, faunes, syrens, kit with the can
+sticke, tritons, centaurs, dwarfes, giantes, imps, calcars,
+conjurors, nymphes, changelings, incubus, Robin-goodfellow,
+the spoorne, the mare, the man in the oke, the hell-waine,
+the fier drake, the puckle, Tom Thombe, hobgoblins, Tom
+Tumbler, boneless, and such other bugs, that we were afraid
+of our own shadowes.”
 
 
 My route for a part of the way lay in sight of the Avon, which made
@@ -9261,14 +9023,14 @@ threw their broad shades over the grassy banks and quivering waters of
 the Avon, that the poet’s fancy may have sallied forth into that little
 song which breathes the very soul of a rural voluptuary
 
-    Unto the greenwood tree,
-    Who loves to lie with me
-    And tune his merry throat
-    Unto the sweet bird’s note,
-    Come hither, come hither, come hither.
-        Here shall he see
-        No enemy,
-    But winter and rough weather.
+Unto the greenwood tree,
+Who loves to lie with me
+And tune his merry throat
+Unto the sweet bird’s note,
+Come hither, come hither, come hither.
+Here shall he see
+No enemy,
+But winter and rough weather.
 
 I had now come in sight of the house. It is a large building of brick
 with stone quoins, and is in the Gothic style of Queen Elizabeth’s day,
@@ -9379,36 +9141,33 @@ who inhabited the hall in the latter part of Shakespeare’s lifetime.
 I at first thought that it was the vindictive knight himself, but the
 housekeeper assured me that it was his son; the only likeness extant
 of the former being an effigy upon his tomb in the church of the
-neighboring hamlet of Charlecot.*
 
 
-     * This effigy is in white marble, and represents the knight
-     in complete armor. Near him lies the effigy of his wife, and
-     on her tomb is the following inscription; which, if really
-     composed by her husband, places him quite above the
-     intellectual level of Master Shallow:
+in complete armor. Near him lies the effigy of his wife, and
+on her tomb is the following inscription; which, if really
+composed by her husband, places him quite above the
+intellectual level of Master Shallow:
 
-     Here lyeth the Lady Joyce Lucy wife of Sir Thomas Lucy of
-     Charlecot in ye county of Warwick, Knight, Daughter and heir
-     of Thomas Acton of Sutton in ye county of Worcester Esquire
-     who departed out of this wretched world to her heavenly
-     kingdom ye 10 day of February in ye yeare of our Lord God
-     1595 and of her age 60 and three. All the time of her lyfe a
-     true and faythful servant of her good God, never detected of
-     any cryme or vice. In religion most sounde, in love to her
-     husband most faythful and true. In friendship most constant;
-     to what in trust was committed unto her most secret. In
-     wisdom excelling. In governing of her house, bringing up of
-     youth in ye fear of God that did converse with her moste
-     rare and singular. A great maintayner of hospitality.
-     Greatly esteemed of her betters; misliked of none unless of
-     the envyous. When all is spoken that can be saide a woman so
-     garnished with virtue as not to be bettered and hardly to be
-     equalled by any. As shee lived most virtuotisly so shee died
-     most Godly. Set downe by him yt best did knowe what hath byn
-     written to be true.
+Here lyeth the Lady Joyce Lucy wife of Sir Thomas Lucy of
+Charlecot in ye county of Warwick, Knight, Daughter and heir
+of Thomas Acton of Sutton in ye county of Worcester Esquire
+who departed out of this wretched world to her heavenly
+kingdom ye 10 day of February in ye yeare of our Lord God
+true and faythful servant of her good God, never detected of
+any cryme or vice. In religion most sounde, in love to her
+husband most faythful and true. In friendship most constant;
+to what in trust was committed unto her most secret. In
+wisdom excelling. In governing of her house, bringing up of
+youth in ye fear of God that did converse with her moste
+rare and singular. A great maintayner of hospitality.
+Greatly esteemed of her betters; misliked of none unless of
+the envyous. When all is spoken that can be saide a woman so
+garnished with virtue as not to be bettered and hardly to be
+equalled by any. As shee lived most virtuotisly so shee died
+most Godly. Set downe by him yt best did knowe what hath byn
+written to be true.
 
-     Thomas Lucye.
+Thomas Lucye.
 
 
 The picture gives a lively idea of the costume and manners of the time.
@@ -9420,23 +9179,21 @@ venerable stiffness and formality of dress. Hounds and spaniels are
 mingled in the family group; a hawk is seated on his perch in the
 foreground, and one of the children holds a bow, all intimating the
 knight’s skill in hunting, hawking, and archery, so indispensable to an
-accomplished gentleman in those days.*
 
 
-     * Bishop Earle, speaking of the country gentleman of his
-     time, observes, “His housekeeping is seen much in the
-     different families of dogs and serving-men attendant on
-     their kennels; and the deepness of their throats is the
-     depth of his discourse. A hawk he esteems the true burden of
-     nobility, and is exceedingly ambitious to seem delighted
-     with the sport, and have his fist gloved with his jesses.”
-      And Gilpin, in his description of a Mr. Hastings, remarks,
-     “He kept all sorts of hounds that run buck, fox, hare,
-     otter, and badger; and had hawks of all kinds both long and
-     short winged. His great hall was commonly strewed with
-     marrow-bones, and full of hawk perches, hounds, spaniels,
-     and terriers. On a broad hearth, paved with brick, lay some
-     of the choicest terriers, hounds, and spaniels.”
+time, observes, “His housekeeping is seen much in the
+different families of dogs and serving-men attendant on
+their kennels; and the deepness of their throats is the
+depth of his discourse. A hawk he esteems the true burden of
+nobility, and is exceedingly ambitious to seem delighted
+with the sport, and have his fist gloved with his jesses.”
+And Gilpin, in his description of a Mr. Hastings, remarks,
+“He kept all sorts of hounds that run buck, fox, hare,
+otter, and badger; and had hawks of all kinds both long and
+short winged. His great hall was commonly strewed with
+marrow-bones, and full of hawk perches, hounds, spaniels,
+and terriers. On a broad hearth, paved with brick, lay some
+of the choicest terriers, hounds, and spaniels.”
 
 
 I regretted to find that the ancient furniture of the hall had
@@ -9489,8 +9246,8 @@ brought them as it were before my eyes, and as the door of the
 dining-room opened I almost expected to hear the feeble voice of Master
 Silence quavering forth his favorite ditty:
 
-    “‘Tis merry in hall, when beards wag all,
-      And welcome merry Shrove-tide!”
+“‘Tis merry in hall, when beards wag all,
+And welcome merry Shrove-tide!”
 
 On returning to my inn I could not but reflect on the singular gift of
 the poet, to be able thus to spread the magic of his mind over the very
@@ -9502,7 +9259,6 @@ wizard influence of Shakespeare I had been walking all day in a complete
 delusion. I had surveyed the landscape through the prism of poetry,
 which tinged every object with the hues of the rainbow. I had been
 surrounded with fancied beings, with mere airy nothings conjured up
-by poetic power, yet which, to me, had all the charm of reality. I had
 heard Jaques soliloquize beneath his oak; had beheld the fair Rosalind
 and her companion adventuring through the woodlands; and, above all,
 had been once more present in spirit with fat Jack Falstaff and his
@@ -9547,7 +9303,6 @@ guide the literary pilgrim of every nation to his tomb!
 
 
 
-TRAITS OF INDIAN CHARACTER.
 
 “I appeal to any white man if ever he entered Logan’s cabin hungry, and
 he gave him not to eat; if ever he came cold and naked, and he clothed
@@ -9571,7 +9326,6 @@ It has been the lot of the unfortunate aborigines of America in the
 early periods of colonization to be doubly wronged by the white men.
 They have been dispossessed of their hereditary possessions by mercenary
 and frequently wanton warfare, and their characters have been traduced
-by bigoted and interested writers. The colonists often treated them like
 beasts of the forest, and the author has endeavored to justify him
 in his outrages. The former found it easier to exterminate than to
 civilize; the latter to vilify than to discriminate. The appellations of
@@ -9594,7 +9348,6 @@ true, with laudable diligence, endeavored to investigate and record
 the real characters and manners of the Indian tribes; the American
 government, too, has wisely and humanely exerted itself to inculcate
 a friendly and forbearing spirit towards them and to protect them from
-fraud and injustice.* The current opinion of the Indian character,
 however, is too apt to be formed from the miserable hordes which infest
 the frontiers and hang on the skirts of the settlements. These are too
 commonly composed of degenerate beings, corrupted and enfeebled by the
@@ -9627,14 +9380,13 @@ abundance; the whole wilderness has blossomed into a garden, but they
 feel as reptiles that infest it.
 
 
-     * The American Government has been indefatigable in its
-     exertions to ameliorate the situation of the Indians, and to
-     introduce among them the arts of civilization and civil and
-     religious knowledge. To protect them from the frauds of the
-     white traders no purchase of land from them by individuals
-     is permitted, nor is any person allowed to receive lands
-     from them as a present without the express sanction of
-     government. These precautions are strictly enforced.
+exertions to ameliorate the situation of the Indians, and to
+introduce among them the arts of civilization and civil and
+religious knowledge. To protect them from the frauds of the
+white traders no purchase of land from them by individuals
+is permitted, nor is any person allowed to receive lands
+from them as a present without the express sanction of
+government. These precautions are strictly enforced.
 
 
 How different was their state while yet the undisputed lords of the
@@ -9789,7 +9541,6 @@ because it is in fact the triumph of lofty sentiment over an instinctive
 repugnance to pain, and over those yearnings after personal ease and
 security which society has condemned as ignoble. It is kept alive by
 pride and the fear of shame; and thus the dread of real evil is overcome
-by the superior dread of an evil which exists but in the imagination. It
 has been cherished and stimulated also by various means. It has been
 the theme of spirit-stirring song and chivalrous story. The poet and
 minstrel have delighted to shed round it the splendors of fiction, and
@@ -9932,17 +9683,14 @@ the white man will cease to persecute us, for we shall cease to exist!”
 
 
 
-PHILIP OF POKANOKET.
 
-AN INDIAN MEMOIR.
 
-    As monumental bronze unchanged his look:
-    A soul that pity touch’d, but never shook;
-    Train’d from his tree-rock’d cradle to his bier,
-    The fierce extremes of good and ill to brook
-    Impassive--fearing but the shame of fear--
-        stoic of the woods--a man without a tear.
-                                            CAMPBELL.
+As monumental bronze unchanged his look:
+A soul that pity touch’d, but never shook;
+Train’d from his tree-rock’d cradle to his bier,
+The fierce extremes of good and ill to brook
+Impassive--fearing but the shame of fear--
+stoic of the woods--a man without a tear.
 
 IT is to be regretted that those early writers who treated of the
 discovery and settlement of America have not given us more particular
@@ -9996,12 +9744,10 @@ human nature is capable, fighting to the last gasp in the cause of their
 country, without a hope of victory or a thought of renown. Worthy of
 an age of poetry and fit subjects for local story and romantic fiction,
 they have left scarcely any authentic traces on the page of history, but
-stalk like gigantic shadows in the dim twilight of tradition.*
 
 
-     * While correcting the proof-sheets of this article the
-     author is informed that a celebrated English poet has nearly
-     finished an heroic poem on the story of Philip of Pokanoket.
+author is informed that a celebrated English poet has nearly
+finished an heroic poem on the story of Philip of Pokanoket.
 
 
 When the Pilgrims, as the Plymouth settlers are called by their
@@ -10096,11 +9842,9 @@ But whatever may have been his feelings of general hostility and his
 particular indignation at the treatment of his brother, he suppressed
 them for the present, renewed the contract with the settlers, and
 resided peaceably for many years at Pokanoket, or as, it was called by
-the English, Mount Hope,* the ancient seat of dominion of his tribe.
 Suspicions, however, which were at first but vague and indefinite,
 began to acquire form and substance, and he was at length charged with
 attempting to instigate the various eastern tribes to rise at once, and
-by a simultaneous effort to throw off the yoke of their oppressors. It
 is difficult at this distant period to assign the proper credit due to
 these early accusations against the Indians. There was a proneness to
 suspicion and an aptness to acts of violence on the part of the whites
@@ -10110,7 +9854,6 @@ was readily unsheathed when its success was certain and it carved out
 empire.
 
 
-     * Now Bristol, Rhode Island.
 
 
 The only positive evidence on record against Philip is the accusation
@@ -10171,7 +9914,6 @@ forerun great and public calamities. The perfect form of an Indian
 bow appeared in the air at New Plymouth, which was looked upon by the
 inhabitants as a “prodigious apparition.” At Hadley, Northampton, and
 other towns in their neighborhood “was heard the report of a great piece
-of ordnance, with a shaking of the earth and a considerable echo.” *
 Others were alarmed on a still sunshiny morning by the discharge of guns
 and muskets; bullets seemed to whistle past them, and the noise of
 drums resounded in the air, seeming to pass away to the westward; others
@@ -10192,7 +9934,6 @@ the grave record made of them by one of the learned men of the day are
 strongly characteristic of the times.
 
 
-     * The Rev. Increase Mather’s History.
 
 
 The nature of the contest that ensued was such as too often
@@ -10332,10 +10073,8 @@ the warriors, exhibited a most horrible and affecting scene, so that it
 greatly moved some of the soldiers.” The same writer cautiously adds,
 “They were in much doubt then, and afterwards seriously inquired,
 whether burning their enemies alive could be consistent with humanity,
-and the benevolent principles of the gospel.” *
 
 
-     * MS. of the Rev. W. Ruggles.
 
 
 The fate of the brave and generous Canonchet is worthy of particular
@@ -10369,7 +10108,6 @@ who did the same. He then sent two more, one of whom, hurrying back
 in confusion and affright, told him that the whole British army was
 at hand. Canonchet saw there was no choice but immediate flight. He
 attempted to escape round the hill, but was perceived and hotly pursued
-by the hostile Indians and a few of the fleetest of the English. Finding
 the swiftest pursuer close upon his heels, he threw off, first his
 blanket, then his silver-laced coat and belt of peag, by which his
 enemies knew him to be Canonchet and redoubled the eagerness of pursuit.
@@ -10385,7 +10123,6 @@ a man of great vigor of body and boldness of heart. But on being made
 prisoner the whole pride of his spirit arose within him, and from that
 moment we find, in the anecdotes given by his enemies, nothing but
 repeated flashes of elevated and prince-like heroism. Being questioned
-by one of the English who first came up with him, and who had not
 attained his twenty second year, the proud-hearted warrior, looking
 with lofty contempt upon his youthful countenance, replied, “You are a
 child--you cannot understand matters of war; let your brother or your
@@ -10421,7 +10158,6 @@ were counteracted by the superior arts of his enlightened enemies, and
 the terror of their warlike skill began to subdue the resolution of the
 neighboring tribes. The unfortunate chieftain saw himself daily stripped
 of power, and his ranks rapidly thinning around him. Some were suborned
-by the whites; others fell victims to hunger and fatigue and to the
 frequent attacks by which they were harassed. His stores were all
 captured; his chosen friends were swept away from before his eyes; his
 uncle was shot down by his side; his sister was carried into captivity;
@@ -10526,18 +10262,17 @@ pitying eye to weep his fall or a friendly hand to record his struggle.
 
 
 
-JOHN BULL.
 
-    An old song, made by an aged old pate,
-    Of an old worshipful gentleman who had a great estate,
-    That kept a brave old house at a bountiful rate,
-    And an old porter to relieve the poor at his gate.
+An old song, made by an aged old pate,
+Of an old worshipful gentleman who had a great estate,
+That kept a brave old house at a bountiful rate,
+And an old porter to relieve the poor at his gate.
 
-    With an old study fill’d full of learned old books,
-    With an old reverend chaplain, you might know him by his
+With an old study fill’d full of learned old books,
+With an old reverend chaplain, you might know him by his
 looks,    With an old buttery-hatch worn quite off the hooks,
-    And an old kitchen that maintained half-a-dozen old cooks.
-                       Like an old courtier, etc.--Old Song.
+And an old kitchen that maintained half-a-dozen old cooks.
+Like an old courtier, etc.--Old Song.
 
 THERE is no species of humor in which the English more excel than that
 which consists in caricaturing and giving ludicrous appellations or
@@ -10916,15 +10651,13 @@ and a merry old age.
 
 
 
-THE PRIDE OF THE VILLAGE.
 
-    May no wolfe howle; no screech owle stir
-    A wing about thy sepulchre!
-    No boysterous winds or stormes come hither,
-        To starve or wither
-    Thy soft sweet earth! but, like a spring,
-    Love kept it ever flourishing.
-                                           HERRICK.
+May no wolfe howle; no screech owle stir
+A wing about thy sepulchre!
+No boysterous winds or stormes come hither,
+To starve or wither
+Thy soft sweet earth! but, like a spring,
+Love kept it ever flourishing.
 
 IN the course of an excursion through one of the remote counties of
 England, I had struck into one of those cross-roads that lead through
@@ -11008,10 +10741,10 @@ companions, but without envy, for it was surpassed by the unassuming
 gentleness and winning kindness of her manners. It might be truly said
 of her:
 
-    “This is the prettiest low-born lass, that ever
-     Ran on the green-sward: nothing she does or seems
-     But smacks of something greater than herself;
-     Too noble for this place.”
+“This is the prettiest low-born lass, that ever
+Ran on the green-sward: nothing she does or seems
+But smacks of something greater than herself;
+Too noble for this place.”
 
 The village was one of those sequestered spots which still retain some
 vestiges of old English customs. It had its rural festivals and holiday
@@ -11168,7 +10901,6 @@ conduct was the cause. She even depicted the sufferings which she had
 experienced, but concluded with saying that she could not die in peace
 until she had sent him her forgiveness and her blessing.
 
-By degrees her strength declined that she could no longer leave the
 cottage. She could only totter to the window, where, propped up in
 her chair, it was her enjoyment to sit all day and look out upon the
 landscape. Still she uttered no complaint nor imparted to any one the
@@ -11232,17 +10964,15 @@ but delicate memento of departed innocence.
 
 
 
-THE ANGLER.
 
-    This day Dame Nature seem’d in love,
-    The lusty sap began to move,
-    Fresh juice did stir th’ embracing vines,
-    And birds had drawn their valentines.
-    The jealous trout that low did lie,
-    Rose at a well-dissembled flie.
-    There stood my friend, with patient skill,
-    Attending of his trembling quill.
-                                  SIR H. WOTTON.
+This day Dame Nature seem’d in love,
+The lusty sap began to move,
+Fresh juice did stir th’ embracing vines,
+And birds had drawn their valentines.
+The jealous trout that low did lie,
+Rose at a well-dissembled flie.
+There stood my friend, with patient skill,
+Attending of his trembling quill.
 
 IT is said that many an unlucky urchin is induced to run away from his
 family and betake himself to a seafaring life from reading the history
@@ -11301,7 +11031,6 @@ simplicity and rural feeling that had bewitched me, and not the passion
 for angling. My companions, however, were more persevering in their
 delusion. I have them at this moment before eyes, stealing along the
 border of the brook where it lay open to the day or was merely fringed
-by shrubs and bushes. I see the bittern rising with hollow scream as
 they break in upon his rarely-invaded haunt; the kingfisher watching
 them suspiciously from his dry tree that overhangs the deep black
 millpond in the gorge of the hills; the tortoise letting himself slip
@@ -11333,7 +11062,6 @@ the Dee, my attention was attracted to a group seated on the margin.
 On approaching I found it to consist of a veteran angler and two rustic
 disciples. The former was an old fellow with a wooden leg, with clothes
 very much but very carefully patched, betokening poverty honestly come
-by and decently maintained. His face bore the marks of former storms,
 but present fair weather, its furrows had been worn into an habitual
 smile, his iron-gray locks hung about his ears, and he had altogether
 the good-humored air of a constitutional philosopher who was disposed to
@@ -11346,7 +11074,7 @@ examining the maw of a trout which he had just killed, to discover by
 its contents what insects were seasonable for bait, and was lecturing
 on the subject to his companions, who appeared to listen with infinite
 deference. I have a kind feeling towards all “brothers of the angle”
- ever since I read Izaak Walton. They are men, he affirms, of a “mild,
+ever since I read Izaak Walton. They are men, he affirms, of a “mild,
 sweet, and peaceable spirit;” and my esteem for them has been increased
 since I met with an old Tretyse of fishing with the Angle, in which are
 set forth many of the maxims of their inoffensive fraternity. “Take
@@ -11355,7 +11083,6 @@ disportes ye open no man’s gates but that ye shet them again. Also ye
 shall not use this forsayd crafti disport for no covetousness to the
 encreasing and sparing of your money only, but principally for your
 solace, and to cause the helth of your body and specyally of your
-soule.” *
 
 I thought that I could perceive in the veteran angler before me
 an exemplification of what I had read; and there was a cheerful
@@ -11379,15 +11106,14 @@ mild and sunshiny, with now and then a soft-dropping shower that sowed
 the whole earth with diamonds.
 
 
-     * From this same treatise it would appear that angling is a
-     more industrious and devout employment than it is generally
-     considered: “For when ye purpose to go on your disportes in
-     fishynge ye will not desyre greatlye many persons with you,
-     which might let you of your game. And that ye may serve God
-     devoutly in saying effectually your customable prayers. And
-     thus doying, ye shall eschew and also avoyde many vices, as
-     ydelness, which is principall cause to induce man to many
-     other vices, as it is right well known.”
+more industrious and devout employment than it is generally
+considered: “For when ye purpose to go on your disportes in
+fishynge ye will not desyre greatlye many persons with you,
+which might let you of your game. And that ye may serve God
+devoutly in saying effectually your customable prayers. And
+thus doying, ye shall eschew and also avoyde many vices, as
+ydelness, which is principall cause to induce man to many
+other vices, as it is right well known.”
 
 
 I soon fell into conversation with the old angler, and was so much
@@ -11457,21 +11183,20 @@ Nature, and therefore trust in Him.”
 I cannot forbear to give another quotation from one of those ancient
 champions of angling which breathes the same innocent and happy spirit:
 
-    Let me live harmlessly, and near the brink
-        Of Trent or Avon have a dwelling-place:
-    Where I may see my quill, or cork, down sink
-        With eager bite of Pike, or Bleak, or Dace;
-    And on the world and my Creator think:
-        Whilst some men strive ill-gotten goods t’ embrace:
-    And others spend their time in base excess
-    Of wine, or worse, in war or wantonness.
+Let me live harmlessly, and near the brink
+Of Trent or Avon have a dwelling-place:
+Where I may see my quill, or cork, down sink
+With eager bite of Pike, or Bleak, or Dace;
+And on the world and my Creator think:
+Whilst some men strive ill-gotten goods t’ embrace:
+And others spend their time in base excess
+Of wine, or worse, in war or wantonness.
 
-    Let them that will, these pastimes still pursue,
-        And on such pleasing fancies feed their fill;
-    So I the fields and meadows green may view,
-        And daily by fresh rivers walk at will,
-    Among the daisies and the violets blue,
-        Red hyacinth and yellow daffodil.*
+Let them that will, these pastimes still pursue,
+And on such pleasing fancies feed their fill;
+So I the fields and meadows green may view,
+And daily by fresh rivers walk at will,
+Among the daisies and the violets blue,
 
 On parting with the old angler I inquired after his place of abode,
 and, happening to be in the neighborhood of the village a few evenings
@@ -11498,7 +11223,6 @@ containing a work on angling, much worn, a Bible covered with canvas, an
 odd volume or two of voyages, a nautical almanac, and a book of songs.
 
 
-     * J. Davors.
 
 
 His family consisted of a large black cat with one eye, and a parrot
@@ -11552,7 +11276,7 @@ mother had been buried.
 
 I have done, for I fear that my reader is growing weary, but I could not
 refrain from drawing the picture of this worthy “brother of the angle,”
- who has made me more than ever in love with the theory, though I fear I
+who has made me more than ever in love with the theory, though I fear I
 shall never be adroit in the practice, of his art; and I will conclude
 this rambling sketch in the words of honest Izaak Walton, by craving the
 blessing of St. Peter’s Master upon my reader, “and upon all that are
@@ -11562,22 +11286,18 @@ and go a-angling.”
 
 
 
-THE LEGEND OF SLEEPY HOLLOW.
 
-(FOUND AMONG THE PAPERS OF THE LATE DIEDRICH KNICKERBOCKER.)
 
-    A pleasing land of drowsy-head it was,
-        Of dreams that wave before the half-shut eye,
-    And of gay castles in the clouds that pays,
-        For ever flushing round a summer sky.
-                                       Castle of Indolence
+A pleasing land of drowsy-head it was,
+Of dreams that wave before the half-shut eye,
+And of gay castles in the clouds that pays,
+For ever flushing round a summer sky.
+Castle of Indolence
 
 IN the bosom of one of those spacious coves which indent the eastern
 shore of the Hudson, at that broad expansion of the river denominated
-by the ancient Dutch navigators the Tappan Zee, and where they always
 prudently shortened sail and implored the protection of St. Nicholas
 when they crossed, there lies a small market-town or rural port which
-by some is called Greensburg, but which is more generally and properly
 known by the name of Tarry Town. This name was given, we are told, in
 former days by the good housewives of the adjacent country from the
 inveterate propensity of their husbands to linger about the village
@@ -11663,7 +11383,7 @@ vegetating in its sheltered bosom.
 In this by-place of Nature there abode, in a remote period of American
 history--that is to say, some thirty years since--a worthy wight of the
 name of Ichabod Crane, who sojourned, or, as he expressed it, “tarried,”
- in Sleepy Hollow for the purpose of instructing the children of the
+in Sleepy Hollow for the purpose of instructing the children of the
 vicinity. He was a native of Connecticut, a State which supplies the
 Union with pioneers for the mind as well as for the forest, and sends
 forth yearly its legions of frontier woodmen and country schoolmasters.
@@ -11682,13 +11402,11 @@ cornfield.
 His school-house was a low building of one large room, rudely
 constructed of logs, the windows partly glazed and partly patched with
 leaves of old copybooks. It was most ingeniously secured at vacant hours
-by a withe twisted in the handle of the door and stakes set against the
 window-shutters, so that, though a thief might get in with perfect ease,
 he would find some embarrassment in getting out---an idea most probably
 borrowed by the architect, Yost Van Houten, from the mystery of
 an eel-pot. The school-house stood in a rather lonely but pleasant
 situation, just at the foot of a woody hill, with a brook running close
-by and a formidable birch tree growing at one end of it. From hence the
 low murmur of his pupils’ voices, conning over their lessons, might be
 heard in a drowsy summer’s day like the hum of a bee-hive, interrupted
 now and then by the authoritative voice of the master in the tone of
@@ -11790,7 +11508,6 @@ of the evening made the printed page a mere mist before his eyes. Then,
 as he wended his way by swamp and stream and awful woodland to the
 farmhouse where he happened to be quartered, every sound of Nature at
 that witching hour fluttered his excited imagination--the moan of the
-whip-poor-will* from the hillside; the boding cry of the tree-toad, that
 harbinger of storm; the dreary hooting of the screech-owl, or the
 sudden rustling in the thicket of birds frightened from their roost. The
 fire-flies, too, which sparkled most vividly in the darkest places, now
@@ -11802,12 +11519,11 @@ only resource on such occasions, either to drown thought or drive away
 evil spirits, was to sing psalm tunes; and the good people of Sleepy
 Hollow, as they sat by their doors of an evening, were often filled with
 awe at hearing his nasal melody, “in linked sweetness long drawn out,”
- floating from the distant hill or along the dusky road.
+floating from the distant hill or along the dusky road.
 
 
-     * The whip-poor-will is a bird which is only heard at night.
-     It receives its name from its note, which is thought to
-     resemble those words.
+It receives its name from its note, which is thought to
+resemble those words.
 
 
 Another of his sources of fearful pleasure was to pass long winter
@@ -11817,7 +11533,6 @@ to their marvellous tales of ghosts and goblins, and haunted fields,
 and haunted brooks, and haunted bridges, and haunted houses, and
 particularly of the headless horseman, or Galloping Hessian of the
 Hollow, as they sometimes called him. He would delight them equally
-by his anecdotes of witchcraft and of the direful omens and portentous
 sights and sounds in the air which prevailed in the earlier times of
 Connecticut, and would frighten them woefully with speculations upon
 comets and shooting stars, and with the alarming fact that the world did
@@ -12010,7 +11725,6 @@ the war into other quarters.
 
 Such was the formidable rival with whom Ichabod Crane had to contend,
 and, considering all things, a stouter man than he would have shrunk
-from the competition and a wiser (*)man would have despaired. He had,
 however, a happy mixture of pliability and perseverance in his nature;
 he was in form and spirit like a supple jack--yielding, but although;
 though he bent, he never broke and though he bowed beneath the slightest
@@ -12060,7 +11774,7 @@ reasoners, the knights-errant of yore--by single combat; but Ichabod was
 too conscious of the superior might of his adversary to enter the lists
 against him: he had overheard a boast of Bones, that he would “double
 the schoolmaster up and lay him on a shelf of his own school-house;”
- and he was too wary to give him an opportunity. There was something
+and he was too wary to give him an opportunity. There was something
 extremely provoking in this obstinately pacific system; it left Brom
 no alternative but to draw upon the funds of rustic waggery in his
 disposition and to play off boorish practical jokes upon his rival.
@@ -12150,7 +11864,6 @@ It was, as I have said, a fine autumnal day, the sky was clear and
 serene, and Nature wore that rich and golden livery which we always
 associate with the idea of abundance. The forests had put on their sober
 brown and yellow, while some trees of the tenderer kind had been nipped
-by the frosts into brilliant dyes of orange, purple, and scarlet.
 Streaming files of wild-ducks began to make their appearance high in the
 air; the bark of the squirrel might be heard from the groves of beech
 and hickory nuts, and the pensive whistle of the quail at intervals from
@@ -12484,7 +12197,7 @@ What was to be done? To turn and fly was now too late; and besides,
 what chance was there of escaping ghost or goblin, if such it was, which
 could ride upon the wings of the wind? Summoning up, therefore, a
 show of courage, he demanded in stammering accents, “Who are you?”
- He received no reply. He repeated his demand in a still more agitated
+He received no reply. He repeated his demand in a still more agitated
 voice. Still there was no answer. Once more he cudgelled the sides
 of the inflexible Gunpowder, and, shutting his eyes, broke forth with
 involuntary fervor into a psalm tune. Just then the shadowy object of
@@ -12584,7 +12297,6 @@ and a book of dreams and fortune-telling; in which last was a sheet of
 foolscap much scribbled and blotted in several fruitless attempts to
 make a copy of verses in honor of the heiress of Van Tassel. These magic
 books and the poetic scrawl were forthwith consigned to the flames
-by Hans Van Ripper, who from that time forward determined to send his
 children no more to school, observing that he never knew any good
 come of this same reading and writing. Whatever money the schoolmaster
 possessed--and he had received his quarter’s pay but a day or
@@ -12632,9 +12344,7 @@ evening, has often fancied his voice at a distance chanting a melancholy
 psalm tune among the tranquil solitudes of Sleepy Hollow.
 
 
-POSTSCRIPT
 
-FOUND IN THE HANDWRITING OF MR. KNICKERBOCKER.
 
 THE preceding tale is given almost in the precise words in which I heard
 it related at a Corporation meeting of the ancient city of Manhattoes,
@@ -12680,19 +12390,17 @@ or two points on which he had his doubts.
 “Faith, sir,” replied the story-teller, “as to that matter, I don’t
 believe one-half of it myself.”
 
-D. K.
 
 
 
 
-L’ENVOY.*
 
-    Go, little booke, God send thee good passage,
-    And specially let this be thy prayere,
-    Unto them all that thee will read or hear,
-    Where thou art wrong, after their help to call,
-    Thee to correct in any part or all.
-                  CHAUCER’S Belle Dame sans Mercie.
+Go, little booke, God send thee good passage,
+And specially let this be thy prayere,
+Unto them all that thee will read or hear,
+Where thou art wrong, after their help to call,
+Thee to correct in any part or all.
+CHAUCER’S Belle Dame sans Mercie.
 
 IN concluding a second volume of the Sketch Book the Author cannot but
 express his deep sense of the indulgence with which his first has been
@@ -12708,7 +12416,6 @@ being set off against the objections, he finds his work, upon the whole,
 commended far beyond its deserts.
 
 
-     * Closing the second volume of the London edition.
 
 
 He is aware that he runs a risk of forfeiting much of this kind favor by
