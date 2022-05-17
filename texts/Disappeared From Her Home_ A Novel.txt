@@ -1,86 +1,4 @@
 
-
-
-
-DISAPPEARED FROM HER HOME.
-
-A Novel,
-
-IN ONE VOLUME.
-
-
-BY
-
-MRS. FRED. E. PIRKIS.
-
-
-London:
-
-REMINGTON AND CO.,
-
-5, ARUNDEL STREET, STRAND, W.C.
-
-
-1877.
-
-[_All Rights Reserved._]
-
-
-
-
-DEDICATED,
-
-WITH ALL LOVE AND ESTEEM,
-
-TO MY BROTHER,
-
-GEORGE IGNATIUS PIRKIS.
-
-
-
-
-CONTENTS
-
-
-I
-
-II
-
-III
-
-IV
-
-V
-
-VI
-
-VII
-
-VIII
-
-IX
-
-X
-
-XI
-
-XII
-
-XIII
-
-XIV
-
-XV
-
-
-
-
-DISAPPEARED FROM HER HOME.
-
-
-CHAPTER I.
-
-
 “£200 REWARD. Disappeared from her home, Amy, only daughter of Stephen
 Warden, Esq., of the High Elms, Harleyford. Age, 17; height, 5ft. Dark
 hair and eyes, oval face, small nose, mouth, and chin; remarkably small
@@ -95,8 +13,6 @@ leading to Dunwich. Information to be given to Inspector Smythe,
 Dunwich Police Station, who will pay the above reward on the young
 lady’s restoration to her family, or portions of the amount according
 to the value of the information received.”
-
-_____
 
 The above handbill appeared one bright summer’s morning on the walls of
 Dunwich Police Station, and on all the principal buildings of that busy
@@ -205,7 +121,7 @@ till I find her, living or dead.’”
 
 
 
-CHAPTER II.
+
 
 
 WHILE the townspeople and country folks read and wondered at the
@@ -521,7 +437,7 @@ before me in the matter; however, we can only watch and wait.”
 
 
 
-CHAPTER III.
+
 
 
 IT seemed strange, at first, to the good people of Harleyford to see
@@ -662,7 +578,7 @@ early, and working late—earnest men, at earnest work.
 
 
 
-CHAPTER IV.
+
 
 
 AT this time Lord Hardcastle began to be a daily visitor at the High
@@ -895,7 +811,7 @@ Street, Hackney.”
 
 
 
-CHAPTER V.
+
 
 
 DR. HAYWARD’S report of Mr. and Mrs. Warden’s health was far from
@@ -1275,7 +1191,7 @@ deepens and thickens, supposing her to be alive and well somewhere!”
 
 
 
-CHAPTER VI.
+
 
 
 SHORTLY after his arrival at Liverpool, Frank received two letters from
@@ -1557,7 +1473,7 @@ silk!
 
 
 
-CHAPTER VII.
+
 
 
 MRS. WARDEN passed away before midnight; only the doctor and her
@@ -1636,7 +1552,7 @@ only by a simple marble cross with but one word inscribed, “_Aimée_.”
 
 
 
-CHAPTER VIII.
+
 
 
 THE news of Amy’s death was telegraphed to Frank at Dublin. Thither,
@@ -1850,7 +1766,7 @@ criticism of their neighbours.
 
 
 
-CHAPTER IX.
+
 
 
 VERY slowly and wearily the days went on at the High Elms. Lord
@@ -2206,7 +2122,7 @@ may lay his bones!”
 
 
 
-CHAPTER X.
+
 
 
 BEFORE starting for France, Lord Hardcastle received two letters. The
@@ -2515,7 +2431,7 @@ letters, “_Sans espoir je meurs!_”
 
 
 
-CHAPTER XI.
+
 
 
 “TAKE it, keep it, and let the poor sinner go!” Through long days and
@@ -2720,7 +2636,7 @@ awe-struck and silent as himself, stood Amy Warden and Isola the nurse!
 
 
 
-CHAPTER XII.
+
 
 
 THE time passed slowly and heavily to Mr. Warden during Lord
@@ -2916,7 +2832,7 @@ with a low bow, left the room.
 
 
 
-CHAPTER XIII.
+
 
 
 AT this time Mr. Warden received his first packet of English letters
@@ -3079,7 +2995,7 @@ her own hands.
 
 
 
-CHAPTER XIV.
+
 
 
 AMY’S story took long to tell. Not in one continuous narrative, but at
@@ -3408,7 +3324,7 @@ life’s battle!”
 
 
 
-CHAPTER XV.
+
 
 
 “SHE was like a wild bird beating its wings against its prison bars,”
@@ -3771,83 +3687,3 @@ peasant’s carving, with these few words—
 “ISOLA.”
 
 “_Fidèle jusques à la mort._”
-
-
-
-
-Transcriber’s Note
-
-This transcription is based on scans available through Historical Texts
-from a copy held by the British Library:
-
-  https://historicaltexts.jisc.ac.uk/bl-002924134
-
-Except where noted, inconsistencies in spelling (for example, “gray”
-vs. “grey”) and hyphenation (for example, “grave-yard” vs. “graveyard”)
-were not standardized. In addition, no changes were made to variant
-spellings such as “delirous”.
-
-The following changes were made to the text:
-
-• Added a table of contents.
-
-• p. 11: aimless, well-nigh broken hearted.—Changed “broken hearted”
-to “broken-hearted” for consistency.
-
-• p. 26: Mr Hill glances at them—Added a period after “Mr”.
-
-• p. 29: “How dare yon insult me thus?”—Changed “yon” to “you”.
-
-• p. 51: it would be best to re-commence on the morrow.—Changed
-“re-commence” to “recommence” for consistency.
-
-• p. 52: ‘Here,’ he called to the groom, ‘ride alongside of me, and tell
-me all that is to be known about the girl Williams and her
-flight!’”—Changed this sentence so that it is not a quotation within a
-quotation. Deleted the opening single quotation mark before “Here”;
-changed the closing single quotation mark after “Here” to a closing
-double quotation mark; changed the opening single quotation mark before
-“rule” to an opening double quotation mark; and deleted the closing
-single quotation mark before the closing double quotation mark at the
-end of the sentence.
-
-• pp. 61–62: my dear, young friend, he added (he had known Hardcastle
-from his boyhood), and spare them—Added a closing double quotation
-after “friend,” and added an opening double quotation mark before “and
-spare them”.
-
-• p. 63: a bright young voice pouring forth a flood of question, answer,
-and exclammation in a breath—Changed “exclammation” to “exclamation”.
-
-• p. 95: There was no rival beauty in her way now!”—Deleted the
-quotation mark at the end of the sentence.
-
-• p. 115: with but one word inscribed, “_Aimée_”—Added a period to
-the end of the sentence.
-
-• p. 127: In reply to this, Mrs. Warden wrote a long letter—Changed
-“Warden” to “Varley”.
-
-• p. 138: when sorrow seemed a far away thing—Changed “far away” to
-“far-away”.
-
-• p. 147: The signature “AIMEE” after “for I have torn your image
-out of my heart.” was changed to “AIMÉE”.
-
-• p. 157: shall love after death, through eternity!”—Added a single
-closing quotation mark after “eternity!” to close the quotation within
-a quotation.
-
-• p. 165: he directed a porter to place their luggage in the booking
-office—Added a hyphen between “booking” and “office” for consistency
-within the same paragraph.
-
-• p. 225: she turned back into the park-lands—Changed “park-lands” to
-“park lands” for consistency.
-
-• p. 262: Was he not a splendid man, papa? added Amy enthusiastically,
-he looked so noble—Added a closing double quotation mark after “papa?”
-and an opening quotation mark before “he looked”.
-
-
-
