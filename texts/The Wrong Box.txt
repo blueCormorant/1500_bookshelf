@@ -1,29 +1,5 @@
 
 
-
-
-
-THE WRONG BOX
-
-By Robert Louis Stevenson And Lloyd Osbourne
-
-
-
-
-PREFACE
-
-‘Nothing like a little judicious levity,’ says Michael Finsbury in the
-text: nor can any better excuse be found for the volume in the reader’s
-hand. The authors can but add that one of them is old enough to be
-ashamed of himself, and the other young enough to learn better.
-
-R. L. S. L. O.
-
-
-
-
-CHAPTER I. In Which Morris Suspects
-
 How very little does the amateur, dwelling at home at ease, comprehend
 the labours and perils of the author, and, when he smilingly skims the
 surface of a work of fiction, how little does he consider the hours
@@ -75,7 +51,6 @@ Crimea and the Mutiny carried off no less than nine. There remained
 in 1870 but five of the original members, and at the date of my story,
 including the two Finsburys, but three.
 
-By this time Masterman was in his seventy-third year; he had long
 complained of the effects of age, had long since retired from business,
 and now lived in absolute seclusion under the roof of his son Michael,
 the well-known solicitor. Joseph, on the other hand, was still up and
@@ -141,7 +116,6 @@ The first of these guides is hardly applicable to the purposes of the
 philosophic traveller, and even the second is designed more expressly
 for the tourist than for the expert in life. But he pressed interpreters
 into his service--whenever he could get their services for nothing--and
-by one means and another filled many notebooks with the results of his
 researches.
 
 In these wanderings he spent several years, and only returned to England
@@ -257,7 +231,6 @@ calculation of insignificant statistics.
 Here he would sometimes lament his connection with the tontine. ‘If it
 were not for that,’ he cried one afternoon, ‘he would not care to keep
 me. I might be a free man, Julia. And I could so easily support myself
-by giving lectures.’
 
 ‘To be sure you could,’ said she; ‘and I think it one of the meanest
 things he ever did to deprive you of that amusement. There were those
@@ -457,7 +430,6 @@ trying to get it back.’
 
 
 
-CHAPTER II. In Which Morris takes Action
 
 Some days later, accordingly, the three males of this depressing family
 might have been observed (by a reader of G. P. R. James) taking their
@@ -804,7 +776,6 @@ likely to require clean linen.
 
 ‘We are working on wrong lines,’ cried Morris at last. ‘The thing must
 be gone about more carefully. Suppose now,’ he added excitedly, speaking
-by fits and starts, as if he were thinking aloud, ‘suppose we rent
 a cottage by the month. A householder can buy a packing-case without
 remark. Then suppose we clear the people out today, get the packing-case
 tonight, and tomorrow I hire a carriage or a cart that we could
@@ -997,7 +968,6 @@ he was a bad pitcher, he had no luck in tossing, and he was one who
 suffered torments when he lost. But John was in a dangerous humour, and
 his brother was prepared for any sacrifice.
 
-By seven o’clock, Morris, with incredible agony, had lost a couple of
 half-crowns. Even with the tontine before his eyes, this was as much as
 he could bear; and, remarking that he would take his revenge some other
 time, he proposed a bit of supper and a grog.
@@ -1010,7 +980,6 @@ heaven.
 
 
 
-CHAPTER III. The Lecturer at Large
 
 Whether mankind is really partial to happiness is an open question.
 Not a month passes by but some cherished son runs off into the merchant
@@ -1098,7 +1067,6 @@ employed by mariners, and acquired the technical terms. At Naples,
 I would learn the art of making macaroni; at Nice, the principles of
 making candied fruit. I never went to the opera without first buying the
 book of the piece, and making myself acquainted with the principal airs
-by picking them out on the piano with one finger.’
 
 ‘You must have seen a deal, sir,’ remarked the carrier, touching up his
 horse; ‘I wish I could have had your advantages.’
@@ -1280,7 +1248,6 @@ stream of customers from the outer world, but so soon as they were
 served they drank their liquor quickly and departed with the utmost
 celerity for the next public-house.
 
-By the time the young man with two hundred a year was vegetating in the
 Scilly Islands, Mr Watts was left alone with the economist; and that
 imaginary person had scarce commenced life at Brighton before the last
 of his pursuers desisted from the chase.
@@ -1319,7 +1286,6 @@ discounted.’
 you shall have a bed at the “Tregonwell Arms”.’
 
 ‘I insist upon remaining,’ replied Mr Finsbury, with spirit; ‘I remain
-by Act of Parliament; turn me out if you dare.’
 
 ‘Then pay your bill,’ said Mr Watts.
 
@@ -1370,7 +1336,6 @@ the station-master smilingly assuming all responsibility.
 As the old gentleman sat waiting the moment of departure, he was the
 witness of an incident strangely connected with the fortunes of his
 house. A packing-case of cyclopean bulk was borne along the platform
-by some dozen of tottering porters, and ultimately, to the delight of a
 considerable crowd, hoisted on board the van. It is often the cheering
 task of the historian to direct attention to the designs and (if it may
 be reverently said) the artifices of Providence. In the luggage van, as
@@ -1387,7 +1352,6 @@ now wanting only an idle hand to fire it off.
 
 
 
-CHAPTER IV. The Magistrate in the Luggage Van
 
 The city of Winchester is famed for a cathedral, a bishop--but he was
 unfortunately killed some years ago while riding--a public school, a
@@ -1544,7 +1508,6 @@ forget that, dear boy.’
 
 
 
-CHAPTER V.  Mr Gideon Forsyth and the Gigantic Box
 
 It has been mentioned that at Bournemouth Julia sometimes made
 acquaintances; it is true she had but a glimpse of them before the
@@ -1784,7 +1747,6 @@ but leave it in the lobby till I come.
 
 Yours in haste,
 
-M. FINSBURY.
 
 P.S.--Be sure and leave the barrel in the lobby.
 
@@ -1912,7 +1874,6 @@ hansom vanished from John Street.
 
 
 
-CHAPTER VI. The Tribulations of Morris: Part the First
 
 As the hansom span through the streets of London, Morris sought to
 rally the forces of his mind. The water-butt with the dead body had
@@ -2060,32 +2021,28 @@ pen. It was an excellent pen, but what was he to write? ‘I have it,’
 cried Morris. ‘Robinson Crusoe and the double columns!’ He prepared his
 paper after that classic model, and began as follows:
 
-     Bad. ---- Good.
+Bad. ---- Good.
 
-     1. I have lost my uncle’s body.
 
-     1. But then Pitman has found it.
 
 ‘Stop a bit,’ said Morris. ‘I am letting the spirit of antithesis run
 away with me. Let’s start again.’
 
-     Bad. ---- Good.
-
-     1. I have lost my uncle’s body.
-
-     1. But then I no longer require to bury it.
+Bad. ---- Good.
 
 
-     2. I have lost the tontine.
-
-     2.But I may still save that if Pitman disposes of the body, and
-     if I can find a physician who will stick at nothing.
 
 
-     3. I have lost the leather business and the rest of my uncle’s
-     succession.
+2. I have lost the tontine.
 
-     3. But not if Pitman gives the body up to the police.
+2.But I may still save that if Pitman disposes of the body, and
+if I can find a physician who will stick at nothing.
+
+
+3. I have lost the leather business and the rest of my uncle’s
+succession.
+
+3. But not if Pitman gives the body up to the police.
 
 ‘O, but in that case I go to gaol; I had forgot that,’ thought Morris.
 ‘Indeed, I don’t know that I had better dwell on that hypothesis at all;
@@ -2096,76 +2053,68 @@ be, of course, or where would be the use of this double-entry business?
 And--by George, I have it!’ he exclaimed; ‘it’s exactly the same as the
 last!’ And he hastily re-wrote the passage:
 
-     Bad. ---- Good.
+Bad. ---- Good.
 
-     3. I have lost the leather business and the rest of my uncle’s
-     succession.
+3. I have lost the leather business and the rest of my uncle’s
+succession.
 
-     3. But not if I can find a physician who will stick at nothing.
+3. But not if I can find a physician who will stick at nothing.
 
 ‘This venal doctor seems quite a desideratum,’ he reflected. ‘I want him
 first to give me a certificate that my uncle is dead, so that I may get
 the leather business; and then that he’s alive--but here we are again at
 the incompatible interests!’ And he returned to his tabulation:
 
-     Bad. ---- Good.
+Bad. ---- Good.
 
-     4. I have almost no money.
+4. I have almost no money.
 
-     4. But there is plenty in the bank.
-
-
-     5. Yes, but I can’t get the money in the bank.
-
-     5. But--well, that seems unhappily to be the case.
+4. But there is plenty in the bank.
 
 
-     6. I have left the bill for eight hundred pounds in Uncle
-     Joseph’s pocket.
+5. Yes, but I can’t get the money in the bank.
 
-     6. But if Pitman is only a dishonest man, the presence of this
-     bill may lead him to keep the whole thing dark and throw the body
-     into the New Cut.
+5. But--well, that seems unhappily to be the case.
 
 
-     7. Yes, but if Pitman is dishonest and finds the bill, he will
-     know who Joseph is, and he may blackmail me.
+6. I have left the bill for eight hundred pounds in Uncle
+Joseph’s pocket.
 
-     7. Yes, but if I am right about Uncle Masterman, I can blackmail
-     Michael.
-
-
-     8. But I can’t blackmail Michael (which is, besides, a very
-     dangerous thing to do) until I find out.
-
-     8. Worse luck!
+6. But if Pitman is only a dishonest man, the presence of this
+bill may lead him to keep the whole thing dark and throw the body
+into the New Cut.
 
 
-     9. The leather business will soon want money for current
-     expenses, and I have none to give.
+7. Yes, but if Pitman is dishonest and finds the bill, he will
+know who Joseph is, and he may blackmail me.
 
-     9. But the leather business is a sinking ship.
-
-
-     10. Yes, but it’s all the ship I have.
-
-     10. A fact.
+7. Yes, but if I am right about Uncle Masterman, I can blackmail
+Michael.
 
 
-     11. John will soon want money, and I have none to give.
+8. But I can’t blackmail Michael (which is, besides, a very
+dangerous thing to do) until I find out.
 
-     11.
-
-
-     12. And the venal doctor will want money down.
-
-     12.
+8. Worse luck!
 
 
-     13. And if Pitman is dishonest and don’t send me to gaol, he will
-     want a fortune.
+9. The leather business will soon want money for current
+expenses, and I have none to give.
 
-     13.
+9. But the leather business is a sinking ship.
+
+
+
+
+
+
+
+
+
+
+
+want a fortune.
+
 
 ‘O, this seems to be a very one-sided business,’ exclaimed Morris.
 ‘There’s not so much in this method as I was led to think.’ He crumpled
@@ -2468,7 +2417,6 @@ into my room. It is only proper he should be warned.’
 
 
 
-CHAPTER VII. In Which William Dent Pitman takes Legal Advice
 
 Norfolk Street, King’s Road--jocularly known among Mr Pitman’s lodgers
 as ‘Norfolk Island’--is neither a long, a handsome, nor a pleasing
@@ -2882,7 +2830,6 @@ momentous Broadwood grand--was deposited in Mr Pitman’s studio.
 
 
 
-CHAPTER VIII. In Which Michael Finsbury Enjoys a Holiday
 
 Punctually at eight o’clock next morning the lawyer rattled (according
 to previous appointment) on the studio door. He found the artist sadly
@@ -2992,7 +2939,7 @@ in the glass.
 
 ‘Do you know,’ asked Michael, ‘what the Governor of South Carolina said
 to the Governor of North Carolina? “It’s a long time between drinks,”
- observed that powerful thinker; and if you will put your hand into the
+observed that powerful thinker; and if you will put your hand into the
 top left-hand pocket of my ulster, I have an impression you will find a
 flask of brandy. Thank you, Pitman,’ he added, as he filled out a glass
 for each. ‘Now you will give me news of this.’
@@ -3177,7 +3124,6 @@ is that you’re called Ezra Thomas. Now,’ said Michael, with a really
 appalling seriousness of manner, ‘tell me who we are.’
 
 The unfortunate little man was cross-examined till he knew these facts
-by heart.
 
 ‘There!’ cried the lawyer. ‘Our plans are laid. Thoroughly
 consistent--that’s the great thing.’
@@ -3576,7 +3522,6 @@ venturesome schoolgirl at a picnic.
 
 
 
-CHAPTER IX. Glorious Conclusion of Michael Finsbury’s Holiday
 
 I know Michael Finsbury personally; my business--I know the awkwardness
 of having such a man for a lawyer--still it’s an old story now, and
@@ -3648,7 +3593,6 @@ Morris.’
 ‘Morris! What was the little beggar wanting here?’ enquired Michael.
 
 ‘Wantin’? To see him,’ replied the housekeeper, completing her meaning
-by a movement of the thumb toward the upper storey. ‘That’s by his way
 of it; but I’ve an idee of my own. He tried to bribe me, Mr Michael.
 Bribe--me!’ she repeated, with inimitable scorn. ‘That’s no’ kind of a
 young gentleman.’
@@ -4136,7 +4080,6 @@ King’s Road, Chelsea. Is that it, sir?’
 
 
 
-CHAPTER X. Gideon Forsyth and the Broadwood Grand
 
 The reader has perhaps read that remarkable work, Who Put Back the
 Clock? by E. H. B., which appeared for several days upon the railway
@@ -4401,7 +4344,6 @@ luminous colours to his mind. A musical composer (say, of the name of
 Jimson) might very well suffer, like Hogarth’s musician before him, from
 the disturbances of London. He might very well be pressed for time to
 finish an opera--say the comic opera Orange Pekoe--Orange Pekoe, music
-by Jimson--‘this young maestro, one of the most promising of our
 recent English school’--vigorous entrance of the drums, etc.--the whole
 character of Jimson and his music arose in bulk before the mind of
 Gideon. What more likely than Jimson’s arrival with a grand piano (say,
@@ -4417,7 +4359,6 @@ end, on the whole, more probable for a modern musician?
 
 
 
-CHAPTER XI. The Maestro Jimson
 
 Mr Edward Hugh Bloomfield having announced his intention to stay in the
 neighbourhood of Maidenhead, what more probable than that the Maestro
@@ -4481,10 +4422,8 @@ considered suitable for an ambitious character like Jimson’s. ‘And now
 to work,’ said he, when he had satisfied his appetite. ‘We must leave
 traces of the wretched man’s activity.’ And he wrote in bold characters:
 
-     ORANGE PEKOE.
-     Op. 17.
-     J. B. JIMSON.
-     Vocal and p. f. score.
+Op. 17.
+Vocal and p. f. score.
 
 ‘I suppose they never do begin like this,’ reflected Gideon; ‘but then
 it’s quite out of the question for me to tackle a full score, and
@@ -4527,7 +4466,6 @@ display a banner on his floating residence; and if he ever did, it
 would certainly be dyed in hues of emblematical propriety. Now the
 Squirradical, like the vast majority of the more manly, had drawn
 knowledge at the wells of Cambridge--he was wooden spoon in the year
-1850; and the flag upon the houseboat streamed on the afternoon air with
 the colours of that seat of Toryism, that cradle of Puseyism, that
 home of the inexact and the effete Oxford. Still it was strangely like,
 thought Gideon.
@@ -4614,7 +4552,6 @@ of art. Down she sat therefore in the bow, produced her block and
 water-colours, and was soon singing over (what used to be called) the
 ladylike accomplishment. Now and then indeed her song was interrupted,
 as she searched in her memory for some of the odious little receipts
-by means of which the game is practised--or used to be practised in the
 brave days of old; they say the world, and those ornaments of the world,
 young ladies, are become more sophisticated now; but Julia had probably
 studied under Pitman, and she stood firm in the old ways.
@@ -5011,7 +4948,6 @@ lady on the question of propriety--’ he began.
 
 
 
-CHAPTER XII. Positively the Last Appearance of the Broadwood Grand
 
 England is supposed to be unmusical; but without dwelling on the
 patronage extended to the organ-grinder, without seeking to found any
@@ -5347,7 +5283,6 @@ help him!’
 
 
 
-CHAPTER XIII. The Tribulations of Morris: Part the Second
 
 In a really polite age of literature I would have scorned to cast my eye
 again on the contortions of Morris. But the study is in the spirit of
@@ -5462,7 +5397,6 @@ I have to get the stamp on tick. A fact.
 
 --Ever your affte. Brother,
 
-J. FINSBURY
 
 ‘Can’t even spell!’ Morris reflected, as he crammed the letter in his
 pocket, and left the house. ‘What can I do for him? I have to go to the
@@ -5664,7 +5598,6 @@ of curious but incomplete seashells.
 
 
 
-CHAPTER XIV. William Bent Pitman Hears of Something to his Advantage
 
 On the morning of Sunday, William Dent Pitman rose at his usual hour,
 although with something more than the usual reluctance. The day before
@@ -6211,7 +6144,6 @@ cried Morris, clinging to Gideon’s arm.
 
 
 
-CHAPTER XV. The Return of the Great Vance
 
 Morris returned from Waterloo in a frame of mind that baffles
 description. He was a modest man; he had never conceived an overweening
@@ -6367,7 +6299,7 @@ talked a whole lot of rot, very politely, just so low he couldn’t hear
 a word. “I don’t hear you,” says he. “I know you don’t, my buck, and I
 don’t mean you to,” says I, smiling away like a haberdasher. “I’m hard
 of hearing,” he roars. “I’d be in a pretty hot corner if you weren’t,”
- says I, making signs as if I was explaining everything. It was tip-top
+says I, making signs as if I was explaining everything. It was tip-top
 as long as it lasted. “Well,” he said, “I’m deaf, worse luck, but I
 bet the constable can hear you.” And off he started one way, and I the
 other. They got a spirit-lamp and the Pink Un, and that old religious
@@ -6436,7 +6368,6 @@ MORRIS FINSBURY, if this should meet the eye of, he will hear of
 SOMETHING TO HIS ADVANTAGE at my office, in Chancery Lane, at 10 A.M.
 tomorrow.
 
-MICHAEL FINSBURY
 
 
 So utter was Morris’s subjection that he did not wait to be asked, but
@@ -6449,7 +6380,6 @@ And Morris did not even claim the credit of priority.
 
 
 
-CHAPTER XVI. Final Adjustment of the Leather Business
 
 Finsbury brothers were ushered, at ten the next morning, into a large
 apartment in Michael’s office; the Great Vance, somewhat restored from
