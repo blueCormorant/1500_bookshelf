@@ -1,33 +1,4 @@
 
-
-
-
-The Extraordinary Adventures of Arsène Lupin,
-Gentleman-burglar
-
-By Maurice Leblanc
-
-
-
-     Table of Contents:
-
-     I.      The Arrest of Arsène Lupin
-     II.     Arsène Lupin in Prison
-     III.    The Escape of Arsène Lupin
-     IV.     The Mysterious Traveller
-     V.      The Queen’s Necklace
-     VI.     The Seven of Hearts
-     VII.    Madame Imbert’s Safe
-     VIII.   The Black Pearl
-     IX.     Sherlock Holmes Arrives Too Late
-
-
-
-
-
-I. The Arrest of Arsène Lupin
-
-
 It was a strange ending to a voyage that had commenced in a most
 auspicious manner. The transatlantic steamship ‘La Provence’ was a swift
 and comfortable vessel, under the command of a most affable man. The
@@ -499,7 +470,6 @@ mistaken. Here are my papers.”
 possession.”
 
 “You are a fool!” I exclaimed. “Arsène Lupin sailed under the name of
-R---”
 
 “Yes, another of your tricks; a false scent that deceived them at Havre.
 You play a good game, my boy, but this time luck is against you.”
@@ -648,36 +618,36 @@ and opened the envelope. It contained a sheet of paper, bearing this
 heading: Prison de la Santé, Paris. He looked at the signature: _Arsène
 Lupin_. Then he read:
 
-  “Monsieur le Baron:
+“Monsieur le Baron:
 
-  “There is, in the gallery in your castle, a picture of Philippe
-  de Champaigne, of exquisite finish, which pleases me beyond
-  measure. Your Rubens are also to my taste, as well as your
-  smallest Watteau. In the salon to the right, I have noticed the
-  Louis XIII cadence-table, the tapestries of Beauvais, the Empire
-  gueridon signed ‘Jacob,’ and the Renaissance chest. In the salon
-  to the left, all the cabinet full of jewels and miniatures.
+“There is, in the gallery in your castle, a picture of Philippe
+de Champaigne, of exquisite finish, which pleases me beyond
+measure. Your Rubens are also to my taste, as well as your
+smallest Watteau. In the salon to the right, I have noticed the
+Louis XIII cadence-table, the tapestries of Beauvais, the Empire
+gueridon signed ‘Jacob,’ and the Renaissance chest. In the salon
+to the left, all the cabinet full of jewels and miniatures.
 
-  “For the present, I will content myself with those articles that
-  can be conveniently removed. I will therefore ask you to pack
-  them carefully and ship them to me, charges prepaid, to the
-  station at Batignolles, within eight days, otherwise I shall be
-  obliged to remove them myself during the night of 27 September;
-  but, under those circumstances, I shall not content myself with
-  the articles above mentioned.
+“For the present, I will content myself with those articles that
+can be conveniently removed. I will therefore ask you to pack
+them carefully and ship them to me, charges prepaid, to the
+station at Batignolles, within eight days, otherwise I shall be
+obliged to remove them myself during the night of 27 September;
+but, under those circumstances, I shall not content myself with
+the articles above mentioned.
 
-  “Accept my apologies for any inconvenience I may cause you, and
-  believe me to be your humble servant,
+“Accept my apologies for any inconvenience I may cause you, and
+believe me to be your humble servant,
 
-                                            “Arsène Lupin.”
+“Arsène Lupin.”
 
-  “P. S.--Please do not send the largest Watteau. Although you
-  paid thirty thousand francs for it, it is only a copy, the
-  original having been burned, under the Directoire by Barras,
-  during a night of debauchery. Consult the memoirs of Garat.
+“P. S.--Please do not send the largest Watteau. Although you
+paid thirty thousand francs for it, it is only a copy, the
+original having been burned, under the Directoire by Barras,
+during a night of debauchery. Consult the memoirs of Garat.
 
-  “I do not care for the Louis XV chatelaine, as I doubt its
-  authenticity.”
+“I do not care for the Louis XV chatelaine, as I doubt its
+authenticity.”
 
 That letter completely upset the baron. Had it borne any other
 signature, he would have been greatly alarmed--but signed by Arsène
@@ -733,7 +703,6 @@ published in a neighboring town:
 
 “We have the pleasure of entertaining in our city, at the present time,
 the veteran detective Mon. Ganimard who acquired a world-wide reputation
-by his clever capture of Arsène Lupin. He has come here for rest and
 recreation, and, being an enthusiastic fisherman, he threatens to
 capture all the fish in our river.”
 
@@ -855,7 +824,6 @@ your servants?”
 me. And now, go! It is better for us not to be seen together. Tomorrow
 evening about nine o’clock.”
 
-* * * * *
 
 The following day--the date fixed by Arsène Lupin--Baron Cahorn arranged
 all his panoply of war, furbished his weapons, and, like a sentinel,
@@ -1062,7 +1030,6 @@ catch him again.”
 The same day, a charge of burglary was duly performed by Baron Cahorn
 against Arsène Lupin, a prisoner in the Prison de la Santé.
 
-* * * * *
 
 The baron afterwards regretted making the charge against Lupin when he
 saw his castle delivered over to the gendarmes, the procureur, the judge
@@ -1334,7 +1301,6 @@ baron and draw him into your net?”
 
 “Arsène Lupin’s personal enemy--the most illustrious Ganimard.”
 
-“I?”
 
 “Yourself, Ganimard. And, really, it is very funny. If you go there, and
 the baron decides to talk, you will find that it will be your duty to
@@ -1639,7 +1605,6 @@ he displays too much cleverness, ma foi, so much the worse for him! As
 to his band of robbers, since the chief refuses to speak, the others
 must.”
 
-* * * * *
 
 And, as a matter of fact, Arsène Lupin had very little to say. For
 several months, Mon. Jules Bouvier, the examining judge, had
@@ -1843,7 +1808,6 @@ the ‘Grand Journal,’ asked to see the court reporter, threw his card in
 the reporter’s face, and walked rapidly away. These words were written
 on the card: “Arsène Lupin always keeps his promises.”
 
-* * * * *
 
 It was under these conditions that the trial commenced. An enormous
 crowd gathered at the court. Everybody wished to see the famous Arsène
@@ -2006,7 +1970,6 @@ But one of the guards then said:
 
 “Yes, yes, I think it is he.”
 
-“What!” cried the judge, impatiently, “you *think* it is he! What do you
 mean by that?”
 
 “Well, I saw very little of the prisoner. He was placed in my charge in
@@ -2058,7 +2021,6 @@ All that seemed probable; and, amidst the mirth and excitement of the
 spectators, the judge adjourned the trial until the story could be
 investigated and verified.
 
-* * * * *
 
 The following facts were at once established by an examination of the
 prison records: Eight weeks before a man named Baudru Désiré had slept
@@ -3312,7 +3274,6 @@ Suresnes. The writer signed the first one, “Anquety”; and the other,
 At the end of six years, Henriette died, and the mystery remained
 unsolved.
 
-* * * * *
 
 All these events are known to the public. The case was one of those
 which excite public interest, and it was a strange coincidence that this
@@ -3374,12 +3335,11 @@ it is necessary to determine how that crime or theft was committed, or,
 at least, how it could have been committed. In the present case, nothing
 is more simple, because we are face to face, not with several theories,
 but with one positive fact, that is to say: the thief could only enter
-by the chamber door or the window of the cabinet. Now, a person cannot
 open a bolted door from the outside. Therefore, he must have entered
 through the window.”
 
 “But it was closed and fastened, and we found it fastened afterward,”
- declared the count.
+declared the count.
 
 “In order to do that,” continued Floriani, without heeding the
 interruption, “he had simply to construct a bridge, a plank or a ladder,
@@ -3723,7 +3683,6 @@ The chevalier replied, simply:
 
 He bowed to her, saluted the count and the other guests, and departed.
 
-* * * * *
 
 Four days later, the countess de Dreux found upon the table in her
 chamber a red leather case bearing the cardinal’s arms. She opened it,
@@ -3862,7 +3821,6 @@ Should I rise and seize my revolver? Impossible! He was there! At the
 least movement, at the least cry, I was doomed.
 
 Then came a terrific noise that shook the house; this was followed
-by lighter sounds, two or three together, like those of a hammer that
 rebounded. At least, that was the impression formed in my confused
 brain. These were mingled with other sounds, thus creating a veritable
 uproar which proved that the intruders were not only bold, but felt
@@ -3926,7 +3884,6 @@ the point of an awl.
 Nothing more. A card and a letter found in a book. But was not that
 sufficient to affirm that I had not been the plaything of a dream?
 
-* * * * *
 
 Throughout the day, I continued my searches in the library. It was a
 large room, much too large for the requirements of such a house, and the
@@ -4016,12 +3973,10 @@ motionless. Blood was flowing from a wound in his forehead. Near his
 hand was a revolver, still smoking.
 
 But, in addition to this frightful spectacle, my attention was attracted
-by another object. At two feet from the body, upon the floor, I saw
 a playing-card. It was the seven of hearts. I picked it up. The lower
 extremity of each of the seven spots was pierced with a small round
 hole.
 
-* * * * *
 
 A half-hour later, the commissary of police arrived, then the coroner
 and the chief of the Sûreté, Mon. Dudouis. I had been careful not to
@@ -4156,82 +4111,80 @@ that time, and which threw considerable light upon the mystery of
 the Seven-of-Hearts. This is the article as it was published over the
 signature of Salvator:
 
-  “THE AFFAIR OF THE SEVEN-OF-HEARTS.
 
-  “A CORNER OF THE VEIL RAISED.
 
- “We will be brief. Ten years ago, a young mining engineer, Louis
-  Lacombe, wishing to devote his time and fortune to certain studies,
-  resigned his position he then held, and rented number 102 boulevard
-  Maillot, a small house that had been recently built and decorated
-  for an Italian count. Through the agency of the Varin brothers of
-  Lausanne, one of whom assisted in the preliminary experiments and
-  the other acted as financial agent, the young engineer was
-  introduced to Georges Andermatt, the founder of the Metal Exchange.
+“We will be brief. Ten years ago, a young mining engineer, Louis
+Lacombe, wishing to devote his time and fortune to certain studies,
+resigned his position he then held, and rented number 102 boulevard
+Maillot, a small house that had been recently built and decorated
+for an Italian count. Through the agency of the Varin brothers of
+Lausanne, one of whom assisted in the preliminary experiments and
+the other acted as financial agent, the young engineer was
+introduced to Georges Andermatt, the founder of the Metal Exchange.
 
-  “After several interviews, he succeeded in interesting the banker
-  in a sub-marine boat on which he was working, and it was agreed
-  that as soon as the invention was perfected, Mon. Andermatt would
-  use his influence with the Minister of Marine to obtain a series of
-  trials under the direction of the government. For two years, Louis
-  Lacombe was a frequent visitor at Andermatt’s house, and he
-  submitted to the banker the various improvements he made upon his
-  original plans, until one day, being satisfied with the perfection
-  of his work, he asked Mon. Andermatt to communicate with the
-  Minister of Marine. That day, Louis Lacombe dined at Mon.
-  Andermatt’s house. He left there about half-past eleven at night.
-  He has not been seen since.
+“After several interviews, he succeeded in interesting the banker
+in a sub-marine boat on which he was working, and it was agreed
+that as soon as the invention was perfected, Mon. Andermatt would
+use his influence with the Minister of Marine to obtain a series of
+trials under the direction of the government. For two years, Louis
+Lacombe was a frequent visitor at Andermatt’s house, and he
+submitted to the banker the various improvements he made upon his
+original plans, until one day, being satisfied with the perfection
+of his work, he asked Mon. Andermatt to communicate with the
+Minister of Marine. That day, Louis Lacombe dined at Mon.
+Andermatt’s house. He left there about half-past eleven at night.
+He has not been seen since.
 
-  “A perusal of the newspapers of that date will show that the
-  young man’s family caused every possible inquiry to be made, but
-  without success; and it was the general opinion that Louis Lacombe--
-  who was known as an original and visionary youth--had quietly left
-  for parts unknown.
+“A perusal of the newspapers of that date will show that the
+young man’s family caused every possible inquiry to be made, but
+without success; and it was the general opinion that Louis Lacombe--
+who was known as an original and visionary youth--had quietly left
+for parts unknown.
 
-  “Let us accept that theory--improbable, though it be,--and let us
-  consider another question, which is a most important one for our
-  country: What has become of the plans of the sub-marine? Did Louis
-  Lacombe carry them away? Are they destroyed?
+“Let us accept that theory--improbable, though it be,--and let us
+consider another question, which is a most important one for our
+country: What has become of the plans of the sub-marine? Did Louis
+Lacombe carry them away? Are they destroyed?
 
-  “After making a thorough investigation, we are able to assert,
-  positively, that the plans are in existence, and are now in the
-  possession of the two brothers Varin. How did they acquire such a
-  possession? That is a question not yet determined; nor do we know
-  why they have not tried to sell them at an earlier date. Did they
-  fear that their title to them would be called in question? If so,
-  they have lost that fear, and we can announce definitely, that the
-  plans of Louis Lacombe are now the property of foreign power, and
-  we are in a position to publish the correspondence that passed
-  between the Varin brothers and the representative of that power.
-  The ‘Seven-of-Hearts’ invented by Louis Lacombe has been actually
-  constructed by our neighbor.
+“After making a thorough investigation, we are able to assert,
+positively, that the plans are in existence, and are now in the
+possession of the two brothers Varin. How did they acquire such a
+possession? That is a question not yet determined; nor do we know
+why they have not tried to sell them at an earlier date. Did they
+fear that their title to them would be called in question? If so,
+they have lost that fear, and we can announce definitely, that the
+plans of Louis Lacombe are now the property of foreign power, and
+we are in a position to publish the correspondence that passed
+between the Varin brothers and the representative of that power.
+The ‘Seven-of-Hearts’ invented by Louis Lacombe has been actually
+constructed by our neighbor.
 
-  “Will the invention fulfill the optimistic expectations of those
-  who were concerned in that treacherous act?”
+“Will the invention fulfill the optimistic expectations of those
+who were concerned in that treacherous act?”
 
 And a post-script adds:
 
-  “Later.--Our special correspondent informs us that the preliminary
-  trial of the ‘Seven-of-Hearts’ has not been satisfactory. It is
-  quite likely that the plans sold and delivered by the Varin
-  brothers did not include the final document carried by Louis
-  Lacombe to Mon. Andermatt on the day of his disappearance, a
-  document that was indispensable to a thorough understanding of the
-  invention. It contained a summary of the final conclusions of the
-  inventor, and estimates and figures not contained in the other
-  papers. Without this document, the plans are incomplete; on the
-  other hand, without the plans, the document is worthless.
+“Later.--Our special correspondent informs us that the preliminary
+trial of the ‘Seven-of-Hearts’ has not been satisfactory. It is
+quite likely that the plans sold and delivered by the Varin
+brothers did not include the final document carried by Louis
+Lacombe to Mon. Andermatt on the day of his disappearance, a
+document that was indispensable to a thorough understanding of the
+invention. It contained a summary of the final conclusions of the
+inventor, and estimates and figures not contained in the other
+papers. Without this document, the plans are incomplete; on the
+other hand, without the plans, the document is worthless.
 
-  “Now is the time to act and recover what belongs to us. It may
-  be a difficult matter, but we rely upon the assistance of Mon.
-  Andermatt. It will be to his interest to explain his conduct which
-  has hitherto been so strange and inscrutable. He will explain not
-  only why he concealed these facts at the time of the suicide of
-  Etienne Varin, but also why he has never revealed the disappearance
-  of the paper--a fact well known to him. He will tell why, during
-  the last six years, he paid spies to watch the movements of the
-  Varin brothers. We expect from him, not only words, but acts. And
-  at once. Otherwise---”
+“Now is the time to act and recover what belongs to us. It may
+be a difficult matter, but we rely upon the assistance of Mon.
+Andermatt. It will be to his interest to explain his conduct which
+has hitherto been so strange and inscrutable. He will explain not
+only why he concealed these facts at the time of the suicide of
+Etienne Varin, but also why he has never revealed the disappearance
+of the paper--a fact well known to him. He will tell why, during
+the last six years, he paid spies to watch the movements of the
+Varin brothers. We expect from him, not only words, but acts. And
+at once. Otherwise---”
 
 The threat was plainly expressed. But of what did it consist? What whip
 was Salvator, the anonymous writer of the article, holding over the head
@@ -4244,7 +4197,6 @@ France’ announced its position in these words:
 “Whether Mon. Andermatt is willing or not, he will be, henceforth, our
 collaborator in the work we have undertaken.”
 
-* * * * *
 
 Daspry and I were dining together on the day on which that announcement
 appeared. That evening, with the newspapers spread over my table, we
@@ -4504,7 +4456,6 @@ found in my book on the night of 22 June.
 
 Daspry was right. Salvator was, indeed, the originator of that affair.
 
-* * * * *
 
 We were beginning to see a little light coming out of the darkness that
 surrounded us, and an unexpected light was thrown on certain points; but
@@ -4572,22 +4523,21 @@ substantial breakfast cheered me up. But a letter that I received that
 afternoon contributed, more than anything else, to my complete recovery,
 and aroused in me a lively curiosity. This was the letter:
 
-  “Monsieur,
+“Monsieur,
 
-  “The drama, the first act of which transpired on the night of 22
-  June, is now drawing to a close. Force of circumstances compel me
-  to bring the two principal actors in that drama face to face, and I
-  wish that meeting to take place in your house, if you will be so
-  kind as to give me the use of it for this evening from nine o’clock
-  to eleven. It will be advisable to give your servant leave of
-  absence for the evening, and, perhaps, you will be so kind as to
-  leave the field open to the two adversaries. You will remember
-  that when I visited your house on the night of 22 June, I took
-  excellent care of your property. I feel that I would do you an
-  injustice if I should doubt, for one moment, your absolute
-  discretion in this affair. Your devoted,
+“The drama, the first act of which transpired on the night of 22
+June, is now drawing to a close. Force of circumstances compel me
+to bring the two principal actors in that drama face to face, and I
+wish that meeting to take place in your house, if you will be so
+kind as to give me the use of it for this evening from nine o’clock
+to eleven. It will be advisable to give your servant leave of
+absence for the evening, and, perhaps, you will be so kind as to
+leave the field open to the two adversaries. You will remember
+that when I visited your house on the night of 22 June, I took
+excellent care of your property. I feel that I would do you an
+injustice if I should doubt, for one moment, your absolute
+discretion in this affair. Your devoted,
 
-                                 “SALVATOR.”
 
 I was amused at the facetious tone of his letter and also at the
 whimsical nature of his request. There was a charming display of
@@ -5264,7 +5214,6 @@ when he had given me the paper to read.
 
 “Exactly. It was quite right that Varin should redeem his treachery.”
 
-* * * * *
 
 And that is how I made the acquaintance of Arsène Lupin. That is how
 I learned that Jean Daspry, a member of my club, was none other than
@@ -5321,7 +5270,6 @@ Ludovic Imbert. May I ask yours?”
 
 And he handed Mon. Imbert a card bearing the name: “Arsène Lupin.”
 
-* * * * *
 
 At that time, Arsène Lupin did not enjoy the celebrity which the Cahorn
 affair, his escape from the Prison de la Santé, and other brilliant
@@ -5404,7 +5352,6 @@ talkative. She gave Lupin a cordial welcome.
 “I desired that we should be alone to entertain our saviour,” she said.
 
 From the outset, they treated “our saviour” as an old and valued friend.
-By the time dessert was served, their friendship was well cemented, and
 private confidences were being exchanged. Arsène related the story of
 his life, the life of his father as a magistrate, the sorrows of his
 childhood, and his present difficulties. Gervaise, in turn, spoke of
@@ -5448,7 +5395,6 @@ However, he was not wasting any time. From the beginning, he made
 clandestine visits to Mon. Imbert’s office, and paid his respects to the
 safe, which was hermetically closed. It was an immense block of iron and
 steel, cold and stern in appearance, which could not be forced open
-by the ordinary tools of the burglar’s trade. But Arsène Lupin was not
 discouraged.
 
 “Where force fails, cunning prevails,” he said to himself. “The
@@ -5617,7 +5563,6 @@ Ludovic and Gervaise Imbert had disappeared.
 When the officers of the law seized the safe and opened it, they found
 there what Arsène Lupin had left--nothing.
 
-* * * * *
 
 Such are the facts; and I learned the sequel to them, one day, when
 Arsène Lupin was in a confidential mood. He was pacing to and fro in my
@@ -5748,7 +5693,7 @@ avenue Hoche. She pulled the doorstring, grumbling:
 
 At that moment, a voice inquired:
 
-“Doctor Harel .... what floor?” 
+“Doctor Harel .... what floor?”
 
 “Third floor, left. But the doctor won’t go out at night.”
 
@@ -5762,7 +5707,6 @@ fitted the lock.
 “Ah! good!” he murmured, “that simplifies the business wonderfully.
 But before I commence work I had better arrange for my retreat. Let me
 see.... have I had sufficient time to rouse the doctor and be dismissed
-by him? Not yet.... a few minutes more.”
 
 At the end of ten minutes, he descended the stairs, grumbling noisily
 about the doctor. The concierge opened the door for him and heard it
@@ -5899,7 +5843,6 @@ clearer brain. Mine is muddled like a ragout.”
 He tumbled into an armchair, with his clenched hands pressed against his
 burning forehead.
 
-* * * * *
 
 The murder of the avenue Hoche is one of those which have recently
 surprised and puzzled the Parisian public, and, certainly, I should
@@ -5985,7 +5928,6 @@ everywhere.”
 “Say rather that you see him every time you encounter something you
 cannot explain. Besides, you overlook the fact that the crime was
 committed at twenty minutes past eleven in the evening, as is shown
-by the clock, while the nocturnal visit, mentioned by the concierge,
 occurred at three o’clock in the morning.”
 
 Officers of the law frequently form a hasty conviction as to the guilt
@@ -6301,16 +6243,15 @@ America.”
 On the following day, this article was published in the ‘Echo de
 France,’ and was copied by the leading newspapers throughout the world:
 
-  “Yesterday, the famous black pearl came into the possession of
-  Arsène Lupin, who recovered it from the murderer of the Countess
-  d’Andillot. In a short time, fac-similes of that precious jewel
-  will be exhibited in London, St. Petersburg, Calcutta, Buenos Ayres
-  and New York.
+“Yesterday, the famous black pearl came into the possession of
+Arsène Lupin, who recovered it from the murderer of the Countess
+d’Andillot. In a short time, fac-similes of that precious jewel
+will be exhibited in London, St. Petersburg, Calcutta, Buenos Ayres
+and New York.
 
-  “Arsène Lupin will be pleased to consider all propositions
-  submitted to him through his agents.”
+“Arsène Lupin will be pleased to consider all propositions
+submitted to him through his agents.”
 
-* * * * *
 
 “And that is how crime is always punished and virtue rewarded,” said
 Arsène Lupin, after he had told me the foregoing history of the black
@@ -6535,7 +6476,7 @@ room, and yet I dislike to tear them down.”
 “Nothing.”
 
 “Mon. Devanne, we should turn our attention to the two quotations,”
- suggested Father Gélis.
+suggested Father Gélis.
 
 “Oh!” exclaimed Mon. Devanne, laughing, “our worthy father is fond
 of reading memoirs and delving into the musty archives of the castle.
@@ -6627,7 +6568,6 @@ At one o’clock, after a light supper, they retired. The lights were
 extinguished, and the castle was enveloped in the darkness and silence
 of the night.
 
-* * * * *
 
 The moon appeared through a rift in the clouds, and filled the
 drawing-room with its bright white light. But only for a moment. Then
@@ -6787,7 +6727,6 @@ moment, then returned reassured.
 
 But Arsène Lupin had disappeared.
 
-* * * * *
 
 As soon as Mon. Devanne was informed of the pillage of his castle, he
 said to himself: It was Velmont who did it, and Velmont is Arsène Lupin.
@@ -6877,7 +6816,7 @@ promise at the appointed hour, when the castle, the courtyard, and the
 park were filled with people, and at the very moment when the officers
 of the law were pursuing their investigations? And yet....Arsène Lupin
 had given her his solemn promise. “It will be exactly as he said,”
- thought she, so deeply was she impressed with the authority, energy and
+thought she, so deeply was she impressed with the authority, energy and
 assurance of that remarkable man. To her, it no longer assumed the form
 of a miracle, but, on the contrary, a natural incident that must occur
 in the ordinary course of events. She blushed, and turned her head.
@@ -6979,7 +6918,6 @@ ground. He picked them up, one by one, like precious relics.
 “Come!” he said to himself, “I have nothing more to do here. I must
 think of my safety, before Sherlock Holmes arrives.”
 
-* * * * *
 
 The park was deserted, but some gendarmes were stationed at the
 park-gate. He entered a grove of pine trees, leaped over the wall,
@@ -7428,11 +7366,3 @@ placing on his shoulder the hand I now offer to you, Monsieur Devanne.
 And I believe that Arsène Lupin and Sherlock Holmes will meet again
 some day. Yes, the world is too small--we will meet--we must meet--and
 then--”
-
-                      *****
-
---The further startling and thrilling adventures of Arsène Lupin will be
-found in the book entitled “Arsène Lupin versus Herlock Sholmes.”--
-
-
-
