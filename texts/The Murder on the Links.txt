@@ -1,67 +1,3 @@
-with thanks to Mark Graham of the Internet Archive
-
-
-
-
-
-
-
-
-cover 
-
-
-
-The Murder on the Links
-
-
-by Agatha Christie
-
-
-
-
-TO MY HUSBAND
-
-A fellow enthusiast for detective stories, and to whom I am indebted for much
-helpful advice and criticism.
-
-
-
-Contents
-
-
-1	 A Fellow Traveller
-2	 An Appeal for Help
-3	 At the Villa Geneviève
-4	 The Letter Signed “Bella”
-5	 Mrs. Renauld’s Story
-6	 The Scene of the Crime
-7	 The Mysterious Madame Daubreuil
-8	 An Unexpected Meeting
-9	 M. Giraud Finds Some Clues
-10	 Gabriel Stonor
-11	 Jack Renauld
-12	 Poirot Elucidates Certain Points
-13	 The Girl with the Anxious Eyes
-14	 The Second Body
-15	 A Photograph
-16	 The Beroldy Case
-17	 We Make Further Investigations
-18	 Giraud Acts
-19	 I Use My Grey Cells
-20	 An Amazing Statement
-21	 Hercule Poirot on the Case!
-22	 I Find Love
-23	 Difficulties Ahead
-24	 “Save Him!”
-25	 An Unexpected Dénouement
-26	 I Receive a Letter
-27	 Jack Renauld’s Story
-28	 Journey’s End
-
-
-
-1 A Fellow Traveller
-
 I believe that a well-known anecdote exists to the effect that a young
 writer, determined to make the commencement of his story forcible and
 original enough to catch and rivet the attention of the most blasé of
@@ -306,7 +242,6 @@ But little did I think when and how I should see Cinderella again.
 
 
 
-2 An Appeal for Help
 
 It was five minutes past nine when I entered our joint sitting-room for
 breakfast on the following morning.
@@ -785,7 +720,7 @@ Poirot leaned forward.
 
 
 
-3 At the Villa Geneviève
+
 
 In a moment Poirot had leapt from the car, his eyes blazing with
 excitement. He caught the man by the shoulder.
@@ -1229,7 +1164,7 @@ wanted him out of the way before we arrived?”
 
 
 
-4 The Letter Signed “Bella”
+
 
 Françoise had left the room. The magistrate was drumming thoughtfully
 on the table.
@@ -1565,7 +1500,7 @@ ludicrously inappropriate to the solemnity of the moment.
 
 
 
-5 Mrs. Renauld’s Story
+
 
 We found M. Hautet awaiting us in the hall, and we all proceeded
 upstairs together, Françoise marching ahead to show us the way. Poirot
@@ -1955,7 +1890,7 @@ bien!___ I must start again!”
 
 
 
-6 The Scene of the Crime
+
 
 Between them, the doctor and M. Hautet carried the unconscious woman
 into the house. The commissary looked after them, shaking his head.
@@ -2227,8 +2162,6 @@ Giraud did not even trouble to reply.
 “Yes—undoubtedly—absurd!”
 
 
-
-7 The Mysterious Madame Daubreuil
 
 As we retraced our steps to the house, M. Bex excused himself for
 leaving us, explaining that he must immediately acquaint the examining
@@ -2723,8 +2656,6 @@ rather fancy—”
 
 
 
-8 An Unexpected Meeting
-
 We were up at the Villa betimes next morning. The man on guard at the
 gate did not bar our way this time. Instead, he respectfully saluted
 us, and we passed on to the house. The maid Léonie was just coming down
@@ -3114,8 +3045,6 @@ address I still did not know her name.
 
 
 
-9 M. Giraud Finds Some Clues
-
 In the _Salon___ I found the examining magistrate busily interrogating
 the old gardener Auguste. Poirot and the commissary, who were both
 present, greeted me respectively with a smile and a polite bow. I
@@ -3423,8 +3352,6 @@ enter?”
 
 
 
-10 Gabriel Stonor
-
 The man who entered the room was a striking figure. Very tall, with a
 well knit athletic frame, and a deeply bronzed face and neck, he
 dominated the assembly. Even Giraud seemed anaemic beside him. When I
@@ -3718,8 +3645,6 @@ Never, in all my life, have I seen anything to equal the blank
 amazement on Stonor’s face. He was thoroughly taken aback.
 
 
-
-11 Jack Renauld
 
 What the next development of the conversation would have been, I cannot
 say, for at that moment the door was thrown violently open, and a tall
@@ -4212,8 +4137,6 @@ pocket, and followed me out into the open air.
 
 
 
-12 Poirot Elucidates Certain Points
-
 “Why did you measure that overcoat?” I asked, with some curiosity, as
 we walked down the hot white road at a leisurely pace.
 
@@ -4545,8 +4468,6 @@ Then, as we entered our hotel, he enjoined silence on me with a
 gesture.
 
 
-
-13 The Girl with the Anxious Eyes
 
 We lunched with an excellent appetite. I understood well enough that
 Poirot did not wish to discuss the tragedy where we could so easily be
@@ -4937,8 +4858,6 @@ dagger!___”
 
 
 
-14 The Second Body
-
 Waiting for no more, I turned and ran up the path to the shed. The two
 men on guard there stood aside to let me pass and, filled with
 excitement, I entered.
@@ -5225,9 +5144,6 @@ forty-eight hours, and probably longer.”
 
 We stared at each other in blank amazement.
 
-
-
-15 A Photograph
 
 The doctor’s words were so surprising that we were all momentarily
 taken aback. Here was a man stabbed with a dagger which we knew to have
@@ -5538,8 +5454,6 @@ _The Beroldy Case.___
 
 
 
-16 The Beroldy Case
-
 Some twenty years or so before the opening of the present story,
 Monsieur Arnold Beroldy, a native of Lyons, arrived in Paris
 accompanied by his pretty wife and their little daughter, a mere babe.
@@ -5711,7 +5625,7 @@ Taking the child with her, she left Paris to begin a new life.
 
 
 
-17 We Make Further Investigations
+
 
 I have set down the Beroldy case in full. Of course all the details did
 not present themselves to my memory as I have recounted them here.
@@ -6004,8 +5918,6 @@ up to the Villa Geneviève.”
 
 
 
-18 Giraud Acts
-
 “By the way, Poirot,” I said, as we walked along the hot white road,
 “I’ve got a bone to pick with you. I dare say you meant well, but
 really it was no business of yours to go mouching round to the Hôtel du
@@ -6263,8 +6175,6 @@ Jack Renauld stared at him stonily.
 “Nothing,” he said.
 
 
-
-19 I Use My Grey Cells
 
 I was dumbfounded. Up to the last, I had not been able bring myself to
 believe Jack Renauld guilty. I had expected a ringing proclamation of
@@ -7669,7 +7579,6 @@ remained a cold fear.
 
 
 
-24 “Save Him!”
 
 We crossed from England by the evening boat, and the following morning
 saw us in Saint-Omer, whither Jack Renauld had been taken. Poirot lost
@@ -8020,7 +7929,7 @@ him—save him!”
 
 
 
-25 An Unexpected Dénouement
+
 
 We were present the following morning at the examination of Jack
 Renauld. Short as the time had been, I was shocked at the change that
@@ -9245,10 +9154,5 @@ what he said?”
 “ ‘Hell!’ said the Prince—and kissed her!”
 
 And I suited the action to the word.
-
-
-
-
-
 
 
