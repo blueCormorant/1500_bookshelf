@@ -1,78 +1,3 @@
-Team at http://www.pgdp.net (This file was produced from
-images generously made available by The Internet Archive)
-
-
-
-
-
-
-
-
-
-
-[Illustration]
-
-THE CHILDREN’S LIBRARY
-
-THE FEATHER
-
-
-
-
-_THE CHILDREN’S LIBRARY._
-
-
-    THE BROWN OWL.
-    A CHINA CUP, AND OTHER STORIES.
-    STORIES FROM FAIRYLAND.
-    TALES FROM THE MABINOGION.
-    THE STORY OF A PUPPET.
-    THE LITTLE PRINCESS.
-    IRISH FAIRY TALES.
-    AN ENCHANTED GARDEN.
-    LA BELLE NIVERNAISE.
-    THE FEATHER.
-
-    (_Others in the Press._)
-
-[Illustration: “BUT THE EAGLE HAD THE BEST OF IT AFTER ALL.”]
-
-
-
-
-THE FEATHER
-
-    BY
-    FORD H. MADOX HUEFFER
-    AUTHOR OF ‘THE BROWN OWL’
-
-
-    _WITH FRONTISPIECE BY
-    F. MADOX BROWN_
-
-
-    LONDON
-    T. FISHER UNWIN
-    1892
-
-[Illustration]
-
-
-
-
-_TO JULIET_
-
-
-              ‘_True, I talk of dreams,
-    Which are the children of an idle brain,
-    Begot of nothing but vain fantasy,
-    Which is as thin of substance as the air._’
-
-
-
-
-THE FEATHER
-
 
 ONCE upon a time there was a King who reigned over a country as yet,
 for a reason you may learn later on, undiscovered—a most lovely
@@ -528,8 +453,8 @@ the mountains. I know it.’
 The Princess had by this time left off crying, and when she heard the
 old lady say ‘I know it’ she said:
 
-    ‘“Kennst du das Land
-      Wo die Citronen blühen?”’
+‘“Kennst du das Land
+Wo die Citronen blühen?”’
 
 But the old lady shook her head.
 
@@ -538,7 +463,7 @@ German or French now—but just translate it for me, will you?’
 
 So the Princess translated it for her.
 
-    ‘“Knowest thou the land where blooms the lemon-flower?”’
+‘“Knowest thou the land where blooms the lemon-flower?”’
 
 But the old lady shook her head.
 
@@ -843,7 +768,6 @@ was milking the last one—Cherry, the best of them all—and she leaned
 her face against its side, and listened to the ‘thud, thud,’ of the
 milk as it streamed into the pail with a foam like the sea in a rage.
 She was in fact almost lulled to sleep by it, when she was startled
-by a voice behind her. It was so sudden that she almost upset the
 milk-pail in her fright.
 
 ‘It seems to be easy work milking,’ said the voice, and she looked
@@ -1139,7 +1063,6 @@ who by this time was quite in a temper.
 
 So she let him alone, and made no answer when he wanted her to talk
 again. However, in a few minutes Ablot came into the square, followed
-by a large number of men, whom she heard him command to surround the
 Palace, which they accordingly did; and then, choosing five men, he and
 the Prince entered the Palace, Ernalie following them, for she didn’t
 know exactly what else to do. The first of the Palace guards they came
@@ -1307,7 +1230,6 @@ bed slept soundly till morning.
 
 She did not awake until long after her usual hour, for you see she was
 not used to being out so late, and she was only roused in the morning
-by the Queen knocking at the door.
 
 ‘Ernalie! Ernalie!’ she called; ‘get up. It’s half-past seven. You
 ought to have been up this two hours.’
@@ -2004,7 +1926,6 @@ put them.
 The question now was—how to pass away the time?—and it was a very
 difficult one to answer. There were no books to read—at least, she
 was not able to find any on deck. So she tried playing cat’s-cradle
-by herself; but that was not a very great success, because there was
 no one to take it up. She next attempted going to sleep, but that
 was not a success either. Then she tried counting how many times the
 ship rolled in the course of an hour; but she always forgot how many
@@ -2321,7 +2242,6 @@ into a light so blinding that the Princess could not keep her eyes open.
 seem very hot.’ Then there was a bump, as if the boat had run into a
 lump of mud, and then a greasy slide, and then Ernalie fainted.
 
-       *       *       *       *       *
 
 When she came to herself, she heard voices close to her. One sounded
 like the voice of an old man, and the other, she was quite sure, was
@@ -2440,12 +2360,12 @@ The Man shook his head sadly.
 
 And forthwith he began to sing:
 
-    ‘The Man in the Moon
-     Came down too soon
-     And asked his way to Norwich, O;
-     He got sent to the south
-     And burnt his mouth
-     With eating cold plum-porridge, O.’
+‘The Man in the Moon
+Came down too soon
+And asked his way to Norwich, O;
+He got sent to the south
+And burnt his mouth
+With eating cold plum-porridge, O.’
 
 The Man’s voice itself was about as melodious as that of a peacock;
 but in the final ‘O’ of the song he was joined by his dog and Wopole,
@@ -2620,15 +2540,15 @@ said.
 
 And he began waving his arms to and fro, roaring:
 
-    ‘When moonlight o’er the azure seas
-     In soft effulgence swells!’
+‘When moonlight o’er the azure seas
+In soft effulgence swells!’
 
 But he sang it to the tune of the moonlight sonata.
 
 The Princess did not wait to hear. She put her fingers in her ears, and
 ran off as fast as she could; but still she heard the burden:
 
-    ‘Ah, Angeline! ah, lady mine!’
+‘Ah, Angeline! ah, lady mine!’
 
 And he seemed to keep it up for a long while. However, after she had
 gone some miles the sound died away in the distance, and all was quiet.
@@ -2881,7 +2801,7 @@ Just then the Goddess drew the reins in, and the stags stopped short.
 Now that the chariot had stopped, the Princess too could hear the sound
 that came faintly borne on the breeze:
 
-    ‘When moonlight o’er the azure seas.’
+‘When moonlight o’er the azure seas.’
 
 ‘Why, it’s the Man,’ she said.
 
@@ -2904,8 +2824,8 @@ direction of the voice.
 The rattling of the wheels was quite drowned in the noise of the Man’s
 voice, as he sang:
 
-    ‘And you’ll remember me . . e . . e,
-     And you’ll remember me.’
+‘And you’ll remember me . . e . . e,
+And you’ll remember me.’
 
 ‘You’ve improved a good deal in that last line,’ said the Goddess. ‘I
 wish you’d sing it over again.’
@@ -2919,7 +2839,7 @@ said Diana.
 
 The Man drew in a long breath:
 
-    ‘And you’ll remember, re . member me . e . e.’
+‘And you’ll remember, re . member me . e . e.’
 
 At the sound of his voice the Princess put her hands to her ears, and
 Diana had the greatest difficulty in keeping the stags from turning
@@ -2927,7 +2847,7 @@ tail and bolting right away. However, she managed to quieten them, and
 took a good grip of her whip handle, and the consequence was that the
 last line came out:
 
-    ‘And you’ll remember me . . e . . ow—ow!’
+‘And you’ll remember me . . e . . ow—ow!’
 
 for the whip stung a good deal.
 
@@ -3723,8 +3643,8 @@ go on.’
 So she settled herself in a comfortable position with the book on her
 lap, and began again:
 
-    ‘Whilom as olde stories tellen us
-     A certeyn duk highte Theseus.’
+‘Whilom as olde stories tellen us
+A certeyn duk highte Theseus.’
 
 Here she stopped.
 
@@ -3751,13 +3671,13 @@ prayer, or an invocation, or something.’
 
 So she read:
 
-    ‘O chaste goddes of the woodes greene
-     To whence bothe heven and erthe are seene
-     Queen of the regne of Pluto dark and lowe
-     Goddes of maydens that myn hert has knowe
-     Ful many a yeer ye woot what I desire
-     As keep me fro the vengeans of thilk yre
-     That Actæon aboughte trewely . . .’
+‘O chaste goddes of the woodes greene
+To whence bothe heven and erthe are seene
+Queen of the regne of Pluto dark and lowe
+Goddes of maydens that myn hert has knowe
+Ful many a yeer ye woot what I desire
+As keep me fro the vengeans of thilk yre
+That Actæon aboughte trewely . . .’
 
 Just at this point she heard the rattling of chariot wheels, and Diana
 appeared to her.
@@ -3771,7 +3691,6 @@ appeared to her.
 ‘I wasn’t praying, I was reading.’
 
 ‘It doesn’t matter to me. It was a very funny prayer. Whoever was it
-by? He must have been a stupid man.’
 
 ‘He was the father of English poetry,’ the Princess said reproachfully.
 
@@ -3938,14 +3857,13 @@ But the King did not notice her impertinent remark. He went to a
 drawer, and took out a large piece of paper, and wrote on it as large
 as he could:
 
-                       ‘NOTICE.
 
-    ‘During the next twenty-four hours, any one found
-    kissing, embracing, congratulating, or suing for the
-    hand of the Princess—or King—will be submerged three
-    times in the Palace draw-well.
+‘During the next twenty-four hours, any one found
+kissing, embracing, congratulating, or suing for the
+hand of the Princess—or King—will be submerged three
+times in the Palace draw-well.
 
-                             ‘(Signed) CARET, etc. etc.’
+‘(Signed) CARET, etc. etc.’
 
 ‘That ought to do it,’ said the King, surveying his handiwork
 approvingly.
@@ -4173,7 +4091,6 @@ husband——’
 correctly, that they were my sons-in-law elect; only that didn’t help
 them.’
 
-By this time the Prince was looking more puzzled than ever.
 
 ‘Who are these other two?’ he said, turning to the Princess.
 
@@ -4233,7 +4150,6 @@ moment passed away; so that, where she had seemed to be, they saw the
 thin circlet of the moon hanging silvery and pale over the flush of the
 sun’s departure.
 
-       *       *       *       *       *
 
 ‘It really was Diana,’ Treblo said.
 
@@ -4291,13 +4207,4 @@ But in a very short time the Prince and Princess were married, and it
 is needless to say—because, since we live in the nineteenth century,
 no one will believe it, but still, if you’ll take my word for it—they
 lived happily ever afterwards.
-
-
-    THE END
-
-
-    _Printed by_ R. & R. CLARK, _Edinburgh_
-
-
-
 
