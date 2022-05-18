@@ -1,46 +1,5 @@
 
 
-
-
-
-THE JUNGLE BOOK
-
-By Rudyard Kipling
-
-
-
-Contents
-
-     Mowgli’s Brothers
-     Hunting-Song of the Seeonee Pack
-     Kaa’s Hunting
-     Road-Song of the Bandar-Log
-     “Tiger! Tiger!”
-      Mowgli’s Song
-     The White Seal
-     Lukannon
-     “Rikki-Tikki-Tavi”
-      Darzee’s Chant
-     Toomai of the Elephants
-     Shiv and the Grasshopper
-     Her Majesty’s Servants
-     Parade Song of the Camp Animals
-
-
-
-
-Mowgli’s Brothers
-
-     Now Rann the Kite brings home the night
-        That Mang the Bat sets free--
-     The herds are shut in byre and hut
-        For loosed till dawn are we.
-     This is the hour of pride and power,
-        Talon and tush and claw.
-     Oh, hear the call!--Good hunting all
-        That keep the Jungle Law!
-     Night-Song in the Jungle
-
 It was seven o’clock of a very warm evening in the Seeonee hills when
 Father Wolf woke up from his day’s rest, scratched himself, yawned, and
 spread out his paws one after the other to get rid of the sleepy feeling
@@ -204,7 +163,6 @@ have run off. Give it to me.”
 Shere Khan had jumped at a woodcutter’s campfire, as Father Wolf had
 said, and was furious from the pain of his burned feet. But Father Wolf
 knew that the mouth of the cave was too narrow for a tiger to come in
-by. Even where he was, Shere Khan’s shoulders and forepaws were cramped
 for want of room, as a man’s would be if he tried to fight in a barrel.
 
 “The Wolves are a free people,” said Father Wolf. “They take orders from
@@ -269,7 +227,6 @@ Father Wolf waited till his cubs could run a little, and then on the
 night of the Pack Meeting took them and Mowgli and Mother Wolf to the
 Council Rock--a hilltop covered with stones and boulders where a hundred
 wolves could hide. Akela, the great gray Lone Wolf, who led all the Pack
-by strength and cunning, lay out at full length on his rock, and
 below him sat forty or more wolves of every size and color, from
 badger-colored veterans who could handle a buck alone to young black
 three-year-olds who thought they could. The Lone Wolf had led them for a
@@ -528,7 +485,6 @@ grow there, so that when the time comes thou mayest have even a stronger
 friend than I or Baloo or those of the Pack that love thee. Get the Red
 Flower.”
 
-By Red Flower Bagheera meant fire, only no creature in the jungle will
 call fire by its proper name. Every beast lives in deadly fear of it,
 and invents a hundred ways of describing it.
 
@@ -632,7 +588,7 @@ Mowgli sprang to his feet. “Free People,” he cried, “does Shere Khan
 lead the Pack? What has a tiger to do with our leadership?”
 
 “Seeing that the leadership is yet open, and being asked to speak--”
- Shere Khan began.
+Shere Khan began.
 
 “By whom?” said Mowgli. “Are we all jackals, to fawn on this cattle
 butcher? The leadership of the Pack is with the Pack alone.”
@@ -805,50 +761,50 @@ alone, to meet those mysterious things that are called men.
 
 Hunting-Song of the Seeonee Pack
 
-     As the dawn was breaking the Sambhur belled
-        Once, twice and again!
-     And a doe leaped up, and a doe leaped up
-     From the pond in the wood where the wild deer sup.
-     This I, scouting alone, beheld,
-        Once, twice and again!
+As the dawn was breaking the Sambhur belled
+Once, twice and again!
+And a doe leaped up, and a doe leaped up
+From the pond in the wood where the wild deer sup.
+This I, scouting alone, beheld,
+Once, twice and again!
 
-     As the dawn was breaking the Sambhur belled
-        Once, twice and again!
-     And a wolf stole back, and a wolf stole back
-     To carry the word to the waiting pack,
-     And we sought and we found and we bayed on his track
-        Once, twice and again!
+As the dawn was breaking the Sambhur belled
+Once, twice and again!
+And a wolf stole back, and a wolf stole back
+To carry the word to the waiting pack,
+And we sought and we found and we bayed on his track
+Once, twice and again!
 
-     As the dawn was breaking the Wolf Pack yelled
-        Once, twice and again!
-     Feet in the jungle that leave no mark!
+As the dawn was breaking the Wolf Pack yelled
+Once, twice and again!
+Feet in the jungle that leave no mark!
 
-     Eyes that can see in the dark--the dark!
-     Tongue--give tongue to it!  Hark!  O hark!
-        Once, twice and again!
+Eyes that can see in the dark--the dark!
+Tongue--give tongue to it!  Hark!  O hark!
+Once, twice and again!
 
 
 
 
 Kaa’s Hunting
 
-     His spots are the joy of the Leopard: his horns are the
-        Buffalo’s pride.
-     Be clean, for the strength of the hunter is known by the
-        gloss of his hide.
-     If ye find that the Bullock can toss you, or the heavy-browed
-        Sambhur can gore;
-     Ye need not stop work to inform us: we knew it ten seasons
-        before.
-     Oppress not the cubs of the stranger, but hail them as Sister
-        and Brother,
-     For though they are little and fubsy, it may be the Bear is
-        their mother.
-     “There is none like to me!” says the Cub in the pride of his
-        earliest kill;
-     But the jungle is large and the Cub he is small.  Let him
-        think and be still.
-                                 Maxims of Baloo
+His spots are the joy of the Leopard: his horns are the
+Buffalo’s pride.
+Be clean, for the strength of the hunter is known by the
+gloss of his hide.
+If ye find that the Bullock can toss you, or the heavy-browed
+Sambhur can gore;
+Ye need not stop work to inform us: we knew it ten seasons
+before.
+Oppress not the cubs of the stranger, but hail them as Sister
+and Brother,
+For though they are little and fubsy, it may be the Bear is
+their mother.
+“There is none like to me!” says the Cub in the pride of his
+earliest kill;
+But the jungle is large and the Cub he is small.  Let him
+think and be still.
+Maxims of Baloo
 
 
 All that is told here happened some time before Mowgli was turned out of
@@ -1111,7 +1067,7 @@ Rann saw that the monkeys were carrying something, and dropped a
 few hundred yards to find out whether their load was good to eat. He
 whistled with surprise when he saw Mowgli being dragged up to a treetop
 and heard him give the Kite call for--“We be of one blood, thou and I.”
- The waves of the branches closed over the boy, but Rann balanced away to
+The waves of the branches closed over the boy, but Rann balanced away to
 the next tree in time to see the little brown face come up again. “Mark
 my trail!” Mowgli shouted. “Tell Baloo of the Seeonee Pack and Bagheera
 of the Council Rock.”
@@ -1189,7 +1145,7 @@ Baloo hopefully. “Promise him many goats.”
 
 “He sleeps for a full month after he has once eaten. He may be asleep
 now, and even were he awake what if he would rather kill his own goats?”
- Bagheera, who did not know much about Kaa, was naturally suspicious.
+Bagheera, who did not know much about Kaa, was naturally suspicious.
 
 “Then in that case, thou and I together, old hunter, might make him see
 reason.” Here Baloo rubbed his faded brown shoulder against the Panther,
@@ -1286,7 +1242,7 @@ I--we--love him, Kaa.”
 love is. There are tales I could tell that--”
 
 “That need a clear night when we are all well fed to praise properly,”
- said Bagheera quickly. “Our man-cub is in the hands of the Bandar-log
+said Bagheera quickly. “Our man-cub is in the hands of the Bandar-log
 now, and we know that of all the Jungle-People they fear Kaa alone.”
 
 “They fear me alone. They have good reason,” said Kaa. “Chattering,
@@ -1779,53 +1735,52 @@ never waked when he was put down in the home-cave.
 
 Road-Song of the Bandar-Log
 
-     Here we go in a flung festoon,
-     Half-way up to the jealous moon!
-     Don’t you envy our pranceful bands?
-     Don’t you wish you had extra hands?
-     Wouldn’t you like if your tails were--so--
-     Curved in the shape of a Cupid’s bow?
-        Now you’re angry, but--never mind,
-        Brother, thy tail hangs down behind!
+Here we go in a flung festoon,
+Half-way up to the jealous moon!
+Don’t you envy our pranceful bands?
+Don’t you wish you had extra hands?
+Wouldn’t you like if your tails were--so--
+Curved in the shape of a Cupid’s bow?
+Now you’re angry, but--never mind,
+Brother, thy tail hangs down behind!
 
-     Here we sit in a branchy row,
-     Thinking of beautiful things we know;
-     Dreaming of deeds that we mean to do,
-     All complete, in a minute or two--
-     Something noble and wise and good,
-     Done by merely wishing we could.
-        We’ve forgotten, but--never mind,
-        Brother, thy tail hangs down behind!
+Here we sit in a branchy row,
+Thinking of beautiful things we know;
+Dreaming of deeds that we mean to do,
+All complete, in a minute or two--
+Something noble and wise and good,
+Done by merely wishing we could.
+We’ve forgotten, but--never mind,
+Brother, thy tail hangs down behind!
 
-     All the talk we ever have heard
-     Uttered by bat or beast or bird--
-     Hide or fin or scale or feather--
-     Jabber it quickly and all together!
-     Excellent!  Wonderful!  Once again!
+All the talk we ever have heard
+Uttered by bat or beast or bird--
+Hide or fin or scale or feather--
+Jabber it quickly and all together!
+Excellent!  Wonderful!  Once again!
 
-     Now we are talking just like men!
-        Let’s pretend we are ... never mind,
-        Brother, thy tail hangs down behind!
-        This is the way of the Monkey-kind.
+Now we are talking just like men!
+Let’s pretend we are ... never mind,
+Brother, thy tail hangs down behind!
+This is the way of the Monkey-kind.
 
-     Then join our leaping lines that scumfish through the pines,
-     That rocket by where, light and high, the wild grape swings.
-     By the rubbish in our wake, and the noble noise we make,
-     Be sure, be sure, we’re going to do some splendid things!
+Then join our leaping lines that scumfish through the pines,
+That rocket by where, light and high, the wild grape swings.
+Be sure, be sure, we’re going to do some splendid things!
 
 
 
 
 “Tiger! Tiger!”
 
-     What of the hunting, hunter bold?
-        Brother, the watch was long and cold.
-     What of the quarry ye went to kill?
-        Brother, he crops in the jungle still.
-     Where is the power that made your pride?
-        Brother, it ebbs from my flank and side.
-     Where is the haste that ye hurry by?
-        Brother, I go to my lair--to die.
+What of the hunting, hunter bold?
+Brother, the watch was long and cold.
+What of the quarry ye went to kill?
+Brother, he crops in the jungle still.
+Where is the power that made your pride?
+Brother, it ebbs from my flank and side.
+Where is the haste that ye hurry by?
+Brother, I go to my lair--to die.
 
 Now we must go back to the first tale. When Mowgli left the wolf’s cave
 after the fight with the Pack at the Council Rock, he went down to the
@@ -1898,7 +1853,7 @@ he might be her real son come back from the jungle where the tiger had
 taken him. So she said, “Nathoo, O Nathoo!” Mowgli did not show that he
 knew the name. “Dost thou not remember the day when I gave thee thy new
 shoes?” She touched his foot, and it was almost as hard as horn. “No,”
- she said sorrowfully, “those feet have never worn shoes, but thou art
+she said sorrowfully, “those feet have never worn shoes, but thou art
 very like my Nathoo, and thou shalt be my son.”
 
 Mowgli was uneasy, because he had never been under a roof before. But as
@@ -2041,7 +1996,6 @@ if they straggle to pick flowers or hunt lizards, they are sometimes
 carried off. Mowgli went through the village street in the dawn, sitting
 on the back of Rama, the great herd bull. The slaty-blue buffaloes,
 with their long, backward-sweeping horns and savage eyes, rose out their
-byres, one by one, and followed him, and Mowgli made it very clear to
 the children with him that he was the master. He beat the buffaloes with
 a long, polished bamboo, and told Kamya, one of the boys, to graze the
 cattle by themselves, while he went on with the buffaloes, and to be
@@ -2249,7 +2203,6 @@ to the worst it was better to meet the bulls than the cows with their
 calves), and then Rama tripped, stumbled, and went on again over
 something soft, and, with the bulls at his heels, crashed full into the
 other herd, while the weaker buffaloes were lifted clean off their feet
-by the shock of the meeting. That charge carried both herds out into the
 plain, goring and stamping and snorting. Mowgli watched his time, and
 slipped off Rama’s neck, laying about him right and left with his stick.
 
@@ -2285,7 +2238,7 @@ skin a tiger! Where did the buffaloes kill him? It is the Lame Tiger
 too, and there is a hundred rupees on his head. Well, well, we will
 overlook thy letting the herd run off, and perhaps I will give thee one
 of the rupees of the reward when I have taken the skin to Khanhiwara.”
- He fumbled in his waist cloth for flint and steel, and stooped down to
+He fumbled in his waist cloth for flint and steel, and stooped down to
 singe Shere Khan’s whiskers. Most native hunters always singe a tiger’s
 whiskers to prevent his ghost from haunting them.
 
@@ -2346,7 +2299,6 @@ them, Akela.”
 The herd rounded up in the misty twilight, and when they got near the
 village Mowgli saw lights, and heard the conches and bells in the temple
 blowing and banging. Half the village seemed to be waiting for him
-by the gate. “That is because I have killed Shere Khan,” he said
 to himself. But a shower of stones whistled about his ears, and the
 villagers shouted: “Sorcerer! Wolf’s brat! Jungle demon! Go away! Get
 hence quickly or the priest will turn thee into a wolf again. Shoot,
@@ -2427,7 +2379,7 @@ to Mowgli’s bare feet. They clambered up the Council Rock together, and
 Mowgli spread the skin out on the flat stone where Akela used to sit,
 and pegged it down with four slivers of bamboo, and Akela lay down upon
 it, and called the old call to the Council, “Look--look well, O Wolves,”
- exactly as he had called when Mowgli was first brought there.
+exactly as he had called when Mowgli was first brought there.
 
 Ever since Akela had been deposed, the Pack had been without a leader,
 hunting and fighting at their own pleasure. But they answered the call
@@ -2437,7 +2389,6 @@ bad food, and many were missing. But they came to the Council Rock, all
 that were left of them, and saw Shere Khan’s striped hide on the rock,
 and the huge claws dangling at the end of the empty dangling feet. It
 was then that Mowgli made up a song that came up into his throat all
-by itself, and he shouted it aloud, leaping up and down on the rattling
 skin, and beating time with his heels till he had no more breath left,
 while Gray Brother and Akela howled between the verses.
 
@@ -2467,107 +2418,104 @@ But that is a story for grown-ups.
 
 Mowgli’s Song
 
-     THAT HE SANG AT THE COUNCIL ROCK WHEN HE
-     DANCED ON SHERE KHAN’S HIDE
 
-     The Song of Mowgli--I, Mowgli, am singing.  Let the jungle
-        listen to the things I have done.
+The Song of Mowgli--I, Mowgli, am singing.  Let the jungle
+listen to the things I have done.
 
-     Shere Khan said he would kill--would kill!  At the gates in the
-        twilight he would kill Mowgli, the Frog!
+Shere Khan said he would kill--would kill!  At the gates in the
+twilight he would kill Mowgli, the Frog!
 
-     He ate and he drank.  Drink deep, Shere Khan, for when wilt thou
-        drink again?  Sleep and dream of the kill.
+He ate and he drank.  Drink deep, Shere Khan, for when wilt thou
+drink again?  Sleep and dream of the kill.
 
-     I am alone on the grazing-grounds.  Gray Brother, come to me!
-        Come to me, Lone Wolf, for there is big game afoot!
+I am alone on the grazing-grounds.  Gray Brother, come to me!
+Come to me, Lone Wolf, for there is big game afoot!
 
-     Bring up the great bull buffaloes, the blue-skinned herd bulls
-        with the angry eyes.  Drive them to and fro as I order.
+Bring up the great bull buffaloes, the blue-skinned herd bulls
+with the angry eyes.  Drive them to and fro as I order.
 
-     Sleepest thou still, Shere Khan?  Wake, oh, wake!  Here come I,
-        and the bulls are behind.
+Sleepest thou still, Shere Khan?  Wake, oh, wake!  Here come I,
+and the bulls are behind.
 
-     Rama, the King of the Buffaloes, stamped with his foot.  Waters of
-        the Waingunga, whither went Shere Khan?
+Rama, the King of the Buffaloes, stamped with his foot.  Waters of
+the Waingunga, whither went Shere Khan?
 
-     He is not Ikki to dig holes, nor Mao, the Peacock, that he should
-        fly.  He is not Mang the Bat, to hang in the branches.  Little
-        bamboos that creak together, tell me where he ran?
+He is not Ikki to dig holes, nor Mao, the Peacock, that he should
+fly.  He is not Mang the Bat, to hang in the branches.  Little
+bamboos that creak together, tell me where he ran?
 
-     Ow!  He is there.  Ahoo!  He is there.  Under the feet of Rama
-        lies the Lame One!  Up, Shere Khan!
+Ow!  He is there.  Ahoo!  He is there.  Under the feet of Rama
+lies the Lame One!  Up, Shere Khan!
 
-     Up and kill!  Here is meat; break the necks of the bulls!
+Up and kill!  Here is meat; break the necks of the bulls!
 
-     Hsh!  He is asleep.  We will not wake him, for his strength is
-        very great.  The kites have come down to see it.  The black
-        ants have come up to know it.  There is a great assembly in his
-        honor.
+Hsh!  He is asleep.  We will not wake him, for his strength is
+very great.  The kites have come down to see it.  The black
+ants have come up to know it.  There is a great assembly in his
+honor.
 
-     Alala!  I have no cloth to wrap me.  The kites will see that I am
-        naked.  I am ashamed to meet all these people.
+Alala!  I have no cloth to wrap me.  The kites will see that I am
+naked.  I am ashamed to meet all these people.
 
-     Lend me thy coat, Shere Khan.  Lend me thy gay striped coat that I
-        may go to the Council Rock.
+Lend me thy coat, Shere Khan.  Lend me thy gay striped coat that I
+may go to the Council Rock.
 
-     By the Bull that bought me I made a promise--a little promise.
-        Only thy coat is lacking before I keep my word.
+Only thy coat is lacking before I keep my word.
 
-     With the knife, with the knife that men use, with the knife of the
-        hunter, I will stoop down for my gift.
+With the knife, with the knife that men use, with the knife of the
+hunter, I will stoop down for my gift.
 
-     Waters of the Waingunga, Shere Khan gives me his coat for the love
-        that he bears me.  Pull, Gray Brother!  Pull, Akela!  Heavy is
-        the hide of Shere Khan.
+Waters of the Waingunga, Shere Khan gives me his coat for the love
+that he bears me.  Pull, Gray Brother!  Pull, Akela!  Heavy is
+the hide of Shere Khan.
 
-     The Man Pack are angry.  They throw stones and talk child’s talk.
-        My mouth is bleeding.  Let me run away.
+The Man Pack are angry.  They throw stones and talk child’s talk.
+My mouth is bleeding.  Let me run away.
 
-     Through the night, through the hot night, run swiftly with me, my
-        brothers.  We will leave the lights of the village and go to
-        the low moon.
+Through the night, through the hot night, run swiftly with me, my
+brothers.  We will leave the lights of the village and go to
+the low moon.
 
-     Waters of the Waingunga, the Man-Pack have cast me out.  I did
-        them no harm, but they were afraid of me.  Why?
+Waters of the Waingunga, the Man-Pack have cast me out.  I did
+them no harm, but they were afraid of me.  Why?
 
-     Wolf Pack, ye have cast me out too.  The jungle is shut to me and
-        the village gates are shut.  Why?
+Wolf Pack, ye have cast me out too.  The jungle is shut to me and
+the village gates are shut.  Why?
 
-     As Mang flies between the beasts and birds, so fly I between the
-        village and the jungle.  Why?
+As Mang flies between the beasts and birds, so fly I between the
+village and the jungle.  Why?
 
-     I dance on the hide of Shere Khan, but my heart is very heavy.  My
-        mouth is cut and wounded with the stones from the village, but
-        my heart is very light, because I have come back to the jungle.
-        Why?
+I dance on the hide of Shere Khan, but my heart is very heavy.  My
+mouth is cut and wounded with the stones from the village, but
+my heart is very light, because I have come back to the jungle.
+Why?
 
-     These two things fight together in me as the snakes fight in the
-        spring.  The water comes out of my eyes; yet I laugh while it
-        falls.  Why?
+These two things fight together in me as the snakes fight in the
+spring.  The water comes out of my eyes; yet I laugh while it
+falls.  Why?
 
-     I am two Mowglis, but the hide of Shere Khan is under my feet.
+I am two Mowglis, but the hide of Shere Khan is under my feet.
 
-     All the jungle knows that I have killed Shere Khan.  Look--look
-        well, O Wolves!
+All the jungle knows that I have killed Shere Khan.  Look--look
+well, O Wolves!
 
-     Ahae!  My heart is heavy with the things that I do not understand.
+Ahae!  My heart is heavy with the things that I do not understand.
 
 
 
 
 The White Seal
 
-     Oh! hush thee, my baby, the night is behind us,
-        And black are the waters that sparkled so green.
-     The moon, o’er the combers, looks downward to find us
-        At rest in the hollows that rustle between.
-     Where billow meets billow, then soft be thy pillow,
-        Ah, weary wee flipperling, curl at thy ease!
-     The storm shall not wake thee, nor shark overtake thee,
-        Asleep in the arms of the slow-swinging seas!
+Oh! hush thee, my baby, the night is behind us,
+And black are the waters that sparkled so green.
+The moon, o’er the combers, looks downward to find us
+At rest in the hollows that rustle between.
+Where billow meets billow, then soft be thy pillow,
+Ah, weary wee flipperling, curl at thy ease!
+The storm shall not wake thee, nor shark overtake thee,
+Asleep in the arms of the slow-swinging seas!
 
-                                              Seal Lullaby
+Seal Lullaby
 
 
 All these things happened several years ago at a place called
@@ -2677,16 +2625,16 @@ been such a thing in the world as a white seal.”
 sang the low, crooning seal song that all the mother seals sing to their
 babies:
 
-     You mustn’t swim till you’re six weeks old,
-        Or your head will be sunk by your heels;
-     And summer gales and Killer Whales
-        Are bad for baby seals.
+You mustn’t swim till you’re six weeks old,
+Or your head will be sunk by your heels;
+And summer gales and Killer Whales
+Are bad for baby seals.
 
-     Are bad for baby seals, dear rat,
-        As bad as bad can be;
-     But splash and grow strong,
-     And you can’t be wrong.
-        Child of the Open Sea!
+Are bad for baby seals, dear rat,
+As bad as bad can be;
+But splash and grow strong,
+And you can’t be wrong.
+Child of the Open Sea!
 
 Of course the little fellow did not understand the words at first. He
 paddled and scrambled about by his mother’s side, and learned to scuffle
@@ -3100,7 +3048,6 @@ to his companions. But, as you know, he has an extra joint in his
 foreflipper, and by waving it up and down and about he makes what
 answers to a sort of clumsy telegraphic code.
 
-By daylight Kotick’s mane was standing on end and his temper was gone
 where the dead crabs go. Then the Sea Cow began to travel northward very
 slowly, stopping to hold absurd bowing councils from time to time, and
 Kotick followed them, saying to himself, “People who are such idiots as
@@ -3262,54 +3209,54 @@ This is the great deep-sea song that all the St. Paul seals sing when
 they are heading back to their beaches in the summer. It is a sort of
 very sad seal National Anthem.
 
-     I met my mates in the morning (and, oh, but I am old!)
-     Where roaring on the ledges the summer ground-swell rolled;
-     I heard them lift the chorus that drowned the breakers’ song--
-     The Beaches of Lukannon--two million voices strong.
+I met my mates in the morning (and, oh, but I am old!)
+Where roaring on the ledges the summer ground-swell rolled;
+I heard them lift the chorus that drowned the breakers’ song--
+The Beaches of Lukannon--two million voices strong.
 
-     The song of pleasant stations beside the salt lagoons,
-     The song of blowing squadrons that shuffled down the dunes,
-     The song of midnight dances that churned the sea to flame--
-     The Beaches of Lukannon--before the sealers came!
+The song of pleasant stations beside the salt lagoons,
+The song of blowing squadrons that shuffled down the dunes,
+The song of midnight dances that churned the sea to flame--
+The Beaches of Lukannon--before the sealers came!
 
-     I met my mates in the morning (I’ll never meet them more!);
-     They came and went in legions that darkened all the shore.
-     And o’er the foam-flecked offing as far as voice could reach
-     We hailed the landing-parties and we sang them up the beach.
+I met my mates in the morning (I’ll never meet them more!);
+They came and went in legions that darkened all the shore.
+And o’er the foam-flecked offing as far as voice could reach
+We hailed the landing-parties and we sang them up the beach.
 
-     The Beaches of Lukannon--the winter wheat so tall--
-     The dripping, crinkled lichens, and the sea-fog drenching all!
-     The platforms of our playground, all shining smooth and worn!
-     The Beaches of Lukannon--the home where we were born!
+The Beaches of Lukannon--the winter wheat so tall--
+The dripping, crinkled lichens, and the sea-fog drenching all!
+The platforms of our playground, all shining smooth and worn!
+The Beaches of Lukannon--the home where we were born!
 
-     I met my mates in the morning, a broken, scattered band.
-     Men shoot us in the water and club us on the land;
-     Men drive us to the Salt House like silly sheep and tame,
-     And still we sing Lukannon--before the sealers came.
+I met my mates in the morning, a broken, scattered band.
+Men shoot us in the water and club us on the land;
+Men drive us to the Salt House like silly sheep and tame,
+And still we sing Lukannon--before the sealers came.
 
-     Wheel down, wheel down to southward; oh, Gooverooska, go!
-     And tell the Deep-Sea Viceroys the story of our woe;
-     Ere, empty as the shark’s egg the tempest flings ashore,
-     The Beaches of Lukannon shall know their sons no more!
+Wheel down, wheel down to southward; oh, Gooverooska, go!
+And tell the Deep-Sea Viceroys the story of our woe;
+Ere, empty as the shark’s egg the tempest flings ashore,
+The Beaches of Lukannon shall know their sons no more!
 
 
 
 
 “Rikki-Tikki-Tavi”
 
-     At the hole where he went in
-     Red-Eye called to Wrinkle-Skin.
-     Hear what little Red-Eye saith:
-     “Nag, come up and dance with death!”
+At the hole where he went in
+Red-Eye called to Wrinkle-Skin.
+Hear what little Red-Eye saith:
+“Nag, come up and dance with death!”
 
-     Eye to eye and head to head,
-        (Keep the measure, Nag.)
-     This shall end when one is dead;
-        (At thy pleasure, Nag.)
-     Turn for turn and twist for twist--
-        (Run and hide thee, Nag.)
-     Hah!  The hooded Death has missed!
-        (Woe betide thee, Nag!)
+Eye to eye and head to head,
+(Keep the measure, Nag.)
+This shall end when one is dead;
+(At thy pleasure, Nag.)
+Turn for turn and twist for twist--
+(Run and hide thee, Nag.)
+Hah!  The hooded Death has missed!
+(Woe betide thee, Nag!)
 
 This is the story of the great war that Rikki-tikki-tavi fought
 single-handed, through the bath-rooms of the big bungalow in Segowlee
@@ -3808,7 +3755,6 @@ eating all the others down by the melon bed.”
 
 Nagaina spun clear round, forgetting everything for the sake of the one
 egg. Rikki-tikki saw Teddy’s father shoot out a big hand, catch Teddy
-by the shoulder, and drag him across the little table with the tea-cups,
 safe and out of reach of Nagaina.
 
 “Tricked! Tricked! Tricked! Rikk-tck-tck!” chuckled Rikki-tikki. “The
@@ -3913,53 +3859,53 @@ inside the walls.
 
 Darzee’s Chant
 
-     (Sung in honor of Rikki-tikki-tavi)
+(Sung in honor of Rikki-tikki-tavi)
 
-     Singer and tailor am I--
-        Doubled the joys that I know--
-     Proud of my lilt to the sky,
-        Proud of the house that I sew--
-     Over and under, so weave I my music--so weave I the house that I
-        sew.
+Singer and tailor am I--
+Doubled the joys that I know--
+Proud of my lilt to the sky,
+Proud of the house that I sew--
+Over and under, so weave I my music--so weave I the house that I
+sew.
 
-     Sing to your fledglings again,
-        Mother, oh lift up your head!
-     Evil that plagued us is slain,
-        Death in the garden lies dead.
-     Terror that hid in the roses is impotent--flung on the dung-hill
-     and dead!
+Sing to your fledglings again,
+Mother, oh lift up your head!
+Evil that plagued us is slain,
+Death in the garden lies dead.
+Terror that hid in the roses is impotent--flung on the dung-hill
+and dead!
 
-     Who has delivered us, who?
-        Tell me his nest and his name.
-     Rikki, the valiant, the true,
-        Tikki, with eyeballs of flame,
-     Rikk-tikki-tikki, the ivory-fanged, the hunter with eyeballs of
-     flame!
+Who has delivered us, who?
+Tell me his nest and his name.
+Rikki, the valiant, the true,
+Tikki, with eyeballs of flame,
+Rikk-tikki-tikki, the ivory-fanged, the hunter with eyeballs of
+flame!
 
-     Give him the Thanks of the Birds,
-        Bowing with tail feathers spread!
-     Praise him with nightingale words--
-        Nay, I will praise him instead.
-     Hear!  I will sing you the praise of the bottle-tailed Rikki, with
-     eyeballs of red!
+Give him the Thanks of the Birds,
+Bowing with tail feathers spread!
+Praise him with nightingale words--
+Nay, I will praise him instead.
+Hear!  I will sing you the praise of the bottle-tailed Rikki, with
+eyeballs of red!
 
-     (Here Rikki-tikki interrupted, and the rest of the song is
-     lost.)
+(Here Rikki-tikki interrupted, and the rest of the song is
+lost.)
 
 
 
 
 Toomai of the Elephants
 
-     I will remember what I was, I am sick of rope and chain--
-        I will remember my old strength and all my forest affairs.
-     I will not sell my back to man for a bundle of sugar-cane:
-        I will go out to my own kind, and the wood-folk in their lairs.
+I will remember what I was, I am sick of rope and chain--
+I will remember my old strength and all my forest affairs.
+I will not sell my back to man for a bundle of sugar-cane:
+I will go out to my own kind, and the wood-folk in their lairs.
 
-     I will go out until the day, until the morning break--
-        Out to the wind’s untainted kiss, the water’s clean caress;
-     I will forget my ankle-ring and snap my picket stake.
-        I will revisit my lost loves, and playmates masterless!
+I will go out until the day, until the morning break--
+Out to the wind’s untainted kiss, the water’s clean caress;
+I will forget my ankle-ring and snap my picket stake.
+I will revisit my lost loves, and playmates masterless!
 
 Kala Nag, which means Black Snake, had served the Indian Government in
 every way that an elephant could serve it for forty-seven years, and as
@@ -4312,14 +4258,14 @@ his small brother to sleep with an old, old song about the great God
 Shiv, who once told all the animals what they should eat. It is a very
 soothing lullaby, and the first verse says:
 
-     Shiv, who poured the harvest and made the winds to blow,
-     Sitting at the doorways of a day of long ago,
-     Gave to each his portion, food and toil and fate,
-     From the King upon the guddee to the Beggar at the gate.
-        All things made he--Shiva the Preserver.
-     Mahadeo!  Mahadeo!  He made all--
-     Thorn for the camel, fodder for the kine,
-     And mother’s heart for sleepy head, O little son of mine!
+Shiv, who poured the harvest and made the winds to blow,
+Sitting at the doorways of a day of long ago,
+Gave to each his portion, food and toil and fate,
+From the King upon the guddee to the Beggar at the gate.
+All things made he--Shiva the Preserver.
+Mahadeo!  Mahadeo!  He made all--
+Thorn for the camel, fodder for the kine,
+And mother’s heart for sleepy head, O little son of mine!
 
 Little Toomai came in with a joyous tunk-a-tunk at the end of each
 verse, till he felt sleepy and stretched himself on the fodder at Kala
@@ -4348,7 +4294,6 @@ that elephant fore-foot to hind-foot, but slipped a loop of grass string
 round Kala Nag’s leg, and told him to remember that he was tied fast. He
 knew that he and his father and his grandfather had done the very same
 thing hundreds of times before. Kala Nag did not answer to the order
-by gurgling, as he usually did. He stood still, looking out across the
 moonlight, his head a little raised and his ears spread like fans, up to
 the great folds of the Garo hills.
 
@@ -4359,7 +4304,7 @@ little “tang,” and Kala Nag rolled out of his pickets as slowly and as
 silently as a cloud rolls out of the mouth of a valley. Little Toomai
 pattered after him, barefooted, down the road in the moonlight, calling
 under his breath, “Kala Nag! Kala Nag! Take me with you, O Kala Nag!”
- The elephant turned, without a sound, took three strides back to the
+The elephant turned, without a sound, took three strides back to the
 boy in the moonlight, put down his trunk, swung him up to his neck,
 and almost before Little Toomai had settled his knees, slipped into the
 forest.
@@ -4638,53 +4583,53 @@ the heart of the Garo hills!
 
 Shiv and the Grasshopper
 
-     (The song that Toomai’s mother sang to the baby)
+(The song that Toomai’s mother sang to the baby)
 
-     Shiv, who poured the harvest and made the winds to blow,
-     Sitting at the doorways of a day of long ago,
-     Gave to each his portion, food and toil and fate,
-     From the King upon the guddee to the Beggar at the gate.
-        All things made he--Shiva the Preserver.
-        Mahadeo!  Mahadeo!  He made all,--
-        Thorn for the camel, fodder for the kine,
-        And mother’s heart for sleepy head, O little son of mine!
+Shiv, who poured the harvest and made the winds to blow,
+Sitting at the doorways of a day of long ago,
+Gave to each his portion, food and toil and fate,
+From the King upon the guddee to the Beggar at the gate.
+All things made he--Shiva the Preserver.
+Mahadeo!  Mahadeo!  He made all,--
+Thorn for the camel, fodder for the kine,
+And mother’s heart for sleepy head, O little son of mine!
 
 
-     Wheat he gave to rich folk, millet to the poor,
-     Broken scraps for holy men that beg from door to door;
-     Battle to the tiger, carrion to the kite,
-     And rags and bones to wicked wolves without the wall at night.
-     Naught he found too lofty, none he saw too low--
-     Parbati beside him watched them come and go;
-     Thought to cheat her husband, turning Shiv to jest--
-     Stole the little grasshopper and hid it in her breast.
-        So she tricked him, Shiva the Preserver.
-        Mahadeo!  Mahadeo!  Turn and see.
-        Tall are the camels, heavy are the kine,
-        But this was Least of Little Things, O little son of mine!
+Wheat he gave to rich folk, millet to the poor,
+Broken scraps for holy men that beg from door to door;
+Battle to the tiger, carrion to the kite,
+And rags and bones to wicked wolves without the wall at night.
+Naught he found too lofty, none he saw too low--
+Parbati beside him watched them come and go;
+Thought to cheat her husband, turning Shiv to jest--
+Stole the little grasshopper and hid it in her breast.
+So she tricked him, Shiva the Preserver.
+Mahadeo!  Mahadeo!  Turn and see.
+Tall are the camels, heavy are the kine,
+But this was Least of Little Things, O little son of mine!
 
-     When the dole was ended, laughingly she said,
-     “Master, of a million mouths, is not one unfed?”
-      Laughing, Shiv made answer, “All have had their part,
-     Even he, the little one, hidden ‘neath thy heart.”
-      From her breast she plucked it, Parbati the thief,
-     Saw the Least of Little Things gnawed a new-grown leaf!
-     Saw and feared and wondered, making prayer to Shiv,
-     Who hath surely given meat to all that live.
-        All things made he--Shiva the Preserver.
-        Mahadeo!  Mahadeo!  He made all,--
-        Thorn for the camel, fodder for the kine,
-        And mother’s heart for sleepy head, O little son of mine!
+When the dole was ended, laughingly she said,
+“Master, of a million mouths, is not one unfed?”
+Laughing, Shiv made answer, “All have had their part,
+Even he, the little one, hidden ‘neath thy heart.”
+From her breast she plucked it, Parbati the thief,
+Saw the Least of Little Things gnawed a new-grown leaf!
+Saw and feared and wondered, making prayer to Shiv,
+Who hath surely given meat to all that live.
+All things made he--Shiva the Preserver.
+Mahadeo!  Mahadeo!  He made all,--
+Thorn for the camel, fodder for the kine,
+And mother’s heart for sleepy head, O little son of mine!
 
 
 
 
 Her Majesty’s Servants
 
-     You can work it out by Fractions or by simple Rule of Three,
-     But the way of Tweedle-dum is not the way of Tweedle-dee.
-     You can twist it, you can turn it, you can plait it till you drop,
-     But the way of Pilly Winky’s not the way of Winkie Pop!
+You can work it out by Fractions or by simple Rule of Three,
+But the way of Tweedle-dum is not the way of Tweedle-dee.
+You can twist it, you can turn it, you can plait it till you drop,
+But the way of Pilly Winky’s not the way of Winkie Pop!
 
 It had been raining heavily for one whole month--raining on a camp
 of thirty thousand men and thousands of camels, elephants, horses,
@@ -4921,7 +4866,7 @@ hidden as much as possible, even if you have to go a mile out of your
 way. I lead the battery when it comes to that sort of climbing.”
 
 “Fired at without the chance of running into the people who are firing!”
- said the troop-horse, thinking hard. “I couldn’t stand that. I should
+said the troop-horse, thinking hard. “I couldn’t stand that. I should
 want to charge--with Dick.”
 
 “Oh, no, you wouldn’t. You know that as soon as the guns are in
@@ -5300,12 +5245,12 @@ began to play all together. That was the end of the review, and the
 regiments went off to their camps in the rain, and an infantry band
 struck up with--
 
-     The animals went in two by two,
-          Hurrah!
-     The animals went in two by two,
-     The elephant and the battery mul’,
-     and they all got into the Ark
-          For to get out of the rain!
+The animals went in two by two,
+Hurrah!
+The animals went in two by two,
+The elephant and the battery mul’,
+and they all got into the Ark
+For to get out of the rain!
 
 Then I heard an old grizzled, long-haired Central Asian chief, who had
 come down with the Amir, asking questions of a native officer.
@@ -5329,90 +5274,4 @@ only our own wills.”
 “And for that reason,” said the native officer, twirling his mustache,
 “your Amir whom you do not obey must come here and take orders from our
 Viceroy.”
-
-
-
-
-Parade Song of the Camp Animals
-
-     ELEPHANTS OF THE GUN TEAMS
-
-     We lent to Alexander the strength of Hercules,
-     The wisdom of our foreheads, the cunning of our knees;
-     We bowed our necks to service: they ne’er were loosed again,--
-     Make way there--way for the ten-foot teams
-           Of the Forty-Pounder train!
-
-     GUN BULLOCKS
-
-     Those heroes in their harnesses avoid a cannon-ball,
-     And what they know of powder upsets them one and all;
-     Then we come into action and tug the guns again--
-     Make way there--way for the twenty yoke
-           Of the Forty-Pounder train!
-
-     CAVALRY HORSES
-
-     By the brand on my shoulder, the finest of tunes
-     Is played by the Lancers, Hussars, and Dragoons,
-     And it’s sweeter than “Stables” or “Water” to me--
-     The Cavalry Canter of “Bonnie Dundee”!
-
-     Then feed us and break us and handle and groom,
-     And give us good riders and plenty of room,
-     And launch us in column of squadron and see
-     The way of the war-horse to “Bonnie Dundee”!
-
-     SCREW-GUN MULES
-
-     As me and my companions were scrambling up a hill,
-     The path was lost in rolling stones, but we went forward still;
-     For we can wriggle and climb, my lads, and turn up everywhere,
-     Oh, it’s our delight on a mountain height, with a leg or two to
-        spare!
-
-     Good luck to every sergeant, then, that lets us pick our road;
-     Bad luck to all the driver-men that cannot pack a load:
-     For we can wriggle and climb, my lads, and turn up everywhere,
-     Oh, it’s our delight on a mountain height, with a leg or two to
-        spare!
-
-     COMMISSARIAT CAMELS
-
-     We haven’t a camelty tune of our own
-     To help us trollop along,
-     But every neck is a hair trombone
-     (Rtt-ta-ta-ta! is a hair trombone!)
-     And this our marching-song:
-     Can’t!  Don’t!  Shan’t!  Won’t!
-     Pass it along the line!
-     Somebody’s pack has slid from his back,
-     Wish it were only mine!
-     Somebody’s load has tipped off in the road--
-     Cheer for a halt and a row!
-     Urrr!  Yarrh!  Grr!  Arrh!
-     Somebody’s catching it now!
-
-     ALL THE BEASTS TOGETHER
-
-     Children of the Camp are we,
-     Serving each in his degree;
-     Children of the yoke and goad,
-     Pack and harness, pad and load.
-     See our line across the plain,
-     Like a heel-rope bent again,
-     Reaching, writhing, rolling far,
-     Sweeping all away to war!
-     While the men that walk beside,
-     Dusty, silent, heavy-eyed,
-     Cannot tell why we or they
-     March and suffer day by day.
-        Children of the Camp are we,
-        Serving each in his degree;
-        Children of the yoke and goad,
-        Pack and harness, pad and load!
-
-
-
-
 
