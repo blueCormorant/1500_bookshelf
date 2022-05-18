@@ -1,37 +1,10 @@
 
 
 
-
-
-
-
-THE STORY OF SIEGFRIED
-
-By James Baldwin
-
-New York Charles Scribner’s Sons
-
-1899
-
-
-
-To My Children,
-
-Winfred, Louis, and Nellie,
-
-This Book Is Affectionately Inscribed.
-
-
-
-
-The Fore Word.
-
-
 When the world was in its childhood, men looked upon the works of Nature
 with a strange kind of awe. They fancied that every thing upon the
 earth, in the air, or in the water, had a life like their own, and that
 every sight which they saw, and every sound which they heard, was caused
-by some intelligent being. All men were poets, so far as their ideas and
 their modes of expression were concerned, although it is not likely that
 any of them wrote poetry. This was true in regard to the Saxon in his
 chilly northern home, as well as to the Greek in the sunny southland.
@@ -181,33 +154,32 @@ which I have written this Story of Siegfried.
 
 
 
-Contents.
 
 
 
-     The Fore Word
-     I.     Mimer, the Master
-     II.    Greyfell
-     III.   The Curse of Gold
-     IV.    Fafnir, the Dragon
-     V.     In AEgir’s Kingdom
-     VI.    Brunhild
-     VII.   In Nibelungen Land
-     VIII.  Siegfried’s Welcome Home
-     IX.    The Journey to Burgundy-land
-     X.     Kriemhill’s Dream
-     XI.    How the Spring Time Came
-     XII.   The War with the North-kings
-     XIII.  The Story of Balder
-     XIV.   How Gunther Outwitted Brunhild
-     XV.    In Nibelungen Land Again
-     XVI.   How Brunhild Was Welcomed Home
-     XVII.  How Siegfried Lived in Nibelungen Land
-     XVIII. How the Mischief Began to Brew
-     XIX.   How They Hunted in the Odenwald
-     XX.    How the Hoard Was Brought to Burgundy
-     The After Word
-     Notes
+The Fore Word
+I.     Mimer, the Master
+II.    Greyfell
+III.   The Curse of Gold
+IV.    Fafnir, the Dragon
+V.     In AEgir’s Kingdom
+VI.    Brunhild
+VII.   In Nibelungen Land
+VIII.  Siegfried’s Welcome Home
+IX.    The Journey to Burgundy-land
+X.     Kriemhill’s Dream
+XI.    How the Spring Time Came
+XII.   The War with the North-kings
+XIII.  The Story of Balder
+XIV.   How Gunther Outwitted Brunhild
+XV.    In Nibelungen Land Again
+XVI.   How Brunhild Was Welcomed Home
+XVII.  How Siegfried Lived in Nibelungen Land
+XVIII. How the Mischief Began to Brew
+XIX.   How They Hunted in the Odenwald
+XX.    How the Hoard Was Brought to Burgundy
+The After Word
+Notes
 
 
 
@@ -222,7 +194,6 @@ Siegfried. His father, Siegmund, was king of the rich country through
 which the lazy Rhine winds its way just before reaching the great North
 Sea; and he was known, both far and near, for his good deeds and his
 prudent thrift. And Siegfried’s mother, the gentle Sigelind, was loved
-by all for her goodness of heart and her kindly charity to the poor.
 Neither king nor queen left aught undone that might make the young
 prince happy, or fit him for life’s usefulness. Wise men were brought
 from far-off lands to be his teachers; and every day something was added
@@ -665,7 +636,6 @@ Adventure II. Greyfell.
 Many were the pleasant days that Siegfried spent in Mimer’s smoky
 smithy; and if he ever thought of his father’s stately dwelling, or of
 the life of ease which he might have enjoyed within its halls, he never
-by word or deed showed signs of discontent. For Mimer taught him all the
 secrets of his craft and all the lore of the wise men. To beat hot
 iron, to shape the fire-edged sword, to smithy war-coats, to fashion the
 slender bracelet of gold and jewels,--all this he had already learned.
@@ -686,7 +656,6 @@ as to strike the boy. For a moment Siegfried gazed at him with withering
 scorn; then he swung his hammer high in air, and brought it swiftly
 down, not upon the head of Veliant, who was trembling with expectant
 fear, but upon the foreman’s anvil. The great block of iron was shivered
-by the blow, and flew into a thousand pieces. Then, turning again
 towards the thoroughly frightened foreman, Siegfried said, while angry
 lightning-flashes darted from his eyes,--
 
@@ -897,7 +866,6 @@ gone. And a strange mist swam before Siegfried’s eyes; and so bewitching
 were the strains that fell upon his ears, and filled his soul, that he
 forgot about his errand, and his master Mimer, and his father Siegmund,
 and his lowland home, and thought only of the heart-gladdening sounds.
-By and by the music ended, the spell was lifted, and Siegfried turned
 his eyes towards the musician. A wonderful change had taken place. The
 little old man still stood before him with the harp in his hand; but his
 wrinkled face was hidden by a heavy beard, and his thin gray locks were
@@ -1275,15 +1243,14 @@ shelving beach, or dashed with force against the shore.
 
 And they answered,--
 
-     “In the deep sea-caves
-     By the sounding shore,
-     In the dashing waves
-     When the wild storms roar,
-     In her cold green bowers
-     In the northern fiords,
-     She lurks and she glowers,
-     She grasps and she hoards,
-     And she spreads her strong net for her prey.”
+“In the deep sea-caves
+In the dashing waves
+When the wild storms roar,
+In her cold green bowers
+In the northern fiords,
+She lurks and she glowers,
+She grasps and she hoards,
+And she spreads her strong net for her prey.”
 
 Loki waited to hear no more; but he sprang into the air, and the magic
 shoes carried him onwards over the water in search of the Ocean-queen.
@@ -1295,7 +1262,6 @@ to seize whatever booty might come near her.
 
 When the wary queen saw Loki, she hastily drew in her net, and tried to
 hide herself in the shadows of an overhanging rock. But Loki called her
-by name, and said,--
 
 “Sister Ran, fear not! I am your friend Loki, whom once you served as a
 guest in AEgir’s gold-lit halls.”
@@ -1578,7 +1544,7 @@ that can prevail against him who has all knowledge and the wealth of the
 world at his call?”
 
 “Nothing but the word of the Norns and the will of the All-Father,”
- answered Siegfried.
+answered Siegfried.
 
 “But will you help me?” asked Regin, almost wild with earnestness. “Will
 you help me to win that which is rightfully mine, and to rid the world
@@ -1714,7 +1680,7 @@ turned, and moved silently towards the farther shore.
 
 “But he wears the Helmet of Terror, and he breathes deathly poisons, and
 his eyes dart forth lightning, and no man can withstand his strength,”
- said the boatman.
+said the boatman.
 
 “I will find some way by which to overcome him.”
 
@@ -2505,7 +2471,6 @@ through fire to awaken her.”
 And all Isenland slept too, because Brunhild, the Maiden of Spring, lay
 wounded with the Sleepful thorn.
 
-* * * * *
 
 When Siegfried heard this story, he knew that the land which lay before
 them was Isenland, and that the castle was Isenstein, and that Brunhild
@@ -3498,7 +3463,6 @@ about yielding to despair, they heard a noise overhead, and, looking up,
 they saw a huge gray eagle sitting on the dead branch of an oak.
 
 “Ha, ha!” cried the bird. “You are pretty fellows indeed! To sit hungry
-by the fire a night and a day, rather than eat raw flesh, becomes you
 well. Do but give me my share of it as it is, and I warrant you the rest
 shall boil, and you shall have a fat supper.”
 
@@ -3566,7 +3530,6 @@ lid, and locked it with her usual care.
 very wry face. “Why don’t you fill your box with fresh fruit?”
 
 Idun was amazed. Her apples were supposed to be always fresh,--fresher
-by far than any that grow nowadays. None of the gods had ever before
 complained about them; and she told Loki so.
 
 “Very well,” said he. “I see you do not believe me, and that you mean to
@@ -3756,7 +3719,7 @@ strange mien of the king. “What has gone amiss, that should cause such
 looks of dark perplexity?”
 
 “That is a matter which I can tell only to friends long tried and true,”
- answered Gunther.
+answered Gunther.
 
 Siegfried was surprised and hurt by these words; and he cried out,--
 
@@ -4575,7 +4538,6 @@ undertake the voyage and the emprise you have decided upon.”
 Gunther knew that his friend’s judgment in this matter was better than
 his own, and he agreed readily to all of Siegfried’s plans.
 
-* * * * *
 
 When, at length, the winter months began to wane, many hands were busy
 making ready for the voyage. The peerless Kriemhild called together
@@ -5119,7 +5081,6 @@ that wealth of hair, and shaved her head until it was as smooth as
 her snow-white hand. Then he hid himself again in the little cave, and
 chuckled with great glee at the wicked thing he had done.
 
-By and by Sif awoke, and looked into the stream; but she started quickly
 back with horror and affright at the image which she saw. She felt of
 her shorn head; and, when she learned that those rich waving tresses
 which had been her joy and pride were no longer there, she knew not what
@@ -5473,7 +5434,6 @@ his blood-stained sword beside him and his heart unrent with fears, the
 All-Father’s victory-wafters will gently carry home. Even now, methinks,
 I sit in the banqueting-hall of the heroes, and quaff the flowing mead.”
 
-* * * * *
 
 In the mean while Gunther stood with Queen Brunhild at an upper window,
 and looked out upon the great sea that spread forever and away towards
@@ -5483,7 +5443,7 @@ hands of AEgir’s daughters and the brawny arms of many a stalwart
 oarsman, came flying towards the bay.
 
 “What ships are those with the snow-white sails and the dragon-stems?”
- asked Brunhild, wondering.
+asked Brunhild, wondering.
 
 Gunther gazed for a moment towards the swift-coming fleet, and his eyes
 were gladdened with the sight of Siegfried’s dragon-banner floating from
@@ -6162,7 +6122,7 @@ ever seemed to be before she had known aught of her husband’s strange
 security from wounds.
 
 “Only one very little spot between the shoulders was left untouched,”
- answered Siegfried. “I afterwards found a lime-leaf sticking there, and
+answered Siegfried. “I afterwards found a lime-leaf sticking there, and
 I know that the slimy blood touched not that spot. But then who fears a
 thrust in the back? None save cowards are wounded there.”
 
@@ -6259,7 +6219,7 @@ AEgir’s kitchen, where he found Elder, the other thrall, grieving sadly
 because of his brother’s death.
 
 “I hear a great chattering and clattering over there in the feast-hall,”
- said Loki. “The greedy, silly Asa-folk seem to be very busy indeed, both
+said Loki. “The greedy, silly Asa-folk seem to be very busy indeed, both
 with their teeth and their tongues. Tell me, now, good Elder, what they
 talk about while they sit over their meat and ale.”
 
@@ -6719,7 +6679,7 @@ to tell the queen how they had deceived her when he had won the games at
 Isenstein, and how the truth had ever since been kept hidden from her.
 
 “Ask me not to explain this matter further than I have already done,”
- he answered. “It is enough that Siegfried is the greatest of all my
+he answered. “It is enough that Siegfried is the greatest of all my
 vassals, and that his lands are broader even than my own. He has helped
 me out of many straits, and has added much to the greatness and strength
 of my kingdom: for this reason he has never been asked to pay us
@@ -6800,7 +6760,7 @@ of him who might have done nobler things!”
 Hagen smiled. He had long waited for this day.
 
 “It was Siegfried, and Siegfried alone, who plotted to deceive you,”
- he said. “Had it not been for him, you might still have been the happy
+he said. “Had it not been for him, you might still have been the happy
 maiden-queen of Isenland. And now he laughs at you, and urges his queen,
 Kriemhild, to scorn you as she would an underling.”
 
@@ -6904,7 +6864,7 @@ sat Gunther, Gernot, and the noble Giselher; and behind them stood their
 uncle and chief, brave old Hagen.
 
 “What message bring you from our old friends Leudiger and Leudigast?”
- asked Gunther of the strangers.
+asked Gunther of the strangers.
 
 “Call them not your friends,” answered the chief of the company. “We
 bring you this message from our liege lords, whom you may well count as
@@ -7664,555 +7624,4 @@ workers; and, so far as opportunity was afforded them, they acted well
 their parts. What their notions were of true manhood,--a strong mind in
 a strong body, good, brave, and handsome,--may be learned from the story
 of Siegfried.
-
-
-End of The Story of Siegfried.
-
-
-
-
-
-The Story of Siegfried Endnotes.
-
-
-
-[EN#1] Siegfried’s Boyhood.
-
-“All men agree that Siegfried was a king’s son. He was born, as we here
-have good reason to know, ‘at Santen in Netherland,’ of Siegmund and the
-fair Siegelinde; yet by some family misfortune or discord, of which the
-accounts are very various, he came into singular straits during boyhood,
-having passed that happy period of life, not under the canopies of
-costly state, but by the sooty stithy, in one Mimer, a blacksmith’s
-shop.”--Thomas Carlyle, The Nibelungen Lied.
-
-The older versions of this story represent Siegfried, under the name of
-Sigurd, as being brought up at the court of the Danish King Hialprek;
-his own father Sigmund having been slain in battle, as related in this
-chapter. He was early placed under the tuition of Regin, or Regino, an
-elf, who instructed his pupil in draughts, runes, languages, and various
-other accomplishments.--See Preface to Vollmer’s Nibelunge Not, also the
-Song of Sigurd Fafnisbane, in the Elder Edda, and the Icelandic Volsunga
-Saga.
-
-
-
-[EN#2]--Mimer.
-
-“The Vilkinasaga brings before us yet another smith, Mimer, by whom not
-only is Velint instructed in his art, but Sigfrit (Siegfried) is brought
-up,--another smith’s apprentice. He is occasionally mentioned in the
-later poem of Biterolf, as Mime the Old. The old name of Munster in
-Westphalia was Mimigardiford; the Westphalian Minden was originally
-Mimidun; and Memleben on the Unstrut, Mimileba.. .. The elder Norse
-tradition names him just as often, and in several different connections.
-In one place, a Mimingus, a wood-satyr, and possessor of a sword and
-jewels, is interwoven into the myth of Balder and Hoder. The Edda gives
-a higher position to its Mimer. He has a fountain, in which wisdom
-and understanding lie hidden: drinking of it every morning, he is the
-wisest, most intelligent, of men. To Mimer’s fountain came Odin, and
-desired a drink, but did not receive it till he had given one of his
-eyes in pledge, and hidden it in the fountain: this accounts for Odin
-being one-eyed.... Mimer is no Asa, but an exalted being with whom the
-Asas hold converse, of whom they make use,--the sum total of wisdom,
-possibly an older Nature-god. Later fables degraded him into a
-wood-sprite, or clever smith.”--Grimm’s Deutsche Mythologie, I. p. 379.
-
-Concerning the Mimer of the Eddas, Professor Anderson says, “The name
-Mimer means the knowing. The Giants, being older than the Asas, looked
-deeper than the latter into the darkness of the past. They had witnessed
-the birth of the gods and the beginning of the world, and they foresaw
-their downfall. Concerning both these events, the gods had to go to
-them for knowledge. It is this wisdom that Mimer keeps in his
-fountain.”--Norse Mythology, p 209.
-
-In the older versions of the legend, the smith who cared for Siegfried
-(Sigurd) is called, as we have before noticed, Regin. He is thus
-described by Morris:--
-
-     “The lore of all men he knew,
-     And was deft in every cunning, save the dealings of the
-     sword.
-     So sweet was his tongue-speech fashioned, that men
-     trowed his every word.
-     His hand with the harp-strings blended was the mingler
-     of delight
-     With the latter days of sorrow: all tales he told
-     aright.
-     The Master of the Masters in the smithying craft was
-     he;
-     And he dealt with the wind and the weather and the
-     stilling of the sea;
-     Nor might any learn him leech-craft, for before that
-     race was made,
-     And that man-folk’s generation, all their life-days had
-     he weighed.”
-
-     Sigurd the Volsung, Bk. II.
-
-
-[EN#3]--The Sword.
-
-“By this sword Balmung also hangs a tale. Doubtless it was one of those
-invaluable weapons sometimes fabricated by the old Northern smiths,
-compared with which our modern Foxes and Ferraras and Toledos are mere
-leaden tools. Von der Hagen seems to think it simply the sword Mimung
-under another name; in which case, Siegfried’s old master, Mimer, had
-been the maker of it, and called it after himself, as if it had been his
-son.”--Carlyle, on the Nibelungen Lied, note.
-
-In Scandinavian legends, the story of Mimer and Amilias is given,
-differing but slightly from the rendering in this chapter.--See Weber
-and Jamieson’s Illustrations of Northern Antiquities.
-
-In the older versions of the myth, the sword is called Gram, or the
-Wrath. It was wrought from the shards, or broken pieces, of Sigmund’s
-sword, the gift of Odin. It was made by Regin for Sigurd’s (Siegfried’s)
-use, and its temper was tested as here described.
-
-
-
-[EN#4]--Sigmund The Volsung.
-
-Sigmund the Volsung, in the Volsunga Saga, is represented as the father
-of Sigurd (Siegfried); but there is such a marked contrast between him,
-and the wise, home-abiding King Siegmund of the later stories, that I
-have thought proper to speak of them here as two different individuals.
-The word “Sigmund,” or “Siegmund,” means literally the mouth of victory.
-The story of the Volsungs, as here supposed to be related by Mimer, is
-derived mainly from the Volsunga Saga.
-
-
-
-[EN#5]--Siegfried’s Journey Into The Forest.
-
-
-
-“In the shop of Mimer, Siegfried was nowise in his proper element, ever
-quarrelling with his fellow-apprentices, nay, as some say, breaking the
-hardest anvils into shivers by his too stout hammering; so that Mimer,
-otherwise a first-rate smith, could by no means do with him there. He
-sends him, accordingly, to the neighboring forest to fetch charcoal,
-well aware that a monstrous dragon, one Regin, the smith’s own brother,
-would meet him, and devour him. But far otherwise it proved.”--Carlyle,
-on The Nibelungen Lied.
-
-
-
-[EN#6]--The Norns.
-
-The Norns are the Fates, which watch over man through life. They are
-Urd the Past, Verdande the Present, and Skuld the Future. They approach
-every new-born child, and utter his doom. They are represented as
-spinning the thread of fate, one end of which is hidden by Urd in the
-far east, the other by Verdande in the far west. Skuld stands ready
-to rend it in pieces. --See Grimm’s Teutonic Mythology, p. 405, also
-Anderson’s Norse Mythology, p. 209.
-
-The three weird women in Shakespeare’s Tragedy of Macbeth represent a
-later conception of the three Norns, now degraded to mere witches.
-
-Compare the Norns with the Fates of the Greek Mythology. These, also,
-are three in number. They sit clothed in white, and garlanded, singing
-of destiny. Clotho, the Past, spins; Lachesis, the Present, divides; and
-Atropos, the Future, stands ready with her shears to cut the thread.
-
-
-
-[EN#7]--The Idea of Fatality.
-
-Throughout the story of the Nibelungs and Volsungs, of Sigurd and of
-Siegfried,--whether we follow the older versions or the mote recent
-renderings,--there is, as it were, an ever-present but indefinable
-shadow of coming fate, “a low, inarticulate voice of Doom,” foretelling
-the inevitable. This is but in consonance with the general ideas of
-our Northern ancestors regarding the fatality which shapes and controls
-every man’s life. These ideas are embodied in more than one ancient
-legend. We find them in the old Anglo-Saxon poem of Beowulf. “To
-us,” cries Beowulf in his last fight, “to us it shall be as our Weird
-betides,--that Weird that is every man’s lord!” “Each man of us shall
-abide the end of his life-work; let him that may work, work his doomed
-deeds ere death comes!” Similar ideas prevailed among the Greeks. Read,
-for example, that passage in the Iliad describing the parting of Hector
-and Andromache, and notice the deeper meaning of Hector’s words.
-
-
-
-[EN#8]--Regin.
-
-
-
-As we have already observed (EN#1), the older versions of this myth
-called Siegfried’s master and teacher Regin, while the more recent
-versions call him Mimer. We have here endeavored to harmonize the two
-versions by representing Mimer as being merely Regin in disguise.
-
-
-
-[EN#9]--Gripir.
-
-“A man of few words was Gripir; but he knew of all deeds that had been;
-And times there came upon him, when the deeds to be were seen: No sword
-had he held in his hand since his father fell to field, And against the
-life of the slayer he bore undinted shield: Yet no fear in his heart
-abided, nor desired he aught at all: But he noted the deeds that had
-been, and looked for what should befall.” Morris’s Sigurd the Volsung,
-Bk. II.
-
-
-[EN#10]--The Hoard.
-
-This story is found in both the Elder and the Younger Eddas, and is
-really the basis upon which the entire plot of the legend of Sigurd, or
-Siegfried, is constructed. See also EN#18.
-
-
-
-[EN#11]--The Dragon.
-
-The oldest form of this story is the Song of Sigurd Fafnisbane, in the
-Elder Edda. The English legend of St. George and the Dragon was probably
-derived from the same original sources. A similar myth may be found
-among all Aryan peoples. Sometimes it is a treasure, sometimes a
-beautiful maiden, that the monster guards, or attempts to destroy. Its
-first meaning was probably this: The maiden, or the treasure, is the
-earth in its beauty and fertility. “The monster is the storm-cloud.
-The hero who fights it is the sun, with his glorious sword, the
-lightning-flash. By his victory the earth is relieved from her peril.
-The fable has been varied to suit the atmospheric peculiarities of
-different climes in which the Aryans found themselves.... In Northern
-mythology the serpent is probably the winter cloud, which broods over
-and keeps from mortals the gold of the sun’s light and heat, till in the
-spring the bright orb overcomes the powers of darkness and tempest, and
-scatters his gold over the face of the earth.” This myth appears in a
-great variety of forms among the Scandinavian and German nations. In
-the Eddas, Sigurd (Siegfried) is represented as roasting the heart of
-Fafnir, and touching it to his lips. We have ventured to present a less
-revolting version.--See Baring-Gould’s Curious Myths of the Middle Ages.
-
-“The slaying of the dragon Fafnir reminds us of Python, whom Apollo
-overcame; and, as Python guarded the Delphic Oracle, the dying Fafnir
-prophesies.”--Jacob Grimm.
-
-
-
-[EN#12.]
-
-In order to harmonize subsequent passages in the story as related in
-different versions, we here represent Siegfried as turning his back
-upon the Glittering Heath, and leaving the Hoard to some other hero or
-discoverer. In the Younger Edda, Siegfried (Sigurd) rides onward until
-he comes to Fafnir’s bed, from which “he took out all the gold, packed
-it in two bags, and laid it on Grane’s (Greyfell’s) back, then got on
-himself and rode away.”
-
-
-
-[EN#13]--BRAGI. This episode of Bragi and his vessel is no part of the
-original story of Siegfried, but is here introduced in order to acquaint
-you with some of the older myths of our ancestors. Bragi was the
-impersonation of music and eloquence, and here represents the music of
-Nature,--the glad songs and sounds of the spring-time. “Above any other
-god,” says Grimm, “one would like to see a more general veneration of
-Bragi revived, in whom was vested the gift of poetry and eloquence....
-He appears to have stood in pretty close relation to AEgir.”
-
-
-
-[EN#14]--AEgir.
-
-“AEgir was the god presiding over the stormy sea. He entertains the
-gods every harvest, and brews ale for them. The name still survives
-in provincial English for the sea-wave on rivers.”--Anderson’s Norse
-Mythology. See Carlyle’s Heroes and Hero-Worship.
-
-
-
-[EN#15]--The Valkyries.
-
-See Grimm’s Teutonic Mythology, p. 417, and Anderson’s Norse Mythology,
-p. 265.
-
-
-
-[EN#16]--Brunhild.
-
-In the Elder Edda, Brunhild’s inaccessible hall stands on a mountain,
-where she was doomed to sleep under her shield until Sigurd should
-release her. In the Nibelungen Lied, she is represented as ruling
-in Isenland, an island far over the sea. The well-known story of the
-Sleeping Beauty is derived from this myth.
-
-
-
-[EN#17]--Nibelungen Land.
-
-“Vain were it to inquire where that Nibelungen Land specially is.
-Its very name is Nebel-land, or Nifl-land, the land of Darkness, of
-Invisibility.... Far beyond the firm horizon, that wonder-bearing
-region swims on the infinite waters, unseen by bodily eye, or, at
-most, discerned as a faint streak hanging in the blue depths, uncertain
-whether island or cloud.”--Carlyle, on The Nibelungen Lied.
-
-
-
-[EN#18]--Schilbung and Nibelung.
-
-“Old King Nibelung, the former lord of the land, had left, when he died,
-a mighty hoard concealed within a mountain-cavern. As Siegfried rode
-past the mountain-side alone, he found Schilbung and Nibelung, the
-king’s sons, seated at the mouth of the cavern surrounded by more gold
-and precious stones than a hundred wagons could bear away. Espying
-Siegfried, they called upon him to settle their dispute, offering him
-as reward their father’s mighty sword Balmung.”--Auber Forestier’s
-Translation of the Nibelungen Lied.
-
-We have here made some slight variations from the original versions.
-(See also EN#12.)
-
-An ancient legend relates how King Schilbung had obtained the Hoard in
-the upper Rhine valley, and how he was afterwards slain by his brother
-Niblung. This Niblung possessed a magic ring in the shape of a coiled
-serpent with ruby eyes. It had been presented to him by a prince named
-Gunthwurm, who had come to him in the guise of a serpent, desiring the
-hand of his daughter in marriage. This ring, according to the Eddas, was
-the one taken by Loki from the dwarf Andvari, and was given by Sigurd
-(Siegfried) to Brunhild in token of betrothal. It was the cause of all
-the disasters that afterwards occurred.--See W. Jordan’s Sigfridssaga.
-See also EN#10.
-
-
-
-[EN#19]
-
-     “... Siegfried the hero good
-     Failed the long task to finish: this stirred their
-     angry mood.
-     The treasure undivided he needs must let remain,
-     When the two kings indignant set on him with their
-     train;
-     But Siegfried gripped sharp Balmung (so hight their
-     father’s sword),
-     And took from them their country, and the beaming,
-     precious hoard.”
-      The Nibelungenlied, Lettsom, 96, 97
-
-
-
-[EN#20]--Siegfried’s Welcome Home.
-
-In the Nibelungen Lied this is our first introduction to the hero. The
-“High-tide” held in honor of Siegfried’s coming to manhood, and which we
-suppose to have occurred at this time, forms the subject of the Second
-Adventure in that poem.
-
-
-
-[EN#21]--Kriemhild’s Dream.
-
-This forms the subject of the first chapter of the Nibelungen Lied. “The
-eagles of Kriemhild’s dream,” says Auber Forestier, “are winter-giants,
-whose wont it was to transform themselves into eagles; while the pure
-gods were in the habit of assuming the falcon’s form.”
-
-
-
-[EN#22]--Idun.
-
-The story of Idun and her Apples is related in the Younger Edda. It is
-there represented as having been told by Bragi himself to his friend
-AEgir. This myth means, that the ever-renovating spring (Idun) being
-taken captive by the desolating winter (Thjasse), all Nature (all
-the Asa-folk) languishes until she regains her freedom through the
-intervention of the summer’s heat (Loki). --See Anderson’s Norse
-Mythology.
-
-
-
-[EN#23]--Balder.
-
-The story of Balder is, in reality, the most ancient form of the
-Siegfried myth. Both Balder and Siegfried are impersonations of the
-beneficent light of the summer’s sun, and both are represented as being
-treacherously slain by the powers of winter. The errand of Hermod to
-the Halls of Death (Hela) reminds us of the errand of Hermes to Hades
-to bring back Persephone to her mother Demetre. We perceive also a
-resemblance in this story to the myth of Orpheus, in which that hero is
-described as descending into the lower regions to bring away his wife
-Eurydice.
-
-
-
-[EN#24]
-
-The making of rich clothing for the heroes is frequently referred to in
-the Nibelungen Lied. Carlyle says, “This is a never-failing preparative
-for all expeditions, and is always specified and insisted on with a
-simple, loving, almost female impressiveness.”
-
-
-
-[EN#25]--The Winning of Brunhild.
-
-The story of the outwitting of Brunhild, as related in the pages which
-follow, is essentially the same as that given in the Nibelungen Lied. It
-is quite different from the older versions.
-
-
-
-[EN#26]--Sif.
-
-Sif corresponds to the Ceres of the Southern mythology. (See Grimm, p.
-309.) The story of Loki and the Dwarfs is derived from the Younger Edda.
-It has been beautifully rendered by the German poet Oelenschlager, a
-translation of whose poem on this subject may be found in Longfellow’s
-Poets and Poetry of Europe.
-
-
-
-[EN#27]--Eigill.
-
-Eigill is the original William Tell. The story is related in the Saga
-of Thidrik. For a full history of the Tell myth, see Grimm’s Teutonic
-Mythology, p. 380, and Baring-Gould’s Curious Myths of the Middle Ages,
-p. 110.
-
-
-
-[EN#28]--Welland the Smith.
-
-The name of this smith is variously given as Weland, Wieland, Welland,
-Volundr, Velint etc. The story is found in the Vilkina Saga, and was one
-of the most popular of middle age myths. (See Grimm’s Mythology.) Sir
-Walter Scott, in his novel of Kenilworth, has made use of this legend in
-introducing the episode of Wayland Smith.
-
-
-
-[EN#29]--Vidar[FN#1] the Silent.
-
-“Vidar is the name of the silent Asa. He has a very thick shoe, and he
-is the strongest next to Thor. From him the gods have much help in all
-hard tasks.”--The Younger Edda (Anderson’s translation).
-
-[FN#1] The word Vidar means forest.
-
-
-
-[EN#30]--Loki.
-
-“Loki, in nature, is the corrupting element in air, fire, and water. In
-the bowels of the earth he is the volcanic flame, in the sea he appears
-as a fierce serpent, and in the lower world we recognize him as pale
-death. Like Odin, he pervades all nature. He symbolizes sin, shrewdness,
-deceitfulness, treachery, malice etc.”--Anderson’s Mythology, p. 372.
-
-He corresponds to the Ahriman of the Persians, to the Satan of the
-Christians, and remotely to the Prometheus of the Greeks.
-
-
-
-[EN#31]--The Quarrel of the Queens.
-
-In the ancient versions, the culmination of this quarrel occurred while
-the queens were bathing in the river: in the Nibelungen Lied it happened
-on the steps leading up to the door of the church.
-
-
-
-[EN#32]--Hagen.
-
-Hagen corresponds to the Hoder of the more ancient myth of Balder. In
-the Sigurd Sagas he is called Hogni, and is a brother instead of an
-uncle, of Gunther (Gunnar).
-
-
-
-[EN#33]--The Death of Siegfried.
-
-This story is related here essentially as found in the Nibelungen
-Lied. It is quite differently told in the older versions. Siegfried’s
-invulnerability save in one spot reminds us of Achilles, who also was
-made invulnerable by a bath, and who could be wounded only in the heel.
-
-
-
-[EN#34]--The Burial of Siegfried.
-
-The story of the burning of Siegfried’s body upon a funeral-pile, as
-related of Sigurd in the older myths, reminds us of the burning of
-Balder upon the ship “Ringhorn.” (See p. 162.) The Nibelungen Lied
-represents him as being buried in accordance with the rites of the
-Roman-Catholic Church. This version of the story must, of course, have
-been made after the conversion of the Germans to Christianity. “When
-the Emperor Frederick III. (1440-93) visited Worms after his Netherlands
-campaign,” says Forestier, “he undertook to have the mighty hero’s bones
-disinterred, probably in view of proving the truth of the marvellous
-story then sung throughout Germany; but, although he had the ground dug
-into until water streamed forth, no traces of these became manifest.”
-
-
-
-[EN#35]--Morris: Sigurd the Volsung, Bk. III.
-
-
-[EN#36]--The Hoard.
-
-The story of bringing the Hoard from Nibelungen Land belongs to the
-later versions of the myth, and fitly closes the First Part of the
-Nibelungen Lied. Lochheim, the place where the Hoard was sunk, was not
-far from Bingen on the Rhine.
-
-
-
-[EN#37]--a Short Vocabulary of the Principal Proper Names Mentioned in
-this Story.
-
-   AEGIR. The god of the sea.
-   ALBERICH and ANDVARI. Dwarfs who guard the great Hoard.
-   ASA. A name applied to the gods of the Norse mythology.
-   ASGARD. The home of the gods.
-   BALDER. The god of the summer sunlight.
-   BRAGI. The god of eloquence and of poetry.
-   DRAUPNER. Odin’s ring, which gives fertility to the earth.
-   FAFNIR. The dragon whom Siegfried slays.
-   FENRIS-WOLF. The monster who in the last twilight slays
-   Odin.
-   FREYJA. The goddess of love.
-   REY. The god of peace and plenty.
-   GRIPIR. The giant who gives wise counsel to Siegfried
-   (Sigurd).
-   GUNTHER. In the older myths called Gunnar.
-   HEIMDAL. The heavenly watchman.
-   HELA. The goddess of death.
-   HERMOD. The quick messenger who is sent to Hela for Balder.
-   HODER. The winter-god. He slays Balder.
-   HOENIR. One of the three most ancient gods.
-   HUGIN. Odin’s raven, Thought.
-   IDUN. The goddess of spring.
-   IVALD. A skilful dwarf.
-   JOTUNHEIM. The home of the giants.
-   KRIEMHILD. In the older myths called Gudrun.
-   LOKI. The mischief-maker. The god of evil.
-   MIMER. In the later German mythology a skilful smith. In the
-   older mythology a wise giant.
-   NORNS. The three Fates,--Urd, Verdande, and Skuld.
-   ODIN. The chief of the gods.
-   REGIN. The teacher of Sigurd, by whom he is slain.
-   SIEGFRIED. In the older myths called Sigurd.
-   SIF. Thor’s wife.
-   SLEIPNER. Odin’s eight-footed horse.
-   TYR. The god of war.
-   THOR. The god of thunder. The foe of the giants.
-   VALHAL. The hall of the slain.
-   VALKYRIES. The choosers of the slain. Odin’s handmaidens.
-   VIDAR. The silent god.
-   YMIR. The huge giant out of whose body the world was made.
-
-
-
-
-
-
-
 
