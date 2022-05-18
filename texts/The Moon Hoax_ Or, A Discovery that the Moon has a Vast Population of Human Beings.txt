@@ -1,67 +1,6 @@
 
 
 
-
-
-
-[Illustration: THE MOON, AS SEEN BY LORD ROSSE'S TELESCOPE. 1856.]
-
-
-THE MOON HOAX;
-
-OR,
-
-A DISCOVERY THAT THE MOON
-HAS A VAST POPULATION OF HUMAN BEINGS.
-
-
-BY
-
-RICHARD ADAMS LOCKE.
-
-
-Illustrated with a View of the Moon,
-
-AS SEEN BY LORD ROSSE'S TELESCOPE.
-
-
-"The clouds still rested on one half of it, insomuch that I could
-discover nothing in it; but the other appeared to me a vast ocean
-planted with innumerable islands, that were covered with fruits and
-flowers, and interwoven with a thousand little shining seas that
-ran among them. I could see persons dressed in glorious habits with
-garlands upon their heads, passing among the trees, lying down by the
-sides of fountains, or resting on beds of flowers; and could hear a
-confused harmony of singing birds, falling waters, human voices, and
-musical instruments. Gladness grew in me upon the discovery of so
-delightful a scene. I wished for the wings of an eagle, that I might
-fly away to those happy seats; but the genius told me there was no
-passage to them except through the gates of death that I saw opening
-every moment upon the bridge."
-ADDISON.
-
-
-[Illustration: Logo]
-
-
-NEW YORK: WILLIAM GOWANS, 1859.
-
-
-
-
-Entered according to Act of Congress, in the year 1859, by
-
-WILLIAM GOWANS,
-
-in the Clerk's Office of the District Court of the United States for
-the Southern District of New York.
-
-
-
-
-ADVERTISEMENT.
-
-
 It appears to be as natural for the human mind to be craving after the
 wonderful, the mysterious, the marvellous, and the new discoveries, as
 it is for the physical appetite to desire food, drink, and sleep, and
@@ -115,27 +54,6 @@ as 'The celebrated Moon Hoax?'" The answer was that if it could be
 procured at all, it would be at 85 Centre Street, New York. By this
 circuitous method, this dilligent far-west bookcollector procured his
 copy of the "Moon Hoax" to his great satisfaction.
-
-August 1, 1859.      PUBLISHER.
-
-
-
-
-GREAT
-
-ASTRONOMICAL DISCOVERIES
-
-LATELY MADE
-
-BY SIR JOHN HERSCHEL, L.L., D.F.R.S., &c.,
-
-AT THE
-
-CAPE OF GOOD HOPE.
-
-FIRST PUBLISHED IN THE NEW YORK SUN IN AUGUST AND SEPTEMBER, 1835, FROM
-THE SUPPLEMENT TO THE EDINBURGH JOURNAL OF SCIENCE.
-
 
 In this unusual addition to our Journal, we have the happiness of
 making known to the British public, and thence to the whole civilized
@@ -212,7 +130,6 @@ above all mercenary considerations, has thus signally honored and
 rewarded his fellow-laborer in the field of science. The engravings
 of lunar animals and other objects, and of the phases of the several
 planets, are accurate copies of drawings taken in the observatory
-by Herbert Home, Esq., who accompanied the last powerful series of
 reflectors from London to the Cape, and superintended their erection;
 and he has thus recorded the proofs of their triumphant success. The
 engravings of the belts of Jupiter is a reduced copy of an imperial
@@ -226,7 +143,6 @@ have been made. A knowledge of the one is essential to the credibility
 of the other.
 
 
-THE YOUNGER HERSCHEL'S TELESCOPE.
 
 It is well known that the great reflecting telescope of the late elder
 Herschel, with an object-glass four feet in diameter, and a tube forty
@@ -412,7 +328,6 @@ the purest plate glass (which it is said they obtained, by consent, be
 it observed, from the shop window of Mons. Desanges, the jeweller to
 his ex-majesty Charles X., in High street) was the most eligible they
 could discover. It answered perfectly with a telescope which magnified
-100 times, and a microscope of about thrice that power.
 
 Sir John Herschel then conceived the stupendous fabric of his present
 telescope. The power of his father's instrument would still leave him
@@ -442,7 +357,6 @@ mass, he selected the large glass-house of Messrs. Hartly and Grant,
 material chosen was an amalgamation of two parts of the best crown with
 one of flint glass, the use of which, in separate lenses, constituted
 the great achromatic discovery of Dolland. It had been found, however,
-by accurate experiments, that the amalgam would as completely triumph
 over every impediment, both from refrangibility and discoloration, as
 the separate lenses. Five furnaces of the metal, carefully collected
 from productions of the manufactory, in both the kinds of glass, and
@@ -536,7 +450,6 @@ when he measured a degree of the meridian, and made a great advance, to
 exactitude in computing the solar parallax from that of Mars and the
 Moon. Sir John accomplished the ascent to the plains by means of two
 relief teams of oxen, of eighteen each, in about four days; and, aided
-by several companies of Dutch boors, proceeded at once to the erection
 of his gigantic fabric.
 
 The ground plan of the structure is in some respects similar to that
@@ -555,7 +468,6 @@ and gutters of thin copper. Through the side proximate to the lens,
 is an aperture four feet in diameter to receive its rays, and through
 the roof another for the same purpose in meridional observations. The
 lens, which is inclosed in a frame of wood, and braced to its corners
-by bars of copper, is suspended upon an axis between two pillars which
 are nearly as high as those which supported the celebrated quadrant of
 Uleg Beg, being one hundred and fifty feet. These are united at the top
 and bottom by cross-pieces, and strengthened by a number of diagonal
@@ -627,7 +539,6 @@ discovery was termed, with incredulous contumely, and continued to
 terrorize upon the strength of former predictions.
 
 
-NEW LUNAR DISCOVERIES.
 
 Until the 10th of January, the observations were chiefly directed to
 the stars in the southern signs, in which, without the aid of the
@@ -681,7 +592,6 @@ perceive that novelty, a lunar forest. "The trees," says Dr. Grant,
 "for a period of ten minutes, were of one unvaried kind, and unlike
 any I have seen, except the largest kind of yews in the English
 churchyards, which they in some respects resemble." These were followed
-by a level green plain, which, as measured by the painted circle on our
 canvass of forty-nine feet, must have been more than half a mile in
 breadth; and then appeared as fine a forest of firs, unequivocal firs,
 as I have ever seen cherished in the bosom of my native mountains.
@@ -694,7 +604,6 @@ inland sea; but of what relative locality or extent, we were yet too
 greatly magnified to determine. On introducing the feeblest achromatic
 lens we possessed, we found that the water, whose boundary we had just
 discovered, answered in general outline to the Mare Nubium of Riccoli,
-by which we detected that, instead of commencing, as we supposed, on
 the eastern longitude of the planet, some delay in the elevation of
 the great lens had thrown us nearly upon the axis of her equator.
 However, as she was a free country, and we not, as yet, attached to any
@@ -788,7 +697,6 @@ descended to the foundations of the precipices. Innumerable cascades
 were bursting forth from the breasts of every one of these cliffs,
 and some so near their summits, and with such great force, as to form
 arches many yards in diameter. I never was so vividly reminded of
-Byron's simile, "the tale of the white horse in the Revolution." At the
 foot of this boundary of hills was a perfect zone of woods surrounding
 the whole valley, which was about eighteen or twenty miles wide, at
 its greatest breadth, and about thirty in length. Small collections of
@@ -1113,7 +1021,6 @@ white as polished ivory, and standing in perpendicular parallel to each
 other. Its body was like that of the deer, but its fore-legs were most
 disproportionally long, and its tail, which was very bushy and of a
 snowy whiteness, curled high over its rump, and hung two or three feet
-by its side. Its colors were bright bay and white in brindled patches,
 clearly defined, but of no regular form. It was found only in pairs, in
 spaces between the woods, and we had no opportunity of witnessing its
 speed or habits. But a few minutes only elapsed before three specimens
@@ -1202,7 +1109,6 @@ spread eagles on the skirts of the wood. We could then perceive that
 they possessed wings of great expansion, and were similar in structure
 to those of the bat, being a semi-transparent membrane expanded in
 curvilineal divisions by means of straight radii, united at the back
-by the dorsal integuments. But what astonished us very much was the
 circumstance of this membrane being continued, from the shoulders to
 the legs, united all the way down, though gradually decreasing in
 width. The wings seemed completely under the command of volition, for
@@ -1213,7 +1119,6 @@ form. Our further observation of the habits of these creatures, who
 were of both sexes, led to results so very remarkable, that I prefer
 they should first be laid before the public in Dr. Herschel's own work,
 where I have reason to know they are fully and faithfully stated,
-however incredulously they may be received.-- * * * * * The three
 families then almost simultaneously spread their wings, and were lost
 in the dark confines of the canvass before we had time to breathe from
 our paralyzing astonishment. We scientifically denominated them the
@@ -1464,11 +1369,9 @@ who stepped into the centre and brought his hands over his head in an
 acute angle. At this signal each member of the company extended his
 arms forward so as to form an acute horizontal angle with the extremity
 of the fingers. But this was not the only proof we had that they were
-creatures of order and subordination. * * * * We had no opportunity of
 seeing them actually engaged in any work of industry or art; and so far
 as we could judge, they spent their happy hours in collecting various
 fruits in the woods, in eating, flying, bathing, and loitering about
-upon the summits of precipices. * * * * But although evidently the
 highest order of animals in this rich valley, they were not its only
 occupants. Most of the other animals which we had discovered elsewhere,
 in very distant regions, were collected here; and also at least eight
@@ -1488,8 +1391,8 @@ darkly, but face to face;' and never shall I think of that line of our
 thrice noble poet,
 
 
-                    ----'Meek Diana's crest
-    Sails through the azure air, an island of the blest,'
+----'Meek Diana's crest
+Sails through the azure air, an island of the blest,'
 
 
 without exulting in my knowledge of its truth."
@@ -1565,7 +1468,6 @@ these destroyed worlds (the former station of which in the system is
 demonstrated in the argument which we subjoin), which was accordingly
 carried round by the rotary force, and spread forth in the manner we
 see. The outer ring is another world exploded in fragments, attracted
-by the law of gravity as in the former case, and kept from uniting with
 the inner ring by the centrifugal force of the latter. But the latter,
 having a slower rotation than the planet, has an inferior centrifugal
 force, and accordingly the space between the outer and inner ring is
@@ -1577,10 +1479,8 @@ mathematical for popular comprehension.--_Ed. Sun._]
 
 Dr. Herschel clearly ascertained that these rings are composed of
 rocky strata, the skeletons of former globes, lying in a state of wild
-and ghastly confusion, but not devoid of mountains and seas. * * * *
 The belts across the body of Saturn he has discovered to be the smoke
 of a number of immense volcanoes, carried in these straight lines by
-the extreme velocity of the rotary motion. * * * * [And these also
 he has ascertained to be the belt of Jupiter.--But the portion of
 the work which is devoted to this subject, and to the other planets,
 as also that which describes the astronomer's discoveries among the
@@ -1588,7 +1488,6 @@ stars, is comparatively uninteresting to general readers, however
 highly it might interest others of scientific taste and mathematical
 acquirements.--_Ed. Sun._]
 
-* * * * "It was not until the new moon of the month of March, that the
 weather proved favorable to any continued series of lunar observations;
 and Dr. Herschel had been too enthusiastically absorbed in
 demonstrating his brilliant discoveries in the southern constellations,
@@ -1628,7 +1527,6 @@ proficiency of skill quite incredible to all except actual observers. I
 shall, therefore, let the first detailed account of them appear in Dr.
 Herschel's authenticated natural history of this planet."
 
-[This concludes the Supplement, with the exception of forty pages
 of illustrative and mathematical notes, which would greatly enhance
 the size and price of this work, without commensurably adding to its
 general interest.--_Ed. Sun._]
@@ -1636,32 +1534,28 @@ general interest.--_Ed. Sun._]
 
 
 
-APPENDIX.
-
-THE MOON AS KNOWN AT THE PRESENT TIME.
 
 
-    "Ye sacred muses, with whose beauty fir'd,
-    My soul is ravish'd, and my brain inspir'd.
-    Whose priest I am, whose holy fillets wear;
-    Would you your poet's first petition hear;
-    Give me the ways of wandering stars to know:
-    The depths of heav'n above, and earth below.
-    Teach me the various labours of the moon,
-    And whence proceed th' eclipses of the sun.
-    Why flowing tides prevail upon the main,
-    And in what dark recess they shrink again.
-    What shakes the solid earth, what cause delays
-    The summer nights, and shortens winter days."
 
-    VIRGIL.
+"Ye sacred muses, with whose beauty fir'd,
+My soul is ravish'd, and my brain inspir'd.
+Whose priest I am, whose holy fillets wear;
+Would you your poet's first petition hear;
+Give me the ways of wandering stars to know:
+The depths of heav'n above, and earth below.
+Teach me the various labours of the moon,
+And whence proceed th' eclipses of the sun.
+Why flowing tides prevail upon the main,
+And in what dark recess they shrink again.
+What shakes the solid earth, what cause delays
+The summer nights, and shortens winter days."
+
 
 
 The picture on the title-page is probably the best and minutest view
 of the moon, that has ever been laid before the public. Most of our
 readers are aware that the mountains and hollows of the moon have
 been accurately and thoroughly mapped by astronomers, and baptized
-by appropriate names. For the benefit of meritorious students of
 astronomical geography, we subjoin the names of all those which
 have been christened. At the present season it will amply repay the
 possessor of a small telescope to identify the several localities with
@@ -1910,7 +1804,6 @@ intelligence, that men of high literary name have confessed their
 incapacity to understand them, and their inability to believe them.
 There are few, indeed, we fear, who really believe that they sojourn
 on a revolving globe, and that each day and year of life is measured
-by its revolutions. There are few who believe that the great luminary
 of the firmament, whose restless activity they daily witness, is an
 immovable star, controlling, by its solid mass, the primary planets of
 our system, and forming, as it were, the gnomon of the great dial which
@@ -1943,7 +1836,6 @@ inhabited by animals and adorned with plants during immeasurable cycles
 of time antecedent to the creation of man--that when the volcano, the
 earthquake, and the flood, had destroyed and buried them, nobler forms
 of life were created to undergo the same fiery ordeal:--and that,
-by a series of successive creations and catastrophes, the earth was
 prepared for the residence of man, and the rich materials in its bosom
 elaborated for his use, and thrown within his grasp. In the age of our
 own globe, then, we see the age of its brother planets, and in the
@@ -1956,251 +1848,3 @@ its final destiny of glory or of shame.
 The following are the names which have been given to the mountains and
 valleys, or hollows, in the moon, and which are referred to in the
 accompanying picture [See title page].
-
-
-MOUNTAINS.
-
-1. The Apennines.
-2. The Caucasus.
-3. The Alps.
-4. Taurus.
-5. Hæmus.
-6. The Altai Mountains.
-7. The Cordilleras.
-8. The Riphæ Mountains.
-9. The Carpathians.
-10. The Hercynian Mountains.
-
-
-HOLLOWS, OR VALLEYS.
-
-A. The Crisian Sea.
-B. The Sea of Fertility (!!).
-C. The Sea of Nectar.
-D. The Tranquil Sea.
-E. The Serene Sea.
-F. The Sea of Dreams.
-G. The Sea of Death.
-H. The Dreamy Marsh.
-I. The Cold Sea.
-K. The Sea of Vapors.
-L. The Middle Bay.
-M. The Sea of Clouds.
-N. The Sea of Mist.
-O. The Bay of Epidemics.
-P. The Stormy Ocean.
-Q. The Showery Sea.
-R. The Sea of Rainbows.
-S. The Sea of Dews.
-T. Humboldt's Sea.
-
-As will be seen, astronomers have done what they could to relieve the
-dreariness of nature by a free indulgence in fanciful names.
-
-Dr. Chalmers, speaking of the advantages derived from the discovery of
-the telescope and microscope, says, "The one led me to see a system
-in every star. The other leads me to see a world in every atom. The
-one taught me that this mighty globe, with the whole burden of its
-people, and of its countries, is but a grain of sand on the high field
-of immensity. The other teaches me that every grain of sand may harbor
-within it the tribes and families of a busy population. The one told
-me of the insignificance of the world I tread upon. The other redeems
-it from all its insignificance; for it tells me that in the leaves of
-every forest, and in the flowers of every garden, and in the waters
-of every rivulet, there are worlds teeming with life, and numberless
-as are the glories of the firmament. The one has suggested to me that
-beyond and above all that is visible to man, there may lie fields
-of creation which sweep immeasurably along, and carry the impress of
-the Almighty's hand to the remotest scenes of the universe. The other
-suggests to me, that within and beneath all that minuteness which the
-aided eye of man has been able to explore, there may lie a region of
-invisibles; and that, could we draw aside the mysterious curtain which
-shrouds it from our senses, we might there see a theatre of as many
-wonders as astronomy has unfolded; a universe within the compass of
-a point so small, as to elude all the powers of the microscope, but
-where the wonder-working God finds room for the exercise of all his
-attributes, where he can raise another mechanism of worlds, and fill
-and animate them all with the evidences of his glory."
-
-       *       *       *       *       *
-
-_Opinions of the American Press Respecting the Foregoing Discovery._
-
-"HERSCHEL'S GREAT DISCOVERIES.--We are too much pleased with the
-remarks of the sensible, candid, and scientific portions of the public
-press upon the extracts which we have published relative to these
-wonders of the age, to direct our attention very severely to-day to
-that sceptical class of our contemporaries to whom none of these
-attributes can be ascribed. Consummate ignorance is always incredulous
-to the higher order of scientific discoveries, because it cannot
-possibly comprehend them. Its mental thorax is quite capacious enough
-to swallow any dogmas, however great, that are given upon the authority
-of names; but it strains most perilously to receive the great truths
-of reason and science. We scarcely ever knew a very ignorant person
-who would believe in the existence of those myriads of invisible
-beings which inhabit a drop of water, and every grain of dust, until
-he had actually beheld them through the microscope by which they are
-developed. Yet these very persons will readily believe in the divinity
-of Matthias the prophet, and in the most improbable credenda of
-extravagant systems of faith. The _Journal of Commerce_, for instance,
-says it cannot believe in these great discoveries of Dr. Herschel, yet
-it believes and defends the innocence of the murderer Avery. These
-who in a former age imprisoned Galileo for asserting _his_ great
-discoveries with the telescope, and determined upon sentencing him to
-be burnt alive, nevertheless believed that Simon Magus actually flew in
-the air by the aid of the devil, and that when that aid was withdrawn
-he fell to the ground and broke his neck. The great mechanical
-discoverer, Worcester, obtained no credence for his theories in his
-day, though they are now being continually demonstrated by practical
-operation. Happily, however, those who impudently and ignorantly deny
-the great discoveries of Herschel, are chiefly to be found among those
-whose faith or whose scepticism, would never be received as a guide for
-the opinions of other men. From among that portion of the public press
-whose intelligence and acquirements render them competent judges of the
-great scientific questions now before the community, we extract the
-following frank declarations of their opinions."--_New York Sun_, Sep.
-1, 1835.
-
-"No article, we believe, has appeared for years, that will command
-so general a perusal and publication. Sir John has added a stock of
-knowledge to the present age that will immortalize his name, and place
-it high on the page of science."--_Daily Advertiser._
-
-"DISCOVERIES IN THE MOON.--We commence to-day the publication of an
-interesting article which is stated to have been copied from the
-_Edinburgh Journal of Science_, and which made its first appearance
-here in a contemporary journal of this city. It appears to carry
-intrinsic evidence of being an authentic document."--_Mercantile
-Advertiser._
-
-"STUPENDOUS DISCOVERY IN ASTRONOMY.--We have read with unspeakable
-emotions of pleasure and astonishment, an article from the last
-_Edinburgh Scientific Journal_, containing an account of the recent
-discoveries of Sir John Herschel at the Cape of Good Hope."--_Albany
-Daily Advertiser._
-
-"It is quite proper that the _Sun_ should be the means of shedding
-so much light on the _Moon_. That there should be winged people in
-the Moon does not strike us as more wonderful than the existence of
-such a race of beings on earth; and that there does or did exist such
-a race rests on the evidence of that most veracious of voyagers and
-circumstantial of chroniclers, Peter Wilkins, whose celebrated work
-not only gives an account of the general appearance and habits of a
-most interesting tribe of flying Indians, but also of all those more
-delicate and engaging traits which the author was enabled to discover
-by reason of the conjugal relations he entered into with one of the
-females of the winged tribe."--_N. Y. Evening Post._
-
-"We think we can trace in it marks of transatlantic origin."--_N. Y.
-Commercial Advertiser._
-
-"The writer (Dr. Andrew Grant) displays the most extensive and
-accurate knowledge of astronomy, and the description of Sir John's
-recently improved instruments, the principle on which the inestimable
-improvements were founded, the account of the wonderful discoveries
-in the moon, &c., are all probable and plausible, and have an air of
-intense verisimilitude."--_N. Y. Times._
-
-"GREAT ASTRONOMICAL DISCOVERIES!--By the late arrivals from England
-there has been received in this country a supplement to the _Edinburgh
-Journal of Science_ containing intelligence of the most astounding
-interest from Prof. Herschel's observatory at the Cape of Good Hope....
-The promulgation of these discoveries creates a new era in astronomy
-and science generally."--_New Yorker._
-
-"Our enterprising neighbors of the _Sun_, we are pleased to learn, are
-likely to enjoy a rich reward from the late _lunar_ discoveries. They
-deserve all they receive from the public--'they are worthy.'"--_N. Y.
-Spirit of '76._
-
-"After all, however, our doubts and incredulity may be a wrong to the
-learned astronomer, and the circumstances of this wonderful discovery
-may be correct. Let us do him justice, and allow him to tell his story
-in his own way."--_N. Y. Sunday News._
-
-"The article is said to be an extract from a supplement to the
-_Edinburgh Journal of Science_. It sets forth difficulties encountered
-by Sir John, on obtaining his glass castings for his great telescope,
-with magnifying powers of 42,000. _The account, excepting the
-magnifying power, has been before published_" [_i. e._, in the
-Supplement to the _Edinburgh Journal of Science_.--Ed. _Sun_].--_U. S.
-Gazette._
-
-"It is not worth while for us to express an opinion as to the truth
-or falsity of the narrative, as our readers can, after an attentive
-perusal of the whole story, decide for themselves. Whether true or
-false, the article is written with consummate ability, and possesses
-intense interest."--_Philadelphia Inquirer._
-
-"These are but a handful of the innumerable certificates of credence,
-and of complimentary testimonials with which the universal press of
-the country is loading our tables. Indeed, we find very few of the
-public papers express any other opinion. We have named the _Journal of
-Commerce_ as an exception, because it not only ignorantly doubted the
-authenticity of the discoveries, but ill-naturedly said that we had
-fabricated them for the purpose of making a noise and drawing attention
-to our paper.
-
-"Col. Webb of the _Courier and Inquirer_ has said nothing upon the
-subject; but he only feels the more, and we are this moment assured
-that he has made arrangements with the proprietors of the Charleston
-steam-packets to take the splendid boat William Gibbons of that line,
-and charter her for the Cape of Good Hope, whither he is going with all
-his family--including Hoskin.
-
-"We yesterday extracted from the celebrated Supplement, a mathematical
-problem demonstrating an entirely new, and the only true method of
-measuring the height of the lunar mountains. We were not then aware of
-its great importance as a demonstration, also, of the authenticity of
-the great discoveries. But several eminent mathematicians have since
-called and assured us, that it is the greatest mathematical discovery
-of the present age. Now, that problem was either predicated by us, or
-by some other person, who has thereby made the greatest of all modern
-discoveries in mathematical astronomy. We did not make it, for we know
-nothing of mathematics whatever; therefore, it was made by the only
-person to whom it can rationally be ascribed, namely, Herschel the
-astronomer, its only avowed and undeniable author."--_Editor of the
-Sun._
-
-FOOTNOTES:
-
-[1]
-
-    "As when the Moon,[2] refulgent lamp of night!
-    O'er heav'n's clear azure spreads her sacred light,
-    When not a breath disturbs the deep serene,
-    And not a cloud o'ercasts the solemn scene;
-    Around her throne the vivid planets roll,
-    And stars unnumber'd gild the glowing pole,
-    O'er the dark trees a yellower verdure shed,
-    And tip with silver ev'ry mountain's head;
-    Then shine the vales, the rocks in prospect rise,
-    A flood of glory bursts from all the skies."
-
-    HOMER.
-
-The earth is accompanied by a MOON or satellite, whose distance is
-237,000 miles, and diameter 2,160. Her surface is composed of hill and
-dale, of rocks and mountains, nearly two miles high, and of circular
-cavities, sometimes five miles in depth and forty in diameter. She
-possesses neither _rivers_, nor _lakes_, nor _seas_, and we cannot
-discover with the telescope any traces of living beings, or any
-monuments of their hands. Viewing the earth as we now do, as the
-_third_ planet in order from the sun, can we doubt that it is a globe
-like the rest, poised in ether like them, and, like them, moving round
-the central luminary?
-
-[2] _As when the moon, &c._ This comparison is inferior to none in
-_Homer_. It is the most beautiful night-piece that can be found in
-poetry. He presents you with a prospect of the heavens, the seas, and
-the earth; the stars shine, the air is serene, the world enlighten'd,
-and the moon mounted in glory.
-
-[3] For an account of the singular views which the ancients had
-entertained on this subject, see "The Theology of the Phœnicians,"
-by _Sanchoniatho_, who flourished about the time of the Trojan war.
-Published in a collection of _Ancient Fragments_. New York. 1835.
-
-
-
-
