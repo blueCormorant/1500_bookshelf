@@ -1,135 +1,4 @@
 
-
-
-
-
-
-
-Transcriber's Note:
-
-  Inconsistent hyphenation and spelling in the original document have
-  been preserved. Obvious typographical errors have been corrected.
-
-  Italic text is denoted by _underscores_ and bold text by =equal
-  signs=.
-
-
-
-
-The Shadow of the Czar
-
-  [Illustration: THE CORONATION DUEL.
-   _Frontispiece_]
-
-
-
-
-     The
-     Shadow of the Czar
-
-     By
-     John R. Carling
-
-     _Illustrated_
-
-     Boston
-     Little, Brown, and Company
-     1903
-
-
-
-
-     _Copyright, 1902_,
-     BY LITTLE, BROWN, AND COMPANY.
-
-     _All rights reserved._
-
-
-     Published September, 1902
-
-
-     UNIVERSITY PRESS · JOHN WILSON
-     AND SON · CAMBRIDGE, U.S.A.
-
-
-
-
-Contents
-
-
-     PROLOGUE
-
-     CHAPTER                                PAGE
-
-     I. THE MEETING IN THE FOREST              1
-
-     II. THE CASTLE BY THE SEA                 3
-
-     III. FEVER AND CONVALESCENCE             30
-
-     IV. THE SEALED CHAMBER                   45
-
-     V. THE RETURN OF THE "MASTER"            60
-
-
-     THE STORY
-
-     I. TWO YEARS AFTERWARDS                  78
-
-     II. CZERNOVESE POLITICS                  92
-
-     III. A MENACE FROM THE CZAR             110
-
-     IV. THE PRINCESS AND THE CARDINAL       122
-
-     V. ON THE RUSSIAN FRONTIER              136
-
-     VI. KATINA THE PATRIOT                  149
-
-     VII. WHAT HAPPENED IN RUSSOGRAD         170
-
-     VIII. PAUL AND THE PRINCESS             186
-
-     IX. A DISPLAY OF SWORDSMANSHIP          200
-
-     X. THE DEED OF MICHAEL THE GUARDSMAN    215
-
-     XI. THE ENVOY OF THE CZAR               230
-
-     XII. THE POLISH CONSPIRACY              254
-
-     XIII. THE FATE OF THE APPROPRIATION
-       BILL                                  274
-
-     XIV. NEARING A CRISIS                   300
-
-     XV. THE EVE OF THE CORONATION           326
-
-     XVI. THE CRIME THAT FAILED              343
-
-     XVII. THE BEGINNING OF THE CORONATION   361
-
-     XVIII. THE GREAT WHITE CZAR             377
-
-     XIX. THE CORONATION DUEL                395
-
-     XX. ALL'S WELL THAT ENDS WELL           410
-
-
-
-
-THE SHADOW OF THE CZAR
-
-PROLOGUE
-
-
-
-
-CHAPTER I
-
-THE MEETING IN THE FOREST
-
-
 Paul Cressingham, captain in Her Britannic Majesty's army, had seen
 some active service, and was therefore not unused to sleeping on the
 ground at night wrapt in his military cloak. Nevertheless he had a
@@ -344,7 +213,6 @@ nearest village or inn.
 He stepped forward briskly, and keeping a sharp lookout soon came upon
 a milestone glimmering white upon one side of the road. Kneeling down
 he struck a match--like the revolver, a recent invention in 1845--and
-by the faint glow learned that he was thirty miles from Zara.
 
 Taking out his map, together with the "Tourist's Manual for Dalmatia,"
 he proceeded to make a study of both by the brief and unsatisfactory
@@ -365,9 +233,9 @@ heard by Paul.
 When he had risen to his feet he stood mute with astonishment, a
 passage from "Christabel" floating through his mind,--
 
-     "I guess 't was frightful there to see
-     A lady so richly clad as she--
-     Beautiful exceedingly!"
+"I guess 't was frightful there to see
+A lady so richly clad as she--
+Beautiful exceedingly!"
 
 For, in truth, it _was_ a lady that Paul saw standing before him at
 midnight hour beneath the light of the stars in the depth of the
@@ -547,9 +415,7 @@ little hand thrilled him with a strange pleasure.
 
 
 
-CHAPTER II
 
-THE CASTLE BY THE SEA
 
 
 Walking onward a few paces they came to the path mentioned in the
@@ -617,7 +483,6 @@ Seating his companion upon a fallen column, Paul went forward to
 reconnoitre. Crossing the grass-grown pavement of what had once been a
 stately loggia, he mounted the mossy fractured steps leading to the
 door of the tower. On the lintel was sculptured, "Marino Faliero,
-1348"--proof that the castle dated from the days when the Venetians
 held sway in Dalmatia.
 
 No sooner had Paul rapped upon the massive oaken door than a terrible
@@ -1191,9 +1056,7 @@ casement.
 
 
 
-CHAPTER III
 
-FEVER AND CONVALESCENCE
 
 
 Of the four occupants of Castel Nuovo the first to awaken in the
@@ -1217,7 +1080,6 @@ Lambro, who had just struggled into his finery.
 
 "What else could be expected after sleeping at night in a damp
 forest?" was his comment. "Fever! and she in that very chamber, too!
-By God, if the Master should return and find her there!"
 
 "Come and listen to her. She is talking in a strange language: she
 looks at me with piteous eyes as if making some request. Perhaps you
@@ -1746,9 +1608,7 @@ reticence as to her past life.
 
 
 
-CHAPTER IV
 
-THE SEALED CHAMBER
 
 
 When, amid the most enchanting scenery to be found in Europe, and at a
@@ -2033,7 +1893,6 @@ apparently not giving the matter a thought. Her fear overpowered every
 other emotion.
 
 "Lambro," she asked, when somewhat revived by a stimulant administered
-by Jacintha. "There is a man's portrait on the wall of that room.
 Whose?"
 
 "The Master's."
@@ -2256,7 +2115,6 @@ of readiness intended for her use?
 
 He understood now the cause of the amazement on the part of Lambro and
 Jacintha when they first beheld Barbara; they were doubtless startled
-by her extraordinary resemblance to their previous guest.
 
 That this lady had traversed the corridor leading to the cardinal's
 study was proved by the lace fragment of her dress adhering to the
@@ -2286,9 +2144,7 @@ On the polished oak flooring was a dark stain.
 
 
 
-CHAPTER V
 
-THE RETURN OF THE "MASTER"
 
 
 The "Isola Sacra" mentioned by Paul as an inducement for Barbara to
@@ -2754,7 +2610,6 @@ of the kisses I have missed!"
 Who could have resisted the witchery of those lips raised so
 temptingly at that moment? Not Paul, certainly.
 
-       *       *       *       *       *
 
 The dusk of twilight was stealing over the island. The stars were
 beginning to glimmer through the violet air above.
@@ -2782,13 +2637,13 @@ temple, he paused for a moment to listen to Barbara, who was singing
 in a sweet plaintive voice the hymn to the Virgin accustomed to be
 sung in her convent at vesper hour.
 
-     "Fading, still fading, the last beam is shining.
-     Ave Maria! day is declining:
-     Safety and innocence fly with the light:
-     Temptation and danger walk forth with the night:
-     From the fall of the shade till the matin shall chime
-     Shield us from peril, and save us from crime.
-               _Ave Maria, audi nos!_"
+"Fading, still fading, the last beam is shining.
+Ave Maria! day is declining:
+Safety and innocence fly with the light:
+Temptation and danger walk forth with the night:
+From the fall of the shade till the matin shall chime
+Shield us from peril, and save us from crime.
+_Ave Maria, audi nos!_"
 
 She formed a pretty picture as she sat there alone by the dusky-blue
 sea in the faint starlight, her dainty white-robed figure clearly
@@ -2952,7 +2807,6 @@ Then all was still again.
 
 What had happened along that moonlit coast?
 
-       *       *       *       *       *
 
 Night waned. Morning dawned with all the fair golden glory of that
 southern clime.
@@ -2992,14 +2846,11 @@ known by the name of Castel Nuovo!
 
 
 
-THE STORY
 
 
 
 
-CHAPTER I
 
-TWO YEARS AFTERWARDS
 
 
 "Here's to the Princess of Czernova!" cried Noel Trevisa,--a
@@ -3118,7 +2969,6 @@ face of her whom he had lost, and scarcely conscious of the fact, he
 would cry "Barbara! Barbara!" to the bewilderment of his men. The wild
 Afghans shrank back in dismay whenever the "Feringhee devil" turned
 his dripping sabre in their direction, deeming the "bar-bar-a" uttered
-by him to be a magic spell capable of dealing death around.
 
 When at last the long-desired relief came, and the story of the heroic
 defence of Tajapore became known to the world, Paul found that he had
@@ -3524,9 +3374,7 @@ anything rather than that she was a conscious and willing usurper.
 
 
 
-CHAPTER II
 
-CZERNOVESE POLITICS
 
 
 "Well," said Trevisa, puzzled by Paul's long silence, "what think you
@@ -4227,7 +4075,6 @@ honor.
 what is about to happen, and--"
 
 "Would you have the duke point at me as the craven who shirked a fight
-by creeping behind the skirts of the princess, and begging for
 protection? Anything but that! But Noel, you must not lose the favor
 of the princess on my account. Let me find some other second."
 
@@ -4244,9 +4091,7 @@ event with him.
 
 
 
-CHAPTER III
 
-A MENACE FROM THE CZAR
 
 
 In an ante-chamber of the Vistula Palace sat Count Radzivil, premier
@@ -4256,7 +4101,6 @@ the custody of that sacred document carried with it a high
 distinction, second only to that of the premiership.
 
 The two ministers were waiting to communicate to the princess the
-contents of an important despatch, which had just arrived from the
 Czernovese ambassador at St. Petersburg; for Czernova, be it known,
 though but a small state, was nevertheless sufficiently wealthy to
 maintain an embassy at the three courts with which its interests came
@@ -4434,7 +4278,6 @@ course he usually contrived to secure his own way in the end.
 
 "Our representative proceeds to say," remarked the premier, referring
 again to his despatch, "that the Czar's words and manner were regarded
-by all the ambassadors present as a distinct menace to your Highness.
 'The annexation of the principality,' and '_Finis Czernovæ_' passed
 from lip to lip."
 
@@ -4678,9 +4521,7 @@ to deliver a message.
 
 
 
-CHAPTER IV
 
-THE PRINCESS AND THE CARDINAL
 
 
 After the departure of her two ministers the Princess Barbara, rising
@@ -4971,7 +4812,6 @@ arrest he will thus act. One packet he will despatch to the Russian
 Foreign Minister; the second to the Duke of Bora; and with the third
 he will hasten to the office of the 'Kolokol' newspaper, whose
 pro-Russian editor, Lipski, will be but too delighted to print the
-contents of that packet; its publication will cause a stir in
 Czernova. There are your guards. Call them. Arrest me. Behead me on
 the spot if you will. But be sure of this: your own downfall will
 follow within seven days."
@@ -4991,7 +4831,6 @@ to the Czar, inasmuch as he is next heir after the duke. The Czar will
 see in your usurpation an affront to his dignity. He will demand that
 you be sent to Russia, there to take your trial. And the cowardly duke
 will comply. You know how much 'the politician in petticoats' is hated
-by the Russian ministry, and what justice you are likely to receive at
 their hands. When the black wall of a Muscovite fortress girdles you
 round forever," he added in a significant whisper, "when rough
 soldiers are your jailers, when no cry of yours can penetrate to the
@@ -4999,7 +4838,6 @@ outer world, then--then the love of a cardinal even would be a
 desirable thing."
 
 Barbara could not repress a feeling of horror at the picture suggested
-by these words.
 
 "If the duke should rule he will rule merely as the vassal of the
 Czar, and Czernova will become a province of Russia. Therefore,
@@ -5100,7 +4938,6 @@ and at that very moment within her own city of Slavowitz!
 
 Her feelings were eloquently testified by the new and radiant light
 that came over her face, by her lips parted in an unconscious smile,
-by her bosom heaving beneath its foam of white lace. Never had the
 princess looked so lovely in the cardinal's eyes as now. Lost in a
 delicious daze she was quite forgetful of his presence, as he himself
 perceived, for two or three questions addressed to her evoked no
@@ -5206,9 +5043,7 @@ one dead at the feet of the cardinal.
 
 
 
-CHAPTER V
 
-ON THE RUSSIAN FRONTIER
 
 
 The afternoon was drawing to a close as Paul Woodville and Noel
@@ -5216,7 +5051,6 @@ Trevisa made their way to the frontiers of Czernova.
 
 From Slavowitz they had driven in a troika or three-horse car,
 adopting by preconcerted arrangement a route different from that taken
-by Bora and his second.
 
 Having put up their vehicle at a roadside hostelry, Trevisa conducted
 his friend to the place of assignation, the path lying through a
@@ -5704,9 +5538,7 @@ unchanged.
 
 
 
-CHAPTER VI
 
-KATINA THE PATRIOT
 
 
 AS Paul and Trevisa emerged from the woodland and turned upon the
@@ -6032,7 +5864,6 @@ stone chamber, and guarded by soldiers night and day."
 "And to think," said Katina, still on the subject of the portrait, and
 turning to the two Englishmen as she spoke, "to think that your sweet,
 youthful queen Victoria should allow herself to be embraced and kissed
-by this Muscovite bear when he parted from her at Windsor!"
 
 "It wouldn't do to attempt the same with our princess,--eh, Katina?"
 
@@ -6094,7 +5925,6 @@ will break from her chains, and then woe betide the keeper!"
 "You wonder, perhaps, at Katina's patriotism?" whispered Zabern to
 Paul. "You shall see that she hath good cause for it." And then aloud
 he added: "What said Czar Nicholas after suppressing the rising of
-1830? 'Russia hath a mission to fulfil.' Katina, let the two
 Englishmen see how holy Russia fulfils her mission. Give them visible
 proof. You know what I mean."
 
@@ -6304,7 +6134,6 @@ Russakoff's companion; 'one unable to keep from the vodka, who takes
 part in a tavern brawl, and gets himself arrested while carrying an
 important political document! If that letter should be deciphered by
 the princess's secretary, it will lead to the frustration of a scheme
-by which the Czar hopes to gain possession of Czernova, legally and
 quietly, without the employment of military force.'"
 
 "What?" cried Zabern. "Let me hear that again, Katina."
@@ -6487,9 +6316,7 @@ star-lit sky.
 
 
 
-CHAPTER VII
 
-WHAT HAPPENED IN RUSSOGRAD
 
 
 Though Katina was an avowed foe of all Muscovites, she nevertheless
@@ -6906,7 +6733,6 @@ The name of the spy acted like magic upon Zabern. He shouted some
 order, and in a moment more ten uhlans trotting forward with couched
 lances scattered the crowd; the object of these troopers was to secure
 the Troitzka Gate, and so prevent the assassin from making his escape
-by this exit. Like precautions were promptly taken with the rest of
 the city gates. The remainder of his forces Zabern skilfully disposed
 around the suburb of Russograd, forming them into a cordon through
 which no one could break without detection.
@@ -6978,7 +6804,6 @@ entered the apartments lately tenanted by Trevisa.
 Beneath a catafalque of black velvet, surrounded by lighted tapers set
 in tall silver candlesticks, reposed the body of Trevisa, his hands
 folded across his breast, and holding within them lilies placed there
-by Katina.
 
 "A sad fatality!" murmured Zabern, his somewhat grim and hard nature
 touched by Trevisa's early and mournful ending. "A sad fatality! And
@@ -7074,9 +6899,7 @@ as Barbara."
 
 
 
-CHAPTER VIII
 
-PAUL AND THE PRINCESS
 
 
 After a brief interval of repose Paul awoke, and had scarcely donned
@@ -7346,7 +7169,6 @@ misgiving expressed on Paul's face. "Do you think that my father, who
 loved Natalie so dearly, would have connived at a crime?"
 
 Paul considered it not at all unlikely that Thaddeus had been deceived
-by the cardinal. He refrained, however, from expressing his doubts.
 
 "In what way did she commit suicide?"
 
@@ -7488,8 +7310,7 @@ Trevisa's place. Nay, forgive me for being thus imperious. I speak as
 if I had the right to your obedience. My commands are for my
 ministers, not for you."
 
-  [Illustration: "'See how well it becomes you,' she said, drawing him
-   gently towards a mirror."]
+gently towards a mirror."]
 
 She slid playfully upon her knees before him, and put her hands
 together with a demure air.
@@ -7594,9 +7415,7 @@ message to the duke."
 
 
 
-CHAPTER IX
 
-A DISPLAY OF SWORDSMANSHIP
 
 
 On quitting the presence of the princess, Paul and Zabern took their
@@ -8169,13 +7988,10 @@ our friend Trevisa were '_the furies_'!"
 
 
 
-CHAPTER X
 
-THE DEED OF MICHAEL THE GUARDSMAN
 
 
 Accompanied by Zabern, Paul returned to the palace, where he was met
-by the court chamberlain, who conducted him to a fine suite of
 apartments, which by the special command of the princess were assigned
 to the new secretary.
 
@@ -8188,7 +8004,7 @@ numerals, separated from each other by dots.
 
 The first eight numbers were as follows,--
 
-     6 . 42 . 50 . 37 . 97 . 39 . 65 . 21
+6 . 42 . 50 . 37 . 97 . 39 . 65 . 21
 
 What did these figures represent? Certain words in the Greek play? If
 the sixth word of the "Eumenides," the forty-second, the fiftieth and
@@ -8219,9 +8035,9 @@ the sixth letter in the "Eumenides," 42 the forty-second letter, etc.
 
 Great was his delight when he produced the following result,--
 
-     . 6 . 42 . 50. 37 . 97 . 39 . 65 . 21 .
+. 6 . 42 . 50. 37 . 97 . 39 . 65 . 21 .
 
-       ν    ι    κ    ο    λ    α    ο    ς
+ν    ι    κ    ο    λ    α    ο    ς
 
 Nicholas, the name of the reigning Czar!
 
@@ -8261,20 +8077,19 @@ And the marshal had withdrawn, somewhat doubtful of Paul's ability to
 make good his promise.
 
 However, before the expiration of the two hours Paul had mastered the
-contents of the document. It was written in Greek, and, as the
 marshal's knowledge of that language was extremely limited, Paul spent
 some time in endeavoring to produce a faithful translation. And his
 rendering was as follows,--
 
-     _Nicholas assents. So proceed quickly. Risk of discovery in
-     transmitting document. Therefore burn as soon as seized.
-     When done, report matter. Envoy will follow to demand
-     production._
+_Nicholas assents. So proceed quickly. Risk of discovery in
+transmitting document. Therefore burn as soon as seized.
+When done, report matter. Envoy will follow to demand
+production._
 
-     _Lipski's measure approved. Money shall be forwarded by
-     usual route. Let him bribe freely. The success of his bill
-     Russia's justification. Impossible, then, for Europe to
-     oppose annexation.--ORLOFF._
+_Lipski's measure approved. Money shall be forwarded by
+usual route. Let him bribe freely. The success of his bill
+Russia's justification. Impossible, then, for Europe to
+oppose annexation.--ORLOFF._
 
 The signature seemed to show that the letter came from the
 governor-general of Warsaw, the knouter of Katina, but there was
@@ -8703,9 +8518,7 @@ Zabern."
 
 
 
-CHAPTER XI
 
-THE ENVOY OF THE CZAR
 
 
 Next morning Paul by command attended in the White Saloon, where,
@@ -9235,7 +9048,6 @@ understood that my language was provisional."
 
 "And so," said Barbara, with sovereign disdain curving her lips, "it
 would seem that for fifty years Czernova has been enjoying its freedom
-by virtue of false statements. Marvellous that during all this time
 Russia has never once raised her voice in protest! Truly it says but
 little for the wisdom of her statesmen in thus permitting themselves
 to be duped for a period of half a century! But we would draw the
@@ -9582,9 +9394,7 @@ Zabern. You will do this?"
 
 
 
-CHAPTER XII
 
-THE POLISH CONSPIRACY
 
 
 On the evening of the day that had witnessed the envoy's defeat a
@@ -10135,7 +9945,6 @@ the doors of the Diet-house to exclude obnoxious members; or the night
 before carry some off and detain them till the voting is over."
 
 "Unconstitutional," said Barbara. "To secure the rejection of the bill
-by such methods would be to court the intervention of the three
 Powers."
 
 "Secretly withdraw the documents and the treasure from the convent."
@@ -10261,7 +10070,6 @@ certain that the Appropriation Bill will pass."
 cheerful manner.
 
 "We have just been informed that the second reading has been carried
-by a majority of 'eleven.'"
 
 "The third reading has yet to come."
 
@@ -10308,7 +10116,6 @@ to the princess?"
 Bora shrugged his shoulders.
 
 "This is a bill on which the best of friends may differ, as is shown
-by the schism among your own Polish adherents. Remember," he added,
 "there must be no underhand work to secure the passing of this bill,
 or my wager becomes null and void. There must be no bribery on the
 part of the ministry."
@@ -10326,7 +10133,6 @@ Next week I shall manipulate the strings, and you shall see the
 figures dancing to my tune."
 
 The duke began to grow somewhat uneasy under the knowledge displayed
-by Zabern. In his previous contests with the wily Pole he had always
 come off second-best. Was Zabern again to triumph over him?
 
 "You talk boldly, marshal," he said with a supercilious smile, "but I
@@ -10352,12 +10158,9 @@ not outlive that day."
 
 
 
-CHAPTER XIII
-
-THE FATE OF THE APPROPRIATION BILL
 
 
-By a singular turn of circumstances the day on which the fate of the
+
 Appropriation Bill was to be decided, and possibly with that bill the
 fate of Czernova itself, was likewise the day appointed for the annual
 review of the Czernovese army.
@@ -10567,7 +10370,6 @@ minutes. I warrant they are well provided with Russian passports."
 The trio hurried back for horses, but, by the time they had passed
 them through the wood, the pursuit had become a jest.
 
-       *       *       *       *       *
 
 Night had fallen over Slavowitz.
 
@@ -10832,7 +10634,6 @@ square to be much more plainly heard. The tumultuous sounds without
 lent additional excitement to the scene within.
 
 The princess glanced slowly around the assembly, and then, as if moved
-by a sudden idea, she removed her hat,--the same hat that she had worn
 on her return from the review. In the act of taking it off the light
 from behind gleamed through a hole in the brim, a mute appeal to the
 sympathy of the House, the more striking because unintentional.
@@ -10939,7 +10740,6 @@ mouth of a large bronze urn, dropped the disc.
 
 As a precaution against the artifice of giving more than one vote, the
 names of the deputies were marked on the roll as each person passed
-by, and the number of counters checked by this arrangement.
 
 In prescribed order the deputies quitted their seats, and filed past
 the table, and for a few moments nothing was heard but the clink of
@@ -10964,7 +10764,6 @@ craning their necks forward, eager to catch the first glimpse of the
 black and white counters, eager to learn which of the two was the
 prevailing color.
 
-       *       *       *       *       *
 
 To the waiting populace in the Zapolyska Square the time taken in
 recording the votes and in counting the same seemed unnecessarily
@@ -11303,9 +11102,7 @@ The princess with a smile extended her hand for Zabern to kiss.
 
 
 
-CHAPTER XIV
 
-NEARING A CRISIS
 
 
 A few nights after the defeat of the Appropriation Bill, Paul
@@ -11955,7 +11752,6 @@ why the princess spoke thus; he certainly could not believe her.
 first came here from Dalmatia, many supposed lapses of memory on my
 part? Was it not a common saying at that time, 'The princess has grown
 very forgetful?' Was I ever seen without either my father or Ravenna
-by my side? The truth is they were secretly instructing me as to the
 persons whom I met, giving me their names, history, and the like. And
 yet in spite of many blunders on my part, no one seemed to have any
 suspicion as to the truth, not even the Duke of Bora. Listen,"
@@ -12277,7 +12073,6 @@ of the principality."
 "Shall your Highness delay your coronation?" inquired Radzivil.
 
 "And show Russia that we fear her? No. Let not the ceremony be delayed
-by so little as one hour. And when the solemnity is over then will I
 proceed direct from the cathedral to the camp. To arms! To arms! This
 last fragment of Poland shall not fall without making a valiant
 stand."
@@ -12288,9 +12083,7 @@ Zabern. "Princess, you should have been born a man."
 
 
 
-CHAPTER XV
 
-THE EVE OF THE CORONATION
 
 
 The dusk of a lovely autumnal eve had fallen over Slavowitz. Lights
@@ -12321,7 +12114,6 @@ as she turned away from the window. "Oh, Paul, why are you not with
 me? If you have a plan for the salvation of Czernova, now is the time
 for putting it forth."
 
-By means of swift couriers despatched at intervals of every hour the
 princess was kept informed of the movements that were taking place
 along the frontier.
 
@@ -12533,7 +12325,6 @@ quaternion of soldiers.
 
 "You virtually admit your guilt in refusing to face your accuser. The
 muskets found on Lipski's premises have been surreptitiously forwarded
-by Orloff with your knowledge and approval. To-morrow before break of
 day those arms were to have been distributed to a Muscovite mob
 rendered valiant by copious supplies of vodka. At a certain point
 along the intended route of the coronation procession, barricades were
@@ -12906,9 +12697,7 @@ the apartment.
 
 
 
-CHAPTER XVI
 
-THE CRIME THAT FAILED
 
 
 The coronation eve was drawing to a close as Pasqual Ravenna, Cardinal
@@ -12925,7 +12714,6 @@ Even a mild admonition from the regnant Pope had failed to produce any
 effect.
 
 The cardinal had begun to suspect that Faustus's defiance was prompted
-by other motives than the desire to maintain his independence; there
 was some secret connected with this monastery, a secret in which the
 princess herself was involved; and accordingly he had deputed the
 priest Melchior, whose crafty character well qualified him for the
@@ -13397,7 +13185,6 @@ the guard on arresting the archbishop would be so stern-natured as to
 refuse his prisoner a few minutes' prayer in his private oratory?
 Ravenna, on releasing the dove, had affixed the letter to its neck,
 performing the feat so guardedly, that though he had been watched, now
-by Zabern, and now by Nikita, his movements had not given rise to
 suspicion.
 
 "Listen," cried Ravenna, raising his left hand warningly. "If you
@@ -13523,7 +13310,6 @@ Foaming with fury, he dealt not one, but many strokes at the kneeling,
 swaying figure, with its feebly upraised hands. Nikita and Gabor,
 equally frenzied, joined in the savage work.
 
-       *       *       *       *       *
 
 The three miserable men wiped their bloody sabres upon the
 window-curtains, and stared down upon the carpet at something which
@@ -13566,9 +13352,7 @@ duke has escaped!"
 
 
 
-CHAPTER XVII
 
-THE BEGINNING OF THE CORONATION
 
 
 The morning of Barbara's coronation broke soft and sunny; it seemed
@@ -13699,11 +13483,10 @@ silence it went the round of the table.
 
 And the words of the note were these,--
 
-     _You are herewith commanded to release the Duke of Bora.
-     Delay will mean death to you._
+_You are herewith commanded to release the Duke of Bora.
+Delay will mean death to you._
 
-     _NICHOLAS PAULOVITCH
-     Czar of all the Russias._
+Czar of all the Russias._
 
 "When I saw that signature," continued Miroslav, "I gave orders that
 the visitor should be instantly admitted. On entering the room he
@@ -14152,9 +13935,7 @@ emerging from the northern transept.
 
 
 
-CHAPTER XVIII
 
-THE GREAT WHITE CZAR
 
 
 The sudden utterance of Count Orloff, combined with the simultaneous
@@ -14190,7 +13971,6 @@ parts of a preconcerted arrangement.
 
 "Holy hireling of the duke!" he said, grinding his teeth and
 addressing Mosco, "you have done your work. Stand from the choir, or
-by heaven!" he continued, half unsheathing his sabre, "I'll add a
 martyr to the Russian calendar."
 
 "Thou hast the wisdom of the serpent, marshal, though scarcely the
@@ -14263,7 +14043,6 @@ to her own interests. And if she must cease to be princess, what would
 become of them under the rule of Bora?
 
 The Muscovites, themselves bewildered with the unforeseen turn taken
-by events, sat as silent as the Poles.
 
 "Consider well what you say," observed Polonaski with a slight smile
 of triumph. "You dethrone yourself by that statement."
@@ -14390,8 +14169,8 @@ Amazon of ancient days. With eyes starry with patriotic fire, she
 waved the standard, and began to sing in a firm, sweet voice that
 penetrated to the most distant part of the cathedral,--
 
-     "Boja ro-dzica dziewica
-     Bojiem wslavisna Marya--"
+"Boja ro-dzica dziewica
+Bojiem wslavisna Marya--"
 
 A wave of emotion thrilled the assembly as these words fell upon their
 ears.
@@ -14861,9 +14640,7 @@ has come!"
 
 
 
-CHAPTER XIX
 
-THE CORONATION DUEL
 
 
 Those who had come to the cathedral in the expectation of witnessing
@@ -15104,7 +14881,6 @@ should be destroyed, for quarter was neither to be given nor accepted,
 and though the life-blood were being drained from the combatants the
 wounds were not to be stanched.
 
-By a solemn oath repeated after the herald, each champion bound
 himself to observe these regulations. Hence it was certain that one,
 possibly both, would not leave the cathedral alive, a fact which
 imparted a terrible interest to the coming combat.
@@ -15176,7 +14952,6 @@ The weapons next occupied the herald's attention.
 
 The duke had come prepared for the contest, and hence his blade was of
 the length prescribed by the statute; Paul's sword fell short of this
-by two inches, and though he much preferred to fight with his own
 weapon, the herald would not permit him to do so.
 
 "My blade is of the requisite length," said Zabern, "and I can warrant
@@ -15450,9 +15225,7 @@ princess's champion.
 
 
 
-CHAPTER XX
 
-ALL'S WELL THAT ENDS WELL
 
 
 As the Czar beheld his champion lying dead, a wave of anger swept over
@@ -15742,7 +15515,6 @@ occupied by a regiment of the Paulovski Guards."
 "True; but considering what that convent contained," said Zabern with
 a melancholy smile, "we shall act wisely in ignoring this raid upon
 our territory, especially as the Czar has paid the penalty of his act
-by losing a splendid regiment. Dorislas, who invested the convent, has
 just sent this message."
 
 Zabern handed the princess a note inscribed with the following
@@ -15816,169 +15588,6 @@ As Paul made his appearance in the choir, he was greeted with a cry
 which, rolling through the cathedral and penetrating to the sacristy,
 caused Barbara's cheek to color with pride and pleasure. For that cry
 was--
-
-"LONG LIVE PAUL, PRINCE OF CZERNOVA!"
-
-
-THE END
-
-
-
-
-LITTLE, BROWN, & CO.'S
-
-New and Popular Fiction
-
-
-IN THE COUNTRY GOD FORGOT
-
-By FRANCES CHARLES. 12mo. 338 pages. $1.50.
-
-Of this original and engrossing tale of the Southwest the _Louisville
-Courier-Journal_ says: "Arizona was never more truthfully described
-than in this book."
-
-It is essentially a rugged book. The particular woman and child whose
-destinies are followed in this story are the wife and son of Bax
-Weffold, whose father, old Carl Weffold, has cherished toward him a
-lifelong and implacable hatred.--_New York Commercial Advertiser._
-
-
-A GIRL OF VIRGINIA
-
-By LUCY MEACHAM THRUSTON. Illustrated by Ch. Grunwald. 12mo. 306
-pages. $1.50.
-
-Frances Holloway, the daughter of a professor in the University of
-Virginia, is as lovable a heroine as any one could wish for. There is
-something wonderfully attractive about her,--she is so pretty, proud,
-and high-spirited, and, at the same time, so intensely real and human.
-It is a pleasure to say that the author of this "love story of the
-university" has given us a picture of modern girlhood that goes
-straight to the heart and stays there.--_Commercial Advertiser._
-
-
-_By the Same Author_
-
-=MISTRESS BRENT.= A Story of Lord Baltimore's Colony in 1638.
-Illustrated. 12mo. $1.50.
-
-
-LAFITTE OF LOUISIANA
-
-By MARY DEVEREUX. Illustrated by Harry C. Edwards. 12mo. 427 pages.
-$1.50.
-
-The remarkable career of Jean Lafitte during the French Revolution and
-the War of 1812, and the strange tie between this so-called "Pirate of
-the Gulf" and Napoleon Bonaparte, is the basis of this absorbing and
-virile story,--a novel of love and adventure written by a skilled
-hand.
-
-This work is one of the most ambitious of its class, and it has in the
-introduction of Napoleon as Lafitte's guardian angel a picturesque
-feature which makes it of rather unusual interest.--_Philadelphia
-Record._
-
-
-_By the Same Author_
-
-=FROM KINGDOM TO COLONY.= Illustrated by Henry Sandham. 12mo. $1.50.
-
-=UP AND DOWN THE SANDS OF GOLD.= 12mo. $1.50.
-
-
-THE GOD OF THINGS
-
-By FLORENCE BROOKS WHITEHOUSE. Illustrated by the author. 12mo. 288
-pages. $1.50.
-
-Of this novel of modern Egypt the _Philadelphia Telegraph_ says: "It
-is a tale of fresh, invigorating, unconventional love, without the
-usual thrilling adventures. It is wholesome, although daring, and
-through its pages there vibrates a living spirit such as is only found
-in a few romances."
-
-The _Boston Herald_ says: "Engages the attention of the reader from
-the skill shown in the handling of the subject,"--divorce.
-
-
-THE HEROINE OF THE STRAIT
-
-By MARY CATHERINE CROWLEY. Illustrated by Ch. Grunwald. 12mo. 373
-pages. $1.50.
-
-A romance of Detroit in the time of Pontiac, of which the
-_Philadelphia Times_ says: "A very interesting work, and one that
-gives a vivid picture of life among the early settlers on the
-frontier. It is full of local color, and the story is told in a clear
-and straightforward manner that should give the volume a high place
-among current historical fiction."
-
-Through the story runs the gayety of the French-Canadian, with its
-peculiar flavoring.--_New York Times Saturday Review._
-
-
-_By the Same Author_
-
-=A DAUGHTER OF NEW FRANCE.= Illustrated by Clyde O. De Land. 12mo.
-$1.50.
-
-
-A MAID OF BAR HARBOR
-
-By HENRIETTA G. ROWE. Illustrated by Ellen W. Ahrens. 12mo. 368 pages.
-$1.50.
-
-A fascinating tale of Mt. Desert before and after society had taken
-possession of the island. The heroine, Comfort, says the _Boston
-Courier_, "is an example of a pretty, womanly, determined down-east
-girl, whom it is a real pleasure to know."
-
-
-SIR CHRISTOPHER
-
-A Romance of a Maryland Manor in 1644. By MAUD WILDER GOODWIN, author
-of "White Aprons," "The Head of a Hundred," etc. Illustrated. 12mo.
-$1.50. _12th thousand._
-
-
-IN THE EAGLE'S TALON
-
-By SHEPPARD STEVENS. Illustrated by A. Russell, 12mo. 475 pages.
-$1.50.
-
-A romance of the Louisiana Purchase which the _Buffalo Commercial_
-says is "A lively story, a pretty romance, and interesting, as it
-throws a strong light on the private character of Napoleon Bonaparte
-ere he realized his ambitions."
-
-Mrs. Stevens has felicitously related an absorbing story and has
-re-created the atmosphere and scenes of the first days in the history
-of this region, as well as of the stirring times in France under the
-First Consul.--_St. Louis Globe-Democrat._
-
-
-THE PHARAOH AND THE PRIEST
-
-From the original Polish of ALEXANDER GLOVATSKI, by Jeremiah Curtin,
-translator of "Quo Vadis," etc. Illustrated. 12mo. $1.50.
-
-No novel of such interest and power as "The Pharaoh and the Priest"
-has been written about ancient Egypt thus far. In this book the
-Egyptian state stands before us as a mighty living organism. The
-author depicts vividly the desperate conflict between the secular and
-the ecclesiastical powers during the career of Rameses XIII., in the
-eleventh century before Christ.
-
-
-TRUTH DEXTER
-
-By SIDNEY McCALL. 12mo. $1.50. _50th thousand._
-
-
-     =LITTLE, BROWN, & CO.=
-     _254 WASHINGTON STREET, BOSTON, MASS._
 
 
 
