@@ -1,28 +1,4 @@
 
-
-
-
-
-THE EBB-TIDE
-
-A TRIO AND QUARTETTE
-
-
-By Robert Louis Stevenson and Lloyde Osbourne
-
-
-
-          'There is a tide in the affairs of men.'
-
-
-
-
-Part I.
-
-
-
-Chapter 1. NIGHT ON THE BEACH
-
 Throughout the island world of the Pacific, scattered men of many
 European races and from almost every grade of society carry activity and
 disseminate disease. Some prosper, some vegetate. Some have mounted the
@@ -332,7 +308,7 @@ like crying, I believe, or dancing, or jumping clean over the Nelson
 Column. I was like a fellow caught up out of Hell and flung down into
 the dandiest part of Heaven. Then I spotted for a hansom with a spanking
 horse. “A shilling for yourself, if you're there in twenty minutes!”
- said I to the jarvey. He went a good pace, though of course it was a
+said I to the jarvey. He went a good pace, though of course it was a
 trifle to the carpet; and in nineteen minutes and a half I was at the
 door.'
 
@@ -564,8 +540,8 @@ Captain Tom continued to approach with the same business-like alacrity;
 no change was to be perceived in his bearded face as he came swinging up
 the plank: he did not even turn his eyes on the performer.
 
-    'We twa hae paidled in the burn
-     Frae morning tide till dine,'
+'We twa hae paidled in the burn
+Frae morning tide till dine,'
 
 went the song.
 
@@ -732,8 +708,8 @@ her name be everywhere repeated in the sounds of nature; and when death
 came, and he lay dissolved, her memory lingered and thrilled among his
 elements.
 
-    'Once, O wonder! once from the ashes of my heart
-     Arose a blossom--'
+'Once, O wonder! once from the ashes of my heart
+Arose a blossom--'
 
 Herrick and the captain finished their letters about the same time; each
 was breathing deep, and their eyes met and were averted as they closed
@@ -974,11 +950,11 @@ smallpox. He tried Capirati, that Corsican and Leblue, or whatever his
 name is, wouldn't lay a hand on it; all too fond of their sweet lives.
 Last of all, when there wasn't nobody else left to offer it to, he
 offers it to me. “Brown, will you ship captain and take her to Sydney?”
- says he. “Let me choose my own mate and another white hand,” says I,
+says he. “Let me choose my own mate and another white hand,” says I,
 “for I don't hold with this Kanaka crew racket; give us all two months'
 advance to get our clothes and instruments out of pawn, and I'll take
 stock tonight, fill up stores, and get to sea tomorrow before dark!”
- That's what I said. “That's good enough,” says the consul, “and you
+That's what I said. “That's good enough,” says the consul, “and you
 can count yourself damned lucky, Brown,” says he. And he said it pretty
 meaningful-appearing, too. However, that's all one now. I'll ship Huish
 before the mast--of course I'll let him berth aft--and I'll ship you
@@ -1621,16 +1597,15 @@ startled him; a third bottle had been opened; and Herrick remembered
 the Sea Ranger and Fourteen Island Group. Presently the notes of the
 accordion sounded, and then the captain's voice:
 
-  'O honey, with our pockets full of money,
+'O honey, with our pockets full of money,
 
-  We will trip, trip, trip, we will trip it on the quay,
+We will trip, trip, trip, we will trip it on the quay,
 
-  And I will dance with Kate, and Tom will dance with Sall,
+And I will dance with Kate, and Tom will dance with Sall,
 
-  When we're all back from South Amerikee.'
+When we're all back from South Amerikee.'
 
 So it went to its quaint air; and the watch below lingered and listened
-by the forward door, and Uncle Ned was to be seen in the moonlight
 nodding time; and Herrick smiled at the wheel, his anxieties a while
 forgotten. Song followed song; another cork exploded; there were voices
 raised, as though the pair in the cabin were in disagreement; and
@@ -1638,13 +1613,13 @@ presently it seemed the breach was healed; for it was now the voice of
 Huish that struck up, to the captain's accompaniment--
 
 
-     'Up in a balloon, boys,
+'Up in a balloon, boys,
 
-      Up in a balloon,
+Up in a balloon,
 
-     All among the little stars
+All among the little stars
 
-      And round about the moon.'
+And round about the moon.'
 
 
 A wave of nausea overcame Herrick at the wheel. He wondered why the air,
@@ -1814,7 +1789,7 @@ required a blow to make him quit his purpose.
 I thought you gave it 'im A1 today. He didn't like it a bit; took on
 hawful after you were gone.--“'Ere,” says I, “'old on, easy on the
 lush,” I says. “'Errick was right, and you know it. Give 'im a chanst,”
- I says.--“Uish,” sezee, “don't you gimme no more of your jaw, or I'll
+I says.--“Uish,” sezee, “don't you gimme no more of your jaw, or I'll
 knock your bloomin' eyes out.” Well, wot can I do, 'Errick? But I tell
 you, I don't 'arf like it. It looks to me like the Sea Rynger over
 again.'
@@ -1965,7 +1940,6 @@ deck for the first time at half-past eight, it was plain he had already
 drunk deep again at breakfast. Herrick avoided his eye; and resigned the
 deck with indignation to a man more than half-seas over.
 
-By the loud commands of the captain and the singing out of fellows at
 the ropes, he could judge from the house that sail was being crowded on
 the ship; relinquished his half-eaten breakfast; and came on deck again,
 to find the main and the jib topsails set, and both watches and the cook
@@ -2098,7 +2072,6 @@ that. What do you want?--an oath? Man, you're clever enough to see that
 this is sure-enough earnest.'
 
 'Do you mean there shall be no more drinking?' asked Herrick, 'neither
-by you nor Huish? that you won't go on stealing my profits and drinking
 my champagne that I gave my honour for? and that you'll attend to your
 duties, and stand watch and watch, and bear your proper share of the
 ship's work, instead of leaving it all on the shoulders of a landsman,
@@ -2138,7 +2111,7 @@ alive! Clear your head, man! This must be the drink.'
 'No, SIR,' said Davis. 'She's dead. Died of a bowel complaint. That was
 when I was away in the brig Oregon. She lies in Portland, Maine. “Adar,
 only daughter of Captain John Davis and Mariar his wife, aged five.”
- I had a doll for her on board. I never took the paper off'n that doll,
+I had a doll for her on board. I never took the paper off'n that doll,
 Herrick; it went down the way it was with the Sea Ranger, that day I was
 damned.'
 
@@ -2181,7 +2154,6 @@ Herrick plucked the captain's sleeve. 'Let him free now,' he said.
 
 'Let him have it then,' said the captain. 'It's his last.'
 
-By this time the wire was open, the string was cut, the head of glided
 paper was torn away; and Huish waited, mug in hand, expecting the usual
 explosion. It did not follow. He eased the cork with his thumb; still
 there was no result. At last he took the screw and drew it. It came out
@@ -2551,7 +2523,6 @@ muttering to himself and turning over the pages with a wetted finger.
 'Hullo!' he exclaimed. 'How's this?' And he read aloud. 'New Island.
 According to M. Delille this island, which from private interests would
 remain unknown, lies, it is said, in lat. 12 degrees 49' 10” S. long.
-113 degrees 6' W. In addition to the position above given Commander
 Matthews, H.M.S. Scorpion, states that an island exists in lat. 12
 degrees 0' S. long. 13 degrees 16' W. This must be the same, if such
 an island exists, which is very doubtful, and totally disbelieved in by
@@ -2595,7 +2566,6 @@ close down.
 
 Part II
 
-THE QUARTETTE
 
 Chapter 7. THE PEARL-FISHER
 
@@ -2897,9 +2867,9 @@ example.
 'I am sure we shall be very glad,' he said. 'At half-past six? Thank you
 so very much.'
 
-     '“For my voice has been tuned to the note of the gun
+'“For my voice has been tuned to the note of the gun
 
-     That startles the deep when the combat's begun,”'
+That startles the deep when the combat's begun,”'
 
 quoted Attwater, with a smile, which instantly gave way to an air
 of funereal solemnity. 'I shall particularly expect Mr Whish,' he
@@ -3305,7 +3275,7 @@ Nothing grew there but a shrub or two with some white flowers; nothing
 but the number of the mounds, and their disquieting shape, indicated the
 presence of the dead.
 
-  'The rude forefathers of the hamlet sleep!'
+'The rude forefathers of the hamlet sleep!'
 
 quoted Attwater as he entered by the open gateway into that unholy
 close. 'Coral to coral, pebbles to pebbles,' he said, 'this has been the
@@ -3320,7 +3290,7 @@ of the chronicles? That fellow was from Penrhyn; like all the Penrhyn
 islanders he was ill to manage; heady, jealous, violent: the man with
 the nose! He lies here quiet enough. And so they all lie.
 
- “And darkness was the burier of the dead!”'
+“And darkness was the burier of the dead!”'
 
 He stood, in the strong glow of the sunset, with bowed head; his voice
 sounded now sweet and now bitter with the varying sense.
@@ -3461,7 +3431,6 @@ complaint, and Adar's doll. No, death could not be suffered to approach
 that head even in fancy; with a general heat and a bracing of his
 muscles, it was borne in on Herrick that Adar's father would find in him
 a son to the death. And even Huish showed a little in that sacredness;
-by the tacit adoption of daily life they were become brothers; there was
 an implied bond of loyalty in their cohabitation of the ship and their
 passed miseries, to which Herrick must be a little true or wholly
 dishonoured. Horror of sudden death for horror of sudden death, there
@@ -4135,7 +4104,7 @@ in the pastime of bobbing for apples. A more finely sympathetic mind or
 a more observant eye might have remarked, a little in front of him on
 the sand, and still quite beyond reach, the unlighted cigar.
 
- 'There is your Whitechapel carrion!' said Attwater. 'And now
+'There is your Whitechapel carrion!' said Attwater. 'And now
 you might very well ask me why I do not put a period to you at once, as
 you deserve. I will tell you why, Davis. It is because I have nothing to
 do with the Sea Ranger and the people you drowned, or the Farallone and
@@ -4272,7 +4241,6 @@ that last act. He slid silently into the boat; thence, silently, into
 the starry water.
 
 Instinctively he swam a little; it would be time enough to stop by and
-by.
 
 The shock of the immersion brightened his mind immediately. The events
 of the ignoble day passed before him in a frieze of pictures, and he
@@ -4835,7 +4803,6 @@ suspicions with w'ich I am regarded, I do not venture to solicit the
 fyvour of an interview for myself, but in order to put an end to a
 situytion w'ich must be equally pyneful to all, I 'ave deputed my friend
 and partner, Mr J. L. Huish, to l'y before you my proposals, and w'ich
-by their moderytion, Will, I trust, be found to merit your attention.
 Mr J. L. Huish is entirely unarmed, I swear to Gawd! and will 'old 'is
 'ands over 'is 'ead from the moment he begins to approach you. I am your
 fytheful servant, John Davis.
@@ -5176,7 +5143,6 @@ The wretched Davis came staggering forward from his place against the
 figure-head, fell upon his knees, and waved his hands, and fainted.
 
 When he came to himself again, his head was on Attwater's arm, and close
-by stood one of the men in divers' helmets, holding a bucket of water,
 from which his late executioner now laved his face. The memory of that
 dreadful passage returned upon him in a clap; again he saw Huish lying
 dead, again he seemed to himself to totter on the brink of an unplumbed
