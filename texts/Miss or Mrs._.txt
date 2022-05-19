@@ -1,39 +1,4 @@
 
-
-
-
-
-MISS OR MRS.?
-
-by Wilkie Collins
-
-
-
-
-PERSONS OF THE STORY.
-
-     Sir Joseph Graybrooke. . . . . . . . . .(Knight)
-     Richard Turlington . . . . (Of the Levant Trade)
-     Launcelot Linzie . .(Of the College of Surgeons)
-     James Dicas. . . . . .(Of the Roll of Attorneys)
-     Thomas Wildfang. . . . . .(Superannuated Seaman)
-     Miss Graybrooke. . . . . . (Sir Joseph's Sister)
-     Natalie. . . . . . . . . (Sir Joseph's Daughter)
-     Lady Winwood . . . . . . . .(Sir Joseph's Niece)
-     Amelia} Sophia}. (Lady Winwood's Stepdaughter's)
-     and Dorothea}
-
-
-
-Period: THE PRESENT TIME. Place: ENGLAND.
-
-
-
-
-FIRST SCENE
-
-At Sea.
-
 The night had come to an end. The new-born day waited for its quickening
 light in the silence that is never known on land--the silence before
 sunrise, in a calm at sea.
@@ -603,7 +568,6 @@ The other three ascended together to the deck.
 
 
 
-SECOND SCENE.
 
 The Store-Room.
 
@@ -1096,7 +1060,6 @@ beggars!" he exclaimed, with an oath. "Pull for your lives!"
 
 
 
-THIRD SCENE.
 
 The Money Market.
 
@@ -1243,22 +1206,19 @@ books, received him with open arms. The security (covering the amount
 borrowed) was accepted as a matter of course. The money was lent, for
 three months, with a stroke of the pen. Turlington stepped out again
 into the street, and confronted the City of London in the character of
-the noblest work of mercantile creation--a solvent man.*
 
 The Fallen Angel, walking invisibly behind, in Richard's shadow, flapped
 his crippled wings in triumph. From that moment the Fallen Angel had got
 him.
 
-     * It may not be amiss to remind the incredulous reader that
-     a famous firm in the City accepted precisely the same
-     security as that here accepted by Bulpit Brothers, with the
-     same sublime indifference to troubling themselves by making
-     any inquiry about it.
+a famous firm in the City accepted precisely the same
+security as that here accepted by Bulpit Brothers, with the
+same sublime indifference to troubling themselves by making
+any inquiry about it.
 
 
 
 
-FOURTH SCENE.
 
 Muswell Hill.
 
@@ -1456,7 +1416,6 @@ With that arrangement in prospect, he left them.
 An hour later a telegram arrived from Natalie. She had consented to
 dine, as well as lunch, in Berkeley Square--sleeping there that night,
 and returning the next morning. Her father instantly telegraphed back
-by the messenger, insisting on Natalie's return to Muswell Hill that
 evening, in time to meet Richard Turlington at dinner.
 
 "Quite right. Joseph," said Miss Lavinia, looking over her brother's
@@ -1476,7 +1435,6 @@ Let us follow the message.
 
 
 
-FIFTH SCENE.
 
 The Square.
 
@@ -1587,7 +1545,6 @@ condition attached to it--"
 
 "I'll tell you directly, Lady Winwood. The marriage comes first. The
 condition follows. There is only one chance for us. We must be married
-by banns."
 
 "Banns!" cried Natalie. "Why, banns are publicly proclaimed in church!"
 
@@ -1609,7 +1566,6 @@ will read them out all together in one inarticulate jumble in church.
 You will stand at the altar when your time comes, with Brown and Jones,
 Nokes and Styles, Jack and Gill. All that you will have to do is, to
 take care that your young lady doesn't fall to Jack, and you to Gill,
-by mistake--and there you are, married by banns.' My friend's opinion,
 stated in his own words."
 
 Natalie sighed, and wrung her hands in her lap. "We shall never get
@@ -1753,7 +1709,6 @@ Natalie--but for You!"
 
 
 
-SIXTH SCENE.
 
 The Church.
 
@@ -1855,12 +1810,10 @@ meeting between the lord's daughters and the rector's wife.
 
 
 
-SEVENTH SCENE.
 
 The Evening Party.
 
 
----------------------------------------------------- MR. TURLINGTON,
 
 LADY WINWOOD At Home.
 
@@ -1887,7 +1840,6 @@ written in that letter. An additional chapter--of some importance in its
 bearing on the future--was contributed by the progress of events at Lady
 Winwood's party.
 
-By previous arrangement with Natalie, the Graybrookes (invited to
 dinner) arrived early. Leaving her husband and her stepdaughters to
 entertain Sir Joseph and Miss Lavinia, Lady Winwood took Natalie into
 her own boudoir, which communicated by a curtained opening with the
@@ -2132,7 +2084,6 @@ between this and the day of my marriage." Sir Joseph attempted to speak.
 Turlington declined to give him the opportunity. "Yes! yes! your opinion
 of Linzie isn't mine, I know. I saw you as thick as thieves together
 just now." Sir Joseph once more attempted to make himself heard. Wearied
-by Turlington's perpetual complaints of his daughter and his nephew, he
 was sufficiently irritated by this time to have reported what Launce had
 actually said to him if he had been allowed the chance. But Turlington
 persisted in going on. "I cannot prevent Linzie from being received in
@@ -2224,7 +2175,6 @@ Me?"
 
 
 
-EIGHTH SCENE.
 
 The Library.
 
@@ -2529,7 +2479,6 @@ Launce leave the grounds by the back-garden gate.
 
 
 
-NINTH SCENE.
 
 The Drawing-Room.
 
@@ -2664,7 +2613,6 @@ looks! Say it at once in plain words."
 
 There was no trifling with him now. In plain words Amelia said it.
 
-* * * * * * * * *
 
 There was silence in the room. They could hear the sound of passing
 footsteps in the street. He stood perfectly still on the spot where they
@@ -2723,7 +2671,6 @@ wait dinner for him.
 
 
 
-TENTH SCENE.
 
 Green Anchor Lane.
 
@@ -2747,7 +2694,6 @@ instead of taking the way that led to his own house in town. Pursuing
 his course, he entered the labyrinth of streets which led, in that
 quarter of East London, to the unsavory neighborhood of the river-side.
 
-By this time his mind was made up. The forecast shadow of meditated
 crime traveled before him already, as he threaded his way among his
 fellow-men.
 
@@ -2863,7 +2809,6 @@ Turlington looked at the door, and whispered back,
 The eyes of Thomas Wildfang fastened greedily on Turlington's face.
 "Let's hear," he said. "Softly, captain. Let's hear."
 
-* * * * * * * * *
 
 When the women came back with the clothes, Turlington had left the room.
 Their promised reward lay waiting for them on the table, and Thomas
@@ -2877,7 +2822,6 @@ house into the night.
 
 
 
-ELEVENTH SCENE.
 
 Outside the House
 
@@ -3000,7 +2944,6 @@ evening.
 
 
 
-TWELFTH SCENE.
 
 Inside the House.
 
@@ -3106,7 +3049,6 @@ Turlington suddenly threw aside the newspaper and left his corner.
 "Let's be good friends!" he burst out, with a clumsy assumption of
 gayety. "This isn't keeping Christmas-eve. Let's talk and be sociable.
 Dearest Natalie!" He threw his arm roughly round Natalie, and drew her
-by main force away from her aunt. She turned deadly pale, and struggled
 to release herself. "I am suffering--I am ill--let me go!" He was deaf
 to her entreaties. "What! your husband that is to be, treated in this
 way? Mustn't I have a kiss?--I will!" He held her closer with one hand,
@@ -3294,7 +3236,6 @@ the white pillow of the bed. Natalie sank forward as her eyes met the
 eyes of her aunt. Miss Lavinia saved her from falling insensible on the
 floor.
 
-* * * * * * * * *
 
 The confession had been made. The words of penitence and the words of
 pardon had been spoken. The peaceful face of the father still lay hushed
@@ -3539,36 +3480,3 @@ He instantly closed it again before Natalie could follow him.
 The dead body of Turlington lay on the landing outside. The charge in
 the fourth barrel of the revolver had exploded while he was looking at
 it. The bullet had entered his mouth and killed him on the spot.
-
-
-
-
-DOCUMENTARY HINTS, IN CONCLUSION.
-
-First Hint.
-
-(Derived from Lady Winwood's Card-Rack.)
-
-"Sir Joseph Graybrooke and Miss Graybrooke request the honor of Lord
-and Lady Winwood's company to dinner, on Wednesday, February 10, at
-half-past seven o'clock. To meet Mr. and Mrs. Launcelot Linzie on their
-return."
-
-
-Second Hint.
-
-(Derived from a recent Money Article in morning Newspaper.)
-
-"We are requested to give the fullest contradiction to unfavorable
-rumors lately in circulation respecting the firm of Pizzituti,
-Turlington, and Branca. Some temporary derangement in the machinery of
-the business was undoubtedly produced in consequence of the sudden death
-of the lamented managing partner, Mr. Turlington, by the accidental
-discharge of a revolver which he was examining. Whatever temporary
-obstacles may have existed are now overcome. We are informed, on good
-authority, that the well-known house of Messrs. Bulpit Brothers has an
-interest in the business, and will carry it on until further notice."
-
-
-
-

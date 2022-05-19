@@ -1,32 +1,6 @@
 
 
 
-
-
-BARNABY RUDGE
-
-A TALE OF THE RIOTS OF ‘EIGHTY
-
-
-by Charles Dickens
-
-
-
-Contibutor’s Note:
-
-I’ve left in archaic forms such as ‘to-morrow’ or ‘to-day’ as they
-occured in my copy. Also please be aware if spell-checking, that within
-dialog many ‘mispelled’ words exist, i.e. ‘wery’ for ‘very’, as intended
-by the author.
-
-D.L.
-
-
-
-
-PREFACE
-
-
 The late Mr Waterton having, some time ago, expressed his opinion that
 ravens are gradually becoming extinct in England, I offered the few
 following words about my experience of these birds.
@@ -34,7 +8,6 @@ following words about my experience of these birds.
 The raven in this story is a compound of two great originals, of whom I
 was, at different times, the proud possessor. The first was in the bloom
 of his youth, when he was discovered in a modest retirement in London,
-by a friend of mine, and given to me. He had from the first, as Sir Hugh
 Evans says of Anne Page, ‘good gifts’, which he improved by study and
 attention in a most exemplary manner. He slept in a stable--generally
 on horseback--and so terrified a Newfoundland dog by his preternatural
@@ -119,7 +92,6 @@ same character, is no effort of invention. The facts were stated,
 exactly as they are stated here, in the House of Commons. Whether they
 afforded as much entertainment to the merry gentlemen assembled there,
 as some other most affecting circumstances of a similar nature mentioned
-by Sir Samuel Romilly, is not recorded.
 
 That the case of Mary Jones may speak the more emphatically for
 itself, I subjoin it, as related by SIR WILLIAM MEREDITH in a speech in
@@ -147,9 +119,6 @@ she behaved in such a frantic manner, as proved her mind to be in a
 distracted and desponding state; and the child was sucking at her breast
 when she set out for Tyburn.’
 
-
-
-Chapter 1
 
 
 In the year 1775, there stood upon the borders of Epping Forest, at a
@@ -229,7 +198,6 @@ and driving the rain against the windows of the Maypole Inn, gave such
 of its frequenters as chanced to be there at the moment an undeniable
 reason for prolonging their stay, and caused the landlord to prophesy
 that the night would certainly clear at eleven o’clock precisely,--which
-by a remarkable coincidence was the hour at which he always closed his
 house.
 
 The name of him upon whom the spirit of prophecy thus descended was
@@ -604,7 +572,6 @@ you the truth, you may do that easily; for so far as I can make out, you
 mean nothing. What DO you mean, I ask again?’
 
 ‘That,’ returned the landlord, a little brought down from his dignity
-by the stranger’s surliness, ‘is a Maypole story, and has been any time
 these four-and-twenty years. That story is Solomon Daisy’s story. It
 belongs to the house; and nobody but Solomon Daisy has ever told it
 under this roof, or ever shall--that’s more.’
@@ -620,7 +587,6 @@ faggot, whose weight almost crushed it for the time, shot upward with a
 strong and sudden glare, and illumining his figure for a moment, seemed
 afterwards to cast it into deeper obscurity than before.
 
-By this flickering light, which made the old room, with its heavy
 timbers and panelled walls, look as if it were built of polished
 ebony--the wind roaring and howling without, now rattling the latch
 and creaking the hinges of the stout oaken door, and now driving at
@@ -771,10 +737,6 @@ nineteenth of March in some year--no matter when--I know it, I am sure
 of it, for we have always, in some strange way or other, been brought
 back to the subject on that day ever since--on the nineteenth of March
 in some year, sooner or later, that man will be discovered.’
-
-
-
-Chapter 2
 
 
 ‘A strange story!’ said the man who had been the cause of the
@@ -1129,11 +1091,6 @@ and other tempting preparations for a well-cooked meal--when there were
 these things, and company disposed to make the most of them, all ready
 to his hand, and entreating him to enjoyment!
 
-
-
-Chapter 3
-
-
 Such were the locksmith’s thoughts when first seated in the snug corner,
 and slowly recovering from a pleasant defect of vision--pleasant,
 because occasioned by the wind blowing in his eyes--which made it a
@@ -1439,11 +1396,6 @@ Gabriel inwardly congratulating himself upon having an adventure now,
 which would silence Mrs Varden on the subject of the Maypole, for that
 night, or there was no faith in woman.
 
-
-
-Chapter 4
-
-
 In the venerable suburb--it was a suburb once--of Clerkenwell, towards
 that part of its confines which is nearest to the Charter House, and in
 one of those cool, shady streets, of which a few, widely scattered
@@ -1468,7 +1420,6 @@ in vain. Fields were nigh at hand, through which the New River took its
 winding course, and where there was merry haymaking in the summer time.
 Nature was not so far removed, or hard to get at, as in these days; and
 although there were busy trades in Clerkenwell, and working jewellers
-by scores, it was a purer place, with farm-houses nearer to it than many
 modern Londoners would readily believe, and lovers’ walks at no great
 distance, which turned into squalid courts, long before the lovers of
 this age were born, or, as the phrase goes, thought of.
@@ -1614,7 +1565,6 @@ to a degree amounting to enthusiasm. He also had some majestic, shadowy
 ideas, which had never been quite fathomed by his intimate friends,
 concerning the power of his eye. Indeed he had been known to go so far
 as to boast that he could utterly quell and subdue the haughtiest beauty
-by a simple process, which he termed ‘eyeing her over;’ but it must
 be added, that neither of this faculty, nor of the power he claimed
 to have, through the same gift, of vanquishing and heaving down dumb
 animals, even in a rabid state, had he ever furnished evidence which
@@ -1851,11 +1801,6 @@ come of this. I hope it mayn’t be human gore!’
 
 Whirr-r-r-r-r-r-r-r.
 
-
-
-Chapter 5
-
-
 As soon as the business of the day was over, the locksmith sallied
 forth, alone, to visit the wounded gentleman and ascertain the progress
 of his recovery. The house where he had left him was in a by-street
@@ -2049,11 +1994,6 @@ every bolt and bar with the heat and fury of a maniac, and drawn him
 back into the room, that she turned upon him, once again, that stony
 look of horror, and, sinking down into a chair, covered her face, and
 shuddered, as though the hand of death were on her.
-
-
-
-Chapter 6
-
 
 Beyond all measure astonished by the strange occurrences which had
 passed with so much violence and rapidity, the locksmith gazed upon the
@@ -2419,7 +2359,6 @@ about the wounded gentleman to avoid him the better.
 
 It was time he went to bed, she said. He was to be removed to his own
 home on the morrow, and he had already exceeded his time for sitting up,
-by a full hour. Acting on this hint, the locksmith prepared to take his
 leave.
 
 ‘By the bye,’ said Edward, as he shook him by the hand, and looked from
@@ -2447,7 +2386,6 @@ the key. As she had her hand upon the latch, the locksmith said in a low
 voice,
 
 ‘I have told a lie to-night, for your sake, Mary, and for the sake of
-bygone times and old acquaintance, when I would scorn to do so for my
 own. I hope I may have done no harm, or led to none. I can’t help the
 suspicions you have forced upon me, and I am loth, I tell you plainly,
 to leave Mr Edward here. Take care he comes to no hurt. I doubt the
@@ -2468,11 +2406,6 @@ am wrong, and send me just thoughts; but she is poor, the temptation
 may be great, and we daily hear of things as strange.--Ay, bark away, my
 friend. If there’s any wickedness going on, that raven’s in it, I’ll be
 sworn.’
-
-
-
-Chapter 7
-
 
 Mrs Varden was a lady of what is commonly called an uncertain temper--a
 phrase which being interpreted signifies a temper tolerably certain to
@@ -2558,7 +2491,6 @@ and looking at her askew.
 
 ‘Taking the hint, sir,’ cried Miggs, with a flushed face, ‘and thanking
 you for it most kindly, I will make bold to say, that if I give offence
-by having consideration for my mistress, I do not ask your pardon, but
 am content to get myself into trouble and to be in suffering.’
 
 Here Mrs Varden, who, with her countenance shrouded in a large nightcap,
@@ -2708,10 +2640,6 @@ he replaced his piece of secret workmanship in his pocket; and leaving
 the lamp burning, and closing the door carefully and without noise,
 stole out into the street--as little suspected by the locksmith in his
 sound deep sleep, as by Barnaby himself in his phantom-haunted dreams.
-
-
-
-Chapter 8
 
 
 Clear of the locksmith’s house, Sim Tappertit laid aside his cautious
@@ -3098,7 +3026,6 @@ to approach the festive board, and warming by degrees, at length deigned
 to preside, and even to enchant the company with a song. After this,
 he rose to such a pitch as to consent to regale the society with a
 hornpipe, which he actually performed to the music of a fiddle (played
-by an ingenious member) with such surpassing agility and brilliancy of
 execution, that the spectators could not be sufficiently enthusiastic in
 their admiration; and their host protested, with tears in his eyes, that
 he had never truly felt his blindness until that moment.
@@ -3127,11 +3054,6 @@ he had need to have depended chiefly on his private connection, for the
 court had no thoroughfare, and was not that kind of place in which
 many people were likely to take the air, or to frequent as an agreeable
 promenade.
-
-
-
-Chapter 9
-
 
 Chronicler’s are privileged to enter where they list, to come and go
 through keyholes, to ride upon the wind, to overcome, in their soarings
@@ -3360,11 +3282,6 @@ fashion, just inside her own door, left her to her repose.
 as she was left alone; ‘but I’m in his confidence and he can’t help
 himself, nor couldn’t if he was twenty Simmunses!’
 
-
-
-Chapter 10
-
-
 It was on one of those mornings, common in early spring, when the year,
 fickle and changeable in its youth like all other created things, is
 undecided whether to step backward into winter or forward into summer,
@@ -3407,7 +3324,6 @@ calmness, might have come from making an elaborate and leisurely toilet,
 to sit for an equestrian portrait at old John Willet’s gate.
 
 It must not be supposed that John observed these several characteristics
-by other than very slow degrees, or that he took in more than half a one
 at a time, or that he even made up his mind upon that, without a great
 deal of very serious consideration. Indeed, if he had been distracted in
 the first instance by questionings and orders, it would have taken him
@@ -3806,10 +3722,6 @@ preventing any other improper declarations, and quitted the room with
 his very best bow.
 
 
-
-Chapter 11
-
-
 There was great news that night for the regular Maypole customers, to
 each of whom, as he straggled in to occupy his allotted seat in the
 chimney-corner, John, with a most impressive slowness of delivery, and
@@ -4014,12 +3926,6 @@ He laid his hand upon the door, entered, and shut it heavily. Mr Willet
 was by no means disposed to stand there listening by himself, especially
 as the walls were very thick; so descended, with much greater alacrity
 than he had come up, and joined his friends below.
-
-
-
-Chapter 12
-
-
 There was a brief pause in the state-room of the Maypole, as Mr Haredale
 tried the lock to satisfy himself that he had shut the door securely,
 and, striding up the dark chamber to where the screen inclosed a little
@@ -4349,11 +4255,6 @@ that way. Good night, sir!’
 The guest rejoined ‘God bless you!’ with a fervour that was quite
 affecting; and John, beckoning his guards to go before, bowed himself
 out of the room, and left him to his rest in the Maypole’s ancient bed.
-
-
-
-Chapter 13
-
 
 If Joseph Willet, the denounced and proscribed of ‘prentices, had
 happened to be at home when his father’s courtly guest presented himself
@@ -4792,9 +4693,6 @@ and get some obliging enemy to knock his brains out as soon as possible.
 
 
 
-Chapter 14
-
-
 Joe Willet rode leisurely along in his desponding mood, picturing the
 locksmith’s daughter going down long country-dances, and poussetting
 dreadfully with bold strangers--which was almost too much to bear--when
@@ -4993,11 +4891,6 @@ Edward glanced at the window also, and hastily murmuring that he had
 changed his mind--forgotten something--and must return to London,
 mounted his horse again and rode away; leaving the Willets, father and
 son, looking at each other in mute astonishment.
-
-
-
-Chapter 15
-
 
 At noon next day, John Willet’s guest sat lingering over his breakfast
 in his own home, surrounded by a variety of comforts, which left the
@@ -5363,7 +5256,6 @@ to another which is quite conclusive. The very idea of marrying a girl
 whose father was killed, like meat! Good God, Ned, how disagreeable!
 Consider the impossibility of having any respect for your father-in-law
 under such unpleasant circumstances--think of his having been “viewed”
- by jurors, and “sat upon” by coroners, and of his very doubtful position
 in the family ever afterwards. It seems to me such an indelicate sort
 of thing that I really think the girl ought to have been put to death by
 the state to prevent its happening. But I tease you perhaps. You would
@@ -5380,11 +5272,6 @@ in thought as not to hear or understand them, remained quite still and
 silent. After the lapse of half an hour or so, the elder Chester, gaily
 dressed, went out. The younger still sat with his head resting on his
 hands, in what appeared to be a kind of stupor.
-
-
-
-Chapter 16
-
 
 A series of pictures representing the streets of London in the night,
 even at the comparatively recent date of this tale, would present to the
@@ -5435,7 +5322,6 @@ hackney-chairs and groups of chairmen, compared with whom the coachmen
 of our day are gentle and polite, obstructed the way and filled the
 air with clamour; night-cellars, indicated by a little stream of light
 crossing the pavement, and stretching out half-way into the road, and
-by the stifled roar of voices from below, yawned for the reception and
 entertainment of the most abandoned of both sexes; under every shed and
 bulk small groups of link-boys gamed away the earnings of the day; or
 one more weary than the rest, gave way to sleep, and let the fragment of
@@ -5556,7 +5442,6 @@ fiercely round as if in apprehension of a general attack.
 
 His voice, and look, and bearing--all expressive of the wildest
 recklessness and desperation--daunted while they repelled the
-bystanders. Although in a very different sphere of action now, they were
 not without much of the effect they had wrought at the Maypole Inn.
 
 ‘I am what you all are, and live as you all do,’ said the man sternly,
@@ -5613,11 +5498,6 @@ She could only answer by a rattle in her throat.
 
 She seemed to indicate that there was no one there. He took the key,
 unlocked the door, carried her in, and secured it carefully behind them.
-
-
-
-Chapter 17
-
 
 It was a chilly night, and the fire in the widow’s parlour had burnt
 low. Her strange companion placed her in a chair, and stooping down
@@ -6064,11 +5944,6 @@ me--never growing old or cold at heart, but needing my care and duty in
 his manly strength as in his cradle-time--help him, in his darkened walk
 through this sad world, or he is doomed, and my poor heart is broken!’
 
-
-
-Chapter 18
-
-
 Gliding along the silent streets, and holding his course where they were
 darkest and most gloomy, the man who had left the widow’s house crossed
 London Bridge, and arriving in the City, plunged into the backways,
@@ -6266,12 +6141,6 @@ mouth firmly set. All this, the blind man accurately marked; and as if
 his curiosity were strongly awakened, and he had already some inkling
 of his mystery, he sat watching him, if the expression may be used, and
 listening, until it was broad day.
-
-
-
-Chapter 19
-
-
 Dolly Varden’s pretty little head was yet bewildered by various
 recollections of the party, and her bright eyes were yet dazzled by a
 crowd of images, dancing before them like motes in the sunbeams, among
@@ -6680,11 +6549,6 @@ cherry-coloured mantle and ribbons, as they went fluttering along the
 green meadows in the bright light of the day, like giddy things as they
 were.
 
-
-
-Chapter 20
-
-
 The proud consciousness of her trust, and the great importance she
 derived from it, might have advertised it to all the house if she had
 had to run the gauntlet of its inhabitants; but as Dolly had played in
@@ -6729,7 +6593,6 @@ Dolly nodded and smiled, and feeling in her pockets (there were pockets
 in those days) with an affectation of not being able to find what she
 wanted, which greatly enhanced her importance, at length produced
 the letter. As Emma hastily broke the seal and became absorbed in its
-contents, Dolly’s eyes, by one of those strange accidents for which
 there is no accounting, wandered to the glass again. She could not help
 wondering whether the coach-maker suffered very much, and quite pitied
 the poor man.
@@ -6924,12 +6787,6 @@ stood still? She stopped involuntarily as she made the reflection, and
 the rustling noise stopped likewise. She was really frightened now, and
 was yet hesitating what to do, when the bushes crackled and snapped, and
 a man came plunging through them, close before her.
-
-
-
-Chapter 21
-
-
 It was for the moment an inexpressible relief to Dolly, to recognise in
 the person who forced himself into the path so abruptly, and now stood
 directly in her way, Hugh of the Maypole, whose name she uttered in a
@@ -7282,11 +7139,6 @@ good nights, and admonitions to wrap up, and glancing of lights, and
 handing in of cloaks and shawls, the chaise rolled away, and Joe trotted
 beside it--on Dolly’s side, no doubt, and pretty close to the wheel too.
 
-
-
-Chapter 22
-
-
 It was a fine bright night, and for all her lowness of spirits Dolly
 kept looking up at the stars in a manner so bewitching (and SHE knew
 it!) that Joe was clean out of his senses, and plainly showed that if
@@ -7494,7 +7346,6 @@ while to do so, that’s the joke--he he he!’
 
 Finding there was a lady in the case, Mr Tappertit haughtily requested
 his fair friend to be more explicit, and demanded to know what she meant
-by ‘her.’
 
 ‘Why, that Dolly,’ said Miggs, with an extremely sharp emphasis on the
 name. ‘But, oh upon my word and honour, young Joseph Willet is a brave
@@ -7545,11 +7396,6 @@ therefore she withdrew, with an aspect as grim and gloomy as that of the
 Maypole’s own state couch; and to bed the rest of the establishment soon
 afterwards repaired.
 
-
-
-Chapter 23
-
-
 Twilight had given place to night some hours, and it was high noon
 in those quarters of the town in which ‘the world’ condescended to
 dwell--the world being then, as now, of very limited dimensions and
@@ -7571,7 +7417,6 @@ with the air of a man who was reflecting seriously on what he had
 read; ‘upon my honour, the most masterly composition, the most delicate
 thoughts, the finest code of morality, and the most gentlemanly
 sentiments in the universe! Ah Ned, Ned, if you would but form your mind
-by such precepts, we should have but one common feeling on every subject
 that could possibly arise between us!’
 
 This apostrophe was addressed, like the rest of his remarks, to empty
@@ -7980,11 +7825,6 @@ remained for Mr Chester but to demand his hat, to fold it jauntily under
 his arm, to take his seat in the chair and be carried off; humming a
 fashionable tune.
 
-
-
-Chapter 24
-
-
 How the accomplished gentleman spent the evening in the midst of a
 dazzling and brilliant circle; how he enchanted all those with whom he
 mingled by the grace of his deportment, the politeness of his manner,
@@ -8057,7 +7897,6 @@ between us is in the strictest confidence?’
 
 Mr Chester laid himself calmly down in bed again, and turning a
 perfectly undisturbed face towards the strange apparition, which had
-by this time closed the door, begged him to speak out, and to be as
 rational as he could, without putting himself to any very great personal
 inconvenience.
 
@@ -8196,11 +8035,6 @@ troublesome necessity! I quite feel for them.’
 
 With that he fell into a quiet slumber:--subsided into such a gentle,
 pleasant sleep, that it was quite infantine.
-
-
-
-Chapter 25
-
 
 Leaving the favoured, and well-received, and flattered of the world;
 him of the world most worldly, who never compromised himself by an
@@ -8592,10 +8426,6 @@ lived a merry child, a comely girl, a happy wife--where she had known
 all her enjoyment of life, and had entered on its hardest sorrows.
 
 
-
-Chapter 26
-
-
 ‘And you’re not surprised to hear this, Varden?’ said Mr Haredale.
 ‘Well! You and she have always been the best friends, and you should
 understand her if anybody does.’
@@ -8644,7 +8474,7 @@ in her way more than once or twice, she has never touched upon the
 subject--except by a look. And indeed,’ said the good-natured locksmith,
 ‘there was a good deal in the look, more than could have been put into a
 great many words. It said among other matters “Don’t ask me anything”
- so imploringly, that I didn’t ask her anything. You’ll think me an old
+so imploringly, that I didn’t ask her anything. You’ll think me an old
 fool, I know, sir. If it’s any relief to call me one, pray do.’
 
 ‘I am greatly disturbed by what you tell me,’ said Mr Haredale, after a
@@ -8804,10 +8634,6 @@ myself to secrecy. She appointed to see you here to-night, I know, but
 found it inconvenient, and couldn’t wait. Here is the key of the door.
 I am afraid you’ll find it inconveniently large; but as the tenement is
 yours, your good-nature will excuse that, Haredale, I am certain!’
-
-
-
-Chapter 27
 
 
 Mr Haredale stood in the widow’s parlour with the door-key in his hand,
@@ -9261,12 +9087,6 @@ enraged matron, bursting into tears, ‘of a daughter telling her own
 mother she has been made game of!’
 
 What a very uncertain temper Mrs Varden’s was!
-
-
-
-Chapter 28
-
-
 Repairing to a noted coffee-house in Covent Garden when he left the
 locksmith’s, Mr Chester sat long over a late dinner, entertaining
 himself exceedingly with the whimsical recollection of his recent
@@ -9485,11 +9305,6 @@ spoke to him by name. But all was dark and quiet, and creeping back
 to bed again, he fell, after an hour’s uneasy watching, into a second
 sleep, and woke no more till morning.
 
-
-
-Chapter 29
-
-
 The thoughts of worldly men are for ever regulated by a moral law of
 gravitation, which, like the physical one, holds them down to earth. The
 bright glory of day, and the silent wonders of a starlit night, appeal
@@ -9685,7 +9500,6 @@ to run counter to the unfortunate Joe, and his opposition as a general
 principle to all matters of love and matrimony, it went down to the very
 ground straightway, and sent the light cause of the younger gentleman
 flying upwards to the ceiling. Mr Chester was not the kind of man to be
-by any means dim-sighted to Mr Willet’s motives, but he thanked him as
 graciously as if he had been one of the most disinterested martyrs that
 ever shone on earth; and leaving him, with many complimentary reliances
 on his great taste and judgment, to prepare whatever dinner he might
@@ -9957,11 +9771,6 @@ thoughtfulness begets wrinkles; remembering this, he soon put it up,
 smoothed his contracted brow, hummed a gay tune with greater gaiety of
 manner, and was his unruffled self again.
 
-
-
-Chapter 30
-
-
 A homely proverb recognises the existence of a troublesome class of
 persons who, having an inch conceded them, will take an ell. Not to
 quote the illustrious examples of those heroic scourges of mankind,
@@ -10119,11 +9928,6 @@ barricade.
 wiped his heated face. ‘I knew it would come at last. The Maypole and
 I must part company. I’m a roving vagabond--she hates me for
 evermore--it’s all over!’
-
-
-
-Chapter 31
-
 
 Pondering on his unhappy lot, Joe sat and listened for a long time,
 expecting every moment to hear their creaking footsteps on the stairs,
@@ -10565,11 +10369,6 @@ whence they were to proceed on foot to Chatham; the wind was in their
 favour, and they soon left London behind them, a mere dark mist--a giant
 phantom in the air.
 
-
-
-Chapter 32
-
-
 Misfortunes, saith the adage, never come singly. There is little doubt
 that troubles are exceedingly gregarious in their nature, and flying
 in flocks, are apt to perch capriciously; crowding on the heads of some
@@ -10775,11 +10574,6 @@ laid its finger on its lip, and sighed, and looked very grave; and those
 who had sons about his age, waxed wrathful and indignant, and hoped, for
 Virtue’s sake, that he was dead. And the world went on turning round, as
 usual, for five years, concerning which this Narrative is silent.
-
-
-
-Chapter 33
-
 
 One wintry evening, early in the year of our Lord one thousand seven
 hundred and eighty, a keen north wind arose as it grew dark, and night
@@ -11151,7 +10945,6 @@ family, by the mother’s side) argued the matter with so much ingenuity
 and force of illustration, that John was only saved from having to
 retract his opinion by the opportune appearance of supper, to which they
 applied themselves with a dreadful relish. Even Solomon Daisy himself,
-by dint of the elevating influences of fire, lights, brandy, and good
 company, so far recovered as to handle his knife and fork in a highly
 creditable manner, and to display a capacity both of eating and
 drinking, such as banished all fear of his having sustained any lasting
@@ -11178,12 +10971,6 @@ Phil Parkes and Mr Cobb, who were rather more nervous than himself. Mr
 Willet, after seeing them to the door, returned to collect his thoughts
 with the assistance of the boiler, and to listen to the storm of wind
 and rain, which had not yet abated one jot of its fury.
-
-
-
-Chapter 34
-
-
 Before old John had looked at the boiler quite twenty minutes, he got
 his ideas into a focus, and brought them to bear upon Solomon Daisy’s
 story. The more he thought of it, the more impressed he became with
@@ -11417,11 +11204,6 @@ instant three horsemen swept past--the nearest brushed his shoulder even
 then--who, checking their steeds as suddenly as they could, stood still,
 and waited for their coming up.
 
-
-
-Chapter 35
-
-
 When John Willet saw that the horsemen wheeled smartly round, and drew
 up three abreast in the narrow road, waiting for him and his man to join
 them, it occurred to him with unusual precipitation that they must be
@@ -11540,9 +11322,7 @@ or put up at once; or that unfort’nate Bloody Mary will have more to
 answer for--and she’s done a deal more harm in her grave than she ever
 did in her lifetime, I believe.’
 
-By this time Mr Willet, who had never heard so many words spoken
 together at one time, or delivered with such volubility and emphasis as
-by the long-winded gentleman; and whose brain, being wholly unable to
 sustain or compass them, had quite given itself up for lost; recovered
 so far as to observe that there was ample accommodation at the Maypole
 for all the party: good beds; neat wines; excellent entertainment
@@ -11883,12 +11663,6 @@ empty air. Not at all discomposed by the discovery, John Grueby fixed
 his hat on, wrongside foremost that he might be unconscious of the
 shadow of the obnoxious cockade, and withdrew to bed; shaking his head
 in a very gloomy and prophetic manner until he reached his chamber.
-
-
-
-Chapter 36
-
-
 Gashford, with a smiling face, but still with looks of profound
 deference and humility, betook himself towards his master’s room,
 smoothing his hair down as he went, and humming a psalm tune. As he
@@ -12106,11 +11880,6 @@ Country. Union.’
 ‘More seed, more seed,’ said Gashford as he closed the window. ‘When
 will the harvest come!’
 
-
-
-Chapter 37
-
-
 To surround anything, however monstrous or ridiculous, with an air of
 mystery, is to invest it with a secret charm, and power of attraction
 which to the crowd is irresistible. False priests, false prophets, false
@@ -12121,7 +11890,6 @@ indebted to that resource in gaining and keeping for a time the upper
 hand of Truth and Common Sense, than to any half-dozen items in the
 whole catalogue of imposture. Curiosity is, and has been from the
 creation of the world, a master-passion. To awaken it, to gratify it
-by slight degrees, and yet leave something always in suspense, is to
 establish the surest hold that can be had, in wrong, on the unthinking
 portion of mankind.
 
@@ -12549,11 +12317,6 @@ But John had brought this new visitor to the door, and he walked
 in unbidden, as the words were uttered; giving to view the form and
 features, rough attire, and reckless air, of Hugh.
 
-
-
-Chapter 38
-
-
 The secretary put his hand before his eyes to shade them from the glare
 of the lamp, and for some moments looked at Hugh with a frowning brow,
 as if he remembered to have seen him lately, but could not call to mind
@@ -12721,7 +12484,6 @@ It was remarkable, too, that whenever they happened to stand where there
 was any press of people, and Hugh chanced to be looking downward, he
 was sure to see an arm stretched out--under his own perhaps, or perhaps
 across him--which thrust some paper into the hand or pocket of a
-bystander, and was so suddenly withdrawn that it was impossible to tell
 from whom it came; nor could he see in any face, on glancing quickly
 round, the least confusion or surprise. They often trod upon a paper
 like the one he carried in his breast, but his companion whispered him
@@ -12763,9 +12525,6 @@ Scotch reel; and that in tones so invigorating, that Hugh and his friend
 concert, and, to the great admiration of the assembled guests, performed
 an extemporaneous No-Popery Dance.
 
-
-
-Chapter 39
 
 
 The applause which the performance of Hugh and his new friend elicited
@@ -13025,7 +12784,6 @@ a business as any gentleman could desire.’
 ‘Was you ‘prenticed to it?’ asked Mr Tappertit.
 
 ‘No. Natural genius,’ said Mr Dennis. ‘No ‘prenticing. It come
-by natur’. Muster Gashford knows my calling. Look at that hand of
 mine--many and many a job that hand has done, with a neatness and
 dexterity, never known afore. When I look at that hand,’ said Mr
 Dennis, shaking it in the air, ‘and remember the helegant bits of work
@@ -13150,11 +12908,6 @@ society--which must ensue if we break out and are victorious--when the
 locksmith’s child is mine, Miggs must be got rid of somehow, or she’ll
 poison the tea-kettle one evening when I’m out. He might marry Miggs, if
 he was drunk enough. It shall be done. I’ll make a note of it.’
-
-
-
-Chapter 40
-
 
 Little thinking of the plan for his happy settlement in life which had
 suggested itself to the teeming brain of his provident commander, Hugh
@@ -13445,11 +13198,6 @@ very small importance!’
 
 So he took another pinch of snuff, and went to bed.
 
-
-
-Chapter 41
-
-
 From the workshop of the Golden Key, there issued forth a tinkling
 sound, so merry and good-humoured, that it suggested the idea of some
 one working blithely, and made quite pleasant music. No man who hammered
@@ -13606,7 +13354,6 @@ young men, in all previous times of unprecedented steadiness, had turned
 suddenly wild and wicked for the same reason, and, in an ecstasy of
 unrequited love, taken to wrench off door-knockers, and invert the boxes
 of rheumatic watchmen! How had she recruited the king’s service, both
-by sea and land, through rendering desperate his loving subjects between
 the ages of eighteen and twenty-five! How many young ladies had publicly
 professed, with tears in their eyes, that for their tastes she was much
 too short, too tall, too bold, too cold, too stout, too thin, too fair,
@@ -13797,7 +13544,6 @@ so well that Gabriel only made a wry face, and with the warning he had
 just had, fresh in his mind, did not dare to say one word.
 
 The difference ended, therefore, in Miggs being presented with a gown
-by Mrs Varden and half-a-crown by Dolly, as if she had eminently
 distinguished herself in the paths of morality and goodness. Mrs V.,
 according to custom, expressed her hope that Varden would take a lesson
 from what had passed and learn more generous conduct for the time to
@@ -13817,7 +13563,6 @@ into one of the tightest coats that ever was made by mortal tailor, he
 was the proudest father in all England.
 
 ‘What a handy jade it is!’ said the locksmith to Mrs Varden, who stood
-by with folded hands--rather proud of her husband too--while Miggs held
 his cap and sword at arm’s length, as if mistrusting that the latter
 might run some one through the body of its own accord; ‘but never marry
 a soldier, Doll, my dear.’
@@ -13901,12 +13646,6 @@ woman cry without meaning it. It’s rather hard!’
 But he forgot it before he reached the end of the street, and went on
 with a shining face, nodding to the neighbours, and showering about his
 friendly greetings like mild spring rain.
-
-
-
-Chapter 42
-
-
 The Royal East London Volunteers made a brilliant sight that day: formed
 into lines, squares, circles, triangles, and what not, to the beating
 of drums, and the streaming of flags; and performed a vast number of
@@ -13925,7 +13664,6 @@ commanding officer to deliver them over to a strong guard, with whom
 they fought at intervals as they came along,--it was nine o’clock when
 the locksmith reached home. A hackney-coach was waiting near his door;
 and as he passed it, Mr Haredale looked from the window and called him
-by his name.
 
 ‘The sight of you is good for sore eyes, sir,’ said the locksmith,
 stepping up to him. ‘I wish you had walked in though, rather than waited
@@ -14098,11 +13836,6 @@ haggard and careworn, listening in the solitary house to every sound
 that stirred, with the taper shining through the chinks until the day
 should turn it pale and end his lonely watching.
 
-
-
-Chapter 43
-
-
 Next morning brought no satisfaction to the locksmith’s thoughts,
 nor next day, nor the next, nor many others. Often after nightfall he
 entered the street, and turned his eyes towards the well-known house;
@@ -14245,7 +13978,6 @@ The friend, therefore, had nothing for it, but to muster up the
 pleasantest smile he could, and to make a conciliatory bow, as Mr
 Haredale turned his eyes upon him. Seeing that he was recognised, he put
 out his hand in an awkward and embarrassed manner, which was not mended
-by its contemptuous rejection.
 
 ‘Mr Gashford!’ said Haredale, coldly. ‘It is as I have heard then. You
 have left the darkness for the light, sir, and hate those whose opinions
@@ -14541,11 +14273,6 @@ constables. But, it being whispered that a detachment of Life Guards had
 been sent for, they took to their heels with great expedition, and left
 the street quite clear.
 
-
-
-Chapter 44
-
-
 When the concourse separated, and, dividing into chance clusters, drew
 off in various directions, there still remained upon the scene of the
 late disturbance, one man. This man was Gashford, who, bruised by his
@@ -14742,11 +14469,6 @@ never forgave.--Let’s drink his health!’
 Hugh readily complied--pouring no liquor on the floor when he drank this
 toast--and they pledged the secretary as a man after their own hearts,
 in a bumper.
-
-
-
-Chapter 45
-
 
 While the worst passions of the worst men were thus working in the dark,
 and the mantle of religion, assumed to cover the ugliest deformities,
@@ -15156,11 +14878,6 @@ the cottage were his proper dwelling, and he had held undisputed
 possession of it all his life--waiting for the widow’s answer and for
 Barnaby’s return.
 
-
-
-Chapter 46
-
-
 When Barnaby returned with the bread, the sight of the pious old pilgrim
 smoking his pipe and making himself so thoroughly at home, appeared
 to surprise even him; the more so, as that worthy person, instead of
@@ -15413,11 +15130,6 @@ door, and finds it always shut!’
 There was such a sense of home in the thought, that though her own eyes
 overflowed she would not have obliterated the recollection of it, either
 from her own mind or from his, for the wealth of the whole wide world.
-
-
-
-Chapter 47
-
 
 In the exhaustless catalogue of Heaven’s mercies to mankind, the power
 we have of finding some germs of comfort in the hardest trials must ever
@@ -15715,7 +15427,6 @@ Whether the idea of wealth had occurred to him for the first time
 on looking at the golden clouds that evening--and images were often
 presented to his thoughts by outward objects quite as remote and
 distant; or whether their poor and humble way of life had suggested it,
-by contrast, long ago; or whether the accident (as he would deem it) of
 the blind man’s pursuing the current of his own remarks, had done so at
 the moment; or he had been impressed by the mere circumstance of the
 man being blind, and, therefore, unlike any one with whom he had talked
@@ -15744,11 +15455,6 @@ bade their conductor farewell, and stood alone, together, on the
 scorching pavement. For the freshness which night sheds upon such
 busy thoroughfares had already departed, and the sun was shining with
 uncommon lustre.
-
-
-
-Chapter 48
-
 
 Uncertain where to go next, and bewildered by the crowd of people who
 were already astir, they sat down in one of the recesses on the bridge,
@@ -16074,12 +15780,6 @@ They’re filing off the ground. Quick!’
 She was thrown to the ground; the whole field was in motion; Barnaby was
 whirled away into the heart of a dense mass of men, and she saw him no
 more.
-
-
-
-Chapter 49
-
-
 The mob had been divided from its first assemblage into four divisions;
 the London, the Westminster, the Southwark, and the Scotch. Each of
 these divisions being subdivided into various bodies, and these bodies
@@ -16089,7 +15789,6 @@ plan of a great battle to the meanest soldier in the field. It was not
 without its method, however; for, in a very short space of time after
 being put in motion, the crowd had resolved itself into three great
 parties, and were prepared, as had been arranged, to cross the river
-by different bridges, and make for the House of Commons in separate
 detachments.
 
 At the head of that division which had Westminster Bridge for its
@@ -16466,7 +16165,6 @@ he and Barnaby were better where they were. He advised, therefore, that
 they should proceed to Blackfriars, and, going ashore at the bridge,
 make the best of their way to The Boot; where there was not only good
 entertainment and safe lodging, but where they would certainly be joined
-by many of their late companions. Barnaby assenting, they decided on
 this course of action, and pulled for Blackfriars accordingly.
 
 They landed at a critical time, and fortunately for themselves at the
@@ -16478,11 +16176,6 @@ have so narrowly escaped the cavalcade, they lost no more time in asking
 questions, but hurried to The Boot with as much speed as Hugh considered
 it prudent to make, without appearing singular or attracting an
 inconvenient share of public notice.
-
-
-Chapter 50
-
-
 They were among the first to reach the tavern, but they had not been
 there many minutes, when several groups of men who had formed part of
 the crowd, came straggling in. Among them were Simon Tappertit and Mr
@@ -16734,9 +16427,6 @@ think this looks a little more like business!’
 
 
 
-Chapter 51
-
-
 Promising as these outrages were to Gashford’s view, and much like
 business as they looked, they extended that night no farther. The
 soldiers were again called out, again they took half-a-dozen prisoners,
@@ -16747,7 +16437,6 @@ deference to the authority erected by society for its own preservation
 yet remained among them, and had its majesty been vindicated in time,
 the secretary would have had to digest a bitter disappointment.
 
-By midnight, the streets were clear and quiet, and, save that there
 stood in two parts of the town a heap of nodding walls and pile of
 rubbish, where there had been at sunset a rich and handsome building,
 everything wore its usual aspect. Even the Catholic gentry and
@@ -16959,7 +16648,6 @@ injury to the property of any true Protestant. I am well assured that
 the proprietor of this house is a staunch and worthy friend to the
 cause.
 
-GEORGE GORDON.’
 
 
 ‘What’s this!’ said the locksmith, with an altered face.
@@ -17145,11 +16833,6 @@ quite amiably and meekly walked upstairs, followed by Miggs, who,
 although a good deal subdued, could not refrain from sundry stimulative
 coughs and sniffs by the way, or from holding up her hands in
 astonishment at the daring conduct of master.
-
-
-
-Chapter 52
-
 
 A mob is usually a creature of very mysterious existence, particularly
 in a large city. Where it comes from or whither it goes, few men
@@ -17404,10 +17087,6 @@ With that, he fell back into his place beside Barnaby; and when the
 secretary looked after him, both were lost in the crowd.
 
 
-
-Chapter 53
-
-
 The next day was ushered in by merry peals of bells, and by the firing
 of the Tower guns; flags were hoisted on many of the church-steeples;
 the usual demonstrations were made in honour of the anniversary of the
@@ -17424,7 +17103,6 @@ into the hands of justice.
 Indeed, the sense of having gone too far to be forgiven, held the timid
 together no less than the bold. Many who would readily have pointed out
 the foremost rioters and given evidence against them, felt that escape
-by that means was hopeless, when their every act had been observed by
 scores of people who had taken no part in the disturbances; who had
 suffered in their persons, peace, or property, by the outrages of the
 mob; who would be most willing witnesses; and whom the government would,
@@ -17763,11 +17441,6 @@ strained his gaze and grew more eager yet.
 ‘Nothing but gloom in that direction, still!’ he muttered restlessly.
 ‘Dog! where is the redness in the sky, you promised me!’
 
-
-
-Chapter 54
-
-
 Rumours of the prevailing disturbances had, by this time, begun to be
 pretty generally circulated through the towns and villages round London,
 and the tidings were everywhere received with that appetite for the
@@ -17816,7 +17489,6 @@ senses enough for you?’
 toe. ‘You haven’t got it, sir? You HAVE got it, sir. Don’t I tell you
 that His blessed Majesty King George the Third would no more stand a
 rioting and rollicking in his streets, than he’d stand being crowed over
-by his own Parliament?’
 
 ‘Yes, Johnny, but that’s your sense--not your senses,’ said the
 adventurous Mr Parkes.
@@ -18071,12 +17743,6 @@ the Maypole itself,--for even that had been sawn down,--lighted a torch,
 clapped the mute and motionless John Willet on the back, and waving his
 light above his head, and uttering a fierce shout, hastened after his
 companions.
-
-
-
-Chapter 55
-
-
 John Willet, left alone in his dismantled bar, continued to sit staring
 about him; awake as to his eyes, certainly, but with all his powers of
 reason and reflection in a sound and dreamless sleep. He looked round
@@ -18108,7 +17774,6 @@ ball practice outside the window, it would have been all the same to
 him. He was a long way beyond surprise. A ghost couldn’t have overtaken
 him.
 
-By and by he heard a footstep--a hurried, and yet cautious
 footstep--coming on towards the house. It stopped, advanced again,
 then seemed to go quite round it. Having done that, it came beneath the
 window, and a head looked in.
@@ -18393,15 +18058,9 @@ hopes, regrets and changes--all gone. Nothing left but a dull and dreary
 blank--a smouldering heap of dust and ashes--the silence and solitude of
 utter desolation.
 
-
-
-Chapter 56
-
-
 The Maypole cronies, little dreaming of the change so soon to come upon
 their favourite haunt, struck through the Forest path upon their way to
 London; and avoiding the main road, which was hot and dusty, kept to the
-by-paths and the fields. As they drew nearer to their destination, they
 began to make inquiries of the people whom they passed, concerning the
 riots, and the truth or falsehood of the stories they had heard. The
 answers went far beyond any intelligence that had spread to quiet
@@ -18711,18 +18370,12 @@ breast, and clutched its throat with both hands.
 
 ‘Villain!’ cried Mr Haredale, in a terrible voice--for it was he. ‘Dead
 and buried, as all men supposed through your infernal arts, but reserved
-by Heaven for this--at last--at last I have you. You, whose hands are
 red with my brother’s blood, and that of his faithful servant, shed
 to conceal your own atrocious guilt--You, Rudge, double murderer and
 monster, I arrest you in the name of God, who has delivered you into my
 hands. No. Though you had the strength of twenty men,’ he added, as the
 murderer writhed and struggled, ‘you could not escape me or loosen my
 grasp to-night!’
-
-
-
-Chapter 57
-
 
 Barnaby, armed as we have seen, continued to pace up and down before
 the stable-door; glad to be alone again, and heartily rejoicing in the
@@ -18818,7 +18471,6 @@ towards the ground.
 close beside him. ‘Well!’
 
 ‘All quiet, sir, all safe!’ cried Barnaby. ‘The rest are away--they went
-by that path--that one. A grand party!’
 
 ‘Ay?’ said Lord George, looking thoughtfully at him. ‘And you?’
 
@@ -18922,7 +18574,6 @@ against your will. What do you say?’
 
 ‘I think, young man,’ said John, in explanation, ‘that the soldiers may
 turn out and take you; and that if they do, you will certainly be hung
-by the neck till you’re dead--dead--dead. And I think you had better go
 from here, as fast as you can. That’s what I think.’
 
 ‘He’s a coward, Grip, a coward!’ cried Barnaby, putting the raven on the
@@ -19087,12 +18738,6 @@ his sides: the loaded guns levelled at his head; and those cold, bright,
 sharp, shining points turned towards him: the mere looking down at
 which, now that he was bound and helpless, made the warm current of his
 life run cold.
-
-
-
-Chapter 58
-
-
 They were not long in reaching the barracks, for the officer who
 commanded the party was desirous to avoid rousing the people by the
 display of military force in the streets, and was humanely anxious
@@ -19337,7 +18982,6 @@ talking, which he was careless of and quite indifferent to, they told
 him he was to go to Newgate, and took him away.
 
 He went out into the street, so surrounded and hemmed in on every side
-by soldiers, that he could see nothing; but he knew there was a great
 crowd of people, by the murmur; and that they were not friendly to the
 soldiers, was soon rendered evident by their yells and hisses. How often
 and how eagerly he listened for the voice of Hugh! There was not a voice
@@ -19369,10 +19013,6 @@ the door with locks, and bolts, and chains, they left him, well secured;
 having first, unseen by him, thrust in Grip, who, with his head drooping
 and his deep black plumes rough and rumpled, appeared to comprehend and
 to partake, his master’s fallen fortunes.
-
-
-
-Chapter 59
 
 
 It is necessary at this juncture to return to Hugh, who, having, as we
@@ -19515,7 +19155,6 @@ suppressed impatience of the party now broke out into open murmurs,
 he abandoned this design, and taking his seat upon the bar, contented
 himself with tapping at the front windows of the carriage, and trying to
 steal a glance inside; Mr Tappertit, mounting the steps and hanging on
-by the door, issued his directions to the driver with a commanding
 voice and attitude; the rest got up behind, or ran by the side of the
 carriage, as they could; some, in imitation of Hugh, endeavoured to
 see the face he had praised so highly, and were reminded of their
@@ -19821,10 +19460,6 @@ and to lean with the other on the shoulder of his small captain, without
 whose support he would certainly have rolled upon the ground.
 
 
-
-Chapter 60
-
-
 The three worthies turned their faces towards The Boot, with the
 intention of passing the night in that place of rendezvous, and of
 seeking the repose they so much needed in the shelter of their old
@@ -20002,11 +19637,6 @@ Every man there. And they swore a great oath to release their friends
 from Newgate next night; to force the doors and burn the jail; or perish
 in the fire themselves.
 
-
-
-Chapter 61
-
-
 On that same night--events so crowd upon each other in convulsed and
 distracted times, that more than the stirring incidents of a whole life
 often become compressed into the compass of four-and-twenty hours--on
@@ -20058,7 +19688,6 @@ a pitchfork with which he was armed, swore that the rioters might cut
 him into mincemeat if they liked, but he would not stand by and see
 an honest gentleman who had done no wrong, reduced to such extremity,
 without doing what he could to help him. Mr Haredale shook him warmly
-by the hand, and thanked him from his heart. In five minutes’ time the
 chaise was ready, and this good scapegrace in his saddle. The murderer
 was put inside, the blinds were drawn up, the sexton took his seat upon
 the bar, Mr Haredale mounted his horse and rode close beside the door;
@@ -20083,7 +19712,6 @@ house, the master of which, a Catholic gentleman of small means, having
 hired a waggon to remove his furniture by midnight, had had it all
 brought down into the street, to wait the vehicle’s arrival, and save
 time in the packing. But the man with whom he made the bargain, alarmed
-by the fires that night, and by the sight of the rioters passing his
 door, had refused to keep it: and the poor gentleman, with his wife and
 servant and their little children, were sitting trembling among their
 goods in the open street, dreading the arrival of day and not knowing
@@ -20275,11 +19903,6 @@ glanced along the empty streets, so lifeless and quiet in the bright
 morning, that he felt the weight upon his heart; that he knew he was
 tortured by anxiety for those he had left at home; and that home itself
 was but another bead in the long rosary of his regrets.
-
-
-
-Chapter 62
-
 
 The prisoner, left to himself, sat down upon his bedstead: and resting
 his elbows on his knees, and his chin upon his hands, remained in
@@ -20528,7 +20151,6 @@ suppose--’
 
 ‘--You are impatient,’ said the blind man, calmly; ‘it’s a good sign,
 and looks like life--that your son Barnaby had been lured away from her
-by one of his companions who knew him of old, at Chigwell; and that he
 is now among the rioters.’
 
 ‘And what is that to me? If father and son be hanged together, what
@@ -20659,10 +20281,6 @@ about them, round and round, as if enclosing them in a magic circle, and
 invoking all the powers of mischief.
 
 
-
-Chapter 63
-
-
 During the whole of this day, every regiment in or near the metropolis
 was on duty in one or other part of the town; and the regulars and
 militia, in obedience to the orders which were sent to every barrack and
@@ -20700,7 +20318,6 @@ and whenever they were drawn up idly in the streets or squares, there
 was sure to be a crowd about them, cheering and shaking hands, and
 treating them with a great show of confidence and affection.
 
-By this time, the crowd was everywhere; all concealment and disguise
 were laid aside, and they pervaded the whole town. If any man among them
 wanted money, he had but to knock at the door of a dwelling-house, or
 walk into a shop, and demand it in the rioters name; and his demand
@@ -21016,7 +20633,6 @@ tombses!’
 
 ‘I wish you was in the silent tombses, I do,’ cried Mr Tappertit, ‘and
 boxed up tight, in a good strong one. Here,’ he cried to one of the
-bystanders, in whose ear he whispered for a moment: ‘Take her off, will
 you. You understand where?’
 
 The fellow nodded; and taking her in his arms, notwithstanding her
@@ -21027,10 +20643,6 @@ the locksmith was taken to the head of the crowd, and required to walk
 between his two conductors; the whole body was put in rapid motion;
 and without any shouts or noise they bore down straight on Newgate, and
 halted in a dense mass before the prison-gate.
-
-
-
-Chapter 64
 
 
 Breaking the silence they had hitherto preserved, they raised a great
@@ -21350,11 +20962,6 @@ dress, dashed into the jail.
 The hangman followed. And then so many rushed upon their track, that the
 fire got trodden down and thinly strewn about the street; but there was
 no need of it now, for, inside and out, the prison was in flames.
-
-
-
-Chapter 65
-
 
 During the whole course of the terrible scene which was now at its
 height, one man in the jail suffered a degree of fear and mental torment
@@ -21746,13 +21353,8 @@ and when the human tide had rolled away, a melancholy heap of smoking
 ruins marked the spot where it had lately chafed and roared.
 
 
-
-Chapter 66
-
-
 Although he had had no rest upon the previous night, and had watched
 with little intermission for some weeks past, sleeping only in the day
-by starts and snatches, Mr Haredale, from the dawn of morning until
 sunset, sought his niece in every place where he deemed it possible she
 could have taken refuge. All day long, nothing, save a draught of water,
 passed his lips; though he prosecuted his inquiries far and wide, and
@@ -21989,16 +21591,11 @@ place.
 Such were the accounts brought to the old vintner by his servants as he
 sat at the side of Mr Haredale’s bed, having been unable even to doze,
 after the first part of the night; too much disturbed by his own fears;
-by the cries of the mob, the light of the fires, and the firing of the
 soldiers. Such, with the addition of the release of all the prisoners in
 the New Jail at Clerkenwell, and as many robberies of passengers in
 the streets, as the crowd had leisure to indulge in, were the scenes of
 which Mr Haredale was happily unconscious, and which were all enacted
 before midnight.
-
-
-
-Chapter 67
 
 
 When darkness broke away and morning began to dawn, the town wore a
@@ -22076,7 +21673,6 @@ delivered themselves up: preferring imprisonment and punishment to the
 horrors of such another night as the last. Many of the convicts, drawn
 back to their old place of captivity by some indescribable attraction,
 or by a desire to exult over it in its downfall and glut their revenge
-by seeing it in ashes, actually went back in broad noon, and loitered
 about the cells. Fifty were retaken at one time on this next day, within
 the prison walls; but their fate did not deter others, for there they
 went in spite of everything, and there they were taken in twos and
@@ -22146,7 +21742,6 @@ gentlemen threw themselves, armed to the teeth, into the halls of the
 different companies, double-locked and bolted all the gates, and
 dared the rioters (among themselves) to come on at their peril. These
 arrangements being all made simultaneously, or nearly so, were completed
-by the time it got dark; and then the streets were comparatively clear,
 and were guarded at all the great corners and chief avenues by
 the troops: while parties of the officers rode up and down in all
 directions, ordering chance stragglers home, and admonishing the
@@ -22405,11 +22000,6 @@ to let some fugitives go by, or to keep out of the way of the soldiers
 who followed them, and whose questions, when they halted to put any,
 were speedily stopped by one whispered word from Joe.
 
-
-
-Chapter 68
-
-
 While Newgate was burning on the previous night, Barnaby and his
 father, having been passed among the crowd from hand to hand, stood in
 Smithfield, on the outskirts of the mob, gazing at the flames like men
@@ -22609,10 +22199,6 @@ with some difficulty making Hugh sensible that he must dismount, sunk
 the horse’s furniture in a pool of stagnant water, and turned the animal
 loose. That done, he supported his companion as well as he could, and
 led him slowly forward.
-
-
-
-Chapter 69
 
 
 It was the dead of night, and very dark, when Barnaby, with his
@@ -23040,11 +22626,6 @@ especially into Fleet Market, lately the stronghold of the rioters,
 where the military were rooting out the last remnant of the crowd, he
 saw that this hope was gone, and felt that he was riding to his death.
 
-
-
-Chapter 70
-
-
 Mr Dennis having despatched this piece of business without any personal
 hurt or inconvenience, and having now retired into the tranquil
 respectability of private life, resolved to solace himself with half an
@@ -23093,7 +22674,6 @@ Saving--for there is a reservation; and even Mr Dennis was not perfectly
 happy--saving for one circumstance; to wit, the forcible detention of
 Dolly and Miss Haredale, in a house almost adjoining his own. This was
 a stumbling-block; for if they were discovered and released, they could,
-by the testimony they had it in their power to give, place him in a
 situation of great jeopardy; and to set them at liberty, first extorting
 from them an oath of secrecy and silence, was a thing not to be thought
 of. It was more, perhaps, with an eye to the danger which lurked in this
@@ -23230,7 +22810,6 @@ miserable and unhappy for life, she DID incline towards prewentions.
 Such, she added, was her free confessions. But as this was private
 feelings, and might perhaps be looked upon as wengeance, she begged the
 gentleman would say no more. Whatever he said, wishing to do her duty
-by all mankind, even by them as had ever been her bitterest enemies, she
 would not listen to him. With that she stopped her ears, and shook her
 head from side to side, to intimate to Mr Dennis that though he talked
 until he had no breath left, she was as deaf as any adder.
@@ -23251,7 +22830,6 @@ Miss Miggs replied (still being profoundly deaf) that if Miss Haredale
 stood in the way at all, he might make himself quite easy on that score;
 as she had gathered, from what passed between Hugh and Mr Tappertit when
 they were last there, that she was to be removed alone (not by them, but
-by somebody else), to-morrow night.
 
 Mr Dennis opened his eyes very wide at this piece of information,
 whistled once, considered once, and finally slapped his head once and
@@ -23266,7 +22844,6 @@ he said), who, terrified by the threats he could hold out to him, and
 alarmed by the capture of so many who were no better and no worse than
 he, would gladly avail himself of any help to get abroad, and out of
 harm’s way, with his plunder, even though his journey were incumbered
-by an unwilling companion; indeed, the unwilling companion being
 a beautiful girl, would probably be an additional inducement and
 temptation. Such a person found, he proposed to bring him there on
 the ensuing night, when the tall one was taken off, and Miss Miggs had
@@ -23289,7 +22866,6 @@ entirely with himself.
 
 If Miss Miggs had had her hearing, no doubt she would have been greatly
 shocked by the indelicacy of a young female’s going away with a stranger
-by night (for her moral feelings, as we have said, were of the tenderest
 kind); but directly Mr Dennis ceased to speak, she reminded him that he
 had only wasted breath. She then went on to say (still with her fingers
 in her ears) that nothing less than a severe practical lesson would save
@@ -23313,11 +22889,6 @@ soothe the outraged feelings of Miss Miggs, and looked so beautiful
 while doing so, that if that young maid had not had ample vent for her
 surpassing spite, in a knowledge of the mischief that was brewing, she
 must have scratched her features, on the spot.
-
-
-
-Chapter 71
-
 
 All next day, Emma Haredale, Dolly, and Miggs, remained cooped up
 together in what had now been their prison for so many days, without
@@ -23344,7 +22915,6 @@ moaning noise. But they had no means of ascertaining the truth: for
 any question or entreaty on their parts only provoked a storm of
 execrations, or something worse; and they were too happy to be left
 alone, unassailed by threats or admiration, to risk even that comfort,
-by any voluntary communication with those who held them in durance.
 
 It was sufficiently evident, both to Emma and to the locksmith’s poor
 little daughter herself, that she, Dolly, was the great object of
@@ -23397,9 +22967,7 @@ lady displayed such resignation and long-suffering, and so much meek
 endurance, under her trials, and breathed in all her chaste discourse a
 spirit of such holy confidence and resignation, and devout belief that
 all would happen for the best, that Emma felt her courage strengthened
-by the bright example; never doubting but that everything she said was
 true, and that she, like them, was torn from all she loved, and agonised
-by doubt and apprehension. As to poor Dolly, she was roused, at
 first, by seeing one who came from home; but when she heard under what
 circumstances she had left it, and into whose hands her father had
 fallen, she wept more bitterly than ever, and refused all comfort.
@@ -23737,10 +23305,6 @@ had said nothing. They had only bowed once, and kept at a distance. Dear
 heart! what a long way it was to the Black Lion!
 
 
-
-Chapter 72
-
-
 The Black Lion was so far off, and occupied such a length of time in the
 getting at, that notwithstanding the strong presumptive evidence she had
 about her of the late events being real and of actual occurrence, Dolly
@@ -23838,7 +23402,6 @@ again, and went on eating. Sometimes, he put his food into his mouth
 abstractedly, and, with all his faculties concentrated on Joe, gazed at
 him in a fit of stupefaction as he cut his meat with one hand, until he
 was recalled to himself by symptoms of choking on his own part, and was
-by that means restored to consciousness. At other times he resorted to
 such small devices as asking him for the salt, the pepper, the vinegar,
 the mustard--anything that was on his maimed side--and watching him as
 he handed it. By dint of these experiments, he did at last so satisfy
@@ -23965,12 +23528,6 @@ bless you!’
 His hand DID tremble; but for all that, he took it away again, and left
 her.
 
-
-
-Chapter 73
-
-
-By this Friday night--for it was on Friday in the riot week, that Emma
 and Dolly were rescued, by the timely aid of Joe and Edward Chester--the
 disturbances were entirely quelled, and peace and order were restored
 to the affrighted city. True, after what had happened, it was impossible
@@ -24007,7 +23564,6 @@ for many weeks, the labourers’ spades proved this, beyond a doubt.
 
 Seventy-two private houses and four strong jails were destroyed in the
 four great days of these riots. The total loss of property, as estimated
-by the sufferers, was one hundred and fifty-five thousand pounds; at the
 lowest and least partial estimate of disinterested persons, it exceeded
 one hundred and twenty-five thousand pounds. For this immense loss,
 compensation was soon afterwards made out of the public purse, in
@@ -24259,7 +23815,6 @@ so that I may understand you.’
 The hand of Him who set His curse on murder, is heavy on us now. You
 cannot doubt it. Our son, our innocent boy, on whom His anger fell
 before his birth, is in this place in peril of his life--brought here
-by your guilt; yes, by that alone, as Heaven sees and knows, for he
 has been led astray in the darkness of his intellect, and that is the
 terrible consequence of your crime.’
 
@@ -24365,11 +23920,6 @@ Of all his forty thousand men, not one remained to bear him company.
 Friends, dependents, followers,--none were there. His fawning secretary
 had played the traitor; and he whose weakness had been goaded and urged
 on by so many for their own purposes, was desolate and alone.
-
-
-
-Chapter 74
-
 
 Mr Dennis, having been made prisoner late in the evening, was removed to
 a neighbouring round-house for that night, and carried before a justice
@@ -24639,11 +24189,6 @@ dress, which he was hardy enough to venture upon, notwithstanding his
 dangerous humour, Mr Dennis, who burnt, for reasons of his own, to
 pursue the conversation, had no alternative but to sit as patiently as
 he could: waiting his further pleasure.
-
-
-
-Chapter 75
-
 
 A month has elapsed,--and we stand in the bedchamber of Sir John
 Chester. Through the half-opened window, the Temple Garden looks green
@@ -25083,11 +24628,6 @@ that occurred to him in support of his last observation), the same
 imperturbable, fascinating, elegant gentleman he had seen yesterday, and
 many yesterdays before.
 
-
-
-Chapter 76
-
-
 As the locksmith walked slowly away from Sir John Chester’s chambers,
 he lingered under the trees which shaded the path, almost hoping that
 he might be summoned to return. He had turned back thrice, and still
@@ -25102,7 +24642,6 @@ fear of death that swallowed up all other thoughts, and gnawed without
 cessation at his heart and brain. He had marked the wandering look,
 seeking for hope, and finding, turn where it would, despair. He had seen
 the remorseful, pitiful, desolate creature, riding, with his coffin
-by his side, to the gibbet. He knew that, to the last, he had been an
 unyielding, obdurate man; that in the savage terror of his condition he
 had hardened, rather than relented, to his wife and child; and that the
 last words which had passed his white lips were curses on them as his
@@ -25214,7 +24753,6 @@ did I hear you talking of this as if it was a treat?’
 ‘I an’t unconsistent,’ screamed the miserable creature; ‘I’d talk so
 again, if I was hangman. Some other man has got my old opinions at this
 minute. That makes it worse. Somebody’s longing to work me off. I know
-by myself that somebody must be!’
 
 ‘He’ll soon have his longing,’ said Hugh, resuming his walk. ‘Think of
 that, and be quiet.’
@@ -25297,11 +24835,6 @@ and saw him flourish his hat. Then he turned away himself, like one who
 walked in his sleep; and, without any sense of fear or sorrow, lay down
 on his pallet, listening for the clock to strike again.
 
-
-
-Chapter 77
-
-
 The time wore on. The noises in the streets became less frequent by
 degrees, until silence was scarcely broken save by the bells in church
 towers, marking the progress--softer and more stealthy while the city
@@ -25354,7 +24887,6 @@ of the jail, and knowing or being supposed to know all that was passing
 within, became an object of as much interest, and was as eagerly looked
 for, and as awfully pointed out, as if he had been a spirit.
 
-By and by, the feeble light grew stronger, and the houses with their
 signboards and inscriptions, stood plainly out, in the dull grey
 morning. Heavy stage waggons crawled from the inn-yard opposite; and
 travellers peeped out; and as they rolled sluggishly away, cast many
@@ -25684,7 +25216,6 @@ There’s one, belongs to me, at the house I came from, and it wouldn’t
 be easy to find a better. He’ll whine at first, but he’ll soon get over
 that.--You wonder that I think about a dog just now,’ he added, with a
 kind of laugh. ‘If any man deserved it of me half as well, I’d think of
-HIM.’
 
 He spoke no more, but moved onward in his place, with a careless air,
 though listening at the same time to the Service for the Dead, with
@@ -25743,11 +25274,6 @@ if they lived in their memory: and while one great multitude fought
 and hustled to get near the gibbet before Newgate, for a parting look,
 another followed in the train of poor lost Barnaby, to swell the throng
 that waited for him on the spot.
-
-
-
-Chapter 78
-
 
 On this same day, and about this very hour, Mr Willet the elder sat
 smoking his pipe in a chamber at the Black Lion. Although it was hot
@@ -25973,9 +25499,6 @@ not?’ went out for a walk.
 
 
 
-Chapter 79
-
-
 Old John did not walk near the Golden Key, for between the Golden Key
 and the Black Lion there lay a wilderness of streets--as everybody
 knows who is acquainted with the relative bearings of Clerkenwell and
@@ -26193,7 +25716,6 @@ above-stairs: and the locksmith’s wife, bursting in, and fairly running
 into Mr Haredale’s arms, cried out:
 
 ‘She knows it all, dear sir!--she knows it all! We broke it out to her
-by degrees, and she is quite prepared.’ Having made this communication,
 and furthermore thanked Heaven with great fervour and heartiness, the
 good lady, according to the custom of matrons, on all occasions of
 excitement, fainted away directly.
@@ -26331,10 +25853,6 @@ of affection, as though they were things of course?’
 
 They had reached the gate by this time, and bidding each other good
 night, departed on their separate ways.
-
-
-
-Chapter 80
 
 
 That afternoon, when he had slept off his fatigue; had shaved, and
@@ -26637,12 +26155,6 @@ locksmith, as he followed his wife to the window, and good-humouredly
 dried her eyes. ‘What does it matter? You had seen your fault before.
 Come! Bring up Toby again, my dear; Dolly shall sing us a song; and
 we’ll be all the merrier for this interruption!’
-
-
-
-Chapter 81
-
-
 Another month had passed, and the end of August had nearly come, when Mr
 Haredale stood alone in the mail-coach office at Bristol. Although but a
 few weeks had intervened since his conversation with Edward Chester and
@@ -26992,12 +26504,6 @@ with scorn and hatred in his look; but, seeming to remember, even then,
 that this expression would distort his features after death, he tried
 to smile, and, faintly moving his right hand, as if to hide his bloody
 linen in his vest, fell back dead--the phantom of last night.
-
-
-
-Chapter the Last
-
-
 A parting glance at such of the actors in this little history as it has
 not, in the course of its events, dismissed, will bring it to an end.
 
@@ -27117,7 +26623,6 @@ the atmosphere of wedlock, and brighten its horizon. In some of these
 gusts of bad weather, Mr Tappertit would, in the assertion of his
 prerogative, so far forget himself, as to correct his lady with a brush,
 or boot, or shoe; while she (but only in extreme cases) would retaliate
-by taking off his legs, and leaving him exposed to the derision of those
 urchins who delight in mischief.
 
 Miss Miggs, baffled in all her schemes, matrimonial and otherwise, and
@@ -27152,7 +26657,6 @@ the locksmith could afford to give his daughter a good dowry), reopened
 the Maypole. It was not very long, you may be sure, before a red-faced
 little boy was seen staggering about the Maypole passage, and kicking up
 his heels on the green before the door. It was not very long, counting
-by years, before there was a red-faced little girl, another red-faced
 little boy, and a whole troop of girls and boys: so that, go to Chigwell
 when you would, there would surely be seen, either in the village
 street, or on the green, or frolicking in the farm-yard--for it was a
@@ -27229,7 +26733,6 @@ was perfectly independent.
 
 Some time elapsed before Barnaby got the better of the shock he had
 sustained, or regained his old health and gaiety. But he recovered
-by degrees: and although he could never separate his condemnation and
 escape from the idea of a terrific dream, he became, in other respects,
 more rational. Dating from the time of his recovery, he had a better
 memory and greater steadiness of purpose; but a dark cloud overhung his
