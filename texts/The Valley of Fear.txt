@@ -1,31 +1,12 @@
 
 
-
-
-
-THE VALLEY OF FEAR
-
-By Sir Arthur Conan Doyle
-
-
-
-
-Part 1--The Tragedy of Birlstone
-
-
-
-
-Chapter 1--The Warning
-
-
-
 “I am inclined to think--” said I.
 
 “I should do so,” Sherlock Holmes remarked impatiently.
 
 I believe that I am one of the most long-suffering of mortals; but I'll
 admit that I was annoyed at the sardonic interruption. “Really, Holmes,”
- said I severely, “you are a little trying at times.”
+said I severely, “you are a little trying at times.”
 
 He was too much absorbed with his own thoughts to give any immediate
 answer to my remonstrance. He leaned upon his hand, with his untasted
@@ -101,8 +82,6 @@ Again Holmes flattened out the paper upon his unused plate. I rose and,
 leaning over him, stared down at the curious inscription, which ran as
 follows:
 
-534 C2 13 127 36 31 4 17 21 41 DOUGLAS 109 293 5 37 BIRLSTONE 26
-BIRLSTONE 9 47 171
 
 “What do you make of it, Holmes?”
 
@@ -157,7 +136,6 @@ sending you the key to the cipher. I was able to cover it up. If he had
 seen it, it would have gone hard with me. But I read suspicion in his
 eyes. Please burn the cipher message, which can now be of no use to you.
 
-“FRED PORLOCK.”
 
 Holmes sat for some little time twisting this letter between his
 fingers, and frowning, as he stared into the fire.
@@ -375,13 +353,8 @@ horribly murdered last night!”
 
 
 
-Chapter 2--Sherlock Holmes Discourses
-
-
-
 It was one of those dramatic moments for which my friend existed. It
 would be an overstatement to say that he was shocked or even excited
-by the amazing announcement. Without having a tinge of cruelty in
 his singular composition, he was undoubtedly callous from long
 overstimulation. Yet, if his emotions were dulled, his intellectual
 perceptions were exceedingly active. There was no trace then of the
@@ -725,12 +698,6 @@ great brain in London, and a dead man in Sussex. It's the chain between
 that we are going to trace.”
 
 
-
-
-Chapter 3--The Tragedy of Birlstone
-
-
-
 Now for a moment I will ask leave to remove my own insignificant
 personality and to describe events which occurred before we arrived upon
 the scene by the light of knowledge which came to us afterwards. Only in
@@ -756,7 +723,6 @@ huge beech trees, is the ancient Manor House of Birlstone. Part of this
 venerable building dates back to the time of the first crusade, when
 Hugo de Capus built a fortalice in the centre of the estate, which had
 been granted to him by the Red King. This was destroyed by fire in
-1543, and some of its smoke-blackened corner stones were used when, in
 Jacobean times, a brick country house rose upon the ruins of the feudal
 castle.
 
@@ -1038,7 +1004,6 @@ fellow gets away?”
 The sergeant considered for a moment.
 
 “There are no trains before six in the morning; so he can't get away
-by rail. If he goes by road with his legs all dripping, it's odds that
 someone will notice him. Anyhow, I can't leave here myself until I am
 relieved. But I think none of you should go until we see more clearly
 how we all stand.”
@@ -1098,12 +1063,6 @@ man. No local job has ever been too much for White Mason. It won't be
 long now before he is here to help us. But I expect we'll have to look
 to London before we are through. Anyhow, I'm not ashamed to say that it
 is a deal too thick for the likes of me.”
-
-
-
-
-Chapter 4--Darkness
-
 
 
 At three in the morning the chief Sussex detective, obeying the urgent
@@ -1193,7 +1152,7 @@ me. There is some evidence then, that this man who entered the house and
 killed its master was an American.”
 
 MacDonald shook his head. “Man, you are surely travelling overfast,”
- said he. “I have heard no evidence yet that any stranger was ever in the
+said he. “I have heard no evidence yet that any stranger was ever in the
 house at all.”
 
 “The open window, the blood on the sill, the queer card, the marks of
@@ -1514,7 +1473,7 @@ stranger?”
 
 “Well, unless he has a burrow close by or a change of clothes ready,
 they can hardly miss him. And yet they HAVE missed him up to now!”
- Holmes had gone to the window and was examining with his lens the blood
+Holmes had gone to the window and was examining with his lens the blood
 mark on the sill. “It is clearly the tread of a shoe. It is remarkably
 broad; a splay-foot, one would say. Curious, because, so far as one can
 trace any footmark in this mud-stained corner, one would say it was a
@@ -1560,12 +1519,6 @@ without it? We don't seem to get a gleam of light in the case, Mr.
 Holmes.”
 
 “Don't we?” my friend answered thoughtfully. “I wonder!”
-
-
-
-
-Chapter 5--The People of the Drama
-
 
 
 “Have you seen all you want of the study?” asked White Mason as we
@@ -1653,7 +1606,6 @@ lamentations and expressions of amazement.
 Cecil Barker succeeded Mrs. Allen as a witness. As to the occurrences of
 the night before, he had very little to add to what he had already told
 the police. Personally, he was convinced that the murderer had escaped
-by the window. The bloodstain was conclusive, in his opinion, on that
 point. Besides, as the bridge was up, there was no other possible way of
 escaping. He could not explain what had become of the assassin or why he
 had not taken his bicycle, if it were indeed his. He could not possibly
@@ -2076,12 +2028,6 @@ professional satisfaction. “I said it was a snorter!” he cried. “And a
 real snorter it is!”
 
 
-
-
-Chapter 6--A Dawning Light
-
-
-
 The three detectives had many matters of detail into which to inquire;
 so I returned alone to our modest quarters at the village inn. But
 before doing so I took a stroll in the curious old-world garden which
@@ -2321,7 +2267,6 @@ over whose head some danger hangs--”
 “We have only their word for that.”
 
 Holmes looked thoughtful. “I see, Watson. You are sketching out a theory
-by which everything they say from the beginning is false. According
 to your idea, there was never any hidden menace, or secret society, or
 Valley of Fear, or Boss MacSomebody, or anything else. Well, that is a
 good sweeping generalization. Let us see what that brings us to. They
@@ -2423,7 +2368,7 @@ from their expedition, and they arrived exultant, reporting a great
 advance in our investigation.
 
 “Man, I'll admeet that I had my doubts if there was ever an outsider,”
- said MacDonald, “but that's all past now. We've had the bicycle
+said MacDonald, “but that's all past now. We've had the bicycle
 identified, and we have a description of our man; so that's a long step
 on our journey.”
 
@@ -2523,7 +2468,6 @@ could see the drawbridge go up, and he knew that his only escape was
 through the moat. He waited until quarter-past eleven, when Mr. Douglas
 upon his usual nightly round came into the room. He shot him and
 escaped, as arranged. He was aware that the bicycle would be described
-by the hotel people and be a clue against him; so he left it there and
 made his way by some other means to London or to some safe hiding place
 which he had already arranged. How is that, Mr. Holmes?”
 
@@ -2575,12 +2519,6 @@ softening of the brain, an idiot whose mind has lost its grip?”
 night.
 
 
-
-
-Chapter 7--The Solution
-
-
-
 Next morning, after breakfast, we found Inspector MacDonald and White
 Mason seated in close consultation in the small parlour of the local
 police sergeant. On the table in front of them were piled a number of
@@ -2627,7 +2565,7 @@ I would not have you waste your energies in East Ham or Liverpool. I am
 sure that we can find some shorter cut to a result.”
 
 “You are holding something back. It's hardly fair of you, Mr. Holmes.”
- The inspector was annoyed.
+The inspector was annoyed.
 
 “You know my methods of work, Mr. Mac. But I will hold it back for the
 shortest time possible. I only wish to verify my details in one way,
@@ -2647,7 +2585,6 @@ last night at the Manor House.”
 “Well, what happened?”
 
 “Ah, I can only give you a very general answer to that for the moment.
-By the way, I have been reading a short but clear and interesting
 account of the old building, purchasable at the modest sum of one penny
 from the local tobacconist.”
 
@@ -2808,13 +2745,13 @@ example.
 “Well, what are we to do now?” asked MacDonald with some gruffness.
 
 “Possess our souls in patience and make as little noise as possible,”
- Holmes answered.
+Holmes answered.
 
 “What are we here for at all? I really think that you might treat us
 with more frankness.”
 
 Holmes laughed. “Watson insists that I am the dramatist in real life,”
- said he. “Some touch of the artist wells up within me, and calls
+said he. “Some touch of the artist wells up within me, and calls
 insistently for a well-staged performance. Surely our profession, Mr.
 Mac, would be a drab and sordid one if we did not sometimes set the
 scene so as to glorify our results. The blunt accusation, the brutal tap
@@ -3031,7 +2968,7 @@ may be again. I had persuaded myself that we should find Mr. Douglas
 under this roof.”
 
 “And how long have you been playing this trick upon us, Mr. Holmes?”
- said the inspector angrily. “How long have you allowed us to waste
+said the inspector angrily. “How long have you allowed us to waste
 ourselves upon a search that you knew to be an absurd one?”
 
 “Not one instant, my dear Mr. Mac. Only last night did I form my views
@@ -3125,7 +3062,6 @@ could hear nothing, and that all that had happened was known only to
 ourselves.
 
 “It was at that instant that the idea came to me. I was fairly dazzled
-by the brilliance of it. The man's sleeve had slipped up and there was
 the branded mark of the lodge upon his forearm. See here!”
 
 The man whom we had known as Douglas turned up his own coat and cuff
@@ -3142,7 +3078,7 @@ find and put them through the window. The card he had meant to lay upon
 my body was lying beside his own.
 
 “My rings were put on his finger; but when it came to the wedding ring,”
- he held out his muscular hand, “you can see for yourselves that I had
+he held out his muscular hand, “you can see for yourselves that I had
 struck the limit. I have not moved it since the day I was married, and
 it would have taken a file to get it off. I don't know, anyhow, that I
 should have cared to part with it; but if I had wanted to I couldn't.
@@ -3200,17 +3136,6 @@ you read on you will find that this is not so. And when I have detailed
 those distant events and you have solved this mystery of the past, we
 shall meet once more in those rooms on Baker Street, where this, like so
 many other wonderful happenings, will find its end.
-
-
-
-
-
-Part 2--The Scowrers
-
-
-
-
-Chapter 1--The Man
 
 
 
@@ -3382,7 +3307,7 @@ Scanlan groaned sympathetically. “In trouble?” he asked in a whisper.
 a man who had been surprised into saying more than he intended. “I've
 my own good reasons for leaving Chicago, and let that be enough for you.
 Who are you that you should take it on yourself to ask such things?”
- His gray eyes gleamed with sudden and dangerous anger from behind his
+His gray eyes gleamed with sudden and dangerous anger from behind his
 glasses.
 
 “All right, mate, no offense meant. The boys will think none the worse
@@ -3582,13 +3507,6 @@ So it was that McMurdo, the self-confessed fugitive from justice, took
 up his abode under the roof of the Shafters, the first step which was
 to lead to so long and dark a train of events, ending in a far distant
 land.
-
-
-
-
-Chapter 2--The Bodymaster
-
-
 
 McMurdo was a man who made his mark quickly. Wherever he was the folk
 around soon knew it. Within a week he had become infinitely the most
@@ -4315,12 +4233,6 @@ Chicago. Saturday night is our meeting, and if you come then, we'll make
 you free forever of the Vermissa Valley.”
 
 
-
-
-Chapter 3--Lodge 341, Vermissa
-
-
-
 On the day following the evening which had contained so many exciting
 events, McMurdo moved his lodgings from old Jacob Shafter's and took up
 his quarters at the Widow MacNamara's on the extreme outskirts of the
@@ -4496,14 +4408,13 @@ occasionally did leave his mark upon his assailants.
 
 McMurdo had been warned that some ordeal lay before him; but no one
 would tell him in what it consisted. He was led now into an outer room
-by two solemn brothers. Through the plank partition he could hear the
 murmur of many voices from the assembly within. Once or twice he caught
 the sound of his own name, and he knew that they were discussing his
 candidacy. Then there entered an inner guard with a green and gold sash
 across his chest.
 
 “The Bodymaster orders that he shall be trussed, blinded, and entered,”
- said he.
+said he.
 
 The three of them removed his coat, turned up the sleeve of his right
 arm, and finally passed a rope round above the elbows and made it fast.
@@ -4617,7 +4528,6 @@ last fall. You will send two good men, they will be taken charge of by
 Treasurer Higgins of this lodge, whose address you know. He will show
 them when to act and where. Yours in freedom,
 
-“J.W. WINDLE D.M.A.O.F.”
 
 “Windle has never refused us when we have had occasion to ask for the
 loan of a man or two, and it is not for us to refuse him.” McGinty
@@ -4671,7 +4581,7 @@ laugh. “What think you of our ways, Brother?”
 
 McMurdo's criminal soul seemed to have already absorbed the spirit of
 the vile association of which he was now a member. “I like it well,”
- said he. “'Tis a proper place for a lad of mettle.”
+said he. “'Tis a proper place for a lad of mettle.”
 
 Several of those who sat around heard his words and applauded them.
 
@@ -4781,7 +4691,7 @@ members of this lodge stand together there is no power in the United
 States that can touch them. Sure, have we not tried it often enough in
 the lawcourts? I expect the big companies will find it easier to pay
 than to fight, same as the little companies do. And now, Brethren,”
- McGinty took off his black velvet cap and his stole as he spoke, “this
+McGinty took off his black velvet cap and his stole as he spoke, “this
 lodge has finished its business for the evening, save for one small
 matter which may be mentioned when we are parting. The time has now come
 for fraternal refreshment and for harmony.”
@@ -4812,11 +4722,9 @@ again?”
 There was a murmur of assent, with many a muttered oath. McGinty took a
 slip of paper from his waistcoat pocket.
 
-“LAW AND ORDER!”
 
 That's how he heads it.
 
-“REIGN OF TERROR IN THE COAL AND IRON DISTRICT
 
 “Twelve years have now elapsed since the first assassinations which
 proved the existence of a criminal organization in our midst. From that
@@ -4857,7 +4765,7 @@ A general shout of anger greeted the suggestion.
 
 “I have but to raise my finger,” cried McGinty, “and I could put two
 hundred men into this town that would clear it out from end to end.”
- Then suddenly raising his voice and bending his huge black brows into
+Then suddenly raising his voice and bending his huge black brows into
 a terrible frown, “See here, Brother Morris, I have my eye on you, and
 have had for some time! You've no heart yourself, and you try to take
 the heart out of others. It will be an ill day for you, Brother Morris,
@@ -4956,13 +4864,6 @@ the Boss that the job had been well carried through. Others, and among
 them McMurdo, broke away into side streets, and so by devious paths to
 their own homes.
 
-
-
-
-Chapter 4--The Valley of Fear
-
-
-
 When McMurdo awoke next morning he had good reason to remember his
 initiation into the lodge. His head ached with the effect of the drink,
 and his arm, where he had been branded, was hot and swollen. Having his
@@ -4971,7 +4872,6 @@ work; so he had a late breakfast, and remained at home for the morning
 writing a long letter to a friend. Afterwards he read the Daily Herald.
 In a special column put in at the last moment he read:
 
-OUTRAGE AT THE HERALD OFFICE--EDITOR SERIOUSLY INJURED.
 
 It was a short account of the facts with which he was himself more
 familiar than the writer could have been. It ended with the statement:
@@ -5202,7 +5102,6 @@ prepared. He burst into a hearty laugh. “Morris didn't know I could earn
 a living here at home. He shan't know either; for he has got too much
 conscience for the likes of me. But he's a good-hearted old chap. It was
 his idea that I was at a loose end, and that he would do me a good turn
-by offering me a clerkship in a drygoods store.”
 
 “Oh, that was it?”
 
@@ -5331,7 +5230,6 @@ He did so; but apparently found no trace of the concealed plant. When he
 had descended he and his men escorted McMurdo to headquarters. Darkness
 had fallen, and a keen blizzard was blowing so that the streets were
 nearly deserted; but a few loiterers followed the group, and emboldened
-by invisibility shouted imprecations at the prisoner.
 
 “Lynch the cursed Scowrer!” they cried. “Lynch him!” They laughed and
 jeered as he was pushed into the police station. After a short, formal
@@ -5379,14 +5277,6 @@ fellow, put the thoughts of himself and comrades into words as the
 ex-prisoners passed him.
 
 “You damned murderers!” he said. “We'll fix you yet!”
-
-
-
-
-Chapter 5--The Darkest Hour
-
-
-
 If anything had been needed to give an impetus to Jack McMurdo's
 popularity among his fellows it would have been his arrest and
 acquittal. That a man on the very night of joining the lodge should have
@@ -5880,14 +5770,6 @@ running brooks and blossoming trees. There was hope for all Nature bound
 so long in an iron grip; but nowhere was there any hope for the men and
 women who lived under the yoke of the terror. Never had the cloud above
 them been so dark and hopeless as in the early summer of the year 1875.
-
-
-
-
-Chapter 6--Danger
-
-
-
 It was the height of the reign of terror. McMurdo, who had already
 been appointed Inner Deacon, with every prospect of some day succeeding
 McGinty as Bodymaster, was now so necessary to the councils of his
@@ -5898,7 +5780,6 @@ spite of their terror the citizens were taking heart to band themselves
 together against their oppressors. Rumours had reached the lodge of
 secret gatherings in the Herald office and of distribution of firearms
 among the law-abiding people. But McGinty and his men were undisturbed
-by such reports. They were numerous, resolute, and well armed. Their
 opponents were scattered and powerless. It would all end, as it had done
 in the past, in aimless talk and possibly in impotent arrests. So said
 McGinty, McMurdo, and all the bolder spirits.
@@ -6290,14 +6171,6 @@ Edwards's luck for the rest of his days!”
 “There's going to be a vacancy at Pinkerton's or I'm mistaken. Leave it
 at that, McMurdo. At nine to-morrow we'll be with you. You once get the
 door shut behind him, and you can leave the rest with us.”
-
-
-
-
-Chapter 7--The Trapping of Birdy Edwards
-
-
-
 As McMurdo had said, the house in which he lived was a lonely one and
 very well suited for such a crime as they had planned. It was on the
 extreme fringe of the town and stood well back from the road. In any
@@ -6719,7 +6592,6 @@ Douglas this morning:
 “'Jack has been lost overboard in gale off St. Helena. No one knows how
 accident occurred.'
 
-“'IVY DOUGLAS.'”
 
 “Ha! It came like that, did it?” said Holmes thoughtfully. “Well, I've
 no doubt it was well stage-managed.”

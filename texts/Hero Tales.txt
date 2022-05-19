@@ -2,50 +2,9 @@
 
 
 
-HERO TALES
-
-
-BY
-
-JAMES BALDWIN
 
 
 
-
-
-Author of "The Story of Siegfried," "The Story of Roland," "A Story of
-the Golden Age," "Baldwin's Readers," etc.
-
-
-
-
-
-
-
-NEW YORK
-
-CHARLES SCRIBNER'S SONS
-
-1914
-
-
-
-
-COPYRIGHT, 1904, BY
-
-CHARLES SCRIBNER'S SONS
-
-
-
-
-TO
-
-CARRIE EDITH AND NELLIE MAY
-
-
-
-
-INTRODUCTION
 
 In the world's literature there are certain stories which, told ages
 ago, can never be forgotten.  They have within them that which gives
@@ -133,31 +92,29 @@ permit or as my audience of school children may demand.  Nevertheless,
 in the end, the essential features of each tale--those which give it
 value in its original form--remain unchanged.
 
-CONTENTS
 
 
-  How Apollo Came to Parnassus
-  The Hunt in the Wood of Calydon
-  The Choice of Hercules
-  Alpheus and Arethusa
-  The Golden Apple
-  Paris and Oenone
-  Hesione
-  Paris and Helen
-  Iphigenia
-  The Hoard of the Elves
-  The Forging of Balmung
-  Idun and Her Apples
-  The Doom of the Mischief-maker
-  The Hunt in the Wood of Puelle
-  Ogier the Dane and the Fairies
-  How Charlemagne Crossed the Alps
-  What Happened at Roncevaux
+How Apollo Came to Parnassus
+The Hunt in the Wood of Calydon
+The Choice of Hercules
+Alpheus and Arethusa
+The Golden Apple
+Paris and Oenone
+Hesione
+Paris and Helen
+Iphigenia
+The Hoard of the Elves
+The Forging of Balmung
+Idun and Her Apples
+The Doom of the Mischief-maker
+The Hunt in the Wood of Puelle
+Ogier the Dane and the Fairies
+How Charlemagne Crossed the Alps
+What Happened at Roncevaux
 
 
 
 
-HOW APOLLO CAME TO PARNASSUS
 
 A very long time ago, Apollo was born in the island of Delos.  When the
 glad news of his birth was told, Earth smiled, and decked herself with
@@ -373,9 +330,7 @@ or with his sister, Artemis, chasing the mountain deer.
 
 
 
-THE HUNT IN THE WOOD OF CALYDON
 
-RELATED BY AUTOLYCUS[1]
 
 "When I was younger than I am to-day," said the old chief, as they sat
 one evening in the light of the blazing brands--"when I was much
@@ -608,7 +563,6 @@ wept and lamented day and night, until kind Artemis in pity for their
 youth changed them into the birds which we call Meleagrides."
 
 
-[1]Autolycus was a famous mountain chief who lived in rude state on the
 slopes of Parnassus and was noted for his courage and cunning.  He was
 the grandfather of Odysseus (Ulysses), to whom the story is supposed to
 have been related.
@@ -616,7 +570,6 @@ have been related.
 
 
 
-THE CHOICE OF HERCULES
 
 When Hercules was a fair-faced youth, and life was all before him, he
 went out one morning to do an errand for his stepfather.  But as he
@@ -652,7 +605,6 @@ or soft couches, or rich robes, or the loving eyes of beautiful
 maidens.  Come with me, and life shall be to you a day-dream of
 gladness."
 
-By this time the other fair woman had drawn near, and she now spoke to
 the lad.  "I have nothing to promise you," said she, "save that which
 you shall win with your own strength.  The road upon which I would lead
 you is uneven and hard, and climbs many a hill, and descends into many
@@ -692,7 +644,6 @@ the pale and distant horizon.
 
 
 
-ALPHEUS AND ARETHUSA
 
 In Arcadia there is a little mountain stream called Alpheus.  It flows
 through woods and meadows and among the hills for many miles, and then
@@ -751,9 +702,7 @@ course of time became the king of the seafaring people of Messene.
 
 
 
-THE GOLDEN APPLE
 
-RELATED BY CHEIRON THE CENTAUR[1]
 
 "There is a cavern somewhere on Mount Pelion larger by far and a
 thousand times more beautiful than this; but its doorway is hidden to
@@ -808,7 +757,6 @@ songs of a happy land in the depths of the sounding sea.  Peleus,
 bearing in mind what I had taught him, arose from his hiding-place, and
 caught the beauteous creature in his arms.  In vain did she struggle to
 leap into the waves.  Seven times she changed her form as he held her:
-by turns she changed into a fountain of water, into a cloud of mist,
 into a burning flame, and into a senseless rock.  But Peleus held her
 fast; and she changed then into a tawny lion, and then into a tall
 tree, and lastly she took her own matchless form again.
@@ -900,7 +848,6 @@ shepherd's reeds, and tended his flock of sheep."
 
 
 
-[1]Cheiron the Centaur lived in a cavern on Mount Pelion and was
 reputed to be the wisest of mortals.  All the young heroes of the time,
 Jason, Achilles, and others, were his pupils and spent their boyhood
 with him.  He is sometimes represented as having the head of a man and
@@ -912,9 +859,7 @@ him in his cavern.
 
 
 
-PARIS AND CENONE
 
-RELATED BY CHEIRON THE CENTAUR
 
 "On the other side of the sea there stands a city, rich and mighty, the
 like of which there is none in Greece.  The name of this city is Troy,
@@ -1131,9 +1076,7 @@ the woods and in the narrow dells of sunny Ida."
 
 
 
-HESIONE
 
-RELATED BY MENELAUS[1]
 
 With troubled brow and anxious heart, Menelaus sat in Nestor's halls,
 and told the story of his wrongs.  Behind him stood his brother,
@@ -1153,7 +1096,6 @@ more about the famous city and its kingly rulers."
 Then Menelaus began once more at the beginning.
 
 
-THE STORY
 
 There is no need that I should speak of my long voyage to Troy, or of
 the causes which persuaded me to undertake it.  When I drew near the
@@ -1171,7 +1113,6 @@ Scamander; while much farther, and on the other side, the wooded peak
 of Ida lifted itself toward the clouds.
 
 But I had not long to view this scene; for a noble company of men led
-by Paris himself, handsome as Apollo, came out of the gate to welcome
 me.  With words of greeting from the king, they bade me enter within
 the walls.  They led me through the Scaean gate and along the
 well-paved streets, until we came, at last, to King Priam's hall.
@@ -1370,7 +1311,6 @@ Here Menelaus paused as if in deep thought, and not until his listeners
 begged him to go on, did he resume his story.
 
 
-[1]Menelaus, king of Lacedaemon, was the husband of Helen, the most
 beautiful woman in the world.  At the time of his marriage to Helen all
 the princes of Greece had vowed to support him against any enemy who
 should attempt to defraud him of his rights.  This and the following
@@ -1379,9 +1319,7 @@ story tell of his visit to Troy and its results.
 
 
 
-PARIS AND HELEN
 
-MENELAUS CONTINUES HIS STORY
 
 "I was glad when King Priam made this request," continued Menelaus,
 "for, in truth, I was loath to part with Paris; and I arranged at once
@@ -1461,7 +1399,6 @@ will take up arms against the power of Troy."
 
 
 
-IPHIGENIA
 
 After nearly ten years of preparation, the princes and warriors of
 Greece gathered their ships and men together at Aulis, ready to make
@@ -1597,7 +1534,6 @@ with this enterprise, and why should the maiden die for me?  Send the
 Greeks to their homes, and let not this great wrong be done."
 
 "But how can I do that now?" asked Agamemnon.  "The warriors, urged on
-by Odysseus and Calchas, will force me to do the deed.  Or, if I flee
 to Mycenae, they will follow me, and slay me, and destroy my city.  Oh,
 woe am I, that such a day should ever dawn upon my sight!"
 
@@ -1784,9 +1720,7 @@ memories of those whom they loved and saved.
 
 
 
-THE HOARD OF THE ELVES
 
-REGIN'S STORY[1]
 
 When the earth was still very young, and men were feeble and few, and
 the Dwarfs were many and strong, the Asa-folk were wont oft-times to
@@ -1936,15 +1870,14 @@ shelving beach, or dashed with force against the shore.
 
 And they answered:
 
-    "In the deep sea-caves
-      By the sounding shore,
-    In the dashing waves
-      When the wild storms roar,
-    In her cold green bowers
-      In the northern fiords,
-    She lurks and she glowers,
-      She grasps and she hoards,
-  And she spreads her strong net for her prey."
+"In the deep sea-caves
+In the dashing waves
+When the wild storms roar,
+In her cold green bowers
+In the northern fiords,
+She lurks and she glowers,
+She grasps and she hoards,
+And she spreads her strong net for her prey."
 
 Loki waited to hear no more; but he sprang into the air, and the magic
 shoes carried him onwards over the water In search of the Ocean-queen.
@@ -2059,7 +1992,6 @@ should ever possess it, saying:
 
 "May the ill-gotten treasure that you have seized to-night be your
 bane, and the bane of all to whom it may come, whether by fair means or
-by foul!  And the ring which you have torn from my hand, may it entail
 upon the one who wears it sorrow and untold ills, the loss of friends,
 and a violent death!"
 
@@ -2170,14 +2102,11 @@ the Glittering Heath, and guards as of yore the garnered wealth of
 Andvari.
 
 
-[1]Regin, one of the last of the race of Dwarfs, was a master smith and
-by some said to be the teacher of Siegfried.  The story is supposed to
 have been related to Siegfried in the dusky smithy of the dwarf.
 
 
 
 
-THE FORGING OF BALMUNG
 
 While Siegfried was still a young lad, his father sent him to live with
 a smith called Mimer, whose smithy was among the hills not far from the
@@ -2409,9 +2338,7 @@ piece of workmanship.
 
 
 
-IDUN AND HER APPLES
 
-THE STORY TOLD IN AEGIR'S HALL
 
 Idun is Bragi's wife.  Very handsome is she; but the beauty of her face
 is by no means greater than the goodness of her heart.  Right attentive
@@ -2537,7 +2464,6 @@ closed the lid, and locked it with her usual care.
 very wry face.  "Why don't you fill your box with fresh fruit?"
 
 Idun was amazed.  Her apples were supposed to be always fresh,--fresher
-by far than any that grow nowadays.  None of the Asas had ever before
 complained about them; and she told Loki so.
 
 "Very well," said he.  "I see you do not believe me, and that you mean
@@ -2651,7 +2577,6 @@ earth is young again.
 
 
 
-THE DOOM OF THE MISCHIEF-MAKER.
 
 You have heard of the feast that old Aegir once made for the Asa-folk
 in his gold-lit dwelling in the deep sea, and how the feast was
@@ -2942,9 +2867,7 @@ until the last great day and the dread twilight of all mid-world things.
 
 
 
-THE HUNT IN THE WOOD OF PUELLE
 
-RELATED BY THE MINSTREL OF LORRAINE[1]
 
 Charles the Hammer was dead, and his young son Pepin was king of
 France.  Bego of Belin was his dearest friend, and to him he had given
@@ -3061,7 +2984,6 @@ his mouth foaming with rage, turned furiously upon him.  But the duke,
 with a well-aimed thrust of his sword, pierced the great beast through
 his heart.
 
-By this time, night was falling.  The duke knew that he was very far
 from any town or castle, but he hoped that some of his men might be
 within call.  He took his horn, and blew it twice full loudly.  But his
 huntsmen were now riding into Valenciennes; nor did they think that
@@ -3073,7 +2995,6 @@ The forester who kept the wood heard the sound of Bego's horn, and saw
 the light of the fire gleaming through the trees.  Cautiously he drew
 nearer.  He was surprised to see a knight so richly clad, with his
 silken hose and his golden spurs, his ivory horn hanging from his neck
-by a blue ribbon.  He noticed the great sword that hung at Bego's side.
 It was the fairest and fearfulest weapon he had ever seen.  He hastened
 as fast as he could ride to Lens, where Duke Fromont dwelt; but he
 spoke not a word to Fromont.  He took the steward of the castle aside,
@@ -3220,19 +3141,16 @@ bewailed his misfortunes, and said to his friends, "I have not land
 enough to rest upon alive, or to lie upon dead."
 
 
-[1]The original of this tale is found in "The Song of the Lorrainers,"
 a famous poem written by Jehan de Flagy, a minstrel of the twelfth
 century.  In the "Story of Roland" it is supposed to have been related
 at the court of Charlemagne by a minstrel of Lorraine.
 
-[2]_The vair and the gray_,--furs used for garments, and in heraldry.
 Vair is the skin of the squirrel, and was arranged in shields of blue
 and white alternating.
 
 
 
 
-OGIER THE DANE AND THE FAIRIES
 
 When Ogier the Dane was but a babe in his mother's arms, there was
 heard one day, in his father's castle, the sweetest music that mortals
@@ -3311,7 +3229,6 @@ spirit had flown away to fairyland.
 
 
 
-HOW CHARLEMAGNE CROSSED THE ALPS
 
 It was near the time of the solemn festival of Easter,--the time when
 Nature seems to rise from the grave, and the Earth puts on anew her
@@ -3522,7 +3439,6 @@ from Aosta.
 
 
 
-WHAT HAPPENED AT RONCEVAUX
 
 In all the world there was not such another king as Charlemagne.
 Wherever his arms were carried, there victory followed; and neither
@@ -3735,7 +3651,6 @@ Mountains fell upon him and crushed him; the earth yawned and swallowed
 him; perils beset him on every side: but amid them all, the face of
 Ganelon was ever to be seen.
 
-By and by the army came to the Pyrenees, and the great land of France
 lay just beyond the mountains.
 
 "To whom now," said the king to his peers, "shall we intrust our
@@ -4008,201 +3923,3 @@ this day in the beautiful little chapel of St. Roman's.  And he took
 the ivory horn to Bordeaux, and filled it with fine gold, and laid it
 on the altar of the church in that city; and there it is still seen by
 the pious pilgrims who visit that place.
-
-
-
-
-VOCABULARY OF PROPER NAMES
-
- _Ac ar nā' nĭ a_, the most western province of ancient Greece.
- _A chĭl' lēs_ (á kĭl' lēz), the ideal hero of the Greeks.
- _Ae' gir_ (a' jĭr), in Norse legends, the ruler of the sea.
- _Ag a mē' dēs_ (-dēz), one of the architects of the temple at Delphi.
- _Ag a mĕm' non_, king of Mycenae and leader of the Greeks.
- _Aix_ (āks), a city of France, favorite residence of Charlemagne.
- _A' jăx_, a Greek hero second only to Achilles.
- _Al ex ăn' drŏs_, a name applied to Paris, prince of Troy.
- _Al phē' ŭs_, a hunter transformed into a river of Greece.
- _Al thē' a_, queen of Calydon, mother of Meleager.
- _A mĭl' ĭ as_, a mythical smith of Burgundy.
- _And' vä rï_, a dwarf, the keeper of the Rhine treasure.
- _An tĭl' o chus_ (-kus), a Greek prince and friend of Achilles.
- _A ŏs' tä_, a town in northern Italy.
- _Aph ro dī' tē_, in Greek mythology, the goddess of love.
- _A pŏl' lo_, in Greek mythology, the god of music, poetry, and healing.
- _Ar cā' dĭ a_, a mountainous country in Greece.
- _Ardennes_ (är dĕn'), a forest in northern France.
- _Ar e thū' sa_, a nymph loved by Alpheus.
- _Ar' go_, the ship that carried Jason and his companions.
- _Ar' tē nĭs_, twin sister of Apollo; goddess of the woods.
- _Ar' thur_, a heroic legendary king of Britain.
- _As' as_ (äs åz), the gods of the North.
- _As' gärd_, in Norse mythology, the home of the gods or Asas.
- _Ash' ta rŏth_, an evil spirit.
- _At a lăn' ta_, an Arcadian princess and swift-footed huntress.
- _A the' na_, the goddess of knowledge, arts, and sciences.
- _At' ro pŏs_, one of the three Fates.
- _Au' lis_, a town on the east coast of Greece.
- _Au tŏl' y cus_, a famous Greek chieftain, grandfather of Odysseus.
- _Av' a lon_, fairyland (in mediaeval legends).
-
- _Băl' ĭ os_, "Swift," one of the horses given to Peleus.
- _Bäl' mŭng_, the sword of Siegfried.
- _Bē' a trĭce_, the wife of Eego of Belin.
- _Be gō'_ (bā gō'), duke of Belin and feudal chief of Gascony.
- _Ber en ger'_ (-än zhā'), a friend of Bego.
- _Blaye_ (blā), a seaport of France, 21 miles from Bordeaux.
- _Bō' re as_, the North Wind.
- _Bor deaux'_ (-dō'), a city on west coast of France.
- _Bŭr' gun dy_, a duchy including a part of northeastern France.
-
- _Căl' chas_ (kăl' kăl), a soothsayer of Mycense.
- _Căl' y don_, a city in ancient Greece.
- _Cas san' dra_, a prophetess, the daughter of Priam.
- _Cas tor_, twin brother of Pollux and brother of Helen.
- _Cĕn' taur_, one of an ancient race inhabiting the country near
-      Mount Pelion, said to have the bodies of horses.
- _Charlemagne_ (shär' le mān), king of the Franks, 742-814.
- _Cheiron_ (kī' ron), a Centaur famed for his wisdom.
- _Clē ō pā' tra_, the wife of Meleager.
- _Clō' thō_, one of the three Fates.
- _Clyt' em nĕs tra_, the wife of Agamemnon.
- _Crete (krēt)_, an island southeast of Greece.
- _Crĭs' sa_, a gulf in Greece, now called Gulf of Corinth.
-
- _Där' da nus_, ancestor of the people of Troy.
- _Dē' lŏs_, a small island east of Greece.
- _Dĕl' phī_, a town at the foot of Mount Parnassus, the seat
-      of the oracle of Apollo.
- _Dū răn' dal_, the sword of Roland.
-
- _E' lis_, a country in southern Greece.
- _E' rin_, the ancient name for Ireland.
- _E' ris_, the goddess of discord.
- _Euboea_ (u bē' a), a large island east of Greece.
-
- _Fäf' nïr_, a dragon that guarded the Rhine treasure.
- _Fa năn' der_, a cataract referred to in Norse mythology.
- _Frō mōnt'_, duke of Bordeaux.
-
- _Gä' ne lon_, a duke of Mayence noted for his treachery.
- _Gä rin'_ (-rănh), one of the sons of Bego of Belia.
- _Găs' cō ny_, an ancient duchy of France.
- _Gerin_ (zhẽ rănh'), a brother of Bego of Belio.
-
- _Hā' dēs_, the land of the shades, or of the dead.
- _Hault'_ clear, the sword of Oliver.
- _He' bē_, the goddess of youth and spring.
- _Hĕc' tor_, a prince of Troy, son of Priam.
- _Hĕl' en_, the wife of Menelaus, celebrated for her beauty.
- _He lō ïse'_ (hā lō ēz'), the sister of Bego of Belin.
- _He' ra_, the wife of Zeus; often called Juno.
- _Her' cu lēs_ (-lēz), a mighty hero of the Golden Age of Greece.
- _Her' mēs_ (-mēz), the messenger of the gods; same as Mercury.
- _Her nau din_ (her nō dănh'), a son of Bego.
- _He sī' o nē_, a princess of Troy, sister of Priam.
- _Haenir_ (he' nïr), a companion of Odio.
- _Hreidmar_ (hrīd' mar), the father of Regin.
- _Hū' na land_, a country mentioned in Norse mythology.
- _Hy per bō' re ans_, the people who lived beyond the North Wind.
-
- _I ä' sus_, a king of Arcadia, father of Atalanta.
- _I' das_, the father of Cleopatra.
- _I dŏm' e neūs_, a king of Crete, friend of Menelaus.
- _Il' ĭ os_, the same as Troy; Ilium.
- _I' lus_, the founder of Ilios or Troy.
- _Iph ĭ ge nī' a_, a princess, the daughter of Agamemnon.
- _I' ris_, a messenger of the gods, personification of the rainbow.
-
- _Jā' son_, a Greek hero, the leader of the Argonauts.
-
- _Kwä' ser_, in Norse mythology, a being noted for his wisdom.
-
- _Lăc e dae' mon_ (lăs-), an ancient Greek city, same as Sparta.
- _Lăch' e sĭs_ (lăk-), one of the three Fates.
- _La ŏm' e don_, a king of Troy, father of Priam.
- _Lō' kī_, in Norse mythology, the spirit of mischief.
- _Lōr rāine'_, a region on the border between France and Germany.
-
- _Ma hŏm' et_, an Arab, the founder of Mohammedanism.
- _Măi' a gis_ (-zhē), a dwarf enchanter and magician.
- _Mär seilles'_ (-sālz), a city of France on the Mediterranean.
-
- _Mär sïl' ĭ us_, a Moorish king of Spain.
- _Mayence_ (mä yŏns'), a city on the Rhine River.
- _Mĕl e ā' ger_ (-jēr), a Greek hero, prince of Calydon.
- _Mï' mer_, in Norse mythology, the possessor of the well of wisdom.
- _Môr' gan le Fāy_, the queen of the fairies.
- _My cē' nae_, a city of ancient Greece.
-
- _Nä' mōn_, Charlemagne's most trusted counsellor.
- _Nē' rēus_, "the old man of the sea," father of the sea nymphs.
- _Nĕs' tor_, king of Pylos, oldest of the Greek heroes at Troy.
-
- _O' dĭn_, in Norse mythology the chief of the gods.
- _O dys' seūs_, the wisest of the Greek heroes; same as Ulysses.
- _Oenone_ (ē nō' ne), a river nymph, the wife of Paris.
- _Ogier_ (ō zhā), a Danish hero under Charlemagne.
- _Oi' neūs_, a king of Calydon, father of Meleager.
- _Ol' ĭ ver_, one of Charlemagne's paladins, comrade of Roland,
- _O lym' pus_, a mountain in Greece, the home of the gods.
- _O rĕs' tēs_, the son of Agamemnon.
- _Orleans_ (ŏr lā ŏn'), an important city in France.
- _Or sĭl' o chus_, a king of the ancient city of Pherae.
-
- _Pal a mē' dēs_, a Greek hero in the war with Troy.
- _Păr' is_, a prince of Troy, second son of Priam.
- _Pär nas' sus_, a mountain in Greece near Delphi.
- _Pē' leūs_, the father of Achilles.
- _Pē' lĭ on_, a mountain on the east coast of Greece.
- _Pĕp' in_, a king of the Franks, father of Charlemagne.
- _Phoe' bus_, another name for Apollo.
- _Piēd' mŏnt_, a district in northern Italy.
- _Pŏl' lux_, the twin brother of Castor, and brother of Helen.
- _Po seī' don_, supreme lord of the sea; same as Neptune.
- _Prī' am_, the last king of Troy.
- _Pū ĕlle'_, an ancient forest in France.
- _Py' los_, an ancient town in the south part of Greece.
- _Pyr' e nees_, the mountains between France and Spain.
- _Py' thon_, the serpent slain by Apollo.
-
- _Rän_, in Norse mythology, the goddess of the sea.
- _Re' gin_ (-jĭn), a dwarf, the instructor of Siegfried.
- _Rō' land_, the most famous of Charlemagne's paladins.
- _Ronce vaux'_ (-vō), a valley in Navarre, Spain, in the Pyrenees.
- _Roussillon_ (roo sē' yôn'), an ancient district of France.
-
- _St. Omer_ (sĕn tō mâr'), a famous city in northern France.
- _St. Quentin_ (sâăn kŏn tăn'), a city in northeastern France.
- _Săl a mis_, an island of ancient Greece.
- _Sar' a cens_, the Arab followers of Mohammed.
- _Scae' an_ (skē' an), the principal gate of Troy.
- _Sca măn' der_, a river near Troy.
- _Seine_ (sān), one of the principal rivers of France.
- _Siēg' friēd_, a mythical hero of the Rhine country.
- _Sï' gyn_, the wife of Loki.
- _Skä de_, in Norse mythology, the goddess of the snow.
-
- _Tĕl' a mon_, a Greek hero, the father of Ajax.
- _Thes sā' lĭ an_, belonging to Thessaly in northern Greece.
- _Thē' tis_, a sea nymph, the mother of Achilles.
- _Tro phō' nĭ us_, one of the architects of the temple at Delphi.
- _Tûr' pin_, archbishop of Rheims, and paladin of Charlemagne.
-
- _Valenciennes_ (vä lŏn syĕn'), a city in northeastern France.
- _Vŭl' can_, the blacksmith of the gods.
-
- _Xanthos_ (zăn' thus), "Old Gold," one of the horses of Peleus.
-
- _Zeūs_, the king of the gods; same as Jupiter.
-
-
-
-
-
-
-
-
-
-
-

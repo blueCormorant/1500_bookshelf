@@ -1,27 +1,5 @@
-Proofreaders Team (www.pgdp.net)
 
 
-
-
-
-
-
-
-AFLOAT AND ASHORE
-
-A SEA TALE
-
-
-
-By James Fenimore Cooper
-
-
-
-“Home-keeping youth have ever homely wits.” _Two Gentlemen of Verona_
-
-
-
-PREFACE.
 
 The writer has published so much truth which the world has insisted was
 fiction, and so much fiction which has been received as truth, that, in
@@ -142,21 +120,18 @@ opinion, that the lessons of the book are to be found.
 
 
 
-AFLOAT AND ASHORE.
 
 
 
-CHAPTER I.
 
-  “And I--my joy of life is fled,
-  My spirit's power, my bosom's glow;
-  The raven locks that grac'd my head,
-  Wave in a wreath of snow!
-  And where the star of youth arose,
-  I deem'd life's lingering ray should close,
-  And those lov'd trees my tomb o'ershade,
-  Beneath whose arching bowers my childhood play'd.”
-   MRS. HEMANS.
+“And I--my joy of life is fled,
+My spirit's power, my bosom's glow;
+The raven locks that grac'd my head,
+Wave in a wreath of snow!
+And where the star of youth arose,
+I deem'd life's lingering ray should close,
+And those lov'd trees my tomb o'ershade,
+Beneath whose arching bowers my childhood play'd.”
 
 
 I was born in a valley not very remote from the sea. My father had been
@@ -648,13 +623,12 @@ eyes could say anything, there was nothing to be concealed.
 
 
 
-CHAPTER II.
 
-  “Cease to persuade, my loving Proteus;
-  Home-keeping youth have ever homely wits;--
-  I rather would entreat thy company
-  To see the wonders of the world abroad.”
-   _Two Gentlemen of--Clawbonny._
+“Cease to persuade, my loving Proteus;
+Home-keeping youth have ever homely wits;--
+I rather would entreat thy company
+To see the wonders of the world abroad.”
+_Two Gentlemen of--Clawbonny._
 
 
 During the year that succeeded after I was prepared for Yale, Mr.
@@ -664,10 +638,8 @@ that institution, with the idea of lightening my future labours, which
 would only have been providing excuses for future idleness, we went back
 to the elementary works, until even he was satisfied that nothing more
 remained to be done in that direction. I had my two grammars literally
-by heart, notes and all. Then we revised as thoroughly as possible,
 reading everything anew, and leaving no passage unexplained. I learned
 to scan, too, a fact that was sufficient to make a reputation for a
-scholar, in America, half a century since. {*] After this, we turned our
 attention to mathematics, a science Mr. Hardinge rightly enough
 thought there was no danger of my acquiring too thoroughly. We mastered
 arithmetic, of which I had a good deal of previous knowledge, in a
@@ -675,7 +647,6 @@ few weeks, and then I went through trigonometry, with some of the more
 useful problems in geometry. This was the point at which I had arrived
 when my mother's death occurred.
 
-{Footnote *: The writer's master taught him to scan Virgil in 1801.
 This gentleman was a graduate of Oxford. In 1803, the class to which the
 writer then belonged in Yale, was the first that ever attempted to
 scan in that institution. The quantities were in sad discredit in this
@@ -745,7 +716,6 @@ I am just as much under his control as you, yourself.”
 Rupert laughed at this, and tried to persuade me it would be a good
 thing to relieve his worthy fether of all responsibility in the affair,
 if I had seriously determined never to go to Yale, or to be a lawyer,
-by going off to sea clandestinely, and returning when I was ready. If I
 ever was to make a sailor, no time was to be lost; for all with whom he
 had conversed assured him the period of life when such things were best
 learned, was between sixteen and twenty. This I thought probable enough,
@@ -779,7 +749,6 @@ subject, at all? Not that Mr. Hardinge knew. It is true, the last had
 heard his friend, once or twice, make some general remark which would
 lead one to suppose that Captain Wallingford had some vague expectations
 I might go to the bar, but nothing further. My mind felt vastly relieved
-by these admissions, for I knew my mother's tenderness too well to
 anticipate that she would dream of absolutely dictating in a matter
 that was so clearly connected with my own happiness and tastes. When
 questioned on this last point, Mr. Hardinge did not hesitate to say that
@@ -839,8 +808,6 @@ them, and look the whole time as if he believed all he said to be true.”
 
 Rupert laughed at this sally, and pushed the advantage it gave him by
 giving several other examples to prove how much his father was mistaken
-by supposing that a man was to save his soul from perdition simply
-by getting admitted to the bar. After discussing the matter a little
 longer, to my astonishment Rupert came out with a plain proposal that
 he and I should elope, go to New York, and ship as foremastlads in some
 Indiaman, of which there were then many sailing, at the proper season,
@@ -985,7 +952,6 @@ once given.”
 “Promise him, Grace,” said Lucy, in a low tone, and a voice that, even
 at that age, I could perceive was tremulous. “If we promise, we shall
 learn everything, and then may have some effect on these headstrong boys
-by our advice.”
 
 “Boys! _You_ cannot mean, Lucy, that Rupert is not to be a
 clergyman--your father's assistant; that Rupert means to be a sailor,
@@ -1267,17 +1233,15 @@ the dear tenement in which it was encased by nature.
 
 
 
-CHAPTER III.
 
-  “There's a youth in this city, it were a great pity
-  That he from our lasses should wander awa';
-  For he's bonny and braw, weel-favoured witha',
-  And his hair has a natural buckle and a'.
-  His coat is the hue of his bonnet so blue;
-  His pocket is white as the new-driven snaw;
-  His hose they are blue, and his shoon like the slae,
-  And his clean siller buckles they dazzle us a'.”
-   BURNS.
+“There's a youth in this city, it were a great pity
+That he from our lasses should wander awa';
+For he's bonny and braw, weel-favoured witha',
+And his hair has a natural buckle and a'.
+His coat is the hue of his bonnet so blue;
+His pocket is white as the new-driven snaw;
+His hose they are blue, and his shoon like the slae,
+And his clean siller buckles they dazzle us a'.”
 
 
 We had selected our time well, as respects the hour of departure. It was
@@ -1439,9 +1403,7 @@ a pledge of civilization. Neb shook his head, as he gazed at it, with a
 moralizing air, and said it had a “wicked look.” For myself, I own I
 did not regard it altogether without dread. On Rupert it made less
 impression than on any of the three. He was always somewhat obtuse on
-the subject of morals.{*]
 
-{Footnote *: It may be well to tell the European who shall happen to
 read this book, that in America a “State's Prison” is not for prisoners
 of State, but for common rogues: the term coming from the name borne by
 the local governments.]
@@ -1746,7 +1708,6 @@ reader know the effect our disappearance had produced at Clawbonny. That
 of Grace was couched in the following terms:
 
 
-DEAR RUPERT:
 
 Clawbonny was in commotion at nine o'clock this morning, and well it
 might be! When your father's anxiety got to be painful, I told him the
@@ -1767,7 +1728,6 @@ all of us are interested in your conduct and happiness.
 
 Affectionately, yours,
 
-GRACE WALLINGFORD.
 
 To Mr. Rupert Hardinge.
 
@@ -1776,7 +1736,6 @@ Lucy had been less guarded, and possibly a little more honest. She wrote
 as follows:
 
 
-DEAR MILES:
 
 I believe I cried for one whole hour after you and Rupert left us, and,
 now it is all over, I am vexed at having cried so much about two such
@@ -1793,7 +1752,6 @@ you _do_ go to sea, as I hope and trust you will not.
 Good-bye.
 
 
-LUCY HARDINGE.
 
 To Mr. Miles Wallingford.
 
@@ -1916,16 +1874,15 @@ pained by the certainty of this fact.
 
 
 
-CHAPTER IV.
 
-  “There is a tide in the affairs of men,
-  Which, taken at the flood, leads on to fortune
-  Omitted, all the voyage of their life
-  Is bound in shallows, and in miseries.
-  On such a full sea are we now afloat;
-  And we must take the current when it serves,
-  Or lose our ventures.”
-   Brutus--Julius Caesar.
+“There is a tide in the affairs of men,
+Which, taken at the flood, leads on to fortune
+Omitted, all the voyage of their life
+Is bound in shallows, and in miseries.
+On such a full sea are we now afloat;
+And we must take the current when it serves,
+Or lose our ventures.”
+Brutus--Julius Caesar.
 
 
 In four hours from the time when Rupert and I last saw Mr. Hardinge, the
@@ -2255,7 +2212,6 @@ I was too much interested at this moment to feel the concern that I
 might otherwise have experienced. On the forecastle, it appeared to
 us all that we should be boarded in a minute, for one of the proas was
 actually within a hundred feet, though losing her advantage a little
-by getting under the lee of our sails. Kite had ordered us to muster
 forward of the rigging, to meet the expected leap with a discharge of
 muskets, and then to present our pikes, when I felt an arm thrown around
 my body, and was turned in-board, while another person assumed my place.
@@ -2395,7 +2351,7 @@ dignity is seldom considerate, and not always consistent.
 
 “A quiet night, Master Miles”--_this_ the mate _could_ call me, as
 it implied superiority on his part--“A quiet night, Master Miles,”
- commenced Mr. Marble, “and a strong westerly current, accordin'
+commenced Mr. Marble, “and a strong westerly current, accordin'
 to Captain Robbins. Well, to my taste gooseberries are better than
 currents, and _I'd_ go about. That's my manner of _generalizing_.”
 
@@ -2464,14 +2420,13 @@ something, of which I could distinctly understand nothing but the words
 
 
 
-CHAPTER V.
 
-  “They hurried us aboard a bark;
-  Bore us some leagues to sea; where they prepared
-  A rotten carcass of a boat, not rigg'd,
-  Nor tackle, sail, nor mast: the very rats
-  Instinctively had girt us--”
-   _Tempest._
+“They hurried us aboard a bark;
+Bore us some leagues to sea; where they prepared
+A rotten carcass of a boat, not rigg'd,
+Nor tackle, sail, nor mast: the very rats
+Instinctively had girt us--”
+_Tempest._
 
 
 The hour that succeeded in the calm of expectation, was one of the most
@@ -2518,7 +2473,6 @@ I might almost say all around us, became visible, one after another,
 detached ledges, breakers and ripples; so many proofs of the manner in
 which Providence had guided us through the hours of darkness.
 
-By the time the sun appeared, for, happily, the day proved bright
 and clear, we had obtained pretty tolerable notions of the critical
 situation in which we were placed by means of the captain's theory of
 currents. The very cape that we were to drift past, lay some ten leagues
@@ -3020,11 +2974,10 @@ them than they chose to perform.
 
 
 
-CHAPTER VI.
 
-         “The yesty waves
-  Confound and swallow navigation up.”
-   _Macbeth._
+“The yesty waves
+Confound and swallow navigation up.”
+_Macbeth._
 
 
 Poor Captain Robbins! No sooner did he regain his bodily strength, than
@@ -3116,7 +3069,7 @@ just mentioned, those of the great sister republic, at the close of the
 last century, were among the most grievous, and were of a character
 so atrocious and bold, that I confess it militates somewhat against my
 theory to admit that France owns very little of the “suspended debt;”
- but I account for this last circumstance by the reparation she in part
+but I account for this last circumstance by the reparation she in part
 made, by the treaty of 1831. With England it is different. She drove us
 into a war by the effects of her orders in council and paper blockades,
 and compelled us to expend a hundred millions to set matters right. I
@@ -3124,7 +3077,6 @@ should like to see the books balanced, not by the devil, who equally
 instigated the robberies on the high seas, and the “suspension” or
 “repudiation” of the State debts; but by the great Accountant who keeps
 a record of all our deeds of this nature, whether it be to make money
-by means of cruising ships, or cruising scrip. It is true, these rovers
 encountered very differently-looking victims, in the first place; but it
 is a somewhat trite remark, that the aggregate of human beings is pretty
 much the same in all situations. There were widows and orphans as
@@ -3132,7 +3084,6 @@ much connected with the condemnation of prizes, as with the prices of
 condemned stock; and I do not see that fraud is any worse when carried
 on by scriveners and clerks with quills behind their ears, than when
 carried on by gentlemen wearing cocked hats, and carrying swords
-by their sides. On the whole, I am far from certain that the
 account-current of honesty is not slightly--honesty very _slightly_
 leavens either transaction--in favour of the non-paying States, as men
 do sometimes borrow with good intentions, and fail, from inability,
@@ -3154,7 +3105,6 @@ The Tigris was a fast ship, and she was under top-mast and top-gallant
 studding-sails at the time, going about seven knots. The brig was on an
 easy bowline, evidently looking up for our wake, edging off gradually as
 we drew ahead. She went about nine knots, and bade fair to close with us
-by noon. There was a good deal of doubt, aft, as to the course we ought
 to pursue. It was decided in the end, however, to shorten sail and let
 the brig come up, as being less subject to cavils, than to seem to avoid
 her. Captain Digges got out his last letters from home, and I saw him
@@ -3292,9 +3242,7 @@ random way in which their hands flew about, that they had a perfect
 consciousness how much they left their rear exposed on the retreat. A
 hearty laugh was heard in all parts of the Tigris, and the brig,
 putting her helm hard up, wore round like a top, as if she were scalded
-herself.{*]
 
-{Footnote *: This incident actually occurred in the war of 1798]
 
 We all expected a broadside now; but of that there was little
 apprehension, as it was pretty certain we carried the heaviest battery,
@@ -3326,7 +3274,6 @@ Both our nines were fired, and, a few seconds after, three cheers arose
 from the decks of our ship. I could not see the brig, now, for the
 mizen-top-sail; but I afterwards learned that we had shot away her gaff.
 This terminated the combat, in which the glory was acquired principally
-by Neb. They told me, when I got down among the people again, that the
 black's face had been dilated with delight the whole time, though he
 stood fairly exposed to musketry, his mouth grinning from ear to ear.
 Neb was justly elated with the success that attended this exhibition of
@@ -3401,7 +3348,6 @@ would have been very different from what it subsequently proved. I
 should have been rated a midshipman, of course; and, serving so early,
 with a good deal of experience already in ships, a year or two would
 have made me a lieutenant, and, could I have survived the pruning of
-1801, I should now have been one of the oldest officers in the service.
 Providence directed otherwise; and how much was lost, or how much
 gained, by my continuance in the Tigris, the reader will learn as we
 proceed.
@@ -3603,15 +3549,13 @@ the boat a second time; but our old commander was never heard of more!
 
 
 
-CHAPTER VII.
 
-  “Oh! forget not the hour, when through forest and vale
-  We returned with our chief to his dear native halls!
-  Through the woody Sierra there sigh'd not a gale,
-  And the moonbeam was bright on his battlement walls;
-  And nature lay sleeping in calmness and light,
-  Round the house of the _truants_, that rose on our sight.”
-   MRS. HEMANS.
+“Oh! forget not the hour, when through forest and vale
+We returned with our chief to his dear native halls!
+Through the woody Sierra there sigh'd not a gale,
+And the moonbeam was bright on his battlement walls;
+And nature lay sleeping in calmness and light,
+Round the house of the _truants_, that rose on our sight.”
 
 
 We had fallen on board an eastern coaster, called the Martha Wallis,
@@ -3724,7 +3668,6 @@ Wallingford fairly entering it, her sails disappearing behind the trees,
 just as I caught sight of them. As no other craft of her size ever went
 up to that landing, I could not be mistaken in the vessel.
 
-By getting ashore half a mile above the creek, there was a farm-road
 that would lead to the house by a cut so short, as nearly to bring us
 there as soon as Neb could possibly arrive with his dire, but false
 intelligence. The place was pointed out to the captain, who had
@@ -3847,7 +3790,6 @@ embellished, if he did not absolutely invent. I was not old enough then
 to understand that most of the statements that float about the world
 are nothing but truths distorted, and that nothing is more rare than
 unadulterated fact; that truths and lies travel in company, as described
-by Pope in his Temple of Fame, until--
 
 “This or that unmixed, no mortal e'er shall find.”
 
@@ -3925,7 +3867,6 @@ in pursuit of her playful mind and varying humours. Still, a more
 high-principled being, a firmer or more consistent friend, or a more
 accurate thinker on all subjects that suited her years and became her
 situation, than Lucy Hardinge, never existed. Even Grace was influenced
-by her judgment, though I did not then know how much my sister's mind
 was guided by her simple and less pretending friend's capacity to
 foresee things, and to reason on their consequences.
 
@@ -4160,18 +4101,16 @@ this, our quartette thought little in the year 1799.
 
 
 
-CHAPTER VIII.
 
-  “Thou art the same, eternal sea!
-  The earth hath many shapes and forms
-  Of hill and valley, flower and tree;
-  Fields that the fervid noontide warms,
-  Or Winter's rugged grasp deforms,
-  Or bright with Autumn's golden store;
-  Thou coverest up thy face with storms,
-  Or smilest serene--but still thy roar
-  And dashing foam go up to vex the sea-beat shore.”
-   LUNT.
+“Thou art the same, eternal sea!
+The earth hath many shapes and forms
+Of hill and valley, flower and tree;
+Fields that the fervid noontide warms,
+Or Winter's rugged grasp deforms,
+Or bright with Autumn's golden store;
+Thou coverest up thy face with storms,
+Or smilest serene--but still thy roar
+And dashing foam go up to vex the sea-beat shore.”
 
 
 I had a free conversation with my guardian, shortly after we reached
@@ -4350,7 +4289,6 @@ such frightful trials in company.”
 he will be better satisfied ashore than at sea. Rupert is a sort of a
 natural lawyer.”
 
-By this I merely meant he was good at a subterfuge, and could tell his
 own story.
 
 “Yes, but Neb is not Rupert, Miles,” Lucy answered, quick as thought,
@@ -4717,7 +4655,7 @@ with medical men on the land, as to spare many good ones to the sea.
 In the new navy, it was much the fashion to say, “if you want a leg
 amputated, send for the carpenter; he _does_ know how to use a saw,
 while it is questionable whether the doctor knows how to use anything.”
- Times, however, are greatly altered in this respect; the gentlemen
+Times, however, are greatly altered in this respect; the gentlemen
 who now compose this branch of the service being not only worthy of
 commendation for their skill and services, but worthy of the graduated
 rank which I see they are just now asking of the justice of their
@@ -4726,13 +4664,12 @@ much afraid they will ask in vain.
 
 
 
-CHAPTER IX.
 
-                                   “If we
-    Cannot defend our own door from the dog,
-    Let us be worried; and our nation lose
-    The name of hardiness, and policy.”
-     _Henry V._
+“If we
+Cannot defend our own door from the dog,
+Let us be worried; and our nation lose
+The name of hardiness, and policy.”
+_Henry V._
 
 
 The combat between the Crisis and _la Dame de Nantes_ took place
@@ -5037,7 +4974,6 @@ hands and the landsmen had to take their chances for instruction.
 Notwithstanding, the men I got were stout, healthy, willing and able to
 pull and haul with the oldest salts.
 
-By the arrangement that had been made, I was now thrown upon my own
 resources. Seamanship, navigation, address, prudence, all depended on
 me. I confess I was, at first, nearly as much depressed by the novelty
 and responsibility of my command, as Neb was delighted. But it is
@@ -5205,7 +5141,7 @@ and shape, and rig, became slowly more and more distinct; and I hailed--
 in my wake. You had better be stirring!”
 
 I heard the quick exclamation of “The devil there is!” “Bloody Yankees!”
- came next. Then followed the call of “All hands.” It was plain enough
+came next. Then followed the call of “All hands.” It was plain enough
 my notice had set everything in motion in that quarter. Talcott now
 came running forward to say he thought, from some movements on board the
 lugger, that her people were now first apprised of the vicinity of the
@@ -5288,7 +5224,6 @@ men in his boat declining to answer any questions; but they paid him
 unusual respect. This gentleman asked me a great many particulars, and
 I told him the whole story frankly, concealing or colouring nothing. He
 was evidently much interested. When he went away, he shook me cordially
-by the hand, and said--“Young gentleman, you have acted prudently and
 well. Never mind the grumbling of some of our lads; they think only of
 themselves. It was your right and your duty to save your own vessel, if
 you could, without doing anything dishonourable; and I see nothing wrong
@@ -5298,16 +5233,14 @@ hawse-holes.”
 
 
 
-CHAPTER X.
 
-  “How pleasant and how sad the turning tide
-  Of human life, when side by side
-  The child and youth begin to glide
-  Along the vale of years:
-  The pure twin-being for a little space,
-  With lightsome heart, and yet a graver face.
-  Too young for woe, though not for tears.”
-   ALLSTON.
+“How pleasant and how sad the turning tide
+Of human life, when side by side
+The child and youth begin to glide
+Along the vale of years:
+The pure twin-being for a little space,
+With lightsome heart, and yet a graver face.
+Too young for woe, though not for tears.”
 
 
 With what interest and deference most Americans of any education
@@ -5538,9 +5471,7 @@ knowledge, got a scent; you see it is law English; 'pro' means 'how,'
 and 'sequi,' 'to give chase.' The amount of it all is, Tom, that they
 are on your heels, and I must go to work and send you off, at once, two
 or three hundred miles into the interior, where you may laugh at them
-and their 'nolle prosequis' together.” {*]
 
-{Footnote *: There is said to be foundation for this story.]
 
 Sweeney laughed heartily at this story, though he clearly did not take
 the joke, which I presume he fancied lay concealed under an American
@@ -5690,7 +5621,6 @@ fastidious New England purist--in a cocked hat; a decoration that
 ought to be exclusively devoted to the uses of ministers of the gospel,
 governors of States, and militia officers. I had some notions of the
 habits of the great world, through books, and some little learned
-by observation and listening; but Marble scouted at most of my
 explanations. He put his own construction on everything he saw; and I
 have often thought, since, could the publishers of travels have had the
 benefit of his blunders, how many would have profited by them. Gentlemen
@@ -5864,13 +5794,12 @@ alluded to things, of which I then heard for the first time.
 
 
 
-CHAPTER XI.
 
-    “Boatswain!”
-       “Here, master: what cheer?”
-     “Good: speak to the mariners; fall to 't
-    Yarely, or we run ourselves aground: bestir, bestir.”
-     _Tempest._
+“Boatswain!”
+“Here, master: what cheer?”
+“Good: speak to the mariners; fall to 't
+Yarely, or we run ourselves aground: bestir, bestir.”
+_Tempest._
 
 
 As Captain Williams wished to show me some favour for the manner in
@@ -5971,7 +5900,7 @@ try to go to the eastward of the island, as was still possible, with the
 wind where it was. Still, neither of us dared propose it; I, on account
 of my youth, and the chief-mate, as he said, on account of “the old
 fellow's obstinacy.” “He likes to be poking about in such places,”
- Marble added, “and is never so happy as when he is running round the
+Marble added, “and is never so happy as when he is running round the
 ocean in places where it is full of unknown islands, looking for sandal
 wood, and bêche-la-mar! I'll warrant you, he'll give us a famous time of
 it, if he ever get us up on the North-West Coast.” Here the consultation
@@ -6201,7 +6130,6 @@ was entering some sort of an estuary was certain, but of what depth, how
 far favoured by a holding ground, or how far without any anchorage at
 all, were facts that defied our inquiries. We knew that the land called
 Terra del Fuego was, in truth, a cluster of islands, intersected
-by various channels and passages, into which ships had occasionally
 ventured, though their navigation had never led to any other results
 than some immaterial discoveries in geography. That we were entering one
 of these passages, and under favourable circumstances, though so purely
@@ -6451,13 +6379,11 @@ without knowing it!”
 
 
 
-CHAPTER XII.
 
-  “Sound trumpets, ho!--weigh anchor--loosen sail--
-  The seaward-flying banners chide delay;
-  As if't were heaven that breathes this kindly gale,
-  Our life-like bark beneath it speeds away.--”
-   PINKNEY.
+“Sound trumpets, ho!--weigh anchor--loosen sail--
+The seaward-flying banners chide delay;
+As if't were heaven that breathes this kindly gale,
+Our life-like bark beneath it speeds away.--”
 
 
 The stout ship Crisis had, like certain persons, done a good thing
@@ -6467,7 +6393,7 @@ have been called the Crisis Straits, a better name than the mongrel
 appellation it now bears; which is neither English, nor Portuguese. The
 ship had been lost, like a man in the woods, and came out nearer home,
 than those in her could have at all expected. The “bloody currents”
- had been at the bottom of the mistake, though this time they did good,
+had been at the bottom of the mistake, though this time they did good,
 instead of harm. Any one who has been thoroughly lost on a heath, or in
 a forest, or, even in a town, can comprehend how the head gets turned on
 such occasions, and will understand the manner in which we had mystified
@@ -6624,7 +6550,7 @@ low price on sea-otter skins, as well as on the external coverings
 of sundry other animals. An application to Mr. Marble was still less
 successful, being met by the pithy answer that he was “no naturalist,
 and knew nothing about these critturs, or any wild beasts, in general.”
- Degraded as the men certainly were, however, we thought them quite
+Degraded as the men certainly were, however, we thought them quite
 good enough to be anxious to trade with them. Commerce, like misery,
 sometimes makes a man acquainted with strange bed-fellows.
 
@@ -6836,7 +6762,6 @@ an extensive curtain of trees and bushes, however, so as completely to
 conceal the spot from any eyes without. Most of the trees had been burnt
 down, as we at first thought, in order to obtain fuel; but, farther
 examination satisfied us, that it had been done as much by accident, as
-by design.
 
 At first, nothing was discovered in this encampment, which had every
 appearance of not having been extensively used for years, though the
@@ -6930,7 +6855,6 @@ altogether.”
 
 There was good reason in these remarks, and they had their effect on the
 captain. The latter, however, determined to put Smudge to the proof,
-by showing him the slate, and otherwise bringing him under such
 a cross-examination as signs alone could effect. I dare say, an
 indifferent spectator would have laughed at witnessing our efforts to
 confound the Indian. We made grimaces, pointed, exclaimed, hallooed,
@@ -6945,7 +6869,6 @@ We returned to the ship, carrying with us the slate, and the report
 of our discoveries. All hands were called, and the captain made us
 a speech. It was sufficiently to the point, though it was not in the
 least, of the “God-like” character. We were told how ships were lost
-by the carelessness of their crews; reminded we were on the North-West
 Coast, where a vessel with a few boxes of beads and bales of blankets,
 to say nothing of her gunpowder, firearms, and metals, was as valuable,
 as a vessel laden with gold dust would be in one of our own ports.
@@ -6977,14 +6900,13 @@ indifferent to the fate of the Sea-Otter, as was at all decent.
 
 
 
-CHAPTER XIII.
 
-  “The monarch mind--the mystery of commanding,
-  The godlike power--the art Napoleon,
-  Of winning, fettering, moulding, wielding, banding
-  The hearts of millions, till they move as one;
-  Thou hast it.”
-   HALLECK--_Red Jacket_.
+“The monarch mind--the mystery of commanding,
+The godlike power--the art Napoleon,
+Of winning, fettering, moulding, wielding, banding
+The hearts of millions, till they move as one;
+Thou hast it.”
+HALLECK--_Red Jacket_.
 
 
 Smudge and the Dipper behaved admirably all next day. Beef, pork and
@@ -7562,15 +7484,14 @@ men merely by their exteriors.
 
 
 
-CHAPTER XIV.
 
-  _Court_--“Brother John Bates, is not that the morning which
-  breaks yonder?”
-   _Bates_.--“I think it be; but we have no great cause to desire
-  the approach of day.”
-   _Will_.--“We see yonder the beginning of the day; but I think
-  we shall never see the end of it----”
-   _Henry V._
+_Court_--“Brother John Bates, is not that the morning which
+breaks yonder?”
+_Bates_.--“I think it be; but we have no great cause to desire
+the approach of day.”
+_Will_.--“We see yonder the beginning of the day; but I think
+we shall never see the end of it----”
+_Henry V._
 
 
 The ship did not lose her steerage-way. As soon as past the point of the
@@ -7601,7 +7522,6 @@ naturally enough pointed to the spars, giving my master to understand
 that the vessel was not in her usual trim. I believe I was understood
 as to this part of my excuses, it being too apparent that our masts and
 yards were not in their usual places, for the fact to be overlooked even
-by a savage. Smudge, however, saw that several of the sails were bent,
 and he pointed to those, growling out his threats, should I refuse to
 set them. The spanker, in particular, being near him, he took hold of
 it, shook it, and ordered me to loosen it forthwith.
@@ -7824,7 +7744,6 @@ looked highly promising; and the savages gave a yell of delight when
 they saw the top-sail fairly filled and drawing. I added the main-sail
 to the pressure, and then the ship began to walk off the coast, at a
 rate that promised all I hoped for. It was now necessary for me to stick
-by the wheel, of the uses of which Smudge began to obtain some notions.
 At this time, the vessel was more than two leagues from the island, and
 objects began to look dim along the coast. As for the canoes, they
 could no longer be seen, and chasing us any farther was quite out of the
@@ -7842,7 +7761,6 @@ hour, before we were entirely through, when the land was getting nearly
 _awash_. As soon as the mizen-top-sail was set, I braced sharp up, and
 brought the ship close upon the wind. This caused the Indians to wilt
 down like flowers under a burning sun, just as I expected; there being,
-by this time, a seven-knot breeze, and a smart head-sea on. Old Smudge
 felt that his forces were fast deserting him, and he now came to me,
 in a manner that would not be denied, and I felt the necessity of doing
 something to appease him. I got the savages stationed as well as I
@@ -7904,7 +7822,6 @@ deck, I heard several plunges into the water, and then half-a-dozen of
 most cruelly crushing blows succeeded. Not a shot was fired by either
 party, though some of our people, who had carried all their arms below
 the night the ship was seized, used their pikes with savage freedom.
-By the time I got as far aft as the main-mast, the vessel was our
 own. Nearly half the Indians had thrown themselves into the sea; the
 remaining dozen had either been knocked in the head like beeves, or were
 stuck, like so many porkers. The dead bodies followed the living into
@@ -8124,15 +8041,14 @@ narrow standard of interest.
 
 
 
-CHAPTER XV.
 
-  _1st Lord_.--“Throca movonsas, cargo, cargo, cargo.”
-   _All_.--“Cargo, cargo, villianda par corbo, cargo.”
-   _Par_.--“O! ransome, ransome:--Do not hide mine eyes”
-   _1st Sold_.--“Boskos Thromuldo boskos.”
-   _Par_.--“I know you are the Muskos' regiment,
-              And I shall lose my life for want of language.--”
-   _All's Well That Ends Well._
+_1st Lord_.--“Throca movonsas, cargo, cargo, cargo.”
+_All_.--“Cargo, cargo, villianda par corbo, cargo.”
+_Par_.--“O! ransome, ransome:--Do not hide mine eyes”
+_1st Sold_.--“Boskos Thromuldo boskos.”
+_Par_.--“I know you are the Muskos' regiment,
+And I shall lose my life for want of language.--”
+_All's Well That Ends Well._
 
 
 The Crisis was tacked, as soon as the body of Smudge was cut down, and
@@ -8218,7 +8134,6 @@ money!
 
 I own my judgment, such as it was at nineteen, was opposed to the
 opinion of the captain. I could see that the contingency contemplated
-by the instructions had not arisen, and that we should be acting more in
 conformity with the wishes of the owners, by proceeding to the Sandwich
 Islands in quest of sandal-wood, and thence to China, after a cargo
 of teas. Marble was not to be convinced, however, though I think my
@@ -8240,7 +8155,6 @@ churches, taverns, billiard-tables, and stone dwellings in these islands
 now, which are fast turning to the Christian religion, and obtaining the
 medley of convenience, security, vice, roguery, law and comfort, that is
 known as civilization. It was far different then, our reception being
-by men who were but a small degree removed from savages. Among those
 who first came on board us, however, was the master of an American brig,
 belonging to Boston, whose vessel had got on a reef, and bilged. He
 intended to remain by the wreck, but wished to dispose of a considerable
@@ -8283,7 +8197,6 @@ his hands, as was his custom when in good humour, and broke out as
 follows:--
 
 “I'll tell you what, Miles,” he said, “you and I have been salted down
-by Providence for something more than common! Just look back at all our
 adventures in the last three years, and see what they come to. Firstly,
 there was shipwreck over here on the coast of Madagascar,” jerking his
 thumb over a shoulder in a manner that was intended to indicate about
@@ -8708,7 +8621,6 @@ forth.
 
 Astonishment almost deprived me of the power of vision, when I looked
 around me. Quite fifty armed white men, sailors and natives of France,
-by their air and language, crowded round me, as curious to see me, as I
 could possibly be to see them. In their midst was Harris, who approached
 me with an embarrassed and sorrowful air--
 
@@ -8731,15 +8643,13 @@ _tri-color!_
 
 
 
-CHAPTER XVI.
 
-  “The morning air blows fresh on him:”
-   “The waves dance gladly in his sight;”
-   “The sea-birds call, and wheel, and skim--”
-   “O, blessed morning light!”
-   “He doth not hear their joyous call; he sees
-   No beauty in the wave, nor feels the breeze.”
-   DANA.
+“The morning air blows fresh on him:”
+“The waves dance gladly in his sight;”
+“The sea-birds call, and wheel, and skim--”
+“O, blessed morning light!”
+“He doth not hear their joyous call; he sees
+No beauty in the wave, nor feels the breeze.”
 
 
 Truth is, truly, often stranger than fiction. The history of the
@@ -8788,7 +8698,6 @@ be put in the water. Such was the state of things, when, one fine night,
 we arrived in the manner already related. The French kept constant
 look-outs, and it seems we were seen, a distant speck on the ocean, just
 as the sun set, while the low trees of the island eluded our vigilance.
-By the aid of a good night-glass, our movements were watched, and a boat
 was about to be sent out to warn us of our danger, when we passed within
 the reef. Captain Le Compte knew the chances were twenty to one that
 we were an enemy, and he chose to lie concealed to watch the result. As
@@ -8807,7 +8716,6 @@ day of sailing down to the present time.
 Much of this I learned in subsequent conversations with the French, but
 enough of it was related to me then, to let me understand the outlines
 of the truth. My eyes also let me into many secrets. I found the island,
-by day-light, substantially as I had supposed it to be. It was not so
 large, however, as it had seemed to me by the aid of the moon, though
 its general character was the same. The basin in which the ship lay
 might have covered a hundred and fifty acres in extent, the belt of land
@@ -9089,7 +8997,7 @@ the hardest creature on earth to persuade into the notion that he is not
 adorable.”
 
 “I can hardly believe that this weakness extends as far as the sailors,”
- said I, laughing. “At all events, you will be released the instant you
+said I, laughing. “At all events, you will be released the instant you
 reach France.”
 
 “Sooner too, I trust, Wallingford,” resumed the father. “These Frenchmen
@@ -9369,12 +9277,10 @@ under everything that would draw from her trunks down.
 
 
 
-CHAPTER XVII.
 
-  “I better brook the loss of brittle life,
-  Than those proud titles thou hast won of me;
-  They wound my thoughts, worse than thy sword my flesh.”
-   SHAKESPEARE
+“I better brook the loss of brittle life,
+Than those proud titles thou hast won of me;
+They wound my thoughts, worse than thy sword my flesh.”
 
 
 Half-way between this inlet and the ship-yard, I found Marble, standing
@@ -9436,7 +9342,7 @@ be seen.
 
 That night, Marble and myself consulted together on the aspect of
 things--or, as he expressed it, “we generalized over our prospects.”
- Monsieur Le Compte had done one thing which duty required of him. He
+Monsieur Le Compte had done one thing which duty required of him. He
 did not leave us a kernel of the gunpowder belonging to either ship; nor
 could we find a boarding-pike, cutlass, or weapon of any sort, except
 the officers' pistols. We had a canister of powder, and a sufficiency
@@ -9483,7 +9389,6 @@ The prize was turned over to the gunner, who reported that it was the
 chest in which we kept our cutlasses and pistols, of both of which there
 was a sufficient supply to give every man one of each. There were also
 several horns of powder, and a bag of bullets; but the first was ruined
-by the water. As for the arms, they were rubbed dry, oiled, and put away
 again in the chest, after the last had stood a whole day, in the hot
 sun, open. Thus, through the agency of men brought for a very different
 purpose, we were put in possession of the means of achieving the
@@ -9541,7 +9446,7 @@ overboard, and got the ship from us; then came the good luck of getting
 her back again. After this, the French did us that unhandsome thing:
 now, here comes the good luck of their leaving us a craft that will
 overhaul the ship, when I needn't tell _you,_ what will come of it.”
- Here all hands, as in duty bound, gave three cheers. “Now, I neither
+Here all hands, as in duty bound, gave three cheers. “Now, I neither
 sail nor fight in a craft that carries a French name. Captain Count
 christened the schooner the--Mr. Wallingford will tell you her exact
 name.”
@@ -9668,7 +9573,6 @@ the period, when, according to our own calculations, we ought to be near
 the Crisis, had that vessel steered a course resembling our own. For
 my own part, I neither wished nor expected to see the ship, until we
 reached the coast of South America, when we might ascertain her position
-by communicating with the shore. As for the _guarda-costas_, I knew we
 could easily elude them, and there might be a small chance of regaining
 the vessel, something like the way in which we had lost her. But
 Marble's impatience, and the keenness with which he felt our disgrace,
@@ -9936,14 +9840,12 @@ his just then receiving the fatal bullet. He was in his shirt.
 
 
 
-CHAPTER XVIII
 
-  _1st Witch_. “Hail!”
-   _2d Witch_.  “Hail!”
-   _3d Witch_.  “Hail!”
-   _1st Witch_. “Lesser than Macbeth, and greater.”
-   _2d Witch_.  “Not so happy, yet much happier.”
-   MACBETH.
+_1st Witch_. “Hail!”
+_2d Witch_.  “Hail!”
+_3d Witch_.  “Hail!”
+_1st Witch_. “Lesser than Macbeth, and greater.”
+_2d Witch_.  “Not so happy, yet much happier.”
 
 
 I hope I shall be believed in saying, if Marble had been with us when
@@ -10147,7 +10049,6 @@ and subsequently saved from the wreck; or read aloud out of some of the
 two or three hundred beautifully bound, and sweetly-scented volumes
 that composed her library. In that day, people read Pope, and Young, and
 Milton, and Shakspeare, and that sort of writers; a little relieved
-by Mrs. Radcliffe, and Miss Burney, and Monk Lewis, perhaps. As for
 Fielding and Smollet, they were well enough in their place, which was
 not a young lady's library, however. There were still more useful books,
 and I believe I read everything in the ship, before the voyage ended.
@@ -10533,7 +10434,7 @@ is nothing more than a momentary feeling, of which your own good
 sense--nay, even your duty to the owners--will cause you to get rid.”
 
 “You never were more mistaken in your life, Master Miles Wallingford,”
- answered Marble, solemnly. “I thought of all this the moment I
+answered Marble, solemnly. “I thought of all this the moment I
 recognised the ship, and that was as soon as I saw her; and my mind
 was made up from that instant. I cannot be so mean as to come in at the
 seventh hour, and profit by your courage and skill. Besides, I have no
@@ -10580,13 +10481,11 @@ him all day on the subject, and at night he was put in command of the
 
 
 
-CHAPTER XIX.
 
-  “Thou shalt seek the beach of sand,
-  Where the water bounds the elfin land;
-  Thou shalt watch the oozy brine
-  Till the sturgeon leaps in the light moonshine.”
-   DRAKE.
+“Thou shalt seek the beach of sand,
+Where the water bounds the elfin land;
+Thou shalt watch the oozy brine
+Till the sturgeon leaps in the light moonshine.”
 
 
 There is but a word to say of the whaler. We spoke her, of course, and
@@ -10893,7 +10792,6 @@ and that in a way to make her believe it, you are not the lad I take you
 for.”
 
 I made an evasive and laughing answer; but, being quite near the tent
-by this time, it was necessary to change the discourse. The reader may
 think it odd, but that was the very first time the possibility of my
 marrying Emily Merton ever crossed my mind. In London, I had regarded
 her as an agreeable acquaintance, with just as much of the colouring of
@@ -11038,7 +10936,6 @@ and they would set about building a boat, in which to be off.”
 “You are not very romantic, I perceive, Mr. Wallingford,” Emily
 answered, and I thought a little reproachfully. “Now, I own that to my
 taste, I could be happy anywhere--here, as well as in London, surrounded
-by my nearest and dearest friends.”
 
 “Surrounded! Ay, that would be a very different matter. Let me have your
 father, yourself, honest Marble, good Mr. Hardinge, Rupert, dear, dear
@@ -11288,13 +11185,11 @@ greater reluctance than I ever experienced on any other occasion.
 
 
 
-CHAPTER XX.
 
-  “Pass on relentless world! I grieve
-    No more for all that thou hast riven!
-  Pass on, in God's name--only leave
-    The things thou never yet hast given.--”
-   LUNT.
+“Pass on relentless world! I grieve
+No more for all that thou hast riven!
+Pass on, in God's name--only leave
+The things thou never yet hast given.--”
 
 
 After every means had been uselessly exhausted to persuade Marble from
@@ -11437,7 +11332,6 @@ longer.
 subject. Your people are through with their work, and here comes Neb to
 report the boat ready to go off. I shall try my hand ashore to-night,
 alone; in the morning, I suppose you would like to take an old shipmate
-by the hand for the last time, and you will nat'rally look for me at the
 water-side. Good-night! Before we part, however, I may as well thank you
 for the supply of clothes I see you have put in my hut. It was scarcely
 wanted, as I have enough needles and thread to supply a slop-shop; and
@@ -11496,7 +11390,6 @@ boat or Marble to be seen. It was barely possible that he had concealed
 himself behind the wreck, though I did not see how even this could be
 done, unless he had taken the precaution to strike the launch's masts.
 
-By this time, our last anchor was aweigh, and the ship was clear of
 the bottom. The top-sails had been hoisted before I went aloft, and
 everything was now ready for filling away. Too anxious to go on deck,
 under such circumstances, and a lofty position being the best for
@@ -11548,7 +11441,6 @@ admit it was probably one of them. At meridian, therefore, I gave the
 order to square away, and to make sail on our course. This was done
 with the greatest reluctance, however, and not without a good deal of
 vaciliation of purpose. The ship moved away from the land rapidly, and
-by two o'clock, the line of cocoa-nut trees that fringed the horizon
 astern, sunk entirely beneath the rolling margin of our view. From that
 moment, I abandoned the expectation of ever seeing Moses Marble again,
 though the occurrence left all of us sad, for several days.
@@ -11899,7 +11791,6 @@ got a view of what had been done in that brief space. In order to
 increase our distance, however, we still kept away, running pretty fast
 through the water.
 
-By the confusion which prevailed among the pirates, the rascals had been
 well peppered. One had actually sunk, and five or six were round the
 spot, endeavouring to pick up the crew. Three more had suffered in
 their spars, and the movements indicated that all had enough. As soon as
@@ -11945,15 +11836,13 @@ June was setting. This was in the year of our Lord 1802.
 
 
 
-CHAPTER XXI.
 
-  “Drink! drink! to whom shall we drink?
-  To a friend or a mistress?--Come, let me think!
-  To those who are absent or those who are here?
-  To the dead that we loved, or the living still dear?
-  Alas! when I look I find none of the last!
-  The present is barren--let's drink to the past.”
-   PAULDING.
+“Drink! drink! to whom shall we drink?
+To a friend or a mistress?--Come, let me think!
+To those who are absent or those who are here?
+To the dead that we loved, or the living still dear?
+Alas! when I look I find none of the last!
+The present is barren--let's drink to the past.”
 
 
 Though strictly a Manhattanese as a sailor, I shall not run into
@@ -12269,7 +12158,7 @@ Lucy, riveted on my face, as leaning on her father's knee, she bent her
 graceful form forward, in absorbed attention.
 
 “We expected you; we have not been taken _altogether_ by surprise!”
- exclaimed good Mr. Hardinge, clapping his hand on my shoulder, as if
+exclaimed good Mr. Hardinge, clapping his hand on my shoulder, as if
 to say he could now begin to treat me like a man. “I consented to come
 down, just at this moment, because the last Canton ship that arrived
 brought the intelligence that the Crisis was to sail in ten days.”
@@ -12305,7 +12194,7 @@ come home, and been obliged to say the French got the ship from us, when
 we were all asleep.”
 
 “But you took a ship from the French, in that manner, and kept her too!”
- said a soft voice, every intonation of which was music to me.
+said a soft voice, every intonation of which was music to me.
 
 I looked round and saw the speaking eyes of Lucy, just clear of the grey
 coat of her father, behind which she instinctively shrank, the instant
@@ -12334,7 +12223,7 @@ dead-eye.”
 “Miss Merton!” put in Rupert, leaning forward, curiously.
 
 “Miss Merton! And jealous of dead-eyes, and wishing to get rid of us!”
- said Mr. Hardinge, smiling. “Pray who is Miss Merton? and who are the
+said Mr. Hardinge, smiling. “Pray who is Miss Merton? and who are the
 _us_? and what are the dead-eyes?”
 
 Lucy was silent.
@@ -12350,7 +12239,7 @@ Merton. How is it, girls--did Miles speak of any one but the Major, in
 his letter?”
 
 “Not a syllable to me, sir, of any young lady, I can assure you,”
- replied Grace, laughing. “How was it to you, Lucy?”
+replied Grace, laughing. “How was it to you, Lucy?”
 
 “Of course he would not tell me that which he thought fit to conceal
 from his own sister,” said Lucy, in a low voice.
@@ -12407,7 +12296,6 @@ call our acquaintance one of rather more than a year's standing.”
 young gentleman's memory, not to be forgotten in his letters.”
 
 After this pointed speech, there was a silence, which Mr. Hardinge broke
-by some questions about the passage home from Canton. As it was getting
 cool on the Battery, however, we all moved away, proceeding to Mrs.
 Bradfort's. This lady, as I afterwards discovered, was much attached to
 Lucy, and had insisted on giving her these opportunities of seeing the
@@ -12662,13 +12550,12 @@ must have admitted.
 
 
 
-CHAPTER XXII.
 
-  “Ships are but boards, sailors but men: there be land-rats, and
-  water-rats, water-thieves, and land-thieves; I mean pirates; and
-  then, there is the peril of waters, winds and rocks: the man is,
-  notwithstanding, sufficient;--three thousand ducats;--I think I may
-  take his bond.”--_Shylock_.
+“Ships are but boards, sailors but men: there be land-rats, and
+water-rats, water-thieves, and land-thieves; I mean pirates; and
+then, there is the peril of waters, winds and rocks: the man is,
+notwithstanding, sufficient;--three thousand ducats;--I think I may
+take his bond.”--_Shylock_.
 
 
 I saw Grace, and Lucy, and Rupert, and good Mr. Hardinge, every day; but
@@ -12966,7 +12853,7 @@ to that in which she had lived at home, that I was surprised at the
 readiness with which she urged her father to redeem his promise.
 
 “Mr. Hardinge tells me, sir, that Clawbonny is really a pretty spot,”
- she said, “and the country around it is thought to be very healthy. You
+she said, “and the country around it is thought to be very healthy. You
 cannot get answers from home (she meant England) for several months, and
 I know Captain Wallingford will be happy to receive us. Besides, we are
 pledged to accept this additional favour from him.”
@@ -13336,7 +13223,6 @@ better house?”
 “I shall not answer either question,” replied the dear girl, a little
 saucily, I thought. “I do not understand your wants, and do not choose
 to speak of your deservings. But I fancy the question will be settled
-by a certain Mrs. Wallingford, one of these days. Clever women generally
 determine these things for their husbands.”
 
 I endeavoured to catch Lucy's eye, when this was said, by leaning a
@@ -13361,12 +13247,11 @@ desert, or materially alter, Clawbonny.”
 
 
 
-CHAPTER XXIII.
 
-  “If thou be'st rated by thy estimation,
-  Thou dost deserve enough; and yet enough
-  May not extend so far as to the lady.”
-   _Merchant of Venice_.
+“If thou be'st rated by thy estimation,
+Thou dost deserve enough; and yet enough
+May not extend so far as to the lady.”
+_Merchant of Venice_.
 
 
 Next morning, I was early afoot, and I found Grace as much alive to the
@@ -13696,7 +13581,6 @@ within fifteen feet of the party. No sooner was this little group thus
 arranged, the three girls in a crescent, than I disappeared.
 
 “Grace, I have not yet spoken to you of a necklace of pearls possessed
-by your humble servant,” I cried, as my foot again touched the
 piazza.--“I would not say a word about it--”
 
 “Yet, Lucy and I heard all about it--” answered Grace with provoking
@@ -13923,7 +13807,6 @@ Drewett, and of my own precise position in society, I should have cared
 very little, just then, about Rupert, and his caprices.
 
 The pearls for the ring were soon selected by Rupert, and approved of
-by Grace, after which I assumed the office of dividing the remainder
 myself. I drew a chair, took the box from Rupert, and set about the
 task.
 
@@ -14099,14 +13982,13 @@ opening between us.
 
 
 
-CHAPTER XXIV.
 
-  “Your name abruptly mentioned, casual words
-  Of comment on your deeds, praise from your uncle,
-  News from the armies, talk of your return,
-  A word let fall touching your youthful passion
-  Suffused her cheek, called to her drooping eye
-  A momentary lustre.”
+“Your name abruptly mentioned, casual words
+Of comment on your deeds, praise from your uncle,
+News from the armies, talk of your return,
+A word let fall touching your youthful passion
+Suffused her cheek, called to her drooping eye
+A momentary lustre.”
 
 
 I had no difficulty in putting my project of a private interview with
@@ -14167,7 +14049,7 @@ of awe of her angel-like character and purity, that made me far more
 disposed to receive advice from her, than to bestow it. In the frame of
 mind which was natural to all these blended feelings, I laid my hand on
 the old-fashioned brass latch, by which the door of the “triangle”
- was closed. On entering the room, I found my sister seated on the
+was closed. On entering the room, I found my sister seated on the
 “causeuses,” the window open to admit air, the room looking snug but
 cheerful, and its occupant's sweet countenance expressive of care, not
 altogether free from curiosity. The last time I had been in that room,
@@ -14375,7 +14257,7 @@ was dying to know what sort of offers they were. I thought I might at
 least venture to ask that question.
 
 “Did you know the four gentlemen that you suppose Lucy to have refused?”
- said I, with as indifferent an air as I could assume, affecting to
+said I, with as indifferent an air as I could assume, affecting to
 destroy a cobweb with my rattan, and even carrying my acting so far as
 to make an attempt at a low whistle.
 
@@ -14404,7 +14286,7 @@ any exchange of sentiment or feeling, Miles, cannot be much more than
 imagination or caprice.”
 
 “I suppose those four chaps are all famously cured, by this time, then?”
- said I, pretending again to whistle.
+said I, pretending again to whistle.
 
 “I cannot answer for that--it is so easy to love Lucy, and to love her
 warmly. I only know they visit her no longer, and, when they meet her in
@@ -14501,7 +14383,6 @@ far I could, or could not, ask such a question with indifference. It
 will be remembered that no verbal explanations had ever taken place
 between us, on the subject of our feelings towards the companions of our
 childhood, and that all that was known to either was obtained purely
-by inference. Between myself and Lucy nothing had ever passed, indeed,
 which might not have been honestly referred to our long and early
 association, so far as the rules of intercourse were concerned, though I
 sometimes fancied I could recall a hundred occasions, on which Lucy
@@ -14576,7 +14457,6 @@ interests, and soon got off the painful subject altogether.
 and hazards than people ashore; and, I now tell you, should anything
 happen to me, my will may be found in my secretary; signed and sealed,
 the day I attain my majority. I have given orders to have it drawn up
-by a lawyer of eminence, and shall take it to sea with me, for that very
 purpose.”
 
 “From which I am to infer that I must not covet Clawbonny,” answered
@@ -14807,16 +14687,14 @@ company, taking the direction of the house.
 
 
 
-CHAPTER XXV.
 
-  “Or feeling--, as the storm increases,
-  The love of terror nerve thy breast,
-  Didst venture to the coast:
-  To see the mighty war-ship leap
-  From wave to wave upon the deep,
-  Like chamois goat from steep to steep,
-  Till low in valley lost.”
-   ALLSTON.
+“Or feeling--, as the storm increases,
+The love of terror nerve thy breast,
+Didst venture to the coast:
+To see the mighty war-ship leap
+From wave to wave upon the deep,
+Like chamois goat from steep to steep,
+Till low in valley lost.”
 
 
 Roger Talcott had not been idle during my absence. Clawbonny was so dear
@@ -14938,7 +14816,6 @@ I obtain into the private affairs of sundry personages of Salem, in
 Massachusetts, together with certain glimpses in at Boston folk; all,
 however, referring to qualities and facts that might be classed among
 the real or supposed. I can, at this distant day, recall Scene 1st, Act
-1st, of the drama that continued while we were crossing the ocean, with
 the slight interruption of a few days, produced by sea-sickness.
 
 “Wallace,” said Sarah, “did you say, yesterday, that John Viner had
@@ -15048,7 +14925,7 @@ as close an insight into the private affairs of all his neighbours, as
 they enjoyed themselves.
 
 “No doubt we are all as well off as most strangers in New York,”
- observed the wife; “still, it ought to be admitted that we may
+observed the wife; “still, it ought to be admitted that we may
 be mistaken. I have heard it said there is an old Mr. Hardinge, a
 clergyman, who would make a far better match for the lady, than his son.
 However, it is of no great moment, now; for, when our neighbour
@@ -15466,18 +15343,16 @@ countenance of honest Moses Marble!
 
 
 
-CHAPTER XXVI.
 
-  “At the piping of all hands,
-  When the judgment signal's spread--
-  When the islands and the lands,
-  And the seas give up the dead,
-  And the south and the north shall come;
-  When the sinner is dismay'd,
-  And the just man is afraid,
-  Then heaven be thy aid,
-  Poor _Tom_.'”
-   BRAINARD.
+“At the piping of all hands,
+When the judgment signal's spread--
+When the islands and the lands,
+And the seas give up the dead,
+And the south and the north shall come;
+When the sinner is dismay'd,
+And the just man is afraid,
+Then heaven be thy aid,
+Poor _Tom_.'”
 
 
 The two ships, in the haste of their respective crews to get clear of
@@ -15605,7 +15480,7 @@ out of hail now, and must guess at all they repeat, if repeating it can
 be called.”
 
 “Quite as much as nine-tenths of what they give as coming from others,”
- observed Talcott. “People never can tell so much of other person's
+observed Talcott. “People never can tell so much of other person's
 affairs, without bailing out most of their ideas from their own
 scuttle-butts.”
 
@@ -16079,7 +15954,7 @@ I reminded the gentleman that this was the first I had ever heard of the
 lady's death.
 
 “She has left every dollar to young Mr. Hardinge, her cousin's son;”
- added Jane, “cutting off that handsome, genteel, young lady his sister,
+added Jane, “cutting off that handsome, genteel, young lady his sister,
 as well as her father, without a cent”--in 1803, they just began to
 speak of _cents_, instead of farthings--“and everybody says it was so
 cruel!”
@@ -16163,7 +16038,6 @@ merchants, however, we got to sea May 15th, with a full cargo, a portion
 of which I had purchased on my own account, with the money earned by
 the ship, within the last ten months. Nothing occurred worthy of notice,
 until the Dawn neared the Straits of Gibraltar. Here we were boarded
-by an English frigate, and first learned the declaration of a new war
 between France and England; a contest that, in the end, involved in
 it all the rest of christendom. Hostilities had already commenced, the
 First Consul having thrown aside the mask, just three days after we left
@@ -16187,13 +16061,11 @@ sails unbent before the sun set.
 
 
 
-CHAPTER XXVII.
 
-  “With look like patient Job's, eschewing evil;
-  With motions graceful as a bird's in air;
-  Thou art, in sober truth, the veriest devil
-  That ere clinched fingers in a captive's hair.”
-   HALLECK.
+“With look like patient Job's, eschewing evil;
+With motions graceful as a bird's in air;
+Thou art, in sober truth, the veriest devil
+That ere clinched fingers in a captive's hair.”
 
 
 There was about an hour of daylight, when I left the compting-house of
@@ -16625,7 +16497,7 @@ less my chances seemed and I determined to quit the theatre, at once.
 The reader will remember that I was New York born and bred, a state
 of society in which few natives acted on the principle that “there
 was nothing too high to be aspired to, nothing too low to be done.”
- I admitted I had superiors, and was willing to defer to the facts and
+I admitted I had superiors, and was willing to defer to the facts and
 opinions of the world as I knew it.
 
 In the lobby of the building, I experienced a pang at the idea of
@@ -16657,7 +16529,7 @@ appear, respectable, staid, and richly attired. The good lady had come
 on the stage during the revolution, and had a slightly military air--a
 _parade_ in her graces, that was not altogether unknown to the _èlèves_
 of that school. I dare say she could use such words as “martinets,”
- “mowhairs,” “brigadiers,” and other terms familiar to her class. Alas!
+“mowhairs,” “brigadiers,” and other terms familiar to her class. Alas!
 how completely all these little traces of the past are disappearing from
 our habits and manners!
 
@@ -16669,9 +16541,7 @@ difference. Between the acts, I remarked that all the principal persons
 in the front rows were desirous of exchanging nods with the “British
 officer,” a proof that he was circulating freely in the best set, and
 had reached a point, when “not to know him, argues yourself unknown.”
- {*]
 
-{Footnote *: The miserable moral dependence of this country on Great
 Britain, forty years since, cannot well be brought home to the present
 generation. It is still too great, but has not a tithe of its former
 force. The writer has himself known an Italian Prince, a man of family
@@ -16720,7 +16590,6 @@ enthralled, I fancied nothing was wanting to complete the appearance,
 but my own necklace. Powerful, robust man as I was, with my frame
 hardened by exposure and trials, I could have sat down and wept, after
 gazing some time at the precious creature, under the feeling produced
-by the conviction that I was never to renew my intercourse with her, on
 terms of intimacy at least. The thought that from day to day we were to
 become more and more strangers, was almost too much to be borne. As it
 was, scalding tears forced themselves to my eyes, though I succeeded
@@ -16873,7 +16742,6 @@ right, and all will come out, just as I predicted.”
 
 I saw Lucy looking anxiously around, while Drewett had gone to order the
 carriages to advance, and I hoped it might be for me. In a moment I was
-by her side; at the next, Mr. Andrew Drewett offered his arm, saying,
 her carriage “stopped the way.” We moved into the outer lobby, in a
 body, and then it was found that Mrs. Drewett's carriage was up first,
 while Lucy's was in the rear. Yes, Lucy's carriage!--the dear girl
@@ -16921,16 +16789,13 @@ the carriage, Rupert walking swiftly away.
 
 
 
-CHAPTER XXVIII.
 
-  “Hear me a little;
-  For I have only been silent so long,
-  And given way unto this course of fortune,
-  By noting of the lady: I have mark'd
-  A thousand blushing apparitions start
-  Into her face; a thousand innocent shames
-  In angel whiteness bear away those blushes--”
-   SHAKESPEARE
+“Hear me a little;
+For I have only been silent so long,
+And given way unto this course of fortune,
+A thousand blushing apparitions start
+Into her face; a thousand innocent shames
+In angel whiteness bear away those blushes--”
 
 
 I reached the Wallingford before eleven, where I found Neb in attendance
@@ -17032,7 +16897,7 @@ Oh! how I wished this were true, but, alas! alas! I knew it was far
 otherwise!
 
 “I see you are disturbed, my dear boy, on account of what I have said,”
- resumed Mr. Hardinge; “probably from serious apprehensions about your
+resumed Mr. Hardinge; “probably from serious apprehensions about your
 sister's health. She is not well, I allow; but it is the effect of
 mental ailments. The precious creature has had too vivid views of
 her own sinful nature, and has suffered deeply, I fear. I trust, my
@@ -17152,7 +17017,6 @@ I told his generation and race that the faithful fellow would be up with
 the cart that was to convey my luggage. But, Grace awaited me. I broke
 through the throng, and entered the house. In the door I was met by
 Chloe, a girl about my own sister's age, and a sort of cousin of Neb's
-by the half-blood, who had been preferred of late years to functions
 somewhat resembling those of a lady's maid. I say of the half-blood;
 for, to own the truth, few of the New York blacks, in that day, could
 have taken from their brothers and sisters, under the old _dictum_ of
@@ -17450,7 +17314,6 @@ quite likely to produce a better,--so much easier is it to pull down
 than to build up; but my object is merely to give the reader a
 general idea of my poor sister's situation. In outward appearance, her
 countenance denoted that expression which the French so well describe,
-by their customary term of “_fatigué_,” rather than any other positive
 indication of disease--Grace's frame was so delicate by nature, that a
 little falling away was not as perceptible in her, as it would have been
 in most persons; though her beautiful little hands wanted that fulness
@@ -17578,7 +17441,6 @@ may be ready to ask. I went carefully through the package in the course
 of the evening, and I set aside two, as the only exceptions in which my
 name did not appear. On examining these two with jealous care, I found
 each had a postscript, one of which was to the following effect: “I see
-by the papers that Miles has sailed for Malta having at last left those
 stubborn Turks. I am glad of this, as one would not wish to have the
 excellent fellow shut up in the Seven Towers, however honourable it may
 have been.” The other postscript contained this: “Dear Miles has got to
@@ -17647,13 +17509,11 @@ act.
 
 
 
-CHAPTER XXIX.
 
-  “Wherever sorrow is, relief would be;
-  If you do sorrow at my grief in love,
-  By giving love, your sorrow and my grief
-  Were both extermin'd.”
-   _As You Like It._
+“Wherever sorrow is, relief would be;
+If you do sorrow at my grief in love,
+Were both extermin'd.”
+_As You Like It._
 
 
 I saw but little of Grace, during the early part of the succeeding day.
@@ -17987,7 +17847,6 @@ because he feels himself _drawn_ to holiness, by a power that is of
 itself holy; and not those who appeal to their people, as if heaven and
 hell were a mere matter of preference and avoidance, on the ground of
 expediency. I cannot better characterize Mr. Hardinge's preaching, than
-by saying, that I do not remember ever to have left his church with a
 sense of fear towards the Creator; though I have often been impressed
 with a love that was as profound as the adoration that had been
 awakened.
@@ -18105,9 +17964,7 @@ the Nicoll, and various other old New York estates, though several were
 lost by attainder in the revolution. I explain these things, lest any
 European who may happen to read this book, should regard it as fiction;
 for, allowing for trifling differences, a hundred Clawbonnys are to be
-found on the two banks of the Hudson, at this very hour.{*]
 
-{Footnote *: Even the American may learn the following facts with some
 surprise. It is now about five-and-twenty years since the writer, as
 tenant by the courtesy, came into possession of two farms, lying within
 twenty-three miles of New York, in each of which there had been three
@@ -18413,13 +18270,11 @@ in practice.
 
 
 
-CHAPTER XXX.
 
-  “And she sits and gazes at me,
-  With those deep and tender eyes,...
-  Like the stars, so still and saint-like,
-  Looking downward from the skies.”
-   --LONGFELLOW
+“And she sits and gazes at me,
+With those deep and tender eyes,...
+Like the stars, so still and saint-like,
+Looking downward from the skies.”
 
 
 The next morning I set about the measures necessary for carrying out our
@@ -18437,7 +18292,6 @@ vessel. But we chose to have plenty of physical force; and a cook was
 indispensable. Clawbonny supplied the latter, in the person of old Dido
 of that ilk.
 
-By noon, the whole party were ready to embark. Grace was driven to the
 wharf, and she walked on board the sloop, supported by Lucy and myself;
 more, however, from solicitude than from absolute necessity. Every
 precaution, however, was taken by order of the physician to prevent
@@ -18463,7 +18317,7 @@ the different individuals. Notwithstanding the sort of reverential
 attachment all felt for “Miss Grace,” and the uncertainty some among
 these unsophisticated creatures must have experienced on the subject
 of her health, it was not in nature for such a cluster of “niggers”
- to exhibit unhappiness, at a moment when there were so many grounds of
+to exhibit unhappiness, at a moment when there were so many grounds of
 excitement. The people of this race know nothing of the _word,_ perhaps;
 but they delight in the _thing_, quite as much as if they did nothing
 but electioneer all their lives. Most pliant instruments would their
@@ -18516,7 +18370,6 @@ should order a bottle of wine to be placed at the side of his plate,
 would be stared at as a fool; and not without reason altogether, for,
 did it escape the claws of his _convives_ and the waiters, he would
 probably reach the end of his journey before he could drink it. In
-1803, not only did the dinner pass in peace, and with gentleman-like
 deliberation; not only were the cooler and the fruit taken on deck,
 and the one sipped and the other eaten at leisure, in the course of an
 afternoon, but in the course of many afternoons. Passages were certainly
@@ -18537,7 +18390,7 @@ is called the march of improvement. Of one thing, however, I feel quite
 certain; that these inventions, coupled with the gregarious manner
 of living that has sprung up in the large taverns, is, as one of our
 writers expresses it, “doing _wonders_ for the manners of the people;”
- though, in my view of the matter, the wonder is, that they have any
+though, in my view of the matter, the wonder is, that they have any
 left.
 
 There might have been thirty sail in sight, when the Wallingford got
@@ -18633,7 +18486,6 @@ While the passengers of the Gull felt this disposition to smile, it
 was very different with her skipper; his Dutch pilot, whose name was
 Abrahamus Van Valtenberg, but who was more familiarly known as 'Brom
 Folleck, for so the children of New Netherlands twisted their cognomens
-in converting them into English;{*] the black cook, the mulatto
 steward, and the “all hands,” who were one man and a boy. There had been
 generations of sloops which bore the name of Watlingford, as Well as
 generations of men, at Clawbonny; and this every river-man knew. In
@@ -18649,7 +18501,6 @@ make that boat do anything but talk. Nothing but the new paint, which
 is different from the last, prevented me from knowing the sloop. Had I
 taken a look at her bows, this couldn't have happened.”
 
-{Footnote *: A story is told of a Scotchman of the name of
 Farquharson,--who settled among the High Dutch on the Mohawk, sometime
 previously to the Revolution; where, unable to pronounce his name, the
 worthy formers called him Feuerstein (pronounced Firestyne). The son
@@ -18795,7 +18646,7 @@ have the goodness to tell your mother that Mrs. Ogilvie begs she will
 not leave Albany until after her arrival. The other sloop, Mrs. Ogilvie
 thinks, cannot be more than an hour or two after you, and she is very
 desirous of making a common party to--ah! there comes Mrs. Drewett,”
- said Lucy, hastily interrupting herself, “and I can deliver my message,
+said Lucy, hastily interrupting herself, “and I can deliver my message,
 myself.”
 
 Mrs. Drewett coming aft at this instant, Lucy certainly did turn to
@@ -18805,7 +18656,7 @@ earnestly requested her to deliver in passing.
 “And now,” returned Mrs. Drewett, when Lucy had ceased, first civilly
 saluting me, “and now, my dear Lucy, we have something for you. So
 sudden was your departure, on the receipt of that naughty letter,”
- my letter, summoning the dear girl to the bed-side of her friend,
+my letter, summoning the dear girl to the bed-side of her friend,
 was meant, “that you left your work-box behind you, and, as I knew it
 contained many notes besides bank-notes, I would not allow it to be
 separated from me, until we met. Here it is; in what manner shall we
@@ -19025,7 +18876,7 @@ but I have sometimes thought, since, that Drewett was perfectly
 conscious who I was, and that he gave some vent to his jealous distrust
 of Lucy's feelings towards me. This may be all imagination; but I
 certainly heard the words “Lucy” “Wallingford,” “Clawbonny,” “hateful,”
- muttered by the man, even as he struggled there for life. The advantage
+muttered by the man, even as he struggled there for life. The advantage
 given him, by turning to allow him to put his hands on my shoulders,
 liked to have cost me dear. Instead of doing as I directed, he grasped
 my neck with both arms, and seemed to wish to mount on my head, forcing

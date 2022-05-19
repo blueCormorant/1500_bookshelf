@@ -1,61 +1,24 @@
 
-[Illustration]
 
 
 
 
-WHITE FANG
-
-by Jack London
-
-
-Contents
-
- PART I
- CHAPTER I THE TRAIL OF THE MEAT
- CHAPTER II THE SHE-WOLF
- CHAPTER III THE HUNGER CRY
-
- PART II
- CHAPTER I THE BATTLE OF THE FANGS
- CHAPTER II THE LAIR
- CHAPTER III THE GREY CUB
- CHAPTER IV THE WALL OF THE WORLD
- CHAPTER V THE LAW OF MEAT
-
- PART III
- CHAPTER I THE MAKERS OF FIRE
- CHAPTER II THE BONDAGE
- CHAPTER III THE OUTCAST
- CHAPTER IV THE TRAIL OF THE GODS
- CHAPTER V THE COVENANT
- CHAPTER VI THE FAMINE
-
- PART IV
- CHAPTER I THE ENEMY OF HIS KIND
- CHAPTER II THE MAD GOD
- CHAPTER III THE REIGN OF HATE
- CHAPTER IV THE CLINGING DEATH
- CHAPTER V THE INDOMITABLE
- CHAPTER VI THE LOVE-MASTER
-
- PART V
- CHAPTER I THE LONG TRAIL
- CHAPTER II THE SOUTHLAND
- CHAPTER III THE GOD’S DOMAIN
- CHAPTER IV THE CALL OF KIND
- CHAPTER V THE SLEEPING WOLF
 
 
 
 
-PART I
 
 
 
 
-CHAPTER I
-THE TRAIL OF THE MEAT
+
+
+
+
+
+
+
+
 
 
 Dark spruce forest frowned on either side the frozen waterway. The
@@ -370,8 +333,6 @@ scant than the epitaph of many another dog, of many a man.
 
 
 
-CHAPTER II
-THE SHE-WOLF
 
 
 Breakfast eaten and the slim camp-outfit lashed to the sled, the men
@@ -803,8 +764,6 @@ blue. I’ll have to cheer him up to-morrow.”
 
 
 
-CHAPTER III
-THE HUNGER CRY
 
 
 The day began auspiciously. They had lost no dogs during the night, and
@@ -1186,13 +1145,10 @@ meat than the man it had just missed.
 
 
 
-PART II
 
 
 
 
-CHAPTER I
-THE BATTLE OF THE FANGS
 
 
 It was the she-wolf who had first caught the sound of men’s voices and
@@ -1533,8 +1489,6 @@ days to come.
 
 
 
-CHAPTER II
-THE LAIR
 
 
 For two days the she-wolf and One Eye hung about the Indian camp. He
@@ -1815,8 +1769,6 @@ into the world.
 
 
 
-CHAPTER III
-THE GREY CUB
 
 
 He was different from his brothers and sisters. Their hair already
@@ -1880,7 +1832,6 @@ administered rebuke, and later, a paw, that crushed him down and rolled
 him over and over with swift, calculating stroke. Thus he learned hurt;
 and on top of it he learned to avoid hurt, first, by not incurring the
 risk of it; and second, when he had incurred the risk, by dodging and
-by retreating. These were conscious actions, and were the results of
 his first generalisations upon the world. Before that he had recoiled
 automatically from hurt, as he had crawled automatically toward the
 light. After that he recoiled from hurt because he _knew_ that it was
@@ -1999,11 +1950,8 @@ left fork, and the lair in the rocks, and the lynx’s wrath.
 
 
 
-CHAPTER IV
-THE WALL OF THE WORLD
 
 
-By the time his mother began leaving the cave on hunting expeditions,
 the cub had learned well the law that forbade his approaching the
 entrance. Not only had this law been forcibly and many times impressed
 on him by his mother’s nose and paw, but in him the instinct of fear
@@ -2371,8 +2319,6 @@ ate the blood-drinker, and after that went back to the cave and slept.
 
 
 
-CHAPTER V
-THE LAW OF MEAT
 
 
 The cub’s development was rapid. He rested for two days, and then
@@ -2564,13 +2510,10 @@ of himself.
 
 
 
-PART III
 
 
 
 
-CHAPTER I
-THE MAKERS OF FIRE
 
 
 The cub came upon it suddenly. It was his own fault. He had been
@@ -2943,8 +2886,6 @@ were fire-makers! They were gods.
 
 
 
-CHAPTER II
-THE BONDAGE
 
 
 The days were thronged with experience for White Fang. During the time
@@ -3138,7 +3079,6 @@ from that, White Fang swung back and forth like an erratic and jerky
 pendulum. Varying were the emotions that surged through him. At first,
 he had known surprise. Then came a momentary fear, when he yelped
 several times to the impact of the hand. But this was quickly followed
-by anger. His free nature asserted itself, and he showed his teeth and
 snarled fearlessly in the face of the wrathful god. This but served to
 make the god more wrathful. The blows came faster, heavier, more shrewd
 to hurt.
@@ -3230,8 +3170,6 @@ for the free life that had been his.
 
 
 
-CHAPTER III
-THE OUTCAST
 
 
 Lip-lip continued so to darken his days that White Fang became wickeder
@@ -3387,8 +3325,6 @@ found himself.
 
 
 
-CHAPTER IV
-THE TRAIL OF THE GODS
 
 
 In the fall of the year, when the days were shortening and the bite of
@@ -3404,7 +3340,6 @@ Quite deliberately he determined to stay behind. He waited his
 opportunity to slink out of camp to the woods. Here, in the running
 stream where ice was beginning to form, he hid his trail. Then he
 crawled into the heart of a dense thicket and waited. The time passed
-by, and he slept intermittently for hours. Then he was aroused by Grey
 Beaver’s voice calling him by name. There were other voices. White Fang
 could hear Grey Beaver’s squaw taking part in the search, and Mit-sah,
 who was Grey Beaver’s son.
@@ -3561,8 +3496,6 @@ and upon whom he was now dependent.
 
 
 
-CHAPTER V
-THE COVENANT
 
 
 When December was well along, Grey Beaver went on a journey up the
@@ -3825,7 +3758,6 @@ never barked. His method was to drive straight at the intruder, and to
 sink his teeth in if he could. Because he was morose and solitary,
 having nothing to do with the other dogs, he was unusually fitted to
 guard his master’s property; and in this he was encouraged and trained
-by Grey Beaver. One result of this was to make White Fang more
 ferocious and indomitable, and more solitary.
 
 The months went by, binding stronger and stronger the covenant between
@@ -3850,8 +3782,6 @@ and kin.
 
 
 
-CHAPTER VI
-THE FAMINE
 
 
 The spring of the year was at hand when Grey Beaver finished his long
@@ -3996,7 +3926,6 @@ fear death and the unknown.
 
 The months went by. White Fang grew stronger, heavier, and more
 compact, while his character was developing along the lines laid down
-by his heredity and his environment. His heredity was a life-stuff that
 may be likened to clay. It possessed many possibilities, was capable of
 being moulded into many different forms. Environment served to model
 the clay, to give it a particular form. Thus, had White Fang never come
@@ -4148,13 +4077,10 @@ coming.
 
 
 
-PART IV
 
 
 
 
-CHAPTER I
-THE ENEMY OF HIS KIND
 
 
 Had there been in White Fang’s nature any possibility, no matter how
@@ -4322,7 +4248,6 @@ Porcupine, he had built a canoe and paddled down that stream to where
 it effected its junction with the Yukon just under the Artic circle.
 Here stood the old Hudson’s Bay Company fort; and here were many
 Indians, much food, and unprecedented excitement. It was the summer of
-1898, and thousands of gold-hunters were going up the Yukon to Dawson
 and the Klondike. Still hundreds of miles from their goal, nevertheless
 many of them had been on the way for a year, and the least any of them
 had travelled to get that far was five thousand miles, while some had
@@ -4478,8 +4403,6 @@ lonely, unloving and ferocious, the enemy of all his kind.
 
 
 
-CHAPTER II
-THE MAD GOD
 
 
 A small number of white men lived in Fort Yukon. These men had been
@@ -4770,8 +4693,6 @@ and fancy.
 
 
 
-CHAPTER III
-THE REIGN OF HATE
 
 
 Under the tutelage of the mad god, White Fang became a fiend. He was
@@ -4947,8 +4868,6 @@ quarters of the town.
 
 
 
-CHAPTER IV
-THE CLINGING DEATH
 
 
 Beauty Smith slipped the chain from his neck and stepped back.
@@ -5386,8 +5305,6 @@ why I kept my hands offen him at the start.”
 
 
 
-CHAPTER V
-THE INDOMITABLE
 
 
 “It’s hopeless,” Weedon Scott confessed.
@@ -5398,7 +5315,6 @@ responded with a shrug that was equally hopeless.
 Together they looked at White Fang at the end of his stretched chain,
 bristling, snarling, ferocious, straining to get at the sled-dogs.
 Having received sundry lessons from Matt, said lessons being imparted
-by means of a club, the sled-dogs had learned to leave White Fang
 alone; and even then they were lying down at a distance, apparently
 oblivious of his existence.
 
@@ -5629,8 +5545,6 @@ his employer.
 
 
 
-CHAPTER VI
-THE LOVE-MASTER
 
 
 As White Fang watched Weedon Scott approach, he bristled and snarled to
@@ -5754,7 +5668,6 @@ uppermost and swayed him.
 
 So spoke Matt, coming out of the cabin, his sleeves rolled up, a pan of
 dirty dish-water in his hands, arrested in the act of emptying the pan
-by the sight of Weedon Scott patting White Fang.
 
 At the instant his voice broke the silence, White Fang leaped back,
 snarling savagely at him.
@@ -5967,7 +5880,6 @@ stoop, where he crouched, and waited.
 
 But no master came. In the morning the door opened and Matt stepped
 outside. White Fang gazed at him wistfully. There was no common speech
-by which he might learn what he wanted to know. The days came and went,
 but never the master. White Fang, who had never known sickness in his
 life, became sick. He became very sick, so sick that Matt was finally
 compelled to bring him inside the cabin. Also, in writing to his
@@ -6120,13 +6032,10 @@ in his throat.
 
 
 
-PART V
 
 
 
 
-CHAPTER I
-THE LONG TRAIL
 
 
 It was in the air. White Fang sensed the coming calamity, even before
@@ -6350,8 +6259,6 @@ and rubbed the flattening ears.
 
 
 
-CHAPTER II
-THE SOUTHLAND
 
 
 White Fang landed from the steamer in San Francisco. He was appalled.
@@ -6381,7 +6288,6 @@ matter what happened never losing sight of him.
 But White Fang was to have no more than a nightmare vision of the
 city—an experience that was like a bad dream, unreal and terrible, that
 haunted him for long after in his dreams. He was put into a baggage-car
-by the master, chained in a corner in the midst of heaped trunks and
 valises. Here a squat and brawny god held sway, with much noise,
 hurling trunks and boxes about, dragging them in through the door and
 tossing them into the piles, or flinging them out of the door, smashing
@@ -6554,7 +6460,6 @@ the master’s legs and received reassuring pats on the head.
 The hound, under the command, “Dick! Lie down, sir!” had gone up the
 steps and lain down to one side of the porch, still growling and
 keeping a sullen watch on the intruder. Collie had been taken in charge
-by one of the woman-gods, who held arms around her neck and petted and
 caressed her; but Collie was very much perplexed and worried, whining
 and restless, outraged by the permitted presence of this wolf and
 confident that the gods were making a mistake.
@@ -6593,8 +6498,6 @@ with the terrors he felt must lurk under the trap-roof of the dwelling.
 
 
 
-CHAPTER III
-THE GOD’S DOMAIN
 
 
 Not only was White Fang adaptable by nature, but he had travelled much,
@@ -6738,7 +6641,6 @@ disapproval, and White Fang’s spirit wilted under it.
 In point of fact, the cuff was rarely administered. The master’s voice
 was sufficient. By it White Fang knew whether he did right or not. By
 it he trimmed his conduct and adjusted his actions. It was the compass
-by which he steered and learned to chart the manners of a new land and
 life.
 
 In the Northland, the only domesticated animal was the dog. All other
@@ -6953,8 +6855,6 @@ molest the Fighting Wolf.
 
 
 
-CHAPTER IV
-THE CALL OF KIND
 
 
 The months came and went. There was plenty of food and no work in the
@@ -7107,7 +7007,6 @@ White Fang arrived. He came in among them, panting, covered with dust.
 The children welcomed White Fang with glad cries and ran to meet him.
 He avoided them and passed down the porch, but they cornered him
 against a rocking-chair and the railing. He growled and tried to push
-by them. Their mother looked apprehensively in their direction.
 
 “I confess, he makes me nervous around the children,” she said. “I have
 a dread that he will turn upon them unexpectedly some day.”
@@ -7185,8 +7084,6 @@ forest.
 
 
 
-CHAPTER V
-THE SLEEPING WOLF
 
 
 It was about this time that the newspapers were full of the daring
