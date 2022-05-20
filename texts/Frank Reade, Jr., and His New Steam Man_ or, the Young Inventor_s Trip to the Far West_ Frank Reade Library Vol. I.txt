@@ -1,85 +1,3 @@
-Team (http://www.pgdp.net) from page images generously made available by
-Internet Archive (https://archive.org)
-
-
-
-Note: Project Gutenberg also has an HTML version of this
-      file which includes the original illustrations.
-      See 53932-h.htm or 53932-h.zip:
-      (http://www.gutenberg.org/files/53932/53932-h/53932-h.htm)
-      or
-      (http://www.gutenberg.org/files/53932/53932-h.zip)
-
-
-      Images of the original pages are available through
-      Internet Archive. See
-      https://archive.org/details/Frank_Reade_-_01
-
-
-Transcriber’s note:
-
-      Text enclosed by underscores is in italics (_italics_).
-
-      Text enclosed by equal signs is in bold face (=bold=).
-
-
-
-
-
-   “Noname’s” Latest and Best Stories are Published in This Library.
-
-[Illustration: FRANK READE LIBRARY]
-
- ═════════════════════════════════════════════════════════════════════
-    _Entered at the Post Office at New York, N. Y., as Second Class
-                               Matter._
- ═════════════════════════════════════════════════════════════════════
- =No. 1.= {=COMPLETE.=}       FRANK TOUSEY,       {=PRICE=}   =Vol. I=
-                           PUBLISHED, 34 & 36    {=5 CENTS.=}
-                         NORTH MOORE STREET, NEW
-                                  YORK.
-                          New York,    ISSUED
-                          September    WEEKLY.
-                          24, 1892.
- ═════════════════════════════════════════════════════════════════════
- _Entered according to the Act of Congress, in the year 1892, by FRANK
-  TOUSEY, in the office of the Librarian of Congress, at Washington,
-                                D. C._
- ═════════════════════════════════════════════════════════════════════
-
-
-
-
-        FRANK READE, JR.,         AND HIS NEW STEAM MAN;
-                                         OR, THE
-                          YOUNG INVENTOR’S TRIP TO THE FAR WEST.
-
-                                       By “NONAME.”
-
-[Illustration]
-
- The Subscription Price of the FRANK READE LIBRARY by the Year is $2.50:
- $1.25 per six months, post-paid. Address FRANK TOUSEY, PUBLISHER, 34 and
-                36 North Moore Street, New York. Box 2730.
-
-
-
-
-                Frank Reade Jr., and His New Steam Man;
-                                  OR,
-               THE YOUNG INVENTOR’S TRIP TO THE FAR WEST.
-
-
-                              By “NONAME”,
-
- Author of Frank Reade Jr.’s Electric Cyclone; or, Thrilling Adventures
-                         in No Man’s Land, etc.
-
-
-
-
-                               CHAPTER I.
-                             A GREAT WRONG.
 
 
 Frank Reade was noted the world over as a wonderful and distinguished
@@ -231,11 +149,10 @@ note worded like this:”
 
 Mr. Reade laid a note upon the table, Frank read it:
 
-    “DEAR TRAVERS:—I would like to see you to-night upon a very
-    important matter. Will you meet me in twenty minutes at the cafe
-    on your corner. I must see you, so be sure and come.
+“DEAR TRAVERS:—I would like to see you to-night upon a very
+important matter. Will you meet me in twenty minutes at the cafe
+on your corner. I must see you, so be sure and come.
 
-                                                           “A FRIEND.”
 
 “Of course Jim wondered at the note, but he did not know of an enemy in
 the world, so he felt perfectly safe in keeping the appointment. He
@@ -276,7 +193,6 @@ locked and would not yield.
 
 “Then he decided to go back to his room and wash off the blood. But he
 had not gone ten steps before he was met in the glare of the lamplight
-by one of the club men.
 
 “‘Thunder! What’s the matter with you, Travers?’ asked his friend.
 
@@ -331,8 +247,6 @@ He arose and walked once across the floor.
 
 
 
-                              CHAPTER II.
-                           THE NEW STEAM MAN.
 
 
 Then the young inventor paused before his father, and in a deeply
@@ -618,8 +532,6 @@ and setting you right.”
 
 
 
-                              CHAPTER III.
-                             ON THE PLAINS.
 
 
 The scene of our story now undergoes a great change.
@@ -905,8 +817,6 @@ spares a life.”
 
 
 
-                              CHAPTER IV.
-                              THE COWBOYS.
 
 
 Frank had spoken truthfully. The band of savages was really a part of
@@ -921,7 +831,6 @@ more massacres than any other Sioux chief in the Far West.
 His name was a synonym of terror among the settlers, from Dakota to the
 boundary line of Texas.
 
-By many he was claimed to be a white man or renegade. Others averred
 that he was a recreant Pawnee chief.
 
 However this was, certainly no red warrior was better known and feared
@@ -1188,8 +1097,6 @@ a stop. Then he seized a rifle and joined Barney.
 
 
 
-                               CHAPTER V.
-                             POMP’S RESCUE.
 
 
 But it was hardly likely that the cowboys would stand their ground long
@@ -1479,8 +1386,6 @@ intended to roll down upon the Steam Man.
 
 
 
-                              CHAPTER VI.
-                         THE FIGHT IN THE PASS.
 
 
 A more narrow escape could hardly be imagined.
@@ -1510,7 +1415,6 @@ As they did so they were exposed to shots from below. The three rifles
 spoke sharply in chorus.
 
 The two would be destroyers tumbled in a heap. Their fall was followed
-by a wild chorus of yells from the thickets and bowlder piles above.
 
 A volley of bullets came from there and rattled harmlessly against the
 steel netting, showing that the cowboys were there located in great
@@ -1762,8 +1666,6 @@ The young inventor awoke with a start.
 
 
 
-                              CHAPTER VII.
-                             THE VIGILANTS.
 
 
 “W-what’s the matter?” gasped Frank, sleepily arousing himself.
@@ -2053,8 +1955,6 @@ the lover of pretty Bessie Rodman.
 
 
 
-                             CHAPTER VIII.
-                             ON TO RANCH V.
 
 
 Plans were quickly made.
@@ -2345,8 +2245,6 @@ over her young and beautiful head.
 
 
 
-                              CHAPTER IX.
-                            POMP’S MISTAKE.
 
 
 Frank Reade, Jr., felt comparatively safe as he rolled himself up in a
@@ -2439,7 +2337,6 @@ In that flash of time Pomp had turned partly over.
 He was just in time to see the flash of a knife blade. He made a
 convulsive upward blow, and grasped the wrist of his unknown assailant.
 
-By the merest chance the death blow had been averted.
 
 But it was a close call.
 
@@ -2599,7 +2496,6 @@ His eyes bulged, and his knees shook as with the ague.
 “Fo’ de good Lor’ dis am dretful!” he groaned. “I’se done fo’ dis time,
 an’ dar am nobody to rescue Marse Frank!”
 
-                  *       *       *       *       *
 
 It was truly a dubious outlook. The savages were of Black Buffalo’s gang
 of Sioux, and they seemed much elated at getting the prisoner once more
@@ -2634,8 +2530,6 @@ groaned.
 
 
 
-                               CHAPTER X.
-                         IN THE ENEMY’S POWER.
 
 
 Artemus Cliff shouted in evil glee and triumph as he manipulated the
@@ -2846,7 +2740,6 @@ Frank and Barney were astonished.
 
 “What?” exclaimed the young inventor.
 
-By way of reply Bessie drew both hands from behind her.
 
 They were free. There were livid lines upon the fair wrists, where the
 cruel throngs had cut in.
@@ -2926,8 +2819,6 @@ have the best of it when a thrilling incident happened.
 
 
 
-                              CHAPTER XI.
-                          WITH THE VIGILANTS.
 
 
 In another moment the Steam Man would have been in the ranks of the
@@ -3078,7 +2969,6 @@ despairingly:
 “Barney, we are lost! Our end has come, and we are as good as dead men
 already!”
 
-                  *       *       *       *       *
 
 Poor Pomp saw no way out of the awful situation in which he was placed.
 
@@ -3209,8 +3099,6 @@ command:
 
 
 
-                              CHAPTER XII.
-                          THE FORTUNES OF WAR.
 
 
 Just at that moment when utter destruction threatened the brave little
@@ -3538,8 +3426,6 @@ Let us, therefore, for a time, deviate here and follow their fortunes.
 
 
 
-                             CHAPTER XIII.
-                             THE ABDUCTION.
 
 
 Chief Harmon of the Vigilants was not wholly content to abandon the
@@ -3697,7 +3583,6 @@ now Frank Reade, Jr., approached Harmon.
 
 “All right, Mr. Reade.”
 
-By Harmon’s orders five of The Vigilants joined Frank Reade.
 
 He led them aboard the steam wagon. Then he closed the door and seized
 the reins which connected with the throttle.
@@ -3891,8 +3776,6 @@ echoes were repeated a hundred fold in the recesses of the hills.
 
 
 
-                              CHAPTER XIV.
-                            IN HOT PURSUIT.
 
 
 The party of savages with the two captives in their midst, evidently
@@ -4245,8 +4128,6 @@ half a hundred strong.
 
 
 
-                              CHAPTER XV.
-                     THE VIGILANTES TO THE RESCUE.
 
 
 The appearance of the savages was most inopportune.
@@ -4563,8 +4444,6 @@ In a very few moments a large sized battle was in progress in the pass.
 
 
 
-                              CHAPTER XVI.
-                           POMP MAKES ACTION.
 
 
 Now let us return to Pomp and the Steam Man, whom in the detail of the
@@ -4690,7 +4569,6 @@ fing I kin do.”
 He opened the throttle and started the Steam Man along the base of the
 hills. With keen eye he studied the possibility of entering them.
 
-By the pass it was impossible. But he imagined that it would not be
 difficult to find another means.
 
 Nor was he disappointed.
@@ -4878,8 +4756,6 @@ rear and a mighty cry went up from the throats of the vigilants.
 
 
 
-                             CHAPTER XVII.
-                    ONCE MORE IN THE ENEMY’S POWER.
 
 
 It had been Col. Clark’s firm intention to return to the fort for
@@ -5164,8 +5040,6 @@ fault hersilf, as ivery wan believes.”
 
 
 
-                             CHAPTER XVIII.
-                           THE LOVERS QUEST.
 
 
 “I’ll tell ye how it was, Mister Reade,” cried bluff Harmon; the
@@ -5448,8 +5322,6 @@ experiences were in store for him.
 
 
 
-                              CHAPTER XIX.
-                         FRANK’S NARROW ESCAPE.
 
 
 Frank Reade, Jr., had decided to go at once in quest of the abductors of
@@ -5729,8 +5601,6 @@ Both rushed to the edge of the canyon and looked over.
 
 
 
-                              CHAPTER XX.
-                      THE FLOOD—CORNERING THE FOE.
 
 
 It was a thrilling sight which met their gaze.
@@ -6029,8 +5899,6 @@ quickly decided upon.
 
 
 
-                              CHAPTER XXI.
-                           WHICH IS THE END.
 
 
 The sound of firing now came from the hills quite plainly.
@@ -6233,7 +6101,6 @@ buried.
 The confession was put in writing and duly witnessed. The mission of the
 new Steam Man to the far west was ended.
 
-                  *       *       *       *       *
 
 The spirits of all were bright and cheerful, now that the end had come.
 
@@ -6312,46 +6179,3 @@ country.
 People came from near and far to see the invention and it was not long
 before the young inventor suddenly found himself involved in another
 daring project.
-
-The new Steam Man was destined to make another trip, and become involved
-in adventures even more thrilling than these just recorded, and a full
-and detailed account of the second trip may be found in
-
-
-                   No. 2. of the FRANK READE LIBRARY,
-
-                                ENTITLED
-
-       Frank Reade, Jr., With His New Steam Man in No Man’s Land;
-
-                                  OR,
-
-                         ON A MYSTERIOUS TRAIL,
-
-                              By “NONAME.”
-
-
-
-
-------------------------------------------------------------------------
-
-
-
-
-Transcriber’s note:
-
- 1. Silently corrected typographical errors.
-
- 2. Retained anachronistic and non-standard spellings as printed.
-
- 3. Retained inconsistent spelling of dialect as printed.
-
- 4. Changed ‘gate’ to ‘gait’ on p. 4.
-
- 5. Changed ‘They’ to ‘The’ on p. 4.
-
- 6. Changed ‘In’ to ‘Of’ on p. 11.
-
- 7. changed ‘she’ to ‘the’ on p. 16.
-
-
