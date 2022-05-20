@@ -1,87 +1,5 @@
 
 
-
-
-
-
-
-
-
-                            MINUTE MYSTERIES
-                            [_Detectograms_]
-
-
-                                   BY
-                              H. A. RIPLEY
-
-                           WITH A FOREWORD BY
-                             LEWIS E. LAWES
-                      _Warden of Sing Sing Prison_
-
-                          BOSTON AND NEW YORK
-                        HOUGHTON MIFFLIN COMPANY
-                    _The Riverside Press Cambridge_
-                                  1932
-
-              COPYRIGHT, 1932, BY HOUGHTON MIFFLIN COMPANY
-ALL RIGHTS RESERVED INCLUDING THE RIGHT TO REPRODUCE THIS BOOK OR PARTS
-                          THEREOF IN ANY FORM
-
-
-                          The Riverside Press
-                       CAMBRIDGE · MASSACHUSETTS
-                         PRINTED IN THE U.S.A.
-
-
-                                   TO
-                               MY MOTHER
-
-
-
-
-                                FOREWORD
-
-
-The solution of criminal mysteries constitutes one of the most
-absorbing, possibly the most intriguing forms of mental activity
-existent. It calls for something more than mere cold intelligence and
-reasoning ability, requiring in addition native perception, intuition,
-and a natural understanding of human behavior under stress of emotion
-and passion. Furthermore, some knowledge of pathological or abnormal
-behaviorism is a requisite.
-
-Mr. Ripley’s excellently thought-out series of mysteries might be said
-to represent a very adequate cross-section of the problems perennially
-confronting the law-enforcers and official crime-solvers of the nation.
-The points of evidence are cleverly assembled and the _nuances_ of
-incrimination are very subtly shaded.
-
-It would be well for the reader interested in successfully solving these
-problems to endeavor to think, not as a detective, but as the criminal
-in the case would think, in order to arrive at a correct solution. I
-have found that to deal adequately with the criminal after conviction,
-and while in confinement, it is necessary to understand his personal
-problems. To accomplish this, one must first think as does the criminal,
-discover the sequent conclusions upon which he based his anti-social
-activities, and thereupon make use of these findings to assist him
-toward rehabilitation.
-
-In this novel challenge to amateur criminologists, who suffer from a
-dearth of laboratory specimens upon which to experiment, Mr. Ripley
-offers an excellent opportunity—that of examining and forming
-conclusions upon the more elemental, vital, and dramatic aspects of
-various typical criminal situations, without the drawback of fantasy and
-concocted sordidness, which, for the practical criminologist, takes the
-glamour and color out of this thing called—Crime.
-
-                                                          Lewis E. Lawes
-
-
-
-
-                            AUTHOR’S PREFACE
-
-
 Chief Inspector Kelley, that grizzled veteran of the Detective Bureau,
 was talking to his nephew, Jim Barry, who had indicated a desire to
 enter the uncrowded field of criminology.
@@ -130,7 +48,6 @@ still finds time, however, to assist actively the police of many cities
 who frequently consult him on cases they find unusually puzzling.
 
 ‘There are instances also in which his part has been that of a
-bystander, where a word of suggestion, modestly given, has frequently
 disposed of cases before they were brought to the attention of the
 police.
 
@@ -192,101 +109,86 @@ detective you are and what poor detectives your friends are.
 The author hopes you will find them as fascinating reading as they were
 in the telling by the Professor.
 
-                                                            H. A. Ripley
+H. A. Ripley
 
 
 
 
-                                CONTENTS
 
 
-  Foreword by Lewis E. Lawes                                         vii
-  Author’s Preface                                                    ix
-  It Stands to Reason! _A New National Game_                         xix
-  1. A Crack Shot                                                      1
-  2. On the Scent                                                      3
-  3. Fatal Error                                                       5
-  4. The Poison Murder Case                                            7
-  5. A Strange ‘Kidnaping’                                             9
-  6. A Valuable Formula                                               11
-  7. Strangled                                                        13
-  8. Death in the Office                                              15
-  9. They Usually Forget Something                                    17
-  10. The Professor Gives a Lesson                                    19
-  11. Upstairs and Down                                               21
-  12. Class Day                                                       23
-  13. A Hot Pursuit                                                   25
-  14. A Question of Identity                                          27
-  15. A Yachtsman’s Alibi                                             29
-  16. Murder at Coney Island                                          31
-  17. Too Clever                                                      33
-  18. Bloody Murder                                                   35
-  19. Death Back-Stage                                                37
-  20. An Easy Combination                                             39
-  21. A Modern Knight                                                 41
-  22. The Jewel Robbery                                               43
-  23. Before the Coroner’s Inquest                                    45
-  24. The Fifth Avenue Hold-Up                                        47
-  25. Behind Locked Doors                                             49
-  26. Lost at Sea                                                     51
-  27. A Suave Gunman                                                  53
-  28. Accidental Death                                                55
-  29. Easy Money                                                      57
-  30. Robbery at High Noon                                            59
-  31. The Wrong Foot Forward                                          61
-  32. Death Attends the Party                                         63
-  33. No Way Out                                                      65
-  34. Midnight Murder                                                 67
-  35. Speakeasy Stick-Up                                              69
-  36. Behind Time                                                     71
-  37. A Broken Engagement                                             73
-  38. The Holden Road Murder                                          75
-  39. Fisherman’s Luck                                                77
-  40. The Unlucky Elephant                                            79
-  41. The Professor Listens                                           81
-  42. Ten-Fifteen                                                     83
-  43. Rapid Transit                                                   85
-  44. The Professor is Disappointed                                   87
-  45. A Dramatic Triumph                                              89
-  46. Murder at the Lake                                              91
-  47. The Professor Studies a Coat                                    93
-  48. Too Late                                                        95
-  49. Sergeant Reynolds’s Theory                                      97
-  50. Daylight Robbery                                                99
-  51. A Simple Solution                                              101
-  52. Who?                                                           103
-  53. Murder in the Swamp                                            105
-  54. Death by Drowning                                              107
-  55. Tragedy at the Convention                                      109
-  56. A Murderer’s Mistake                                           111
-  57. Babe Comes Through                                             113
-  58. A Soldier of Fortune                                           115
-  59. Number Twenty-Six                                              117
-  60. The Pullman Car Murder                                         121
-  61. Forgery                                                        123
-  62. The Christmas Eve Tragedy                                      125
-  63. A Knight of the Bath                                           127
-  64. Murder in the First Degree                                     129
-  65. A Rendezvous with Death                                        131
-  66. A Rum Regatta                                                  133
-  67. Who is the Heir?                                               135
-  68. The Professor Stops a Blunder                                  137
-  69. The Perfect Crime                                              139
-  70. The Professor Sees Through It                                  141
-  71. The Kidnapers’ Cleverness                                      143
-  Solutions                                                          145
+Foreword by Lewis E. Lawes                                         vii
+Author’s Preface                                                    ix
+It Stands to Reason! _A New National Game_                         xix
+2. On the Scent                                                      3
+3. Fatal Error                                                       5
+4. The Poison Murder Case                                            7
+5. A Strange ‘Kidnaping’                                             9
+6. A Valuable Formula                                               11
+7. Strangled                                                        13
+8. Death in the Office                                              15
+9. They Usually Forget Something                                    17
+20. An Easy Combination                                             39
+21. A Modern Knight                                                 41
+22. The Jewel Robbery                                               43
+23. Before the Coroner’s Inquest                                    45
+24. The Fifth Avenue Hold-Up                                        47
+25. Behind Locked Doors                                             49
+26. Lost at Sea                                                     51
+27. A Suave Gunman                                                  53
+28. Accidental Death                                                55
+29. Easy Money                                                      57
+30. Robbery at High Noon                                            59
+31. The Wrong Foot Forward                                          61
+32. Death Attends the Party                                         63
+33. No Way Out                                                      65
+34. Midnight Murder                                                 67
+35. Speakeasy Stick-Up                                              69
+36. Behind Time                                                     71
+37. A Broken Engagement                                             73
+38. The Holden Road Murder                                          75
+39. Fisherman’s Luck                                                77
+40. The Unlucky Elephant                                            79
+41. The Professor Listens                                           81
+42. Ten-Fifteen                                                     83
+43. Rapid Transit                                                   85
+44. The Professor is Disappointed                                   87
+45. A Dramatic Triumph                                              89
+46. Murder at the Lake                                              91
+47. The Professor Studies a Coat                                    93
+48. Too Late                                                        95
+49. Sergeant Reynolds’s Theory                                      97
+50. Daylight Robbery                                                99
+51. A Simple Solution                                              101
+52. Who?                                                           103
+53. Murder in the Swamp                                            105
+54. Death by Drowning                                              107
+55. Tragedy at the Convention                                      109
+56. A Murderer’s Mistake                                           111
+57. Babe Comes Through                                             113
+58. A Soldier of Fortune                                           115
+59. Number Twenty-Six                                              117
+60. The Pullman Car Murder                                         121
+61. Forgery                                                        123
+62. The Christmas Eve Tragedy                                      125
+63. A Knight of the Bath                                           127
+64. Murder in the First Degree                                     129
+65. A Rendezvous with Death                                        131
+66. A Rum Regatta                                                  133
+67. Who is the Heir?                                               135
+68. The Professor Stops a Blunder                                  137
+69. The Perfect Crime                                              139
+70. The Professor Sees Through It                                  141
+71. The Kidnapers’ Cleverness                                      143
+Solutions                                                          145
 
 
 
 
-                          IT STANDS TO REASON!
-                          A NEW NATIONAL GAME
 
 
 Here is a fascinating game of wits for a party of any size. It can be
 played in either of two ways.
 
-1. Select one or more stories from the _Minute Mysteries_ that
 particularly appeal to you. Make as many copies of each as there are
 guests at the party. Then pass the copies around and allow three
 minutes, say, for your guests to study them. At the end of this time
@@ -308,11 +210,9 @@ analysis; method number 2 adds to these a premium on an accurate memory.
 
 
 
-                            MINUTE MYSTERIES
 
 
-                                   1
-                             _A Crack Shot_
+_A Crack Shot_
 
 Professor Fordney was hunting in the Rockies when informed of a tragedy
 at one of the camps. Thinking he might be of some help, he went over,
@@ -356,11 +256,11 @@ report the accident.’
 ... ‘for that’s what you did.’
 
 
-     How did the Professor know Butler had murdered his companion?
+How did the Professor know Butler had murdered his companion?
 
 
-                                   2
-                             _On the Scent_
+2
+_On the Scent_
 
 ‘I couldn’t wait to be announced,’ said George Collins, Florida’s
 foremost prohibition agent, and a great wit, as he stepped into the
@@ -391,11 +291,11 @@ birthday party tonight, the ladies would love to hear that yarn of
 yours.’
 
 
-      What did the Professor find preposterous in Collins’s story?
+What did the Professor find preposterous in Collins’s story?
 
 
-                                   3
-                             _Fatal Error_
+3
+_Fatal Error_
 
 ‘Crowley was an eccentric and taciturn old fellow, but I liked him,’
 remarked Fordney. ‘When he was found dead last December, I took a
@@ -429,11 +329,11 @@ hardly finished his story before I was convinced he was implicated,’
 concluded Fordney.
 
 
-                  What directed suspicion to Bronson?
+What directed suspicion to Bronson?
 
 
-                                   4
-                        _The Poison Murder Case_
+4
+_The Poison Murder Case_
 
 ‘I’m going to the theater now,’ Bob Kewley told Professor Fordney at
 their club. ‘I wish you’d spend the evening with Uncle John. He’s been
@@ -473,11 +373,11 @@ alibi than those,’ pointing to the ticket stubs Bob was nervously
 fingering.
 
 
-           How had Kewley aroused the Professor’s suspicions?
+How had Kewley aroused the Professor’s suspicions?
 
 
-                                   5
-                        _A Strange ‘Kidnaping’_
+5
+_A Strange ‘Kidnaping’_
 
 ‘I haven’t the faintest idea why I was kidnaped,’ said Johnson to
 Professor Fordney, an hour after he returned home. ‘I never miss Sunday
@@ -518,12 +418,12 @@ undoubtedly believes your yarn, but you’d better think up a better one
 the next time.’
 
 
-  What flaw did the Professor find in Johnson’s story which proved the
-                        ‘kidnaping’ was a fake?
+What flaw did the Professor find in Johnson’s story which proved the
+‘kidnaping’ was a fake?
 
 
-                                   6
-                          _A Valuable Formula_
+6
+_A Valuable Formula_
 
 ‘I had just stepped behind that screen near the door to wash my hands
 when a man, gun in hand, entered the room and stood motionless for a few
@@ -569,11 +469,11 @@ noticed he had a big rip in the back of his blue coat.’
 believe any of it.’
 
 
-                    Why did the Professor say this?
+Why did the Professor say this?
 
 
-                                   7
-                              _Strangled_
+7
+_Strangled_
 
 ‘Twenty-two days of this hot, dry spell,’ groaned Professor Fordney. ‘I
 can’t remember a stretch like it.’
@@ -609,11 +509,11 @@ elsewhere and then brought to the vicinity where she was found,’ smiled
 the Professor.
 
 
-                                Do you?
+Do you?
 
 
-                                   8
-                         _Death in the Office_
+8
+_Death in the Office_
 
 When Professor Fordney reached Gifford’s office, he found a policeman
 already there.
@@ -651,11 +551,11 @@ him, and then jumped out the window.’
 lock. ‘There weren’t any murderers in here. Gifford committed suicide.’
 
 
-            Why was the Professor sure that it was suicide?
+Why was the Professor sure that it was suicide?
 
 
-                                   9
-                    _They Usually Forget Something_
+9
+_They Usually Forget Something_
 
 ‘Here is a good illustration of the old bromide that the smartest
 criminal leaves some clue in even the most carefully planned crime,’
@@ -668,11 +568,10 @@ the local police to assist them in a rather puzzling affair.
 illiterate underworld character. He was accused of sending the following
 note found in the murdered man’s pocket:
 
-  _sir john when i last seen you i sed i will kill you if the muney
-  ain’t here by mundy; all of it_
+_sir john when i last seen you i sed i will kill you if the muney
+ain’t here by mundy; all of it_
 
-                                _yurs truly,_
-                                                                    _XX_
+_yurs truly,_
 
 ‘When Wellington, the Chief Constable, asked my opinion, I told him the
 writer of the note, and therefore probably the murderer, was obviously
@@ -686,11 +585,10 @@ American whose sister had married the murdered man’s brother.’
 getting too involved for me. I can’t figure it out.’
 
 
-      How had Fordney determined the American was an educated man?
+How had Fordney determined the American was an educated man?
 
 
-                                   10
-                     _The Professor Gives a Lesson_
+_The Professor Gives a Lesson_
 
 ‘Cardoni came into Inspector Kelley’s office yesterday,’ said Fordney to
 his Criminology Class.
@@ -730,11 +628,10 @@ get?”
 “Get out!” hollered Kelley as he made a pass at Cardoni.’
 
 
-                Why was the informer treated so rudely?
+Why was the informer treated so rudely?
 
 
-                                   11
-                          _Upstairs and Down_
+_Upstairs and Down_
 
 ‘Let’s hear your story,’ said Inspector Kelley to Policeman Kirk, as
 Fordney dropped into a comfortable chair at Headquarters.
@@ -776,11 +673,10 @@ you’ll hold this fellow?’
 ‘I certainly intend to,’ replied the Inspector.
 
 
-          How did Fordney know the old lady had been murdered?
+How did Fordney know the old lady had been murdered?
 
 
-                                   12
-                              _Class Day_
+_Class Day_
 
 ‘Baklioff, in person, combined with “Grand Hotel,” had packed the
 Paramount,’ said the Professor. ‘Every seat was occupied and
@@ -818,11 +714,10 @@ class.
 with your story,’ said the student.
 
 
-                                Do you?
+Do you?
 
 
-                                   13
-                            _A Hot Pursuit_
+_A Hot Pursuit_
 
 ‘Hello, Smith,’ said Professor Fordney as he opened the door. ‘What’s
 up?’
@@ -862,11 +757,10 @@ don’t know what Uncle Fred will say when he gets back.’
 the Professor. ‘I suggest you put the bonds back.’
 
 
-              Where did Smith make his incriminating slip?
+Where did Smith make his incriminating slip?
 
 
-                                   14
-                        _A Question of Identity_
+_A Question of Identity_
 
 Professor Fordney and three of his friends were enjoying their weekly
 ‘get together’ at the University Club.
@@ -903,11 +797,10 @@ reproach. Even so, I knew without further investigation that Nora’s
 testimony was maliciously false.’
 
 
-                      How did the Professor know?
+How did the Professor know?
 
 
-                                   15
-                         _A Yachtsman’s Alibi_
+_A Yachtsman’s Alibi_
 
 ‘I’ve often remarked,’ said Professor Fordney, in an expansive mood,
 ‘how very difficult it is to fake an alibi without someone’s assistance.
@@ -941,11 +834,10 @@ with all on board, after hearing Picus’s story I immediately arrested
 him on suspicion of murder.’
 
 
-                   What was wrong with Picus’s alibi?
+What was wrong with Picus’s alibi?
 
 
-                                   16
-                        _Murder at Coney Island_
+_Murder at Coney Island_
 
 Inspector Kelley and Professor Fordney were seated in the former’s
 office when Policeman Fanning and his charge entered. After Fanning’s
@@ -983,11 +875,10 @@ are going to hold this man?’
 heard in a long time.’
 
 
-              What justified the police in holding Jasper?
+What justified the police in holding Jasper?
 
 
-                                   17
-                              _Too Clever_
+_Too Clever_
 
 ‘Receiving no reply to my ring and finding the door unlocked, I went
 in,’ said Albert Lynch. ‘Dawson was seated at his desk shot through the
@@ -1027,12 +918,11 @@ is like the Morrow case we handled. Remember?’
 ‘Good for you, Inspector,’ laughed the Professor.
 
 
- How did both men so quickly determine that the incriminating note had
-                        not been left by Dawson?
+How did both men so quickly determine that the incriminating note had
+not been left by Dawson?
 
 
-                                   18
-                            _Bloody Murder_
+_Bloody Murder_
 
 ‘A bad mess, this,’ said Professor Fordney to Sergeant Reynolds, as they
 viewed the bloody scene.
@@ -1074,11 +964,10 @@ who was speaking and, when Reynolds replied, ‘A friend,’ he hung up.
 ‘What!’ exclaimed Reynolds. ‘Still looks like suicide to me!’
 
 
-           Do you agree with Reynolds or the Professor? Why?
+Do you agree with Reynolds or the Professor? Why?
 
 
-                                   19
-                           _Death Back-Stage_
+_Death Back-Stage_
 
 Claudia Mason, beautiful and popular young actress, was found lying
 across the chaise-longue in her elaborately furnished dressing-room,
@@ -1098,11 +987,11 @@ and a diamond on her right.
 Professor, nodding toward a man’s photograph signed, Juan. ‘This was
 evidently addressed to him,’ he said, passing over a note which read:
 
-  Dear Juan:
+Dear Juan:
 
-  I am so despondent. The money from my jewels was not nearly enough.
+I am so despondent. The money from my jewels was not nearly enough.
 
-                                                                 Claudia
+Claudia
 
 ‘Not many of these dames kill themselves over their debts,’ muttered
 Reynolds as he went to call Maria.
@@ -1133,11 +1022,11 @@ beside the dead girl.
 ‘No, she hasn’t, young man. She was murdered,’ said the Professor.
 
 
-                  Why was he sure it was not suicide?
+Why was he sure it was not suicide?
 
 
-                                   20
-                         _An Easy Combination_
+20
+_An Easy Combination_
 
 ‘I was working late, preparing an advertising campaign,’ continued
 Fellows whom Professor Fordney had been questioning. ‘About ten-fifteen
@@ -1175,11 +1064,11 @@ the mask,’ returned Fellows belligerently.
 than that, Fellows, to fool me.’
 
 
-                Where did the Professor detect the lie?
+Where did the Professor detect the lie?
 
 
-                                   21
-                           _A Modern Knight_
+21
+_A Modern Knight_
 
 ‘There was hardly a breath of air as we sat on the terrace enjoying
 tea,’ reminisced Professor Fordney. ‘Rocca excused himself, saying he
@@ -1231,11 +1120,11 @@ combined with the other evidence discovered, absolutely exonerates
 Rocca."’
 
 
-          How did the Professor know Rocca had not shot Chase?
+How did the Professor know Rocca had not shot Chase?
 
 
-                                   22
-                          _The Jewel Robbery_
+22
+_The Jewel Robbery_
 
 ‘You say that as your butler called for help, a stranger, by the name of
 Dudley, was passing the house and rushed in?’
@@ -1272,11 +1161,11 @@ said Fordney. ‘I’m sure they know where your diamonds are. Long service,
 you know, isn’t necessarily a pledge of loyalty.’
 
 
-                   Why did Fordney so advise Owings?
+Why did Fordney so advise Owings?
 
 
-                                   23
-                     _Before the Coroner’s Inquest_
+23
+_Before the Coroner’s Inquest_
 
 ‘Let’s run over your testimony before the inquest opens,’ said Fordney.
 
@@ -1313,11 +1202,11 @@ Scott bore Dawson.’
 
 
 Why was the Professor doubtful the coroner’s jury would believe Curry’s
-                               testimony?
+testimony?
 
 
-                                   24
-                       _The Fifth Avenue Hold-Up_
+24
+_The Fifth Avenue Hold-Up_
 
 ‘What’s the hurry?’ asked Professor Fordney, as Baldwin collided with
 him in the doorway of the office at the back of the exclusive Cross
@@ -1356,11 +1245,11 @@ too much for him.’
 hurrying away with the emerald? I’m not!’
 
 
-         Why did Fordney think Baldwin had stolen the emerald?
+Why did Fordney think Baldwin had stolen the emerald?
 
 
-                                   25
-                         _Behind Locked Doors_
+25
+_Behind Locked Doors_
 
 At the Collingham home Professor Fordney found Clive Kingston, the
 Judge’s nephew, and Watkins, the butler, greatly excited. Forcing the
@@ -1402,11 +1291,11 @@ nose-glasses from his lap where they had fallen, unbroken. ‘I think I
 know now who murdered your uncle.’
 
 
-                   Whom did Fordney suspect, and why?
+Whom did Fordney suspect, and why?
 
 
-                                   26
-                             _Lost at Sea_
+26
+_Lost at Sea_
 
 ‘Tell us exactly what happened,’ said Professor Fordney as he sat in his
 study with Mrs. Rollins.
@@ -1432,7 +1321,6 @@ up from the deck.
 
 ‘They finally knocked him unconscious and took him to their boat after
 binding and gagging me. As you know, I was found drifting next morning
-by that fisherman.’
 
 ‘How was your husband dressed?’ inquired Fordney.
 
@@ -1447,11 +1335,11 @@ collect insurance on your diamonds on such a flimsy yarn. You and your
 husband will be lucky if you aren’t prosecuted.’
 
 
-                Where did the elaborate story fall down?
+Where did the elaborate story fall down?
 
 
-                                   27
-                            _A Suave Gunman_
+27
+_A Suave Gunman_
 
 ‘Can you describe this fellow?’ asked Professor Fordney of Henry Taylor,
 manager of the National Theater.
@@ -1499,11 +1387,11 @@ manner,’ replied Taylor.
 was obviously framed by you.’
 
 
-           How did Fordney know Taylor had faked the hold-up?
+How did Fordney know Taylor had faked the hold-up?
 
 
-                                   28
-                           _Accidental Death_
+28
+_Accidental Death_
 
 Returning to town late one night, Professor Fordney was driving along an
 unfrequented road when the sight of a motor-cycle policeman examining a
@@ -1539,11 +1427,11 @@ Fordney’s deduction was confirmed when the missing glove and the
 murderer were found.
 
 
-            How had he arrived at his startling conclusion?
+How had he arrived at his startling conclusion?
 
 
-                                   29
-                              _Easy Money_
+29
+_Easy Money_
 
 ‘Mr. Walker hurried into the kitchen,’ said the valet to Professor
 Fordney, ‘and told me he was called away unexpectedly and that I was to
@@ -1591,11 +1479,11 @@ the large, beautifully furnished room. ‘Do you read much, Wilkins?’
 ‘Did you ever read, “Honesty is the best policy”?’
 
 
-       Why did the Professor think Wilkins had robbed his master?
+Why did the Professor think Wilkins had robbed his master?
 
 
-                                   30
-                         _Robbery at High Noon_
+30
+_Robbery at High Noon_
 
 ‘I wonder who had the nerve to commit such a robbery at high noon,’
 mused Professor Fordney as he examined the safe, seventeen minutes after
@@ -1644,11 +1532,11 @@ inquired Fordney.
 ‘No, he isn’t. But I’ve got my suspicions!’
 
 
-                   Whom did Fordney suspect and why?
+Whom did Fordney suspect and why?
 
 
-                                   31
-                        _The Wrong Foot Forward_
+31
+_The Wrong Foot Forward_
 
 ‘The witness says,’ explained the interpreter, ‘that as the car came to
 a sudden stop the conductor ran to the front and yelled to the motorman,
@@ -1694,14 +1582,14 @@ from the floor of the car—a snapshot of a sailor and a girl.’
 like that into this court.’
 
 
-  ‘Why was His Honor justified in so abruptly dismissing the suit for
-                               damages?’
+‘Why was His Honor justified in so abruptly dismissing the suit for
+damages?’
 
 asked Professor Fordney of his class in criminology.
 
 
-                                   32
-                       _Death Attends the Party_
+32
+_Death Attends the Party_
 
 ‘He had a big party last night,’ said Graves, the valet.
 
@@ -1747,21 +1635,21 @@ may prove embarrassing. Your ex-husband was murdered.’
 Madeline slipped to the floor in a dead faint.
 
 
-                 What convinced Fordney it was murder?
+What convinced Fordney it was murder?
 
 
-                                   33
-                              _No Way Out_
+33
+_No Way Out_
 
 On a battered desk in the small, dark room lay a penciled note in
 handwriting resembling that of the dead man:
 
-  Dear John:
+Dear John:
 
-  You know the trouble I’m in. There’s only one way out and I’m taking
-  it. You’re my pal and will understand. Good luck.
+You know the trouble I’m in. There’s only one way out and I’m taking
+it. You’re my pal and will understand. Good luck.
 
-                                                        (Signed)    Paul
+(Signed)    Paul
 
 The only other furniture consisted of the chair in which Paul Morrow had
 been found with his throat cut, a bed, and a highly ornate and
@@ -1791,11 +1679,11 @@ it’s murder.’
 ‘I believe you’re right,’ exclaimed Kelley, with dawning comprehension.
 
 
-                What brought Fordney to this conclusion?
+What brought Fordney to this conclusion?
 
 
-                                   34
-                           _Midnight Murder_
+34
+_Midnight Murder_
 
 ‘Who are you, and what’s this all about?’ demanded Inspector Kelley, as
 he and Professor Fordney arrived at the apartment in answer to a call.
@@ -1840,11 +1728,11 @@ him at all, but I do know you were here a few minutes after he was
 stabbed.’
 
 
-                      How did the Professor know?
+How did the Professor know?
 
 
-                                   35
-                          _Speakeasy Stick-Up_
+35
+_Speakeasy Stick-Up_
 
 ‘I had counted the cash, and as I was working the combination to open
 the wall safe I heard this guy in back of me say, “Get ’em up, Bo. This
@@ -1883,11 +1771,11 @@ attempt at a fake hold-up, I’ll have ginger ale.’
 You’re right. The bruise had nothing to do with it, but:
 
 
-             How did Fordney know the stick-up was a fake?
+How did Fordney know the stick-up was a fake?
 
 
-                                   36
-                             _Behind Time_
+36
+_Behind Time_
 
 Professor Fordney, on his way to investigate a case of blackmail, was
 musing on the perversity of human nature when a jar threw him into the
@@ -1931,11 +1819,11 @@ with a worried look.
 or how you hoped to get away with it—you won’t.’
 
 
-        What justified Fordney in recommending Morton’s arrest?
+What justified Fordney in recommending Morton’s arrest?
 
 
-                                   37
-                         _A Broken Engagement_
+37
+_A Broken Engagement_
 
 ‘Peculiar,’ murmured Fordney, as he examined the desk on which lay seven
 letters ready for mailing, three gray, one lavender, two pink, and one
@@ -1985,12 +1873,12 @@ my correspondent.’
 held under serious suspicion.’
 
 
-  Why was the Professor practically certain Molly was involved in this
-                            horrible murder?
+Why was the Professor practically certain Molly was involved in this
+horrible murder?
 
 
-                                   38
-                        _The Holden Road Murder_
+38
+_The Holden Road Murder_
 
 ‘What a night!’ sighed Professor Fordney as he hung up the telephone
 receiver. Half an hour later, still grumbling, he splashed his way
@@ -2029,11 +1917,11 @@ looks like collusion to me and I can tell you Inspector Kelley won’t
 swallow this story.’
 
 
-                     What was wrong with the story?
+What was wrong with the story?
 
 
-                                   39
-                           _Fishermen’s Luck_
+39
+_Fishermen’s Luck_
 
 ‘Having these stones in my possession, Professor Fordney, isn’t proof
 that I had any part in the Morris robbery.’
@@ -2065,14 +1953,13 @@ bottom of the boat, emitted a victorious chuckle.
 Holmes is a better fisherman than he is a liar?’
 
 
-             Clever fellow, Holmes. Did his story fool you?
+Clever fellow, Holmes. Did his story fool you?
 
 
-                                   40
-                         _The Unlucky Elephant_
+40
+_The Unlucky Elephant_
 
 ‘Dead! Bullet-hole in right temple,’ said Sergeant Reynolds, as he knelt
-by a man lying face down, a revolver clutched in his right hand.
 
 ‘All right,’ replied Inspector Kelley. ‘Let’s have a look round. Dressed
 for the street, eh?’ While speaking, Kelley picked up from the floor
@@ -2107,11 +1994,11 @@ was puzzled at his reply:
 like murder.’
 
 
-   What justified the Professor’s belief that it was probably murder?
+What justified the Professor’s belief that it was probably murder?
 
 
-                                   41
-                        _The Professor Listens_
+41
+_The Professor Listens_
 
 ‘Why the rush to get back to New York?’ inquired Fordney, a few minutes
 after Delavin stepped from the plane. ‘Thought you intended spending the
@@ -2124,8 +2011,8 @@ out my affairs.’
 
 He handed Fordney a clipping from the _Jacksonville Herald_:
 
-  New York, July 5. (AP)—Foundation Bank & Trust Co., one of New York’s
-  oldest banking establishments, closed its doors today...
+New York, July 5. (AP)—Foundation Bank & Trust Co., one of New York’s
+oldest banking establishments, closed its doors today...
 
 ‘Sure you didn’t come back to help your pal Ryan?’ asked the Professor.
 ‘He’s been in jail for two days. Ever since the Fourth-of-July bombing.
@@ -2152,11 +2039,11 @@ District Attorney questions you.’
 we landed in Norfolk. He’s got nothing on me!’ exclaimed Delavin.
 
 
-        What do you think of Delavin’s actions? Suspicious? Why?
+What do you think of Delavin’s actions? Suspicious? Why?
 
 
-                                   42
-                             _Ten-Fifteen_
+42
+_Ten-Fifteen_
 
 Professor Fordney glanced at his desk clock as he picked up the
 receiver—ten-fifteen.
@@ -2195,11 +2082,11 @@ who did it or how it happened,’ he concluded.
 affair.’
 
 
-                        Why did he doubt Waters?
+Why did he doubt Waters?
 
 
-                                   43
-                            _Rapid Transit_
+43
+_Rapid Transit_
 
 ‘I was beatin’ along the Boston Post Road, about fifty miles an hour,
 when I looks around and sees this bird standing on the tail-gate
@@ -2243,11 +2130,11 @@ the doors.
 lying.’
 
 
-                      How did the Professor know?
+How did the Professor know?
 
 
-                                   44
-                    _The Professor is Disappointed_
+44
+_The Professor is Disappointed_
 
 ‘What’ll I do, Professor,’ implored Vi Cargo, as Fordney examined the
 ground beneath her bedroom window.
@@ -2293,11 +2180,11 @@ shabbily? You women! I know your jewels are heavily insured and I also
 know of your bridge debts. Who helped you fake this robbery? Nelson?’
 
 
-                           Where is the clue?
+Where is the clue?
 
 
-                                   45
-                          _A Dramatic Triumph_
+45
+_A Dramatic Triumph_
 
 A clock softly chimed eight-forty-five as Professor Fordney and
 Halloway, dramatic critic of the _Times_, finished their after-dinner
@@ -2336,11 +2223,11 @@ Acquainted with the facts by Sergeant Reynolds, Fordney replied,
 ‘I’m afraid you’ve overlooked a valuable clue.’
 
 
-                              What was it?
+What was it?
 
 
-                                   46
-                          _Murder at the Lake_
+46
+_Murder at the Lake_
 
 ‘Here’s all we’ve been able to learn, Professor. I wish you’d see what
 you can make of it,’ said Sheriff Darrow.
@@ -2376,11 +2263,11 @@ establish a motive yet,’ concluded Darrow. ‘What do you make of it?’
 ________ further.’
 
 
-             Of whom was he definitely suspicious—and why?
+Of whom was he definitely suspicious—and why?
 
 
-                                   47
-                     _The Professor Studies a Coat_
+47
+_The Professor Studies a Coat_
 
 ‘They covered us with a gun, and when the cashier tried to give an
 alarm, they shot him. Then they handcuffed me, grabbed five stacks of
@@ -2422,11 +2309,11 @@ broke a button, too, you’ll notice.’
 that coat with you!’
 
 
-     Why did Fordney suspect this man of complicity in the hold-up?
+Why did Fordney suspect this man of complicity in the hold-up?
 
 
-                                   48
-                               _Too Late_
+48
+_Too Late_
 
 ‘Perhaps you’d better tell me exactly what happened,’ said Professor
 Fordney kindly to the agitated man.
@@ -2470,11 +2357,11 @@ Palmer concluded with a sob.
 ‘If you’re innocent, Palmer, why are you lying?’ demanded Fordney.
 
 
-                           What was the lie?
+What was the lie?
 
 
-                                   49
-                      _Sergeant Reynolds’s Theory_
+49
+_Sergeant Reynolds’s Theory_
 
 ‘Inspector Kelley picks out such nice messy jobs for me.’
 
@@ -2509,11 +2396,11 @@ inference you have, but don’t you see t____ w__ n_ b____ b______ t__
 r___ a__ t__ b______?’
 
 
-                 What did the Professor tell Reynolds?
+What did the Professor tell Reynolds?
 
 
-                                   50
-                           _Daylight Robbery_
+50
+_Daylight Robbery_
 
 ‘I went to the office Thursday to do some work,’ Shaeffer related.
 
@@ -2551,12 +2438,12 @@ hung up without answering.’
 
 
 ‘Well, fellows,’ asked Professor Fordney, of the members of his class in
-   criminology, to whom he was telling the story, ‘why did Inspector
-                  Kelley immediately arrest Shaeffer?’
+criminology, to whom he was telling the story, ‘why did Inspector
+Kelley immediately arrest Shaeffer?’
 
 
-                                   51
-                          _A Simple Solution_
+51
+_A Simple Solution_
 
 The sun streamed cheerfully through the window, bringing into lively
 play the soft tones of the luxurious furnishings, as the two house
@@ -2590,11 +2477,11 @@ Kelley’s noisy entrance interrupted the butler’s ‘No, sir.’
 ‘Smith broke his neck. I found this on him,’ he remarked, handing the
 Professor a note.
 
-  Ill health and financial trouble have made life a burden. I’m leaving
-  my bedroom for the last time. A three-story drop and my misery will be
-  over.
+Ill health and financial trouble have made life a burden. I’m leaving
+my bedroom for the last time. A three-story drop and my misery will be
+over.
 
-                                                                   Smith
+Smith
 
 ‘His suicide will be a blow to the oil industry,’ Kelley mused, as
 Fordney sat down at the desk and began to write with Smith’s fountain
@@ -2604,11 +2491,11 @@ pen.
 together. This is murder—not suicide!’
 
 
-       What reason did Fordney have for making such a statement?
+What reason did Fordney have for making such a statement?
 
 
-                                   52
-                                 _Who?_
+52
+_Who?_
 
 ‘I was trying to stop the flow with this, Professor,’ said Weeds, the
 butler, indicating a blood-covered towel he had just removed from the
@@ -2652,11 +2539,11 @@ Inspector?’ quietly asked Weeds.
 ‘Come on, _you’re_ under arrest. And _you_, we’ll question you later!’
 
 
-                    Whom did Kelley arrest—and why?
+Whom did Kelley arrest—and why?
 
 
-                                   53
-                         _Murder in the Swamp_
+53
+_Murder in the Swamp_
 
 ‘We’d better walk along the edge,’ said Professor Fordney, as they
 started down the only path leading through the swamp.
@@ -2691,11 +2578,11 @@ Turning slowly around, he said, ‘I’ll have to hold you on suspicion of
 murder.’
 
 
-                                  Why?
+Why?
 
 
-                                   54
-                          _Death by Drowning_
+54
+_Death by Drowning_
 
 ‘We were just getting into our boat,’ said the elder Carroll brother,
 ‘when we happened to notice Ridge out there in the middle of the river,
@@ -2740,11 +2627,11 @@ over.’
 ‘I’m not surprised. Hold them both.’
 
 
-       Why was the Professor suspicious of the Carroll brothers?
+Why was the Professor suspicious of the Carroll brothers?
 
 
-                                   55
-                      _Tragedy at the Convention_
+55
+_Tragedy at the Convention_
 
 The Convention was in an uproar! The Drys were making a determined stand
 and showing some unexpected last-minute strength.
@@ -2780,11 +2667,11 @@ floor at the time, Fordney advised the police to hold Pollert on
 suspicion of murder.
 
 
-                                  Why?
+Why?
 
 
-                                   56
-                         _A Murderer’s Mistake_
+56
+_A Murderer’s Mistake_
 
 ‘Look, Professor! That’s how the murderer got in, all right,’ said
 Tracy.
@@ -2824,11 +2711,11 @@ and slumped over to the left, Fordney said, ‘That’s enough. Which one of
 you killed him?’
 
 
-            Why did Fordney make this startling accusation?
+Why did Fordney make this startling accusation?
 
 
-                                   57
-                          _Babe Comes Through_
+57
+_Babe Comes Through_
 
 ‘Strike two!’ shouted Umpire Starlen.
 
@@ -2869,11 +2756,11 @@ last hit? Everything else is here.’
 it.’
 
 
-                         How did Fordney know?
+How did Fordney know?
 
 
-                                   58
-                         _A Soldier of Fortune_
+58
+_A Soldier of Fortune_
 
 ‘You’ll find Walter Briggs interesting, Fordney. He’s been all over the
 world,’ said Attorney Hamilton over the telephone. ‘He’s turned up after
@@ -2909,11 +2796,11 @@ advise him to check Briggs’s story carefully before turning over the
 inheritance. As for him, he was frankly skeptical!
 
 
-                             Are you? Why?
+Are you? Why?
 
 
-                                   59
-                          _Number Twenty-Six_
+59
+_Number Twenty-Six_
 
 ‘You fellows _must_ remember that more often than otherwise the little,
 seemingly inconsequential trifles, placed together, lead to the solution
@@ -2949,7 +2836,7 @@ unimportant detail that’s wrong. To repeat, you _must learn_ to detect
 inconsistencies quickly, however insignificant. Quickly, now!’
 
 
-                            Do _you_ get it?
+Do _you_ get it?
 
 
 In the next few anecdotes you will see the Professor at work and at
@@ -2965,8 +2852,8 @@ They make a fascinating game—and there are lots of people who don’t play
 bridge.
 
 
-                                   60
-                        _The Pullman Car Murder_
+60
+_The Pullman Car Murder_
 
 ‘Tell your story to Professor Fordney,’ said the superintendent,
 introducing the conductor.
@@ -3000,11 +2887,11 @@ Jackson’s face fell as Fordney quickly replied, ‘As there was only one
 possible place it could have been, you found it....’
 
 
-           How long did it take _you_ to discover the knife?
+How long did it take _you_ to discover the knife?
 
 
-                                   61
-                               _Forgery_
+61
+_Forgery_
 
 ‘Can it be possible that this has happened to me!’ thought Everett
 Taber, as he stood in the National Bank of New York ready to deposit his
@@ -3037,12 +2924,12 @@ the fact that no one knew he had changed his name and no one had seen
 him make out his deposit slip.
 
 
- Professor Fordney, acquainted with the facts, knew immediately how the
-                 forgery had been accomplished. Do you?
+Professor Fordney, acquainted with the facts, knew immediately how the
+forgery had been accomplished. Do you?
 
 
-                                   62
-                      _The Christmas Eve Tragedy_
+62
+_The Christmas Eve Tragedy_
 
 ‘Professor Fordney,’ said Sheriff Brown, of Lake Dalton, ‘I came to New
 York to ask your help in clearing up the murder of Horace Perkins at
@@ -3080,11 +2967,11 @@ An hour later, he said over the telephone, ‘Sheriff, look for a man
 who.... Such a person only could possibly have committed the murder.’
 
 
-                     What did Fordney say to Brown?
+What did Fordney say to Brown?
 
 
-                                   63
-                         _A Knight of the Bath_
+63
+_A Knight of the Bath_
 
 ‘You’ve heard me speak of my eccentric friend, Joe Leimert, haven’t you,
 Professor?’ inquired Jud. ‘Great character! His costly new Los Angeles
@@ -3112,11 +2999,11 @@ departed.’
 Of course, there was only one way out for him.’
 
 
-                   This one’s easy, don’t you think?
+This one’s easy, don’t you think?
 
 
-                                   64
-                      _Murder in the First Degree_
+64
+_Murder in the First Degree_
 
 ‘Well, Inspector, we have your man,’ said Fordney as he walked into the
 office. ‘He gave us a merry chase, though.
@@ -3149,20 +3036,20 @@ to prove that this man deliberately planned the crime while eating his
 dinner. It’s murder in the first degree!’
 
 
-         How did the Professor know the crime was premeditated?
+How did the Professor know the crime was premeditated?
 
 
-                                   65
-                       _A Rendezvous with Death_
+65
+_A Rendezvous with Death_
 
 ‘One runs into unique conspiracies in my work,’ said Professor Fordney
 over his after-dinner coffee. ‘Here is the clue to that Stone case you
 are all interested in,’ he continued, passing the following newspaper
 advertisement:
 
-  WANTED. Competent private secretary. Unusual salary and opportunity
-  for young man speaking Spanish. Culture and refinement necessary
-  qualifications. Address KR 164.
+WANTED. Competent private secretary. Unusual salary and opportunity
+for young man speaking Spanish. Culture and refinement necessary
+qualifications. Address KR 164.
 
 ‘I don’t see how that gave you a lead. Looks innocent enough to me,’
 remarked one of the guests.
@@ -3190,11 +3077,11 @@ long-hand and that he was left-handed and a very poor penman.
 manner in which Stone had been led to his death,’ concluded Fordney.
 
 
-                    How do _you_ think it was done?
+How do _you_ think it was done?
 
 
-                                   66
-                            _A Rum Regatta_
+66
+_A Rum Regatta_
 
 ‘Here’s a story that should amuse you, Jean,’ said Professor Fordney to
 his efficient and charming secretary.
@@ -3204,28 +3091,28 @@ George Collins, government investigator in Florida.
 
 Jean read the following:
 
-  An old sailor sitting on the sands of Nassau mending his fishing net
-  was approached by three rum-runners shortly after the break of dawn.
-  They came seeking his advice in connection with a wager they had made
-  among themselves the night before.
+An old sailor sitting on the sands of Nassau mending his fishing net
+was approached by three rum-runners shortly after the break of dawn.
+They came seeking his advice in connection with a wager they had made
+among themselves the night before.
 
-  The three of them, having sampled too freely of the liquor they were
-  to take the next day to Miami, had put up three thousand dollars as a
-  prize for the owner of the last boat to reach Miami. The fact that
-  their boss was in a hurry for the liquor had been completely
-  forgotten.
+The three of them, having sampled too freely of the liquor they were
+to take the next day to Miami, had put up three thousand dollars as a
+prize for the owner of the last boat to reach Miami. The fact that
+their boss was in a hurry for the liquor had been completely
+forgotten.
 
-  Sobered, they realized the ridiculousness of the wager but while
-  anxious to reach Miami as quickly as possible, they all agreed it was
-  not to be changed.
+Sobered, they realized the ridiculousness of the wager but while
+anxious to reach Miami as quickly as possible, they all agreed it was
+not to be changed.
 
-  The old sailor continued weaving the cords into his net with slow
-  deliberation. In a few minutes, calling them to his side, he whispered
-  exactly the same advice into the ear of each.
+The old sailor continued weaving the cords into his net with slow
+deliberation. In a few minutes, calling them to his side, he whispered
+exactly the same advice into the ear of each.
 
-  A smile spread over his weather-beaten face and he chuckled as the
-  three rum-runners raced to the boats and started for Miami at top
-  speed.
+A smile spread over his weather-beaten face and he chuckled as the
+three rum-runners raced to the boats and started for Miami at top
+speed.
 
 ‘It is amusing,’ laughed Jean, ‘but he forgot to say what the old sailor
 whispered!’
@@ -3234,11 +3121,11 @@ whispered!’
 but I’ve got the answer.’
 
 
-       What advice did the old sailor whisper to the rum-runners?
+What advice did the old sailor whisper to the rum-runners?
 
 
-                                   67
-                           _Who is the Heir?_
+67
+_Who is the Heir?_
 
 ‘As the Île de France slipped from her berth, Europe-bound, John Morgan,
 the brother of New York’s largest theatrical producer, waved good-bye to
@@ -3278,12 +3165,12 @@ fortune of five million dollars to the producer.
 brother. What a situation!
 
 
- ‘Under the circumstances, and according to law, who received the huge
-             fortune?’ smiled Fordney to his dinner guests.
+‘Under the circumstances, and according to law, who received the huge
+fortune?’ smiled Fordney to his dinner guests.
 
 
-                                   68
-                    _The Professor Stops a Blunder_
+68
+_The Professor Stops a Blunder_
 
 At four o’clock Thursday afternoon, Louis Mundy unexpectedly received a
 telegram requesting him to return home immediately, as his brother was
@@ -3322,12 +3209,12 @@ Asked his opinion, Professor Fordney surprisingly said he DIDN’T believe
 any American jury would convict Mundy.
 
 
-  He was right— Now, don’t argue! There’s only one answer. Don’t peek!
-                             Figure it out.
+He was right— Now, don’t argue! There’s only one answer. Don’t peek!
+Figure it out.
 
 
-                                   69
-                          _The Perfect Crime_
+69
+_The Perfect Crime_
 
 Peter Johannes had one burning ambition—to commit a perfect crime. After
 much thinking and careful planning, he chose burglary for his experiment
@@ -3371,12 +3258,12 @@ peace. ‘Your story I might have believed, but.... Come on, now, I’m
 takin’ you down.’
 
 
-   Alas for the perfect crime! ‘What caused our hero’s arrest?’ asked
-                    Professor Fordney of his class.
+Alas for the perfect crime! ‘What caused our hero’s arrest?’ asked
+Professor Fordney of his class.
 
 
-                                   70
-                    _The Professor Sees Through It_
+70
+_The Professor Sees Through It_
 
 ‘Let’s go in to dinner—it’s twenty minutes after six, and I’m starved,’
 said Hawkins.
@@ -3419,11 +3306,11 @@ you awake!’
 ‘What?’ cried the amazed Hawkins.
 
 
-                         What did Fordney mean?
+What did Fordney mean?
 
 
-                                   71
-                      _The Kidnapers’ Cleverness_
+71
+_The Kidnapers’ Cleverness_
 
 ‘There are times,’ mused Professor Fordney from the depths of the most
 comfortable chair in the lounge of the University Club, ‘when the
@@ -3434,11 +3321,10 @@ interesting and baffling case on which I worked ten years ago.
 he appealed to the police, she would be killed. Consequently, it was
 difficult to get his coöperation in running down the criminals. However,
 upon receiving the following note delivered in an express package 12″ ×
-12″ × 12″ he sought my advice.
 
-  Send us, by the means herein given you, $5,000 in cash, at exactly
-  midnight tonight. If you do so, your daughter will be returned
-  unharmed.
+Send us, by the means herein given you, $5,000 in cash, at exactly
+midnight tonight. If you do so, your daughter will be returned
+unharmed.
 
 ‘My client did as directed and his child was returned safely next day.
 
@@ -3448,16 +3334,14 @@ whereabouts, absolutely impossible? There’s a nice little problem in
 deduction for a rising young attorney,’ he laughed.
 
 
-   After ten minutes of deep silence on Jim’s part, he said, ‘I can’t
-                figure it out, Professor. What was it?’
+After ten minutes of deep silence on Jim’s part, he said, ‘I can’t
+figure it out, Professor. What was it?’
 
 
 
 
-                               SOLUTIONS
 
 
-                           1. _A Crack Shot_
 
 It was a dark, starless, moonless night. The nearest habitation was five
 miles. The eyes of no animal ever shine in the dark unless there is a
@@ -3467,43 +3351,43 @@ any circumstances.
 Therefore, Butler could not possibly have seen any eyes shining at him
 in the dark. It was clearly murder.
 
-  And thy deep eyes, amid the gloom,
-  Shine like jewels in a shroud.
-                                                             Longfellow.
+And thy deep eyes, amid the gloom,
+Shine like jewels in a shroud.
+Longfellow.
 
 
-                           2. _On the Scent_
+2. _On the Scent_
 
 Not even a prohibition agent would use alcohol in an automobile radiator
 in or about Miami!
 
-  The oil and wine of merry meeting.
-                                                                 Irving.
+The oil and wine of merry meeting.
+Irving.
 
 
-                            3. _Fatal Error_
+3. _Fatal Error_
 
 The Professor knew it would take a keener pair of eyes than Bronson’s to
 see a nod in the dark.
 
 The lights had not been turned on. Remember?
 
-  Darkness visible.
-                                                                 Milton.
+Darkness visible.
+Milton.
 
 
-                      4. _The Poison Murder Case_
+4. _The Poison Murder Case_
 
 Unless Bob Kewley had returned home after telling the Professor he was
 going to the theater, he could not have known the library door was
 locked. The fact that he did, coupled with the strong motive, naturally
 directed suspicion to him. He inadvertently gave himself away.
 
-  Error will slip through a crack, while truth will stick in a doorway.
-                                                                   Shaw.
+Error will slip through a crack, while truth will stick in a doorway.
+Shaw.
 
 
-                       5. _A Strange ‘Kidnaping’_
+5. _A Strange ‘Kidnaping’_
 
 Had Johnson wound his watch immediately before 2 A.M. Friday, the time
 of his alleged kidnaping, it would not have been running Sunday
@@ -3511,12 +3395,12 @@ afternoon when he recovered consciousness and said he heard it ticking.
 
 No standard-make watch will run sixty hours without winding.
 
-  This act is an ancient tale new told;
-  Being urged at a time unseasonable.
-                                                            Shakespeare.
+This act is an ancient tale new told;
+Being urged at a time unseasonable.
+Shakespeare.
 
 
-                        6. _A Valuable Formula_
+6. _A Valuable Formula_
 
 In a small room the intruder would _unquestionably_ have heard Hyde
 dialing Headquarters, and therefore could not have been unaware of his
@@ -3525,34 +3409,34 @@ presence.
 As Hyde had obviously lied about this, Fordney was convinced he had
 fabricated the entire story in order to sell the formula twice.
 
-  Don’t tell me of deception; a lie is a lie, whether it be a lie to the
-  eye or a lie to the ear.
-                                                            Dr. Johnson.
+Don’t tell me of deception; a lie is a lie, whether it be a lie to the
+eye or a lie to the ear.
+Dr. Johnson.
 
 
-                             7. _Strangled_
+7. _Strangled_
 
 There had been a dry, hot spell at that place for twenty-two days. Irene
 Greer’s hair was matted with mud; therefore, she must have been attacked
 elsewhere.
 
-  The face of things appeareth not the same far off and when we see them
-  right at hand.
-                                                              Euripides.
+The face of things appeareth not the same far off and when we see them
+right at hand.
+Euripides.
 
 
-                        8. _Death in the Office_
+8. _Death in the Office_
 
 Gifford could not have been shot at the time he called Fordney, as he
 was found with a bullet through his heart. The Professor’s theory was
 that Gifford wanted his death to appear as murder in order to protect
 his heavy insurance.
 
-  The heart does not lie.
-                                                                Alfieri.
+The heart does not lie.
+Alfieri.
 
 
-                   9. _They Usually Forget Something_
+9. _They Usually Forget Something_
 
 The note, although misspelled, poorly expressed, and written by a
 seemingly illiterate hand, was punctuated properly, in two places. A
@@ -3561,12 +3445,11 @@ uneducated man.
 
 Force of habit had betrayed him!
 
-  You write with ease to show your breeding,
-  But easy writing’s curst hard reading.
-                                                               Sheridan.
+You write with ease to show your breeding,
+But easy writing’s curst hard reading.
+Sheridan.
 
 
-                   10. _The Professor Gives a Lesson_
 
 Cardoni said he saw the kidnapers around a table as he peered through
 the keyhole. Yale locks do not have keyholes.
@@ -3574,12 +3457,11 @@ the keyhole. Yale locks do not have keyholes.
 Kelley was justified in throwing him out, don’t you think? The class
 found this an easy one—did you?
 
-  Since your eyes are so sharpe that you cannot onely looke through a
-  milstone, but cleane through the minde.
-                                                                   Lyly.
+Since your eyes are so sharpe that you cannot onely looke through a
+milstone, but cleane through the minde.
+Lyly.
 
 
-                        11. _Upstairs and Down_
 
 The policeman ran through the hall and unlocked the kitchen door.
 
@@ -3590,11 +3472,10 @@ the hall from the outside.
 The murderer, in leaving, locked this door and forgot to remove the key.
 The inevitable slip!
 
-  A blockhead cannot come in, nor go away, like a man of sense.
-                                                                Bruyère.
+A blockhead cannot come in, nor go away, like a man of sense.
+Bruyère.
 
 
-                            12. _Class Day_
 
 The student readily recognized the absurdity of the Professor’s story
 which he had given to his class to test their quick detection of a
@@ -3602,33 +3483,30 @@ glaring inconsistency. If it must be explained, an orchestra under
 personal leadership does not play during the showing of a ‘talkie.’
 Right?
 
-  Wit marries ideas lying far apart, by a sudden jerk of the
-  understanding.
-                                                                Whipple.
+Wit marries ideas lying far apart, by a sudden jerk of the
+understanding.
+Whipple.
 
 
-                          13. _A Hot Pursuit_
 
 Smith said he _ran_ after the burglar. Had he done so he could not have
 known the cellar window had been chiseled open. Therefore, his story was
 obviously faked.
 
-  A lie never lives to be old.
-                                                              Sophocles.
+A lie never lives to be old.
+Sophocles.
 
 
-                      14. _A Question of Identity_
 
 As Diana Lane was walking down the corridor with her back to Nora, it
 was impossible for the servant to know Diana was wearing her famous
 emerald pendant.
 
-  There is an alchemy of quiet malice by which women can concoct a
-  subtle poison from ordinary trifles.
-                                                              Hawthorne.
+There is an alchemy of quiet malice by which women can concoct a
+subtle poison from ordinary trifles.
+Hawthorne.
 
 
-                       15. _A Yachtsman’s Alibi_
 
 As Picus said there was no breeze, the distress flag would have hung
 limp against the mast, and the Captain could not have seen, at that
@@ -3639,23 +3517,21 @@ However, Picus was a poor sailor. While the International Distress
 Signal is a flag flown upside down, it is by custom and regulation
 always flown at half-mast.
 
-  ... And the sea charm’d into a calm so still
-  That not a wrinkle ruffles her smooth face.
-                                                                 Dryden.
+... And the sea charm’d into a calm so still
+That not a wrinkle ruffles her smooth face.
+Dryden.
 
 
-                      16. _Murder at Coney Island_
 
 Jasper said he found the woman sitting _up_ in the _middle_ of the
 chariot. The motion of the merry-go-round would have made it impossible
 for a dead body to remain upright in the middle of the chariot.
 
-  Sir, you are giving a reason for it; but that will not make it
-  right....
-                                                                Johnson.
+Sir, you are giving a reason for it; but that will not make it
+right....
+Johnson.
 
 
-                            17. _Too Clever_
 
 The murderer tried to give the impression that Dawson had died before
 finishing the incriminating note. Had he written it and died before
@@ -3665,708 +3541,24 @@ was found.
 In his effort to incriminate Lynch, the murderer had been too cautious.
 A costly oversight.
 
-  Man’s caution often into danger turns,
-  And his guard falling crushes him to death.
-                                                                  Young.
+Man’s caution often into danger turns,
+And his guard falling crushes him to death.
+Young.
 
 
-                          18. _Bloody Murder_
 
 The Professor knew it was not suicide, because Thompson’s coat, which
 was flung _across_ the room, was blood-stained. Quite impossible if he
 had taken his own life.
 
-  Blood, though it sleep a time, yet never dies.
-                                                                Chapman.
+Blood, though it sleep a time, yet never dies.
+Chapman.
 
 
-                         19. _Death Back-Stage_
 
 There were _no_ finger-prints on the gun which killed Claudia Mason. She
 could not have shot herself in the temple and then wiped off the
 revolver.
 
 The murderer neglected to get her fingerprints on the gun.
-
-  A fool cannot be an actor, though an actor may act a fool’s part.
-                                                              Sophocles.
-
-
-                       20. _An Easy Combination_
-
-It would have been impossible for Fellows to have hastily dialed a
-number in the _dark_. Try it!
-
-  Haste trips up its own heels, fetters and stops itself.
-                                                                 Seneca.
-
-
-                         21. _A Modern Knight_
-
-The fact that the bullet was found in the body and the only trace of its
-firing was the hole in the curtain _below_ the window-sill proved
-conclusively the shot could not have been fired from within the room.
-
-Rocca entered at the moment his sister shot Chase from outside. Grabbing
-the gun from her hand, he chivalrously protected her.
-
-  But, friend, the thing is clear—speaks for itself.
-                                                           Aristophanes.
-
-
-                        22. _The Jewel Robbery_
-
-The butler said that, as he called for help, Dudley, a stranger, rushed
-in.
-
-Owings had locked up before leaving and, therefore, Dudley could not
-have rushed in through a locked door. The robbery was obviously framed
-by Stuben and Dudley.
-
-  Absurdities die of self-strangulation.
-                                                             Haliburton.
-
-
-                   23. _Before the Coroner’s Inquest_
-
-Curry could not possibly have ‘looked up’ while rowing _upstream_ and
-seen the action he described which took place fifty yards _behind_ him.
-
-  The eyes of other people are the eyes that ruin us.
-                                                               Franklin.
-
-
-                     24. _The Fifth Avenue Hold-Up_
-
-Baldwin said, ‘Mr. Cross tried to call my attention to it [safe] with a
-jerk of his thumb’ at a time when Cross was unconscious. Obviously
-impossible. Baldwin was lying, which there was no reason for doing had
-he been innocent.
-
-  When all sins are old in us, and go upon crutches.
-  Covetousness does but then lie in her cradle.
-                                                                 Decker.
-
-
-                       25. _Behind Locked Doors_
-
-Kingston thought his boldness in calling attention to his own footprints
-in the carpet would distract Fordney’s attention from their
-significance.
-
-The room had been locked for three months. Of the three men, only
-Watkins rushed into the room; Fordney and Kingston halting over the
-threshold. Therefore, the fact that Kingston’s footprints were found
-near the chair in which his uncle sat dead pointed directly to him as
-the murderer.
-
-  Cunning differs from wisdom
-  As twilight from open day.
-                                                            Dr. Johnson.
-
-
-                           26. _Lost at Sea_
-
-It would have been impossible for Mrs. Rollins to have seen a man pick
-up from the deck the bag of diamonds. On a dark, moonless night at sea
-one literally cannot see his hand before his face.
-
-  The repose of darkness is deeper on the water than on the land.
-                                                            Victor Hugo.
-
-
-                          27. _A Suave Gunman_
-
-Taylor said the bandit wore a silver belt-buckle. This he could not have
-seen, for he stated: ‘As the robber passed through the door, he
-unbuttoned his coat and slipped the revolver in his back pocket.’
-
-It would have been impossible for Taylor to have seen the man’s
-belt-buckle when his coat was buttoned.
-
-As this statement was false, the rest of his account was disregarded by
-the Professor.
-
-  He draweth out the thread of his verbosity
-  Finer than the staple of his argument.
-                                                            Shakespeare.
-
-
-                         28. _Accidental Death_
-
-Had the man’s injuries been caused only by being thrown through the
-windshield, there would have been no blood on the front seat of the car.
-Therefore, the Professor knew the blood on the seat had been caused by
-injuries to the man, with probable murderous intent, before he was
-thrown through the windshield.
-
-His assailant had killed him, started the car, and had then hopped off
-the running-board, hoping the wreckage would cover the murder.
-
-  Forethought we may have, undoubtedly, but not foresight.
-                                                               Napoleon.
-
-
-                            29. _Easy Money_
-
-Wilkins said he saw the burglar pick up a stack of ten- and
-twenty-dollar bills from the table in the center of the large library.
-
-Had he not been guilty, he could not have known what the denominations
-of the bills were. It would have been impossible to have determined this
-from the doorway.
-
-An unconscious slip on his part.
-
-If you are doubtful, just try to determine the denomination of a stack
-of bills on a table in the center of a large room, from the doorway.
-
-  For any man with half an eye,
-  What stands before him may espy;
-  But optics sharp it needs I ween,
-  To see what is not to be seen.
-                                                          John Trumbull.
-
-
-                       30. _Robbery at High Noon_
-
-He was suspicious of John, the nephew, of course. Upon being asked where
-he was at the time of the robbery, he stated he was ‘hauling in a
-muskie.’
-
-Unless he had guilty knowledge, he could not possibly have known at what
-time the robbery was committed.
-
-He fell neatly into the Professor’s trap, don’t you think?
-
-  Let guilty men remember, their black deeds
-  Do lean on crutches made of slender reeds.
-                                                           John Webster.
-
-
-                      31. _The Wrong Foot Forward_
-
-Paslovsky, the witness, who could not understand or speak enough English
-to make a simple statement to the court, yet knew _exactly_ what the
-conductor yelled to the motorman.
-
-This was so patently impossible that the Judge was entirely justified in
-dismissing the suit.
-
-  Liars are verbal forgers.
-                                                              Chatfield.
-
-
-                     32. _Death Attends the Party_
-
-Had Dawes fallen on the table after being shot, the jar would have
-knocked over the ‘crazily balanced glasses.’ As the Professor found the
-glasses on the table, _balanced_, it was obvious Dawes had been shot,
-then carefully placed at the table to give the appearance of suicide. A
-bad slip!
-
-  There is nothing insignificant, nothing!
-                                                              Coleridge.
-
-
-                            33. _No Way Out_
-
-The note was written with _pencil_, yet there was no pencil found in the
-room. Apparently the murderer wrote the note to resemble the dead man’s
-handwriting and through force of habit put it in his pocket.
-
-  Men are men; the best sometimes forget.
-                                                            Shakespeare.
-
-
-                         34. _Midnight Murder_
-
-Day said he got the blood on his muffler when he bent over Quale’s body.
-As blood coagulates and dries in a short time, it would have been
-impossible for him to have stained his muffler unless it had touched the
-blood of Quale shortly after his death. Therefore, Fordney knew he must
-have been with Quale soon after he was stabbed.
-
-  Murder, though it have no tongue,
-  Will speak with most miraculous organ.
-                                                            Shakespeare.
-
-
-                        35. _Speakeasy Stick-Up_
-
-Sullivan, the bartender, said that, as he worked the combination to open
-the wall safe, he _heard_ the hold-up man _behind him_. As he was not
-permitted to move, he could not have known the gunman was a _big,
-tough-looking mug_, as he described him.
-
-As there would be no other motive in telling this impossible story, the
-hold-up was faked.
-
-  Inspiring, bold John Barleycorn,
-  What dangers thou canst make us scorn.
-                                                                  Burns.
-
-
-                           36. _Behind Time_
-
-The engineer said he had not seen Nelson until he was practically on top
-of him. That, of course, is impossible. An engineer of a train running
-on a straight-away can see nothing as close as ten yards in front of
-him.
-
-  You cram these words into mine ears,
-  Against the stomach of my sense.
-                                                            Shakespeare.
-
-
-                       37. _A Broken Engagement_
-
-Molly said she had retired at ten, after locking her door, and had not
-awakened until Fordney had aroused her.
-
-Yet a few minutes after Dot had been murdered, the Professor idly
-‘shaped the wax’ of the candle on her desk. This would have been
-impossible had not the candle been burning within a few minutes before
-he entered.
-
-Her insistence that she had been asleep, together with the strong
-motive, convinced Fordney she was involved, as was later proved.
-
-  Love can make us fiends as well as angels.
-                                                       Charles Kingsley.
-
-
-                      38. _The Holden Road Murder_
-
-Had the butler dashed in the front door as he said he did, there would
-have been foot-tracks in the vestibule.
-
-Remember, the Professor ‘splashed his way through the mud and rain, to
-the _door_ of 27 Holden Road,’ and found the vestibule spotless.
-Therefore, Wilkins was lying, and as Cannon corroborated his story, he
-was also necessarily involved.
-
-  Nay, her foot speaks.
-                                                            Shakespeare.
-
-
-                         39. _Fishermen’s Luck_
-
-Holmes could not have seen the bag on the bottom of the lake during a
-cloudburst. The agitation of even crystal clear water under such
-conditions would have so disturbed the surface that an object on the
-bottom could not be seen.
-
-  A man so lucky is rarer than a white crow.
-                                                                Juvenal.
-
-
-                       40. _The Unlucky Elephant_
-
-Holman was lying face down with his topcoat buttoned; therefore, if his
-watch crystal had been broken by his fall, none of the glass could have
-been found on the floor.
-
-  For never, never wicked man was wise.
-                                                                  Homer.
-
-
-                      41. _The Professor Listens_
-
-The notice of the bank failure, appearing in the _Jacksonville Herald_,
-was dated July 5th. This could not have reached Delavin at a remote part
-of Cuba, unserviced by planes, in time for him to get back to New York
-on the 6th.
-
-His alibi, therefore, was completely broken, as he said the newspaper
-clipping brought him back.
-
-  Time is the herald of truth.
-                                                                 Cicero.
-
-
-                           42. _Ten-Fifteen_
-
-The secretary said he heard Waters talking to Fordney over the
-telephone. As Fordney’s name was not mentioned during the conversation,
-the secretary could not have known to whom Waters was talking.
-
-It’s the little things that count—in crime detection.
-
-  Take care lest your tongue cut off your head.
-                                                                Persian.
-
-
-                          43. _Rapid Transit_
-
-The driver could not possibly have seen from the front seat anyone
-standing on the tail-gate of the big van.
-
-  If common sense has not the brilliancy of the sun, it has the fixity
-  of the stars.
-                                                       Fernan Caballero.
-
-
-                  44. _The Professor is Disappointed_
-
-Fordney pointed to the raindrops glistening on a leaf in the shoe
-impression.
-
-According to Vi Cargo’s statement, the burglar had jumped from her
-window after it had stopped raining.
-
-  The shameless have a brow of brass.
-                                                          Hindu Proverb.
-
-
-                        45. _A Dramatic Triumph_
-
-Sibyl Mortimer said Boswell had telephoned her shortly after nine. As he
-was on the stage continuously for forty-five minutes after the curtain
-rose, he could not have telephoned her.
-
-Obviously she had some reason for stating he did. Fordney was quick to
-detect the flaw in her alibi.
-
-  It is not wise to be wiser than is necessary.
-                                                               Quinault.
-
-
-                        46. _Murder at the Lake_
-
-A strong east wind blew _off_ the lake; therefore, regardless of the
-direction in which he was walking, Rice’s hat could not possibly have
-blown into the lake.
-
-The Professor was naturally suspicious of him when he told such a
-ridiculous lie.
-
-  Is’t possible? Sits the wind in that corner?
-                                                            Shakespeare.
-
-
-                   47. _The Professor Studies a Coat_
-
-As the man had removed his overcoat on entering the Professor’s
-living-room, it was perfectly patent he had not been handcuffed.
-
-He said he ran over to Fordney’s immediately after the bandits left.
-
-  Truth has not such an urgent air.
-                                                                Boileau.
-
-
-                             48. _Too Late_
-
-Fordney doubted Palmer’s innocence because of his statement, ‘I’d got
-there not more than five minutes behind him.’
-
-There was, of course, no way he could have determined when Frank had
-arrived at the cabin.
-
-  In general, treachery, though at first sufficiently cautious, yet in
-  the end betrays itself.
-                                                                   Livy.
-
-
-                    49. _Sergeant Reynolds’s Theory_
-
-The Professor told Reynolds, ‘There was no blood between the road and
-the boulder.’
-
-Had the man _rolled_ down the embankment, there would have been some
-blood on the rocks along the path his body took.
-
-  How hast thou purchased this experience?
-    By my penny of observation.
-                                                            Shakespeare.
-
-
-                         50. _Daylight Robbery_
-
-As no safe locks unless the combination is turned, Shaeffer’s story of
-_banging_ it closed and then the robbers working on it five minutes was
-ridiculous!
-
-  He cometh unto you with a tale which holdeth children from play, and
-  old men from the chimney corner.
-                                                      Sir Philip Sidney.
-
-
-                        51. _A Simple Solution_
-
-Had Smith committed suicide, the window through which he jumped would
-not have been closed as Fordney found it.
-
-  Every crime has, in the moment of its perpetration, its own avenging
-  angel.
-                                                              Coleridge.
-
-
-                               52. _Who?_
-
-Kelley arrested Weeds, the butler. He said he dropped on the bed the
-blood-covered towel with which he was trying to arrest the flow from the
-maid’s wrist as Jones struck at him.
-
-Yet Kelley and Fordney found the bed coverlet _immaculate_. Had Weeds
-done as he said, there would have been blood-stains on the bedcover.
-
-  Blood follows blood.
-                                                                  Defoe.
-
-
-                       53. _Murder in the Swamp_
-
-The three sets of Bob’s footprints in the path told Fordney the story.
-Had Bob been at the house when his friend was shot, as he contended,
-there would have been _four_ sets of his footprints.
-
-  That is to be wise to see that which lies before your feet.
-                                                                Terence.
-
-
-                        54. _Death by Drowning_
-
-Had the accident occurred as explained by Carroll, the oar of Ridge’s
-boat could not have been found, as it was, at the dock _opposite_ the
-point where he jumped in. The current would have deposited it
-downstream. Therefore, the Professor recommended the detention of the
-brothers.
-
-  More water glideth by the mill, than wots the miller of.
-                                                            Shakespeare.
-
-
-                    55. _Tragedy at the Convention_
-
-Fordney suspected Pollert because of his own statements that he did not
-know Hurlenson had returned to the hotel. Yet, when he said he heard a
-shot, he ran _directly_ to Hurlenson’s room.
-
-As his own room was down the corridor, he could not have known from what
-room the shot came, and he had no reason to assume it came from
-Hurlenson’s room.
-
-  Politics, as a trade, finds most and leaves nearly all dishonest.
-                                                        Abraham Lincoln.
-
-
-                       56. _A Murderer’s Mistake_
-
-These murderers, like many others, betrayed themselves by a simple
-oversight. One look at the ladder and Fordney knew no man could have
-climbed up or down it. The thirty-foot ladder was placed _two_ feet from
-the house. Any person ascending or descending the ladder in such a
-position would have fallen backwards before reaching the top or bottom.
-
-  To all facts there are laws,
-  The effect has its cause,
-  And I mount to the cause.
-                                                            Lord Lytton.
-
-
-                        57. _Babe Comes Through_
-
-There is a screen on the grandstand behind the home plate.
-
-Fordney had noticed a few seconds before, in the box next to him, the
-man whom the policeman had caught running down the ramp. As he could not
-have thrown a bottle through the screen, and, in the time at his
-disposal, could not have reached either side of the screen, Fordney knew
-he was innocent.
-
-He had noticed the man _after_ two strikes and three balls had been
-called, and the pitcher delivered the next ball quickly.
-
-  We must have bloody noses and crack’d crowns,
-  God’s me, my horse!
-                                                            Shakespeare.
-
-
-                       58. _A Soldier of Fortune_
-
-Hamilton knew the real Walter Briggs had gone to Africa as a child. So,
-when this chap said he had shot tigers in Africa, Fordney was very, very
-skeptical. There are no tigers in Africa. Oh, well—look it up yourself!
-
-  A traveler without observation is a bird without wings.
-                                                                  Saadi.
-
-
-                        59. _Number Twenty-Six_
-
-The inconsistency is this: Farrell said he _pushed_ open the door. Yet
-Bradford, _inside_ the house, _pushed_ the door in Kelley’s face as the
-Inspector was entering.
-
-If Bradford _pushed_ the door in Kelley’s face, Farrell must have
-_pulled_ the door to open it.
-
-  The smallest hair throws its shadow.
-                                                                 Goethe.
-
-
-                      60. _The Pullman Car Murder_
-
-Every piece of baggage had been examined and every inch of the car
-inspected. All passengers, even the maid, porter, and brakeman, had been
-searched. The knife was still in the car.
-
-Remember?—there was nothing said about the conductor being searched. The
-knife was found in his pocket.
-
-  He was in logic a great crytic,
-  Profoundly skilled in analytic;
-  He could distinguish and divide
-  A hair twixt south and south-west side.
-                                                                 Butler.
-
-
-                             61. _Forgery_
-
-The forged signature was copied from the blotter which Mead had used.
-
-  Thou strong seducer, opportunity.
-                                                                 Dryden.
-
-
-                    62. _The Christmas Eve Tragedy_
-
-The Professor said to Brown, ‘Sheriff, look for a man in your community
-who is skilled or adept in the use of _stilts_. Only a man on stilts
-could have made the marks in the snow you described.’
-
-P.S. The Professor was right.
-
-  Be the first to say what is self-evident,
-  And you are immortal.
-                                                       Ebner-Eschenbach.
-
-
-                       63. _A Knight of the Bath_
-
-You recall that Leimert was eccentric. No mention of bath _room_ was
-made. Leimert’s bath had no top, so he climbed out!
-
-Silly, what?
-
-  If anything is spoken in jest, it is not fair to turn it to earnest.
-                                                                Plautus.
-
-
-                    64. _Murder in the First Degree_
-
-The fact that _none_ of the suspect’s fingerprints were on the dishes or
-silver used while eating convicted him of first-degree murder.
-
-In wiping his _own_ prints from the things he had handled, he destroyed
-_all_ prints—those of the waitress, cook, etc.
-
-A damning bit of evidence that proved premeditation.
-
-  The weakest spot in every man is when he thinks himself to be the
-  wisest.
-                                                                 Emmons.
-
-
-                     65. _A Rendezvous with Death_
-
-No one called at the _Times_ for the answers to the advertisement, yet
-Stone received a reply to his letter of application. The ad was inserted
-by Carroll under the fictitious name of Jonathan Gills and answered by
-Stone at his wife’s suggestion. She acquainted her lover, Carroll, with
-this fact, and he wrote Stone, arranging the meeting at which he
-disappeared.
-
-  When any great design thou dost intend,
-  Think on the means, the manner, and the end.
-                                                                 Denham.
-
-
-                          66. _A Rum Regatta_
-
-The old sailor whispered to each, ‘Run the other man’s boat.’ As the
-owner of the _last_ boat to reach Miami was to get the money, each one
-raced the boat he was driving. By doing so, he hoped to beat his own
-boat, which was being driven by one of the others.
-
-  Lookers-on many times see more than gamesters.
-                                                                  Bacon.
-
-
-                         67. _Who is the Heir?_
-
-John Morgan’s _sister_, of course!
-
-  Let us consider the reason of the case. For nothing is law that is not
-  reason.
-                                                                 Powell.
-
-
-                  68. _The Professor Stops a Blunder_
-
-Mundy had been unexpectedly called to Washington. Skidder’s secretary
-said the note was habitually kept at the office. Mundy, therefore, could
-not possibly have known of Skidder’s intention of taking it home. That
-was exactly the weakness in the case of the police. Despite the damning
-circumstantial evidence, motive could not be proved unless it could be
-shown that Mundy knew the note would be at Skidder’s house.
-
-  How little do they see what is, who frame
-  Their hasty judgments upon that which seems.
-                                                                Southey.
-
-
-                        69. _The Perfect Crime_
-
-Alas! Peter Johannes had forgotten to remove his mask on leaving the
-house!
-
-  Whoever thinks a perfect work to see,
-  Thinks what ne’er was, nor is, nor e’er shall be.
-                                                                   Pope.
-
-
-                  70. _The Professor Sees Through It_
-
-When Hawkins said, ‘it’s twenty minutes after six’ and ‘it’s a quarter
-to eleven,’ Fordney knew he was not a railroad man.
-
-No railroad worker _ever_ speaks of the time in any other manner than,
-‘it’s six-twenty’ and ‘it’s ten-forty-five.’
-
-_Ask the next conductor!_
-
-  There is nothing more nearly permanent in human life than a
-  well-established custom.
-                                                        Joseph Anderson.
-
-
-                    71. _The Kidnapers’ Cleverness_
-
-The express package contained a carrier pigeon.
-
-  A bird of the air shall carry, and that which hath wings shall tell
-  the matter.
-                                                           Ecclesiastes.
-
-
-
-
-                          Transcriber’s Notes
-
-
---Copyright notice provided as in the original—this e-text is public
-  domain in the country of publication.
-
---Silently corrected palpable typos; left non-standard spellings and
-  dialect unchanged.
-
---In the text versions, delimited italicized text by _underscores_.
-
-
-
-
-
 

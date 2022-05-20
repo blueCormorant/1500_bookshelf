@@ -1,75 +1,6 @@
 
 
 
-
-
-
-
-[Illustration: Title page]
-
-
-
-  THE RED LODGE
-
-  _A Mystery of Campden Hill_
-
-
-  BY
-  VICTOR BRIDGES
-
-
-
-  GARDEN CITY NEW YORK
-  DOUBLEDAY, PAGE & COMPANY
-  1924
-
-
-
-
-  COPYRIGHT, 1924, BY
-  DOUBLEDAY, PAGE & COMPANY
-
-  ALL RIGHTS RESERVED
-
-  PRINTED IN THE UNITED STATES
-  AT
-  THE COUNTRY LIFE PRESS, GARDEN CITY, N. Y.
-
-
-  _First Edition_
-
-
-
-
-  TO
-  MARGARET
-
-
-
-
-  BOOKS BY
-  VICTOR BRIDGES
-
-  Another Man's Shoes
-  Greensea Island: A Mystery of the Essex Coast
-  Mr. Lyndon at Liberty
-  Rogue by Compulsion
-  The Cruise of the Scandal and Other Stories
-  The Lady from Long Acre
-  The Man from Nowhere
-  The Red Lodge
-
-
-
-
-THE RED LODGE
-
-_A Mystery of Campden Hill_
-
-
-
-CHAPTER ONE
-
 A dark green Rolls-Royce limousine slid round the corner of Sydney
 Place and, proceeding a few hundred yards along the Fulham Road, drew
 up in front of St. Christopher's Hospital.  It had scarcely stopped
@@ -575,7 +506,6 @@ in the gutter.
 
 
 
-CHAPTER TWO
 
 However underpaid it may be, the training of a house surgeon at a
 London hospital induces a certain readiness of action.  Before any of
@@ -1190,7 +1120,6 @@ next moment Colin was backing his way out through the open doorway.
 
 Sitting beside him, with her chin buried comfortably inside her
 collar, Nancy made no attempt at conversation.  From the hint dropped
-by Mr. Davis she concluded that Colin was the sort of driver whom it
 was safer not to disturb with unnecessary chatter, an opinion which
 had been fully confirmed some time before they arrived at Sloane
 Square.
@@ -1499,7 +1428,6 @@ Mary came up to her and again squeezed her hands affectionately.
 "You must never cry in this house, my dear," she said.  "It's the
 only form of dissipation that Mark won't allow."
 
-* * * * * * * * *
 
 It was exactly two and a half hours later when Colin, straightening
 himself with a grunt, turned triumphantly to the pessimistic Davis.
@@ -1545,13 +1473,12 @@ envelope, pulled out its contents.
 The message was short but very much to the point:
 
 
-    "Please call at the Red Lodge to-morrow three-thirty.--CARTER."
+"Please call at the Red Lodge to-morrow three-thirty.--CARTER."
 
 
 
 
 
-CHAPTER THREE
 
 In the days when a young and promising draper, called Mr. John
 Barker, had recently opened a small shop in the High Street,
@@ -2152,7 +2079,6 @@ introduced him outside her studio.
 
 
 
-CHAPTER FOUR
 
 Colin finished his coffee and looked inquiringly across the table.
 
@@ -2697,7 +2623,6 @@ get seats for something really frivolous and cheerful.  That's my
 prescription, and I depend on you to see that it's properly
 administered."
 
-* * * * * * * * *
 
 With her eyes shining, and her cheeks flushed by the wind, Nancy
 stepped out of the car on to the comparatively deserted pavement of
@@ -2749,7 +2674,7 @@ animated scene below, while Colin picked up the menu and studied it
 with becoming gravity.
 
 "I think we'll have a little clear soup to start with," he began,
-"followed by sole _à la bonne femme_, a roast grouse, and iced
+"followed by sole à la bonne femme, a roast grouse, and iced
 meringues."  He paused.  "Do you prefer champagne or sparkling
 Moselle?"
 
@@ -2850,7 +2775,6 @@ long sip and then set down her glass.  "If that's sparkling Moselle,"
 she added thoughtfully, "I don't think I'll bother about tasting the
 champagne."
 
-* * * * * * * * *
 
 At about twenty minutes before midnight, faithful to his pledged
 word, the reliable Joe slouched forward out of the shadows and
@@ -3136,7 +3060,6 @@ from a gaping wound in his forehead.
 
 
 
-CHAPTER FIVE
 
 At the sight of that hideous injury, all Colin's professional
 training instinctively asserted itself.  Letting go the switch, he
@@ -3394,7 +3317,6 @@ possession.  Having failed to find it at his first attempt, he had
 apparently returned to the house a second time in order to make
 another and more exhaustive search.
 
-By some fatal chance the Professor must have taken it into his head
 to enter the study just after the intruder had succeeded in gaining
 admittance.  On finding the window open he had naturally stepped
 forward to close it, only to receive a murderous blow out of the
@@ -3425,7 +3347,6 @@ escaped."
 attempts to leave the house arrest them at once."
 
 With an obedient salute the two constables fell back, and, followed
-by his other companions, Marsden mounted the steps.
 
 "This is Doctor Sinclair, our divisional surgeon," he announced.  "He
 tells me that he has already had the pleasure of meeting you."
@@ -3781,7 +3702,6 @@ scarcely conscious of anything but an intense desire for sleep, he
 threw off his dressing gown, and, for the second time that evening,
 clambered thankfully into bed.
 
-* * * * * * * * *
 
 It seemed to him as though he had scarcely laid his head upon the
 pillow when he was abruptly aroused by a touch on the shoulder.  He
@@ -3842,7 +3762,6 @@ we'd been equally successful in our professional discoveries."
 "Depends on what you call a clue," was the answer.  "I can tell you
 one thing for a certainty.  Whoever broke into the house was an old
 hand at the game, and, what's more, a chap who knew his job from A to
-Z."
 
 "Why do you think that?"
 
@@ -4105,7 +4024,6 @@ hundred thousand pounds."
 
 
 
-CHAPTER SIX
 
 "We find that Professor Carter was wilfully murdered by some person
 or persons unknown."
@@ -4304,24 +4222,24 @@ table.  It was just a single page of neat typewriting, without any
 address or date.
 
 
-    Major F. is the only son of the late John Mordaunt F., of
-    Cheltenham, Glos.  He is forty-three years of age.  He was
-    educated at Cheltenham College.  Entered the 17th Lancers, but
-    resigned his commission as a captain on account of financial
-    difficulties.  Was in India for several years and also in Canada.
-    It is believed that he was chiefly engaged in training and
-    selling polo ponies.  Rejoined the Service during the war and
-    rose to his present rank.  Since then his only occupation appears
-    to have been betting at race-meetings.  He is connected with an
-    undesirable element on the Turf, and his general reputation is
-    not of the best.  As far as this country is concerned, however,
-    there is no record of his having been connected with any criminal
-    proceedings.  He is an amateur yachtsman, and the registered
-    owner of a small auxiliary engined boat called _The Swallow_,
-    which is at present lying in Hole Haven.
+Major F. is the only son of the late John Mordaunt F., of
+Cheltenham, Glos.  He is forty-three years of age.  He was
+educated at Cheltenham College.  Entered the 17th Lancers, but
+resigned his commission as a captain on account of financial
+difficulties.  Was in India for several years and also in Canada.
+It is believed that he was chiefly engaged in training and
+selling polo ponies.  Rejoined the Service during the war and
+rose to his present rank.  Since then his only occupation appears
+to have been betting at race-meetings.  He is connected with an
+undesirable element on the Turf, and his general reputation is
+not of the best.  As far as this country is concerned, however,
+there is no record of his having been connected with any criminal
+proceedings.  He is an amateur yachtsman, and the registered
+owner of a small auxiliary engined boat called The Swallow,
+which is at present lying in Hole Haven.
 
-    This paper is to be destroyed as soon as its contents have been
-    noted.
+This paper is to be destroyed as soon as its contents have been
+noted.
 
 
 As Colin reached the concluding paragraph the Inspector rose from his
@@ -4925,7 +4843,6 @@ Fenton.  I've had a lot of practice in looking after myself."
 
 
 
-CHAPTER SEVEN
 
 With an inward sigh of relief Colin opened the door of the surgery,
 and beckoned to the solitary old woman who was still sitting grimly
@@ -5239,7 +5156,6 @@ the knack of getting on readily with poor people, and, since he had
 done the same round on the previous day, he was already on familiar
 terms with most of his patients.
 
-By the time he returned to the surgery it was close on five o'clock.
 Darkness was rapidly setting in, and the feeling that his out-of-door
 duty was over for the day seemed to lend an additional attraction to
 the warmth and comfort of the brightly lit hall.
@@ -5271,8 +5187,8 @@ up the telegram.  As he expected, it bore the Lincoln postmark, and
 with eager fingers he slit open the flap and pulled out the contents.
 
 
-    "Operation a complete success.  Shall be home to-morrow about
-    one.--MARK."
+"Operation a complete success.  Shall be home to-morrow about
+one.--MARK."
 
 
 He turned to Martha Jane.
@@ -5292,25 +5208,23 @@ A single glance at the letter inside showed him that it was from
 Inspector Marsden.
 
 
-    "SCOTLAND YARD,
-  "Thursday, December 12th.
+"Thursday, December 12th.
 
-    "DEAR DOCTOR GRAY,--You will be interested to hear that we have
-    at last managed to pick up the tracks of William Kennedy,
-    Professor Carter's servant.  It seems that he has been very ill,
-    and for the last two months has been living in an out-of-the-way
-    village in Hertfordshire under the care of an old female cousin.
-    The latter, who is apparently unable to read, had heard nothing
-    about the murder, and it was only last night that Kennedy was
-    informed of the facts.  I am making arrangements to motor down
-    and interview him to-morrow, don't suppose I shall be back at the
-    Yard until the evening, but if you would care to look in any time
-    after six I shall be pleased to see you and to let you know the
-    result of my journey.
+"DEAR DOCTOR GRAY,--You will be interested to hear that we have
+at last managed to pick up the tracks of William Kennedy,
+Professor Carter's servant.  It seems that he has been very ill,
+and for the last two months has been living in an out-of-the-way
+village in Hertfordshire under the care of an old female cousin.
+The latter, who is apparently unable to read, had heard nothing
+about the murder, and it was only last night that Kennedy was
+informed of the facts.  I am making arrangements to motor down
+and interview him to-morrow, don't suppose I shall be back at the
+Yard until the evening, but if you would care to look in any time
+after six I shall be pleased to see you and to let you know the
+result of my journey.
 
-  "I am,
-        "Yours sincerely,
-        "JAMES MARSDEN."
+"I am,
+"Yours sincerely,
 
 
 With considerable satisfaction Colin folded the letter and put it
@@ -5487,7 +5401,6 @@ desperately with fists and teeth and feet; then a savage hand gripped
 him by the throat, and everything was wiped out in a sudden and
 suffocating blackness.
 
-* * * * * * * * *
 
 "I tell yer I knows 'im.  It's the swine that was 'elpin' the cops
 when they pulled 'Ginger Dick.'"
@@ -5626,7 +5539,6 @@ into its socket.
 
 
 
-CHAPTER EIGHT
 
 The study clock chimed out the hour of seven, and, laying aside the
 paper she had been looking at, Nancy got up from her chair and walked
@@ -5705,7 +5617,6 @@ almost shouted.  "You're sure 'e said Flood Lane?"
 Joe took no notice of the snub.  "Wot made 'im go there?" he demanded.
 
 "'E was fetched," replied Martha Jane with some asperity.  "Fetched
-by a party who hadn't no better manners----"
 
 "'Ere," interrupted Joe, "wot was the bloke like?  You answer me
 quick."
@@ -6062,7 +5973,6 @@ Nancy's arms.
 
 
 
-CHAPTER NINE
 
 "Colin, Colin dear!  It's all over.  You're safe up here with us."
 
@@ -6407,7 +6317,7 @@ is an acute form of heart trouble."
 Nancy stroked his cheek with her small, cool fingers.
 
 "My poor darling," she whispered.  "I will do everything I can for
-you to-morrow--I promise you that--but I _must_ run away now and let
+you to-morrow--I promise you that--but I must run away now and let
 you go to sleep.  I don't want you to be seriously ill, Colin,
 especially when you've just found out that you love me."
 
@@ -6426,7 +6336,6 @@ at him with a world of love and tenderness in her eyes.  Then very
 softly she stepped out into the passage and closed the door behind
 her.
 
-* * * * * * * * *
 
 When Colin woke next morning it was with a vague feeling that
 something extraordinarily pleasant had happened to him.  For several
@@ -6441,7 +6350,7 @@ looked so beautifully comfy I hadn't the heart to wake you."
 
 Colin reached out an arm and imprisoned her left hand.
 
-"Tell me quick, Nancy," he said.  "It _is_ true about last night,
+"Tell me quick, Nancy," he said.  "It is true about last night,
 isn't it?  I'm terribly afraid that perhaps I fell asleep and dreamed
 it all."
 
@@ -6533,7 +6442,6 @@ Mark.  "I think you and Nancy are both entitled to a drink."
 Once more Colin laughed appreciatively.  "Yes," he said, "under the
 circumstances I suppose we are."
 
-* * * * * * * * *
 
 "And now," observed Mark, as he pushed his coffee cup away half an
 hour later, "I'd like to know what you two sunny-hearted infants were
@@ -6702,7 +6610,7 @@ pretty anxious to discuss with you."
 
 "Only that somebody tried to murder me last night."
 
-"_Tried to murder you!_  Who was it?"
+"Tried to murder you!  Who was it?"
 
 "Seems to have been a syndicate," was the answer.  "The principal
 parties were two gentlemen called 'Spike' Cooper and Jake Hudson,
@@ -6836,7 +6744,7 @@ enclose the photograph, record, and finger prints of Luke Hammond,
 which were not included in our reply of the 15th.  We have since
 ascertained that Hammond has left Canada and is probably in London."
 
-"And what _is_ his record?" demanded Colin.
+"And what is his record?" demanded Colin.
 
 "Quite a useful one in its way," was the dry answer.  "Two terms of
 imprisonment for housebreaking and one of ten years for robbery with
@@ -6932,7 +6840,6 @@ a damned fool, you're the luckiest man in England."
 
 
 
-CHAPTER TEN
 
 "More coffee?" suggested Mark.
 
@@ -7287,10 +7194,10 @@ destroying two previous attempts, he wrote out the following wire,
 which he signed in Mark's name:
 
 
-    "I shall be very grateful if you will let me know immediately
-    whether Mr. Penwarren is in London and whether he has any
-    business to discuss with Miss Nancy Seymour.  Miss Seymour is in
-    my employment.  The matter is extremely urgent."
+"I shall be very grateful if you will let me know immediately
+whether Mr. Penwarren is in London and whether he has any
+business to discuss with Miss Nancy Seymour.  Miss Seymour is in
+my employment.  The matter is extremely urgent."
 
 
 He handed this to the girl behind the counter, and, having paid for a
@@ -7382,7 +7289,6 @@ into that corner----"
 He turned aside as he spoke, and, pocketing the five shillings which
 Colin slipped into his hand, sauntered back to his former position.
 
-* * * * * * * * *
 
 With the best part of an hour and a half before him Colin came out
 into Whitehall and paused irresolutely on the edge of the pavement.
@@ -7819,13 +7725,12 @@ know about it is when we ring up and tell you the result."
 
 With a faint twitch of his lips the detective held out his hand.
 
-"Good luck to you, doctor," he said.  "That young lady deserves _a
-man_, and I'll take my oath she's got one."
+"Good luck to you, doctor," he said.  "That young lady deserves a
+man, and I'll take my oath she's got one."
 
 
 
 
-CHAPTER ELEVEN
 
 Albert Terrace appeared even more peaceful and respectable than usual
 as Colin turned in at the farther end and came to a standstill in
@@ -7858,7 +7763,6 @@ home."
 
 "Isn't it!" said Colin genially.  "I was just saying to Joe that it
 was a hundred to one that we shouldn't find you."  He paused.  "Oh,
-by the way, may I introduce you?  This is an old friend of mine, Mr.
 Joe Bates.  I've brought him along because we both want to ask your
 advice."
 
@@ -7956,7 +7860,7 @@ Choking and gasping for breath, Medwin retreated toward the sofa.
 "You're making some terrible mistake.  I know nothing about it, on my
 honour."
 
-"Your _what_?" Colin laughed unpleasantly.  "I don't know if you're
+"Your what?" Colin laughed unpleasantly.  "I don't know if you're
 really under the impression that you can bluff this out, Medwin, but
 if you are, you're making the mistake of your life."
 
@@ -7999,7 +7903,6 @@ trickled down into his eyes.
 Colin laughed again.  "Shove something in his mouth, Joe.  We don't
 want the whole street to hear him squealing."
 
-By a violent effort Medwin managed to wriggle himself up into a
 sitting position.
 
 "It's all right, Gray," he said quietly.  "You needn't go any
@@ -8113,7 +8016,6 @@ He walked toward the door, and, with one reluctant glance at the
 smiling and half-prostrate figure on the sofa, Joe followed him out
 into the hall.
 
-* * * * * * * * *
 
 Two men muffled up in long coats, who were waiting just inside the
 entrance, stepped forward at once as the car came to a standstill
@@ -8414,7 +8316,6 @@ happened, Fenton should not escape.
 Suddenly, through the silence of the garden, a low whistle sounded
 clearly from the back of the house.  Colin was on his feet instantly,
 but before he could take a step forward both he and Joe were checked
-by a quick movement from their companion.
 
 "I'll go first, doctor," whispered the Inspector.  "You two keep
 close behind, and follow me in directly I smash the lock."
@@ -8766,14 +8667,12 @@ Colin was just conscious of a shower of sparks from beneath the
 steel-studded tires as the car in front of him swerved violently
 across the road.
 
-By some instinctive movement his hand shot out toward the brake
 lever, and almost at the same second came a deafening and appalling
 crash that seemed to strike him in the face like a blow from a fist.
 
 
 
 
-CHAPTER TWELVE
 
 "That's done it," remarked the Inspector bitterly.
 
@@ -8991,7 +8890,6 @@ hand.  "You shall hear from me later in the evening.  I'll either
 thank you for everything you've done, and if you want any further
 inducement Mark's got some topping good champagne."
 
-* * * * * * * * *
 
 The light was still streaming out through the shattered window as,
 leaving his car at the gate of "The Firs," Colin once more made his
@@ -9122,7 +9020,6 @@ With a little laugh Nancy held out her hands toward him.
 "Take me home, Colin," she said.  "I feel like Charles Lamb when they
 gave him a pension.  I want to go home for ever."
 
-* * * * * * * * *
 
 Mark filled up his empty glass, and, settling himself in his
 armchair, beamed paternally at Colin and Nancy, who were sitting
@@ -9260,176 +9157,172 @@ He presented the envelope to Colin, who, after glancing unbelievingly
 at his own name, pulled out and unfolded its contents.
 
 
-  "3 ALBERT TERRACE,
-        "KENSINGTON.
 
-    "My dear Gray,--You will probably be surprised at receiving a
-    letter from me, but you must put it down to the whim of a dying
-    man.
+"My dear Gray,--You will probably be surprised at receiving a
+letter from me, but you must put it down to the whim of a dying
+man.
 
-    "The truth is, I feel that I owe an apology both to you and to
-    Miss Seymour.
+"The truth is, I feel that I owe an apology both to you and to
+Miss Seymour.
 
-    "I will make no attempt to defend my conduct.  I frankly admit
-    that it justifies practically every one of the uncomplimentary
-    epithets which you hurled at me in the course of your dramatic
-    visit.
+"I will make no attempt to defend my conduct.  I frankly admit
+that it justifies practically every one of the uncomplimentary
+epithets which you hurled at me in the course of your dramatic
+visit.
 
-    "The only accusation against which I must enter a protest is that
-    either Fenton or I was in any way concerned with the murder of my
-    old friend and client, the late Professor Carter.  On this point
-    you are entirely mistaken.  It was the work of that senseless
-    ruffian Cooper, whom we had employed to assist us in breaking
-    into the Red Lodge when we found it necessary to examine the
-    Professor's papers.  I sincerely hope that this information will
-    be of some assistance in bringing him to the gallows.
+"The only accusation against which I must enter a protest is that
+either Fenton or I was in any way concerned with the murder of my
+old friend and client, the late Professor Carter.  On this point
+you are entirely mistaken.  It was the work of that senseless
+ruffian Cooper, whom we had employed to assist us in breaking
+into the Red Lodge when we found it necessary to examine the
+Professor's papers.  I sincerely hope that this information will
+be of some assistance in bringing him to the gallows.
 
-    "On the charges of embezzlement and conspiracy, however, the fact
-    remains that I have rendered myself liable to a considerable term
-    of penal servitude.  It is an unpleasant position, but one which
-    I am perfectly prepared to face.  Playing for high stakes has
-    always had a peculiar attraction for me, and in the event of
-    failure I have never been one of those poor-spirited sportsmen
-    who object to settling their accounts.
+"On the charges of embezzlement and conspiracy, however, the fact
+remains that I have rendered myself liable to a considerable term
+of penal servitude.  It is an unpleasant position, but one which
+I am perfectly prepared to face.  Playing for high stakes has
+always had a peculiar attraction for me, and in the event of
+failure I have never been one of those poor-spirited sportsmen
+who object to settling their accounts.
 
-    "I doubt if you will believe me, but I should like to say in
-    conclusion that as far as you are concerned I have no feeling of
-    resentment.  On the contrary, if you had not been so infernally
-    in my way it would have been a distinct pleasure to me to
-    cultivate your society.  Being of a somewhat complex temperament,
-    I derive considerable enjoyment from the companionship of a crude
-    and vigorous young savage like yourself.
+"I doubt if you will believe me, but I should like to say in
+conclusion that as far as you are concerned I have no feeling of
+resentment.  On the contrary, if you had not been so infernally
+in my way it would have been a distinct pleasure to me to
+cultivate your society.  Being of a somewhat complex temperament,
+I derive considerable enjoyment from the companionship of a crude
+and vigorous young savage like yourself.
 
-    "I do not know whether you arrived in time to rescue Miss Seymour
-    from the embraces of our mutual friend, but I have no doubt that
-    you will succeed in consoling her for any unpleasant experiences
-    to which she may have been subjected.  From the little I saw of
-    her she struck me as being a singularly attractive and
-    high-spirited young lady.
+"I do not know whether you arrived in time to rescue Miss Seymour
+from the embraces of our mutual friend, but I have no doubt that
+you will succeed in consoling her for any unpleasant experiences
+to which she may have been subjected.  From the little I saw of
+her she struck me as being a singularly attractive and
+high-spirited young lady.
 
-    "Please convey to her my apologies for the unchivalrous treatment
-    she has received, and also express my regret that there should be
-    a shortage of some twenty thousand pounds in the money to which
-    she is entitled.  As the sum which still remains, however,
-    amounts to about a hundred and seventy thousand pounds, it will
-    be amply sufficient to provide you both with those minor comforts
-    and luxuries which form such an agreeable addition even to the
-    happiest of married lives.
+"Please convey to her my apologies for the unchivalrous treatment
+she has received, and also express my regret that there should be
+a shortage of some twenty thousand pounds in the money to which
+she is entitled.  As the sum which still remains, however,
+amounts to about a hundred and seventy thousand pounds, it will
+be amply sufficient to provide you both with those minor comforts
+and luxuries which form such an agreeable addition even to the
+happiest of married lives.
 
-  "Believe me, my dear Gray,
-              "Your sincere admirer,
-        "JAMES STANHOPE MEDWIN."
+"Believe me, my dear Gray,
+"Your sincere admirer,
 
 
-    Colin read through this remarkable communication in silence, and,
-    having come to the end, handed it to Nancy.
+Colin read through this remarkable communication in silence, and,
+having come to the end, handed it to Nancy.
 
-    "It's just the sort of letter I should have expected him to
-    write," he observed.  "The only thing I'm surprised at is that he
-    didn't send us a wedding present."
+"It's just the sort of letter I should have expected him to
+write," he observed.  "The only thing I'm surprised at is that he
+didn't send us a wedding present."
 
-    "Well, it's queer your putting it like that," replied the
-    detective.  "As a matter of fact, it's the very same remark which
-    I made to the Commissioner.  There's a certain type of criminal
-    who doesn't care what happens to him as long as he can die
-    showing off and codding himself that he's a sportsman and a
-    gentleman."
+"Well, it's queer your putting it like that," replied the
+detective.  "As a matter of fact, it's the very same remark which
+I made to the Commissioner.  There's a certain type of criminal
+who doesn't care what happens to him as long as he can die
+showing off and codding himself that he's a sportsman and a
+gentleman."
 
-    "I suppose that's true," said Nancy, looking up from the letter.
-    "I do wish he hadn't killed himself, though.  I hate to feel that
-    three people have lost their lives and all on account of----"
+"I suppose that's true," said Nancy, looking up from the letter.
+"I do wish he hadn't killed himself, though.  I hate to feel that
+three people have lost their lives and all on account of----"
 
-    "It's only because you're not accustomed to it," interrupted Mark
-    comfortingly.  "When one's been a doctor for twenty years a
-    trifling massacre like this leaves one quite unperturbed."
+"It's only because you're not accustomed to it," interrupted Mark
+comfortingly.  "When one's been a doctor for twenty years a
+trifling massacre like this leaves one quite unperturbed."
 
-    As he spoke Martha Jane appeared with the clean glass, and,
-    taking it off the tray, he turned to Marsden.
+As he spoke Martha Jane appeared with the clean glass, and,
+taking it off the tray, he turned to Marsden.
 
-    "How about a drop of champagne, Inspector?" he suggested.
-    "There's nothing like it after a busy day, and, besides, you've
-    got to drink to the health of the happy pair."
+"How about a drop of champagne, Inspector?" he suggested.
+"There's nothing like it after a busy day, and, besides, you've
+got to drink to the health of the happy pair."
 
-    "I won't say no to a good offer like that," returned the
-    detective.
+"I won't say no to a good offer like that," returned the
+detective.
 
-    He accepted the beaker which Mark held out to him, and, raising
-    it in his hand, nodded first to Nancy and then to Colin.
+He accepted the beaker which Mark held out to him, and, raising
+it in his hand, nodded first to Nancy and then to Colin.
 
-    "I've already congratulated the doctor," he said.  "As for you,
-    miss, if you'll excuse my saying so, I think you've made as big a
-    success in choosing a husband as you did in choosing a
-    grandfather."
+"I've already congratulated the doctor," he said.  "As for you,
+miss, if you'll excuse my saying so, I think you've made as big a
+success in choosing a husband as you did in choosing a
+grandfather."
 
-    He drained his glass to the dregs, and set it down on the table
-    with an appreciative smack.
+He drained his glass to the dregs, and set it down on the table
+with an appreciative smack.
 
-    "I'm sorry to tear myself away from such a pleasant party," he
-    added, "but I've got to get back to the Yard and complete my
-    report of the case.  We're fixing the inquest for the day after
-    to-morrow."
+"I'm sorry to tear myself away from such a pleasant party," he
+added, "but I've got to get back to the Yard and complete my
+report of the case.  We're fixing the inquest for the day after
+to-morrow."
 
-    "Shall I have to give evidence?" inquired Nancy in some dismay.
+"Shall I have to give evidence?" inquired Nancy in some dismay.
 
-    "I'm afraid there's no getting out of that, miss.  You and Doctor
-    Gray will be the two principal witnesses, but I shall be seeing
-    the Coroner first, and you can take it from me that you won't be
-    asked more questions than are absolutely necessary."  He turned
-    to Colin.  "I should like to see you the first thing in the
-    morning, doctor.  This case is bound to attract a good deal of
-    attention, and there are one or two points in connection with it
-    which it will be better if we keep to ourselves."
+"I'm afraid there's no getting out of that, miss.  You and Doctor
+Gray will be the two principal witnesses, but I shall be seeing
+the Coroner first, and you can take it from me that you won't be
+asked more questions than are absolutely necessary."  He turned
+to Colin.  "I should like to see you the first thing in the
+morning, doctor.  This case is bound to attract a good deal of
+attention, and there are one or two points in connection with it
+which it will be better if we keep to ourselves."
 
-    "That's all right," said Colin calmly.  "You tell me what you
-    want us to say, and Nancy and I will stick to it like Britons."
+"That's all right," said Colin calmly.  "You tell me what you
+want us to say, and Nancy and I will stick to it like Britons."
 
-    Marsden laughed, and, picking up his cap from the table, shook
-    hands all round.
+Marsden laughed, and, picking up his cap from the table, shook
+hands all round.
 
-    "Let me see you as far as the door, Inspector," suggested Mark.
-    "I think I'm just sober enough to be able to manage the
-    staircase."
+"Let me see you as far as the door, Inspector," suggested Mark.
+"I think I'm just sober enough to be able to manage the
+staircase."
 
-    He led the way out on the landing, followed by the detective, and
-    for the first time since their return to the house Colin and
-    Nancy found themselves alone.
+He led the way out on the landing, followed by the detective, and
+for the first time since their return to the house Colin and
+Nancy found themselves alone.
 
-    He put his arm round her, and, bending down, kissed her hair.
+He put his arm round her, and, bending down, kissed her hair.
 
-    "You mustn't let all this distress you too much, darling," he
-    said gently.  "It's been a horrible and ghastly business, but I
-    do believe it's ended in the best way possible.  If these men
-    hadn't been killed----"
+"You mustn't let all this distress you too much, darling," he
+said gently.  "It's been a horrible and ghastly business, but I
+do believe it's ended in the best way possible.  If these men
+hadn't been killed----"
 
-    "I know, Colin," she said.  "I think it's only a sort of selfish
-    feeling I've got.  I am so happy myself I want everyone else to
-    be happy too."
+"I know, Colin," she said.  "I think it's only a sort of selfish
+feeling I've got.  I am so happy myself I want everyone else to
+be happy too."
 
-    "So they are!" declared Colin.  "At least, everyone who matters.
-    There's you and I and Mark and Mary and Joe----"  He paused.  "By
-    the way, I wonder what's happened to Joe."
+"So they are!" declared Colin.  "At least, everyone who matters.
+There's you and I and Mark and Mary and Joe----"  He paused.  "By
+the way, I wonder what's happened to Joe."
 
-    "I know what's going to happen to him," said Nancy.  "Directly I
-    get my money I'm going to buy him the biggest and most beautiful
-    public house in Shadwell.  If it wasn't for Joe----"  Her voice
-    faltered, and with a sudden impulsive movement she caught hold of
-    Colin's hand and pressed it to her cheek.
+"I know what's going to happen to him," said Nancy.  "Directly I
+get my money I'm going to buy him the biggest and most beautiful
+public house in Shadwell.  If it wasn't for Joe----"  Her voice
+faltered, and with a sudden impulsive movement she caught hold of
+Colin's hand and pressed it to her cheek.
 
-    For a moment he stood looking down at her, his gray eyes alight
-    with love and tenderness.
+For a moment he stood looking down at her, his gray eyes alight
+with love and tenderness.
 
-    "There's only one thing that isn't quite perfect," he said
-    slowly.  "I'm afraid that, whatever success I meet with in my
-    research work, I'm bound to be more or less disappointed."
+"There's only one thing that isn't quite perfect," he said
+slowly.  "I'm afraid that, whatever success I meet with in my
+research work, I'm bound to be more or less disappointed."
 
-    "Oh, Colin, what do you mean?"
+"Oh, Colin, what do you mean?"
 
-    "Why," he whispered softly, "I've already made the greatest
-    discovery in the world.  _I've found you_."
+"Why," he whispered softly, "I've already made the greatest
+discovery in the world.  I've found you."
 
 
 
-    THE END
 
 
 
