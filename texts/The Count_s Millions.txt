@@ -4,31 +4,6 @@
 
 
 
-
-
-
-THE COUNT’S MILLIONS
-
-By Emile Gaboriau
-
-Translated from the French
-
-
-A novel in two parts. Part Two of this novel is found in the volume:
-Baron Trigault’s Vengeance
-
-
-
-
-
-PASCAL AND MARGUERITE.
-
-
-
-
-I.
-
-
 It was a Thursday evening, the fifteenth of October; and although only
 half-past six o’clock, it had been dark for some time already. The
 weather was cold, and the sky was as black as ink, while the wind blew
@@ -45,7 +20,6 @@ easily seen, he held all the other servants in his power. He could
 let them absent themselves without leave, if he chose, and conceal all
 returns late at night after the closing of public balls and wine-shops.
 Thus, it is needless to say that M. Bourigeau and his wife were treated
-by their fellow-servants with the most servile adulation.
 
 The owner of the house was not at home that evening, so that M. Casimir,
 the count’s head valet, was serving coffee for the benefit of all the
@@ -98,7 +72,7 @@ words he knows. Ask M. Casimir if I’m not right.”
 
 The footman was listening with a serious air, as if greatly interested
 in the character of the people whom he was to serve. “And mademoiselle,”
- he asked, “what does she say to such an existence?”
+he asked, “what does she say to such an existence?”
 
 “Bless me! during the six months she has been here, she has never once
 complained.”
@@ -109,7 +83,6 @@ complained.”
 “each month that mademoiselle remains here, brings her too much money
 for her to complain.”
 
-By the laugh that greeted this reply, and by the looks the older
 servants exchanged, the new-comer must have realized that he had
 discovered the secret skeleton hidden in every house. “What! what!” he
 exclaimed, on fire with curiosity; “is there really anything in that? To
@@ -195,7 +168,6 @@ standing on the threshold.
 
 Mademoiselle Marguerite was a beautiful young girl, about twenty years
 of age. She was a brunette of medium height, with big gloomy eyes shaded
-by thick eyebrows. Heavy masses of jet-black hair wreathed her lofty but
 rather sad and thoughtful forehead. There was something peculiar in
 her face--an expression of concentrated suffering, and a sort of proud
 resignation, mingled with timidity.
@@ -209,7 +181,6 @@ around. From where she stood, she could not see the bed stationed in an
 alcove; but she instantly noted the dejected attitude of the servants,
 the clothing scattered about the floor, and the disorder that pervaded
 this magnificent but severely furnished chamber, which was only lighted
-by the lamp which M. Bourigeau, the concierge, carried. A sudden dread
 seized her; she shuddered, and in a faltering voice she added: “Why are
 you all here? Speak, tell me what has happened.”
 
@@ -248,7 +219,7 @@ quite bald. He was short, very thin, clean-shaven, and clad in black
 from head to foot. Without a word, without a bow, he walked straight to
 the bedside, lifted the unconscious man’s eyelids, felt his pulse, and
 uncovered his chest, applying his ear to it. “This is a serious case,”
- he said at the close of his examination.
+he said at the close of his examination.
 
 Mademoiselle Marguerite, who had followed his movements with the most
 poignant anxiety, could not repress a sob. “But all hope is not lost,
@@ -535,7 +506,6 @@ outburst for no other apparent cause than a very natural and exceedingly
 insignificant request on his part?
 
 However, she had regained her self-possession, and it was easy to see
-by her manner that she was seeking some means of escape from threatened
 danger. At last she found it. “Casimir,” she said, authoritatively,
 “search M. de Chalusse’s pocket for the key of his escritoire.”
 
@@ -692,7 +662,6 @@ eight precisely. I shall have to stretch out my legs.”
 
 
 
-II.
 
 
 M. Isidore Fortunat resided at No. 27 Place de la Bourse, on the
@@ -1014,7 +983,7 @@ becoming scanty, and vacant plots of building ground more numerous;
 it was only with the greatest difficulty that one could occasionally
 discern a light. At last, however, after a quarter of an hour’s hard
 struggling, Chupin uttered a joyful cry. “Here we are, m’sieur--look!”
- said he.
+said he.
 
 A large building, five stories high, sinister of aspect, and standing
 quite alone, could just be distinguished in the darkness. It was already
@@ -1076,7 +1045,7 @@ order of a person named Barutin.”
 “Vantrasson, wake up, and come and see about this.”
 
 This summons was unnecessary. On hearing the words “note of hand,”
- the man had lifted his head; and at the name of Barutin, he rose and
+the man had lifted his head; and at the name of Barutin, he rose and
 approached with a heavy, uncertain step, as if he had not yet slept
 off his intoxication. He was younger than his wife, tall, with a
 well-proportioned and athletic form. His features were regular, but the
@@ -1119,7 +1088,6 @@ worrying me, he’ll let me alone. You can’t injure a man like me.”
 note doesn’t care so very much about obtaining his dues, he’ll spend his
 own money like water to make trouble for you.” And thereupon M. Fortunat
 began to draw a vivid and frightful picture of a poor debtor pursued
-by a rich creditor who harassed him, and tortured him, and hounded him
 everywhere, until not even a change of clothing was left him.
 
 Vantrasson rolled his eyes and brandished his formidable fist in the
@@ -1445,7 +1413,7 @@ Fortunat.
 
 Madame Vantrasson seemed as disappointed as an actor who has been
 deprived of an opportunity of producing a grand effect. “Wait a moment,”
- she replied, “and you’ll see. The night passed, morning came, and
+she replied, “and you’ll see. The night passed, morning came, and
 then the breakfast hour. But Mademoiselle Hermine did not make her
 appearance. Some one was sent to rap at her door--there was no answer.
 The door was opened--the young lady was not in her room, and the bed had
@@ -1578,7 +1546,7 @@ foot in the count’s house.”
 Hermine’s daughter.”
 
 Madame Vantrasson shook her head. “Put that fancy out of your head,”
- she remarked. “The count said that his sister was dead to him from the
+she remarked. “The count said that his sister was dead to him from the
 evening of her flight.”
 
 “Who CAN this young girl be, then?”
@@ -1658,7 +1626,6 @@ that you are to pay something on account each month.”
 “Go to the devil, and your account with you!” growled Madame Vantrasson.
 
 But Fortunat did not hear this. He was already walking down the road
-by the side of Chupin, who was saying: “Well, here you are, at last,
 m’sieur! I thought you had taken a lease of that old barrack. If ever I
 come here again, I’ll bring a foot-warmer with me.”
 
@@ -1694,7 +1661,6 @@ francs, Victor,” he said to Chupin. “Pay the driver, and keep the rest
 yourself.”
 
 As he spoke, he sprang nimbly to the ground. A handsome brougham, drawn
-by two horses, was standing before the house. “The Marquis de Valorsay’s
 carriage,” muttered M. Fortunat. “He has been very patient; he has
 waited for me--or, rather, he has waited for my ten thousand francs.
 Well, we shall see.”
@@ -1702,7 +1668,6 @@ Well, we shall see.”
 
 
 
-III.
 
 
 M. Fortunat had scarcely started off on his visit to the Vantrassons
@@ -1723,7 +1688,6 @@ makes an appointment, Monsieur Fortunat expects me to wait for him! What
 will happen next?” However, he drew a newspaper from his pocket, threw
 himself into an arm-chair, and waited.
 
-By his habits and tastes, the Marquis de Valorsay belonged to that
 section of the aristocracy which has coined the term “high life” in view
 of describing its own manners and customs. The matters that engrossed
 the marquis’s frivolous mind were club-life and first performances at
@@ -1890,7 +1854,6 @@ always treated him with extreme deference, verging on servility. And
 in M. de Valorsay’s eyes this was a great consideration; for he was
 becoming more arrogant and more irascible in proportion as his right to
 be so diminished. Secretly disgusted with himself, and deeply humiliated
-by the shameful intrigue to which he had stooped, he took a secret
 satisfaction in crushing his accomplice with his imaginary superiority
 and lordly disdain. According as his humor was good or bad, he
 called him “my dear extortioner,” “Mons. Fortunat,” or “Master
@@ -1961,7 +1924,6 @@ listening,” he said carelessly.
 
 “In that case, Monsieur le Marquis, I will state the facts in a few
 words, without going into particulars. Thanks to an expedient devised
-by me, we shall obtain for twenty hours a release from all the mortgages
 that now encumber your estates. On that very day we will request a
 certificate from the recorder. This certificate will declare that your
 estates are free from all encumbrances; you will show this statement to
@@ -1976,7 +1938,7 @@ M. de Valorsay was so delighted that he could not refrain from clapping
 his hands. “Then the affair is virtually concluded,” he exclaimed.
 “In less than a month Mademoiselle Marguerite will be the Marquise de
 Valorsay, and I shall have a hundred thousand francs a year again.”
- Then, noting how gravely M. Fortunat shook his head: “Ah! so you doubt
+Then, noting how gravely M. Fortunat shook his head: “Ah! so you doubt
 it!” he cried. “Very well; now it is your turn to listen. Yesterday I
 had a long conference with the Count de Chalusse, and everything has
 been settled. We exchanged our word of honor, Master Twenty-per-cent.
@@ -2045,7 +2007,7 @@ it?--of a secret preference for some other person.”
 
 The gloomiest despondency had now followed the marquis’s enthusiasm and
 exultation. He was evidently in torture. “I more than suspected it,”
- said he.
+said he.
 
 “Ah!”
 
@@ -2348,7 +2310,6 @@ fellow, no matter what may happen!”
 
 
 
-IV.
 
 
 It is in vain that the law has endeavored to shield private life from
@@ -2488,7 +2449,6 @@ him to note that every one spoke in very low tones; there was something
 very like respect, even awe, in this subdued murmur. One might
 have supposed that those present were celebrating the rites of some
 mysterious worship. And is not gaming a species of idolatry, symbolized
-by cards, and which has its images, its fetishes, its miracles, its
 fanatics, and its martyrs?
 
 Occasionally, above the accompaniment of whispers, rose the strange and
@@ -2815,7 +2775,7 @@ vilest criminal.
 
 Meanwhile, the executioner, as he had styled himself, had risen to his
 feet with his cravat untied, and his clothes in wild disorder. “Yes,”
- he said, addressing Pascal, “you are a thief! I saw you slip other cards
+he said, addressing Pascal, “you are a thief! I saw you slip other cards
 among those which were handed to you.”
 
 “Wretch!” gasped Pascal.
@@ -2943,7 +2903,7 @@ his estates in Burgundy, for his passion for gaming, his horses, and his
 cook, the baron wielded a mighty influence. Still, on this occasion he
 did not carry the day, for it was decided that the “sharper” should
 be allowed to depart unmolested. “Make him at least return the money,”
- growled a loser; “compel him to disgorge.”
+growled a loser; “compel him to disgorge.”
 
 “His winnings are there upon the table.”
 
@@ -3157,7 +3117,6 @@ all the more reason why it should be pitiless when a person’s guilt is
 positively established. Thus, although he assumed an air of insolent
 security, the “viscount” anxiously watched the effect of his words upon
 Madame d’Argeles. Fortunately for himself, he saw that she was abashed
-by his cynicism; and so he resumed: “Besides, as our friend, the baron,
 would say, we are wasting precious time in discussing improbable, and
 even impossible, suppositions. I was sufficiently well acquainted with
 your heart and your intelligence, my dear madame, to be sure that you
@@ -3322,7 +3281,6 @@ that he doesn’t see you.”
 
 
 
-V.
 
 
 If through the length and breadth of Paris there is a really quiet,
@@ -3410,7 +3368,6 @@ an income of fifteen thousand francs, but she awoke to find herself
 ruined--so completely ruined that she did not know where to obtain her
 dinner for that same evening. Had she been alone in the world, she would
 not have grieved much over the catastrophe, but she was sadly affected
-by the thought that her son’s future was, perhaps, irrevocably blighted,
 and that, in any case, this disaster would condemn him to enter life
 through the cramped and gloomy portals of poverty.
 
@@ -3614,7 +3571,6 @@ the bridges. What should she do? Her first impulse was to run to the
 Commissary of Police’s office or to the house of Pascal’s friend; but
 on the other hand, she dared not go out, for fear he might return in her
 absence. Thus, in an agony of suspense, she waited--counting the seconds
-by the quick throbbings of her temples, and straining her ears to catch
 the slightest sound.
 
 At last, about half-past eight o’clock, she heard a heavy, uncertain
@@ -3743,7 +3699,6 @@ momentary fit of madness, for the fact that he had provided himself with
 these cards in advance proves the act to have been premeditated. One of
 the persons present was especially displeased. This was the Viscount de
 C----, who had introduced M. F---- to Madame d’A----. Extremely annoyed
-by this contretemps, he took umbrage at an offensive remark made by M.
 de R----, and it was rumored that these gentlemen would cross swords at
 daybreak this morning.
 
@@ -3755,7 +3710,7 @@ sufficiently satisfactory not to alarm his friends.”
 
 The paper slipped from Pascal’s hand. His features were almost
 unrecognizable in his passion and despair. “It is an infamous lie!”
- he said, hoarsely. “I am innocent; I swear it upon my honor!” Dartelle
+he said, hoarsely. “I am innocent; I swear it upon my honor!” Dartelle
 averted his face, but not quickly enough to prevent Pascal from noticing
 the look of withering scorn in his eyes. Then, feeling that he was
 condemned, that his sentence was irrevocable, and that there was no
@@ -4057,16 +4012,14 @@ myself.” So saying he transported his unwieldy person to Pascal’s desk,
 and hastily wrote as follows:
 
 
-   “MR. EDITOR,
 
-   “As a witness of the scene that took place at Madame d’A----s’s
-   house last night, allow me to make an important correction.  It is
-   only too true that extra cards were introduced into the pack, but
-   that they were introduced by M. F---- is not proven, since he was
-   NOT SEEN to do it.  I know that appearances are against him, but
-   he nevertheless possesses my entire confidence and esteem.
+“As a witness of the scene that took place at Madame d’A----s’s
+house last night, allow me to make an important correction.  It is
+only too true that extra cards were introduced into the pack, but
+that they were introduced by M. F---- is not proven, since he was
+NOT SEEN to do it.  I know that appearances are against him, but
+he nevertheless possesses my entire confidence and esteem.
 
-                                   “BARON TRIGAULT.”
 
 
 Meanwhile Madame Ferailleur and her son had exchanged significant
@@ -4091,7 +4044,7 @@ that newspaper article was written. One never knows the benefit that may
 be derived, at a certain moment, from a page of writing.”
 
 As he started off, Madame Ferailleur sprang from her chair. “Pascal,”
- she exclaimed, “that man knows something, and your enemies are his; I
+she exclaimed, “that man knows something, and your enemies are his; I
 read it in his eyes. He, too, distrusts M. de Coralth.”
 
 “I understood him, mother, and my mind is made up. I must disappear.
@@ -4107,7 +4060,6 @@ in view of sailing to America.
 
 
 
-VI.
 
 
 “There are a number of patients waiting for me. I will drop in again
@@ -4289,7 +4241,6 @@ on the answer I gave.”
 
 We have already said that M. Jodon was not a wealthy man, and yet
 he would willingly have given a hundred-franc note to have known the
-contents of this letter, or even the name of the person to whom it was
 addressed. But his chase was almost ended. Madame Leon had reached the
 Hotel de Chalusse, and now went in. Should he follow her? His curiosity
 was torturing him to such a degree that he had an idea of doing so;
@@ -4438,7 +4389,6 @@ she liked best of all the servants “Casimir and a footman will spend the
 night in the little side salon. The others may retire.”
 
 Her orders were obeyed. Two o’clock sounded from the church-tower near
-by, and then the solemn and terrible silence was only broken by the
 hard breathing of the unconscious man and the implacable ticktack of the
 clock on the mantel-shelf, numbering the seconds which were left for
 him to live. From the streets outside, not a sound reached this princely
@@ -4611,7 +4561,7 @@ thing. Is she a relative? No, she isn’t. What are you talking about,
 then? We are all equals here.”
 
 He spoke so impudently that even the doctor felt indignant. “Scoundrel!”
- said he.
+said he.
 
 But the valet turned toward him with an air which proved that he was
 well acquainted with the doctor’s servant, and, consequently, with all
@@ -4715,7 +4665,6 @@ justice of the peace.”
 
 
 
-VII.
 
 
 The magistrate who was now approaching the Chalusse mansion in the
@@ -5062,7 +5011,7 @@ his papers. He locked them up with the greatest care, as if he feared
 that some terrible secret might evaporate from them. It was a mania with
 him. If he had a letter to write, he barricaded his door, as if he were
 about to commit some horrible crime. More than once have I seen him----”
- The words died away on her lips, and she remained motionless and
+The words died away on her lips, and she remained motionless and
 abashed, like a person who has just escaped some great peril. One
 word more, and involuntarily, without even knowing it, she would
 have confessed her besetting sin, which was listening at, and peering
@@ -5129,7 +5078,6 @@ she left the room, closing the door behind her with a vicious slam.
 
 
 
-VIII.
 
 
 The justice of the peace and Mademoiselle Marguerite were at last alone
@@ -5325,7 +5273,6 @@ forcing herself to continue, she said: “Yes, I suffered exceedingly in
 that foundling asylum. Almost all my little companions were spiteful,
 unattractive in person, sallow, thin, and afflicted with all kinds of
 diseases, as if they were not unfortunate enough in being abandoned
-by their parents. And--to my shame, monsieur, I must confess it--these
 unfortunate little beings inspired me with unconquerable repugnance,
 with disgust bordering on aversion. I would rather have pressed my lips
 to a red-hot iron than to the forehead of one of these children. I did
@@ -5360,7 +5307,6 @@ The thought of arraying myself in this dress to approach the holy table
 frightened and revolted me as much as if I had been sentenced to
 drape myself in a winding-sheet. And yet it was the prettiest dress of
 all--white muslin beautifully embroidered. It had been ardently coveted
-by the other children, and had been given to me as a sort of reward of
 merit. And I dared not explain the cause of my unconquerable repugnance.
 Who would have understood me? I should only have been accused of undue
 sensitiveness and pride, absurd in one of my humble position. I was then
@@ -5568,7 +5514,6 @@ said she, ‘salute Monsieur le Comte de Chalusse.’”
 
 
 
-IX.
 
 
 For some little time there had been a noise of footsteps and a subdued
@@ -5879,7 +5824,6 @@ de Chalusse’s manner continued kind, and even affectionate; but he had
 regained his accustomed reserve and self-control, and I realized that
 it would be useless on my part to question him. At last, after a thirty
 hours’ journey by rail, we again entered the count’s berline, drawn
-by post-horses, and eventually M. de Chalusse said to me: ‘Here is
 Cannes--we are at our journey’s end.’
 
 “In this town, which is one of the most charming that overlook the blue
@@ -6051,7 +5995,6 @@ ringing in my ears.”
 
 
 
-X.
 
 
 Once before, that very morning, the magistrate had witnessed a display
@@ -6391,7 +6334,7 @@ you.”
 
 She clasped her hands, with a gesture of intense joy and relief, and
 then sank into an arm-chair, murmuring: “Oh, thanks, monsieur, thanks!”
- For she was thinking of Pascal; and she had feared he might shrink from
+For she was thinking of Pascal; and she had feared he might shrink from
 her when she fully revealed to him her wretched, sorrowful past, of
 which he was entirely ignorant. But the magistrate’s words had reassured
 her.
@@ -6399,7 +6342,6 @@ her.
 
 
 
-XI.
 
 
 The clock on the mantel-shelf struck half-past four. The magistrate and
@@ -6527,7 +6469,6 @@ mystery insoluble, far from it, he realized that time and research
 would be required to arrive at a solution, and that the affair was quite
 beyond his province. One hope alone remained.
 
-By carefully studying the last words which M. de Chalusse had written
 and spoken he might arrive at the intention which had dictated them.
 Experience had wonderfully sharpened his penetration, and perhaps he
 might discover a hidden meaning which would throw light upon all this
@@ -6547,7 +6488,7 @@ fortune.” The meaning of the word “despoiled” was also clear. It had
 evidently been wrung from the half-unconscious man by the horrible
 thought that Marguerite--his own daughter, unquestionably--would not
 have a penny of all the millions he had intended for her. “Take care”
- also explained itself. But there were two words which seemed absolutely
+also explained itself. But there were two words which seemed absolutely
 incomprehensible to the magistrate, and which he vainly strove to
 connect with the others in an intelligible manner. These were the words
 “friends” and “against,” and they were the most legibly written of
@@ -6716,7 +6657,7 @@ useless,” he said at last.
 “Because M. Ferailleur owes it to you, and, what is more, he owes it
 to himself, not to accept such a sacrifice.” Failing to understand his
 meaning, she looked at him inquiringly. “You will forgive me, I trust,”
- he continued, “if I warn you to prepare for a disappointment. Innocent
+he continued, “if I warn you to prepare for a disappointment. Innocent
 or guilty, M. Ferailleur is--disgraced. Unless something little short of
 a miracle comes to help him, his career is ended. This is one of those
 charges--one of those slanders, if you prefer that term, which a man can
@@ -6766,7 +6707,7 @@ The magistrate sprang from his arm-chair. “You become an actress, YOU?”
 He was at a loss for words to explain the nature of his objections to
 such a career; and it was Mademoiselle Marguerite who found them for
 him. “I suspect that theatrical life is an abominable life for a woman,”
- she said, gravely; “but I know that there are many noble and chaste
+she said, gravely; “but I know that there are many noble and chaste
 women who have adopted the profession. That is enough for me. My pride
 is a sufficient protection. It preserved me as an apprentice; it would
 preserve me as an actress. I might be slandered; but that is not an
@@ -6784,7 +6725,6 @@ interview.”
 
 
 
-XII.
 
 
 On hearing M. de Valorsay’s name, Mademoiselle Marguerite and the
@@ -6974,7 +6914,7 @@ mustaches a la Victor Emmanuel, you would have immediately exclaimed:
 A great mistake! M. de Fondege had never been in the service, and it was
 only in mockery of his somewhat bellicose manners and appearance that
 some twenty years previously his friends had dubbed him “the General.”
- However, the appellation had clung to him. The nickname had been changed
+However, the appellation had clung to him. The nickname had been changed
 to a title, and now M. de Fondege was known as “the General” everywhere.
 He was invited and announced as “the General.” Many people believed that
 he had really been one, and perhaps he fancied so himself, for he had
@@ -7000,7 +6940,7 @@ friends. He walked straight up to Mademoiselle Marguerite, caught her in
 his long arms, and pressed her to his heart, brushing her face with
 his huge mustaches as he pretended to kiss her. “Courage, my dear,” he
 growled; “courage. Don’t give way. Follow my example. Look at me!”
- So saying he stepped back, and it was really amusing to see the
+So saying he stepped back, and it was really amusing to see the
 extraordinary effort he made to combine a soldier’s stoicism with a
 friend’s sorrow. “You must wonder at my delay, my dear,” he resumed,
 “but it was not my fault. I was at Madame de Rochecote’s when I was
@@ -7059,7 +6999,7 @@ pocket.
 
 Poor Marguerite was now finishing her story: “You see, monsieur, that,
 far from being an heiress, as you suppose, I am homeless and penniless,”
- she said.
+she said.
 
 The General had risen from his chair, and was striding up and down
 the room with every token of intense agitation. “It’s true,” he said
@@ -7185,7 +7125,7 @@ us divide.’”
 
 Mademoiselle Marguerite was amazed. The magistrate’s words seemed to
 dispel the mist which had hitherto hidden the truth from view. “Yes,”
- she exclaimed, “yes, you are right, monsieur.”
+she exclaimed, “yes, you are right, monsieur.”
 
 He was silent for a moment, and then he resumed: “I understand M. de
 Fondege’s motive less clearly; but still I have some clue. He had not
@@ -7262,7 +7202,6 @@ find Pascal for me.”
 
 
 
-XIII.
 
 
 Few people have any idea of the great number of estates which, in
@@ -7467,7 +7406,7 @@ retain a little property--secretly, of course, not for myself, by any
 means, but I have a young wife and----”
 
 M. Fortunat took compassion on the man’s embarrassment. “In short,”
- he interrupted, “you wish to conceal a part of your capital from your
+he interrupted, “you wish to conceal a part of your capital from your
 creditors?”
 
 On hearing this precise and formal statement of his honorable
@@ -7604,7 +7543,7 @@ the other.
 “Eighty-nine francs.”
 
 M. Isidore Fortunat’s grimace was expressive of satisfaction. “Not bad,”
- said he, “not at all bad.”
+said he, “not at all bad.”
 
 Then a singular performance began. M. Fortunat called over the names of
 his debtors, one by one, and the cashier answered each name by reading
@@ -7868,7 +7807,6 @@ him.”
 
 
 
-XIV.
 
 
 M. Casimir, the deceased Count de Chalusse’s valet, was neither better
@@ -7945,7 +7883,6 @@ rich Count de Chalusse’s mistress,” was M. Casimir’s work. He had sworn
 to be avenged on this haughty creature; and no one can say what he
 might have attempted, if it had not been for the intervention of the
 magistrate. Imperatively called to order, M. Casimir consoled himself
-by the thought that the magistrate had intrusted him with eight thousand
 francs and the charge of the establishment. Nothing could have
 pleased him better. First and foremost, it afforded him a magnificent
 opportunity to display his authority and act the master, and it also
@@ -8027,7 +7964,7 @@ vanity and good cheer excited him to such a degree that he discoursed
 with unwonted volubility. With total disregard of prudence, he talked
 with inexcusable freedom of the Count de Chalusse, and M. de Valorsay,
 and especially of his enemy, Mademoiselle Marguerite. “For it is she,”
- he exclaimed, rapping on the table with his knife--“it is she who has
+he exclaimed, rapping on the table with his knife--“it is she who has
 taken the missing millions! How she did it, no one will ever know, for
 she has not an equal in craftiness; but it’s she who has stolen them,
 I’m sure of it! I would have taken my oath to that effect before the
@@ -8078,7 +8015,7 @@ This declaration made M. Fortunat turn pale with delight.
 “Indeed--indeed!” said he; “it must be a strange production.”
 
 His companion pursed up his lips disdainfully. “May be so, may be not,”
- he retorted. “It’s impossible to understand a word of it. The only thing
+he retorted. “It’s impossible to understand a word of it. The only thing
 certain about it is that it was written by a woman.”
 
 “Ah!”
@@ -8157,7 +8094,6 @@ Once more the valet paused in his perusal of the letter to remark:
 from you!--Excellent! Women are remarkable creatures, upon my word! But
 listen to the rest! ‘It is absolutely necessary that I should see you
 as soon as possible. Oblige me, therefore, by calling to-morrow, October
-15th, at the Hotel de Homburg, in the Rue du Helder. You will ask for
 Madame Lucy Huntley, and they will conduct you to me. I shall expect you
 from three o’clock to six. Come. I implore you, come. It is painful to
 me to add that if I do not hear from you, I am resolved to demand and
@@ -8257,7 +8193,6 @@ There’s nothing better for bringing a drunken man to his senses.”
 
 
 
-XV.
 
 
 M. Fortunat left the restaurant, almost on the run, for he feared that
@@ -8291,7 +8226,7 @@ marquis. Still, he was not the man to despond, however desperate his
 plight might appear, without an attempt to better his situation. He
 knew how many surprising and sudden changes in fortune have been brought
 about by some apparently trivial action. “I must discover this sister,”
- he said to himself--“I must ascertain her position and her plans.
+he said to himself--“I must ascertain her position and her plans.
 If she has no one to advise her, I will offer my services; and who
 knows----”
 
@@ -8505,7 +8440,6 @@ execution, he relied entirely on his audacity and sang-froid, convinced
 that they would not fail him when the decisive moment came. “First of
 all, I must see this lady,” he said to himself. “The first words will
 depend solely upon my first impressions. After that, I shall be guided
-by circumstances.”
 
 An old serving-man, in a quiet, tasteful livery, opened the door,
 whereupon M. Fortunat, in a tone of authority, asked: “Madame Lia
@@ -8707,7 +8641,6 @@ say that my brother’s daughter was to marry M. de Valorsay?” she asked.
 “But she--she did not love him--confess that she did not love him.”
 
 M. Fortunat did not know what to reply. The question took him completely
-by surprise; and feeling that his answer would have a very considerable
 influence upon what might follow, he hesitated.
 
 “Will you answer me?” insisted Madame d’Argeles, imperiously. “She loved
@@ -8811,7 +8744,6 @@ mamma does.”
 
 
 
-XVI.
 
 
 It is a terrible task to break suddenly with one’s past, without even
@@ -8994,7 +8926,7 @@ folks, found their chief delight in other people’s misfortunes.
 
 “Crocodile tears,” some had exclaimed. “She is going to meet her son;
 and with what he has stolen they will live like princes in America.”
- Rumor, which enlarges and misrepresents everything, had, indeed,
+Rumor, which enlarges and misrepresents everything, had, indeed,
 absurdly exaggerated the affair at Madame d’Argeles’s house. It was
 reported in the Rue d’Ulm that Pascal had spent every night at the
 gaming table for more than five years; and that, being an incomparable
@@ -9047,7 +8979,6 @@ we shall not remain there long.”
 
 But it seemed as if her son did not share her hopes, for he remained
 silent and dejected; and as his mother observed him closely, she fancied
-by the expression of his eyes, that some new anxiety had been added to
 all his other troubles.
 
 “What is the matter?” she inquired, unable to master her alarm--“what
@@ -9110,7 +9041,7 @@ taken the necessary measures for the execution of his plan to regain his
 lost honor. Madame Ferailleur had scarcely supposed him capable of so
 much courage and firmness, and she rewarded him with a warm pressure of
 the hand. Then, as he was silent: “When did you see Madame Leon, then?”
- she asked.
+she asked.
 
 “When all the household arrangements were completed, mother. On leaving
 the furniture-shop, I found that I had still an hour and a quarter
@@ -9179,7 +9110,7 @@ before I have crushed the villains who have ruined me.”
 Regret, anger, and the consciousness of his present powerlessness drew
 from him tears which fell upon Madame Ferailleur’s heart like molten
 lead; but she succeeded in concealing her agony. “All the more reason,”
- she answered, almost coldly, “why you should not lose a second, but
+she answered, almost coldly, “why you should not lose a second, but
 devote all your energy and intelligence to the work of justification.”
 
 “Oh, I shall have my revenge, never fear. But in the meantime, what is
@@ -9215,7 +9146,6 @@ poor abode I have selected.”
 
 He had taken only the ground floor of this humble dwelling. The story
 above, which had an independent entrance and staircase, was occupied
-by the quiet family of the owner. Although the space was small, the
 architect had made the most of it. He had divided it into four small
 rooms, separated by a corridor; and the kitchen looked out upon a little
 garden about four times as large as an ordinary sheet. The furniture
@@ -9293,7 +9223,6 @@ Madame Leon the hope he had entertained. But, on hearing him, the
 housekeeper recoiled with a gesture of outraged propriety, and
 reproachfully exclaimed: “What are you thinking of, monsieur? What!
 could you suppose that Mademoiselle Marguerite would abandon her place
-by her dead father’s bedside to come to a rendezvous? Ah! you should
 think better of her than that, the dear child!”
 
 He sighed deeply, and in a scarcely audible voice, he asked: “Hasn’t she
@@ -9417,12 +9346,11 @@ shake your head. I love her, and so I trust her.”
 
 
 
-XVII.
 
 
 M. Isidore Fortunat was not the man to go to sleep over a plan when it
 was once formed. Whenever he said to himself, “I’ll do this, or that,”
- he did it as soon as possible--that very evening, rather than the next
+he did it as soon as possible--that very evening, rather than the next
 day. Having sworn that he would find out Madame d’Argeles’s son, the
 heir to the Count de Chalusse’s millions, it did not take him long
 to decide which of his agents he would select to assist him in this
@@ -9574,7 +9502,6 @@ of it.
 
 “Come, come!” said M. Fortunat, “don’t worry too much about it. A
 father’s a father after all, and yours will undoubtedly reform by and
-by.”
 
 He said this as he would have said anything else, out of politeness and
 for the sake of testifying a friendly interest; but he really cared no
@@ -9691,7 +9618,7 @@ Chupin might let his tongue wag if he left his employment. So, since he
 had confided this project to Chupin, he was determined that Chupin alone
 should carry it into execution. Assuming his most severe and injured
 manner, he sternly exclaimed: “I think you have lost your senses.”
- His demeanor and intonation were so perfectly cool that Chupin seemed
+His demeanor and intonation were so perfectly cool that Chupin seemed
 slightly abashed. “It seems that you think me capable of urging you to
 commit some dangerous and dishonorable act,” continued M. Fortunat.
 
@@ -9720,7 +9647,7 @@ patron brought forward; and what most effectually allayed his suspicions
 was the small compensation offered for the work--merely forty or fifty
 francs. “Small potatoes, upon my word!” he thought. “Just the price of
 an honest service; he would have offered more for a piece of rascality.”
- So, after considering a moment, he said, aloud: “Very well; I’m your
+So, after considering a moment, he said, aloud: “Very well; I’m your
 man, m’sieur.”
 
 M. Fortunat was secretly laughing at the success of his ruse. Having
@@ -9858,7 +9785,6 @@ victoria, in which a woman was seated, rolled forth into the street.
 
 
 
-XVIII.
 
 
 The woman in the carriage was none other than Madame Lia d’Argeles.
@@ -9905,7 +9831,7 @@ that this plan was impracticable, for on running down the Avenue de
 l’Imperatrice after the rapidly driven carriage, he could not fail to
 attract attention. Stifling a sigh of regret, and seeing a cab at a
 stand near by, he hastily hailed it. “Where do you want to go, sir?”
- inquired the driver.
+inquired the driver.
 
 “Just follow that blue victoria, in which a handsome lady is seated, my
 good fellow.”
@@ -10300,7 +10226,6 @@ others over-ruled his objections, and dragged him away with them.
 
 
 
-XIX.
 
 
 “Ah! this is a bad job!” growled Chupin. “Go, go, and never stop!”
@@ -10563,7 +10488,7 @@ only let me find the bank-note which this gentleman threw at me.”
 “That’s quite proper,” replied M. Wilkie, approvingly; “look for it.”
 
 Chupin did so, and at last found it lying almost under the piano. “Now,”
- he remarked, “I should like a cigar.”
+he remarked, “I should like a cigar.”
 
 A score or so were lying in a dish. He gravely selected one of them
 and coolly cut off the end of it before placing it in his mouth.
@@ -10876,7 +10801,7 @@ The only pictures on the wall were a few portraits of celebrated horses,
 which foreshadowed the fact that M. Wilkie must have, at least, an
 eighth share in some well-known racer. After this inspection, M.
 Fortunat smiled complacently. “This young fellow has expensive tastes,”
- he thought. “It will be very easy to manage him.”
+he thought. “It will be very easy to manage him.”
 
 However his reflections were interrupted by the return of the servant,
 who exclaimed: “My master is in the dining-room, and if monsieur will
@@ -11003,12 +10928,10 @@ the late Count de Chalusse. I must speak to you. Will you grant me an
 interview on Wednesday next, at a quarter-past three o’clock? Yours
 respectfully,
 
-                                    “MARGUERITE.”
 
 
 
 
-XX.
 
 
 When Mademoiselle Marguerite left the dead count’s bedside at ten
@@ -11072,7 +10995,6 @@ the plank which is his only hope of life.
 
 When she returned to the mansion her mind was made up, and she had
 regained her usual composure. For ten minutes or so she had been praying
-by the count’s bedside, when M. Bourigeau, the concierge, appeared and
 handed her a letter which had just been brought to the house. It was
 addressed to “Mademoiselle Marguerite de Durtal de Chalusse, at the
 Hotel de Chalusse, Rue de Courcelles.”
@@ -11085,7 +11007,7 @@ dear child.” “Dear child!” indeed. What could this mean? Was there any
 one in the world sufficiently interested in her welfare, or loving her
 enough, to address her in this style? She quickly turned the sheet to
 see the signature; and when her eyes fell on it she turned pale. “Ah!”
- she exclaimed, involuntarily, “ah! ah!”
+she exclaimed, involuntarily, “ah! ah!”
 
 The letter was signed: “Athenais de Fondege.” It had been written by
 the General’s wife. She resumed her perusal of it, and this is what she
@@ -11110,7 +11032,6 @@ the place of the beloved and lamented daughter I have lost--my beautiful
 and gentle Bathilde. Once more I say farewell until to-morrow--trusting
 that you will accept the sympathy and affection of your best friend,
 
-                             “ATHENAIS DE FONDEGE.”
 
 
 Mademoiselle Marguerite was thunderstruck, for the writer of this
@@ -11221,7 +11142,7 @@ her to play the spy. Still, she listened, waiting to hear Madame Leon
 re-enter the house. But more than a quarter of an hour elapsed, and yet
 the door did not open or close again. Either Madame Leon had not left
 the house at all, or else she was still outside. “This is very strange!”
- thought Mademoiselle Marguerite. “Was I mistaken? I must convince
+thought Mademoiselle Marguerite. “Was I mistaken? I must convince
 myself.” And, obeying a mysterious influence, stronger than her own
 will, she left the room and went down the stairs. She had reached the
 hall, when the garden door suddenly opened, and Madame Leon came in. The
@@ -11289,7 +11210,7 @@ concocted. “Ah, my dear Leon, you are altogether too timid; it’s
 absurd,” she said, kindly.
 
 The housekeeper hung her head. “I know that I make myself ridiculous,”
- she said, humbly. “But how can I help it? When a person’s frightened,
+she said, humbly. “But how can I help it? When a person’s frightened,
 she can’t reason. And that white object which I saw, as plainly as I
 see you, what could it have been?” And, convinced that her fable was
 believed, she grew bolder, and ventured to add: “Oh, my dear young lady,
@@ -11299,7 +11220,7 @@ servants out to look. There are so many thieves and rascals in Paris!”
 Under any other circumstances Mademoiselle Marguerite would have refused
 to listen to this ridiculous request; but, determined to repay the
 hypocrite in her own coin, she replied. “Very well; it shall be done.”
- And calling M. Casimir and Bourigeau, the concierge, she ordered them to
+And calling M. Casimir and Bourigeau, the concierge, she ordered them to
 take a lantern and explore the garden carefully.
 
 They obeyed, though with rather bad grace, not being particularly
@@ -11342,7 +11263,6 @@ Marguerite. “Fool that I was!”
 Already thoroughly convinced, she extinguished her candle. Still, having
 discovered so much, she wished to pursue her investigation to the end,
 and so she opened the little gate. The ground outside had been soaked
-by the recent rains, and had not yet dried, and by the light of
 the neighboring street-lamp, she plainly distinguished a number of
 well-defined footprints on the muddy soil. An experienced observer would
 have realized by the disposition of these footprints that something like
@@ -11362,7 +11282,7 @@ need not have been ashamed of entered her mind. She said to herself
 that as Madame Leon was unmasked she was no longer to be feared; so
 why should she be sent away? “A known spy can undoubtedly be made a most
 valuable auxiliary. Why shouldn’t I make use of this wicked woman?”
- thought Mademoiselle Marguerite. “I can conceal from her what I don’t
+thought Mademoiselle Marguerite. “I can conceal from her what I don’t
 wish her to know, and with a little skill I can make her carry to her
 employers such information as will serve my plans. By watching her, I
 shall soon discover my enemy; and who knows if, by this means, I may not
@@ -11386,7 +11306,6 @@ field clear.
 
 All these thoughts were well calculated to drive away sleep; but the
 poor girl was only twenty, and it was the second night she had watched
-by the count’s bedside. Thus at last fatigue overcame her, and she fell
 asleep.
 
 In the morning, about seven o’clock, Madame Leon was obliged to shake
@@ -11476,7 +11395,6 @@ it, in spite of her illness, she followed me--in fact, she is here!”
 
 
 
-XXI.
 
 
 Mademoiselle Marguerite sprang to her feet, quivering with indignation.
@@ -11756,7 +11674,7 @@ my child,” he said, at last. “Yes, it is my conviction that the Fondeges
 possess the millions you saw in the count’s escritoire, and which we
 have been unable to find. How they obtained possession of the money I
 can’t conceive--but they have it, or else logic is no longer logic.”
- He paused again for a moment, and then he resumed, more slowly: “In
+He paused again for a moment, and then he resumed, more slowly: “In
 acquainting you with my opinion on this subject, I have given you, a
 young girl, almost a child, a proof of esteem and confidence which,
 it seems to me, few men are worthy of; for I may be deceived, and a
@@ -11797,7 +11715,6 @@ place I shall keep Madame Leon with me, in whatever capacity she likes,
 it doesn’t matter what. Through her I shall no doubt be able to watch
 the Marquis de Valorsay, and perhaps eventually discover his hopes and
 his aim. In the second place, I shall accept the hospitality offered me
-by the General and his wife. With them, I shall be in the very centre of
 the intrigue, and in a position to collect proofs of their infamy.”
 
 The magistrate gave vent to an exclamation of delight. “You are a brave
@@ -11825,7 +11742,7 @@ in support of his assertion, he quoted Article 367 of the Civil Code,
 which says: “In the event of the officially appointed guardian dying
 without adopting, his ward, the said ward shall be furnished during her
 minority with the means of subsistence from the said guardian’s estate,”
- etc., etc.
+etc., etc.
 
 “An additional reason why I should give up my jewels,” said Mademoiselle
 Marguerite.
@@ -11896,32 +11813,3 @@ freed from her presence, and then, before entering the carriage, she
 cast a long, sad look upon this princely mansion which she had once had
 the right to believe her own, but which she was, alas! now leaving, in
 all probability, for ever.
-
-
-
-The conclusion of this narrative will be found in the volume called
-“Baron Trigault’s Vengeance.”
-
-
-
-
-
-
-[Footnote 1: French gamblers use this expression which they explain by the fact
-that Charlemagne departed this life with all his possessions intact,
-having always added to his dominions without ever experiencing a
-loss. Historically this is no doubt incorrect, but none the less, the
-expression prevails in France.--TRANS.]
-
-[Footnote 2: See “Lecoq the Detective” by Emile Gaboriau]
-
-[Footnote 3: The body of hired applauders who are employed at most Parisian
-theatres to stimulate the enthusiasm of the audience.--Trans.]
-
-
-
-
-
-
-
-
