@@ -1,60 +1,3 @@
-generously made available by the Internet Archive
-
-
-
-
-
-THE MUMMY!
-
-A TALE OF THE TWENTY-SECOND CENTURY.
-
-
-By Jane Webb (Mrs. Loudon).
-
-
-"Why hast thou disquieted me, to bring me up?"
-                           I SAM., xxviii. 15.
-
-
-LONDON: HENRY COLBURN, NEW BURLINGTON STREET.
-
-1827.
-
-
-
-
-TABLE OF CONTENTS.
-
-
-    INTRODUCTION.
-
-    CHAPTER I.       CHAPTER XVII.
-    CHAPTER II.      CHAPTER XVIII.
-    CHAPTER III.     CHAPTER XIX.
-    CHAPTER IV.      CHAPTER XX.
-    CHAPTER V.       CHAPTER XXI.
-    CHAPTER VI.      CHAPTER XXII.
-    CHAPTER VII.     CHAPTER XXIII.
-    CHAPTER VIII.    CHAPTER XXIV.
-    CHAPTER IX.      CHAPTER XXV.
-    CHAPTER X.       CHAPTER XXVI.
-    CHAPTER XI.      CHAPTER XXVII.
-    CHAPTER XII.     CHAPTER XXVIII.
-    CHAPTER XIII.    CHAPTER XXIX.
-    CHAPTER XIV.     CHAPTER XXX.
-    CHAPTER XV.      CHAPTER XXXI.
-    CHAPTER XVI.     CHAPTER XXXII.
-
-
-[Transcriber's note: _The Mummy!_ was originally published in three
-volumes.  The chapters have been renumbered in this edition, and the
-volume breaks indicated (ends of chapters XI and XXIV).]
-
-
-
-
-INTRODUCTION.
-
 
 I have long wished to write a novel, but I could not determine what it
 was to be about. I could not bear any thing common-place, and I did
@@ -157,7 +100,6 @@ which I shall now endeavour to pass before the eyes of the reader.
 
 
 
-CHAPTER I.
 
 
 In the year 2126, England enjoyed peace and tranquillity under the
@@ -189,7 +131,6 @@ Thus it was with the people of England:--Not satisfied with being
 rich and prosperous, they longed for something more. Abundance of
 wealth caused wild schemes and gigantic speculations; and though
 many failed, yet, as some succeeded, the enormity of the sums gained
-by the projectors, incited others to pursue the same career. New
 countries were discovered and civilized; the whole earth was brought
 to the highest pitch of cultivation; every corner of it was explored;
 mountains were levelled, mines were excavated, and the globe racked to
@@ -285,7 +226,6 @@ at his refusal; and they reurged their suit with every argument the
 distress of their situation could inspire. They painted in glowing
 colours the horrors of the anarchy that prevailed, the misery of the
 kingdom and despair of the people; and at last wound up their arguments
-by a solemn appeal to Heaven, that if he persisted in his refusal, the
 future wretchedness of the people might fall upon his head. The prince,
 however, continued inexorable; and the deputies were preparing to
 withdraw, when the prince's daughter, who had been present during the
@@ -312,7 +252,6 @@ to the happiness of her people. The face of the kingdom rapidly
 changed--security produced improvement--and the self-banished nobles
 of the former dynasty crowding round the new Queen, she chose from
 amongst them the wisest and most experienced for her counsellors, and
-by their help compounded an excellent code of laws. This book was open
 to the whole kingdom; and cases being decided by principle instead of
 precedent, litigation was almost unknown: for as the laws were fully
 and clearly explained, so as to be understood by every body, few dared
@@ -415,7 +354,6 @@ the youthful hero quitted England to take possession of his post.
 
 
 
-CHAPTER II.
 
 
 High and distinguished as was the favour shown to Edmund Montagu, it
@@ -433,7 +371,6 @@ persecutions he endured upon the subject, only wedded him more firmly
 to his own peculiar opinions; which, indeed, he seemed determined
 to sustain with the constancy of a martyr; whilst he put on such a
 countenance of resolution and magnanimity whenever they were assailed
-by jests or raillery, as might have been imagined suitable to an
 expiring Indian at the stake. Unfortunately, however, his friends did
 not always properly estimate this dignified silence; and their repeated
 bursts of laughter grated so harshly in the ears of the youthful
@@ -491,7 +428,6 @@ arm-chair, leaning one elbow upon the table before him. His features
 had been very handsome, and his complexion still retained that look of
 health and cleanness, which, in a green old age, is the sure indication
 of a well-spent life. His countenance, though intelligent, was unmarked
-by the traces of any stormy passions; the cares and troubles of life
 seemed to have passed gently over him, and content had smoothed the
 wrinkles age might have made upon his brow; whilst the tall thin
 figure of Mr. Davis, as he stood reverentially bending forward, his
@@ -860,7 +796,6 @@ his custom, to join the party assembled on the terrace.
 
 
 
-CHAPTER III.
 
 
 When Edric and Dr. Entwerfen reached Sir Ambrose, they found Father
@@ -928,7 +863,6 @@ were preparing to retire, when suddenly a vivid light flashed upon
 them from the hill, and instantly a long line of torches seemed to
 stream along the horizon. "He is coming home, but will write more
 to-morrow," exclaimed the whole party simultaneously; for all knew well
-by experience, the meaning of that signal. "He is coming home, thank
 God!" repeated Sir Ambrose, his pallid lips quivering, and every limb
 trembling with agitation.
 
@@ -998,7 +932,6 @@ interfere with it.
 
 Those, however, who were acquainted with the characters of the young
 people, thought the duke had quite reversed the natural order of things
-by this arrangement; and that the strong mind and haughty spirit of
 Rosabella would have suited better with the ambitious Edmund; whilst
 the soft yielding disposition and feminine graces of Elvira seemed
 to harmonize exactly with the taste of the philosophic Edric. No
@@ -1140,7 +1073,6 @@ part, I think the pedestrian manner infinitely more agreeable."
 footman, to whom this observation was addressed:--"But I think I
 observe symptoms of lassitude about you, Mr. Abelard. Will you not
 adjourn to the apartment of Mrs. Russel, our housekeeper, to repair
-by some alimentary refreshment, the excessive exhaustion you have
 sustained in the course of your morning's exertions?"
 
 "Willingly, Mr. Augustus.--I own candidly, I feel the want of a little
@@ -1219,7 +1151,6 @@ cup-bearer.
 
 
 
-CHAPTER IV.
 
 
 When the balloon of the duke approached the habitation of Sir Ambrose,
@@ -1714,7 +1645,6 @@ was soon lost in a reverie.
 
 
 
-CHAPTER V.
 
 
 In the mean time, different emotions were agitating violently the
@@ -2037,8 +1967,8 @@ Edric.
 have beat like a pendulum in perpetual motion at such a proposition. Go
 to her, man! and try your fortune.--
 
-    'She is a woman, therefore to be wooed;
-    She is a woman, therefore to be won;'
+'She is a woman, therefore to be wooed;
+She is a woman, therefore to be won;'
 
 or rather what, perhaps, will be better, I will send for her here, and
 tell her my will. Egad! I have a mind to surprise Edmund, and let you
@@ -2173,7 +2103,6 @@ proper to make use of."
 
 "Schooled too! by St. Wellington!" exclaimed the duke. "Upon my word,
 these are fine times, when a man of my age and rank is to be lectured
-by a beardless stripling!"
 
 "I did not mean to offend your grace," said Edric; "and I am sorry the
 violence of my feelings compelled me to use language unbefitting my
@@ -2236,7 +2165,6 @@ remained silent till the old men had gradually disappeared.
 
 
 
-CHAPTER VI.
 
 
 When Sir Ambrose and the duke thus withdrew, Edric and Rosabella were
@@ -2440,10 +2368,8 @@ the scientific one of galvanism."
 The feelings of Edric were too highly wrought to bear this irony; and,
 snatching up his hat, he rushed out of the room, casting a look of
 indignation at the priest, who vainly endeavoured to stop him. Maddened
-by the conflicting emotions that struggled in his bosom, and disgusted
 alike with himself, Father Morris, and all the world, Edric hurried on,
 totally unaware which way he was going, till his career was stopped
-by his coming suddenly and violently in contact with another person,
 who was running equally heedlessly with himself, but in an opposite
 direction. Both recoiled some paces from the shock, and Edric found, to
 his surprise, it was Abelard whom he had greeted so unceremoniously.
@@ -2535,7 +2461,6 @@ learn the real value of any blessing till we have experienced the
 misery that attends its privation."
 
 "If this be the case," replied Edric, soothed in spite of himself,
-by the insinuating manner of the monk, "why should my feelings be an
 exception to the general rule? And since all our pleasures acquire a
 new zest by the force of contrast, and mine have long since lost all
 relish, is it not even wisdom to try the effect of change?"
@@ -2765,7 +2690,6 @@ the Roman lady said of her children. Look what beautiful specimens
 these are! A little torn here and there, and with a few of the lines
 illegible--but genuine antiques. I'll warrant every one of them above
 three hundred years old. Look, it is real linen paper; you may tell it
-by the texture; and then the spelling, see what a number of letters
 they put into their words that were of no use. Look at the titles
 of them. Here is the 'Tragical end of poor Miss Bailey'--and here
 'Cherry Ripe'--and 'I've been roaming.' Here is 'The loves of Captain
@@ -2777,11 +2701,11 @@ copy extant. The date is wanting, but the manners it describes are so
 unpolished, that I should almost think it might be traced back to the
 times of the aboriginal Britons.--Thus it begins:--
 
-    'At Wednesbury there was a cocking,
-      A match between Newton and Scroggins;
-    The nailers and colliers left work,
-      And to Spittle's they all went jogging.
-             Tol de rol lol.'
+'At Wednesbury there was a cocking,
+A match between Newton and Scroggins;
+The nailers and colliers left work,
+And to Spittle's they all went jogging.
+Tol de rol lol.'
 
 I used to be very much puzzled at this burthen, which is one of
 frequent recurrence in ancient songs. At first, I thought it a relic
@@ -2797,21 +2721,21 @@ omit a few stanzas, in which the author enumerates his heroes exactly
 in the Homeric manner. The names are so barbarous, that I am afraid of
 loosening my teeth in pronouncing them:--
 
-    'There was plenty of beef at the dinner,
-      Of a bull that was baited to death;
-    Bunny Hyde got a lump in his throat,
-      Which had like to have stopt his breath.'
+'There was plenty of beef at the dinner,
+Of a bull that was baited to death;
+Bunny Hyde got a lump in his throat,
+Which had like to have stopt his breath.'
 
 What a beautiful simplicity there is in that last line,
 
-    'Which had like to have stopt his breath.'
+'Which had like to have stopt his breath.'
 
 Oh, we moderns have nothing equal to it!--
 
-    'The company fell in confusion,
-      To see this poor Bunny Hyde choke,
-    So they hurried him down to the kitchen,
-      And held his head over the smoke.'
+'The company fell in confusion,
+To see this poor Bunny Hyde choke,
+So they hurried him down to the kitchen,
+And held his head over the smoke.'
 
 "This develops a curious practice of antiquity. You know, Edric, I
 explained to you just now the manner in which combustion was formerly
@@ -2825,28 +2749,28 @@ of the manner of the ancients, but is of itself a strong proof of the
 authenticity of the ballad; for such an idea never could have entered
 the head of a modern. To return to poor Hyde--
 
-    'One gave him a kick o' th' stomach,
-      And another a thump o' th' brow,
-    His wife cried throw him i' th' stable,
-      And he will be better just now.'
+'One gave him a kick o' th' stomach,
+And another a thump o' th' brow,
+His wife cried throw him i' th' stable,
+And he will be better just now.'
 
 This unfeeling conduct of his wife does not say much in commendation
 of the ladies of those times. Here follows an hiatus of several
 stanzas: I find, however, by a word or two here and there, that they
 celebrated the exploits of two gallic heroes:--
 
-      'The best i' th' country bred;
-    The one was a brassy-wing black,
-      And the other a dusky-wing'd red.'
+'The best i' th' country bred;
+The one was a brassy-wing black,
+And the other a dusky-wing'd red.'
 
 These unfortunate victims of the cruelty of man seem both to have
 perished. There is a stanza, however, before this catastrophe, which
 seems to relate to the combat.
 
-    'The conflict was hard upon each,
-      Till glossy-wing'd blacky was choked,
-    The colliers were nationally vex'd,
-      And the nailers were all provoked.'
+'The conflict was hard upon each,
+Till glossy-wing'd blacky was choked,
+The colliers were nationally vex'd,
+And the nailers were all provoked.'
 
 This passage seems very obscure: 'Nationally' is evidently a sign of
 comparison, but I cannot say I ever saw it employed before. It is,
@@ -2859,30 +2783,30 @@ the other, whence the name cock-pit. The combatants were armed with
 large iron spurs, and the victor generally left his rival dead upon the
 field. The ballad proceeds:--
 
-    'The cock-pit was near to the church,
-      As an ornament to the town;
-    One side was an old coal-pit,
-      And the other was well gorsed round.'
+'The cock-pit was near to the church,
+As an ornament to the town;
+One side was an old coal-pit,
+And the other was well gorsed round.'
 
 Gorse was a kind of heath or furze.
 
-    'Peter Hadley peep'd through the gorse,
-      In order to see the cocks fight;
-    Spittle jobb'd his eye out with a fork,
-      And said, "Blast you, it sarves you right."'
+'Peter Hadley peep'd through the gorse,
+In order to see the cocks fight;
+Spittle jobb'd his eye out with a fork,
+And said, "Blast you, it sarves you right."'
 
 This is very spirited and expressive, though the false quantities
 render it difficult to read.
 
-    'Some folks may think this is strange,
-      Who Wednesbury never knew,
-    But those who have ever been there,
-      Won't have the least doubt but it's true.
+'Some folks may think this is strange,
+Who Wednesbury never knew,
+But those who have ever been there,
+Won't have the least doubt but it's true.
 
-    For they are all savage by nature,
-      And guilty of deeds that are shocking,
-    Jack Baker he whack'd his own feyther,
-      And so ended the Wednesbury cocking.'"
+For they are all savage by nature,
+And guilty of deeds that are shocking,
+Jack Baker he whack'd his own feyther,
+And so ended the Wednesbury cocking.'"
 
 "It is very fine certainly," said Edric, who was half asleep.
 
@@ -2909,7 +2833,6 @@ eloquence were thrown away upon me."
 I have some of matchless excellence. Here is a letter addressed to
 Sheridan, a witty writer of comedies, in the eighteenth century, which
 has never been opened,--and here is a tailor's bill of the immortal
-Byron, which may possibly never have been looked at. But here is the
 most inestimable of my relics. Look, at least, at this. This piece
 of paper, covered carelessly with irregular strokes and lines, was
 once in the possession of that enchanting, that inimitable novelist
@@ -2940,7 +2863,6 @@ dudgeon.
 
 
 
-CHAPTER VII.
 
 
 The morning after the events just recorded, as Mr. Montagu, the brother
@@ -3002,7 +2924,6 @@ the breast of Mrs. Montagu for some minutes; but at last the former
 prevailed, and with a nod she permitted Clara to read. She immediately
 began as follows:--
 
-"MY DEAR BROTHER."
 
 "Humph," observed Mrs. Montagu, "his last letter began--_Sir_. He's
 getting wonderfully civil, I think."
@@ -3045,7 +2966,6 @@ with your and Mrs. Montagu's permission, to take the opportunity of
 visiting you. I remain, with kind remembrances to Mrs. Montagu and my
 niece, to whom I long to be introduced, your affectionate brother,
 
-"AMBROSE MONTAGU."
 
 "Very well," said Mr. Montagu, "I shall be very glad to see him;
 I always loved my brother, and I was quite sorry when we were not
@@ -3291,7 +3211,6 @@ strangers. Nothing makes one so much disposed to be in a good humour
 with the world, as being in a good humour with oneself; and nothing
 is so certain to produce that delightful sensation, as to see what we
 possess excite the admiration of others. Thus, as the flattery conveyed
-by looks far outweighs that expressed by words, and as the looks of
 Edric and the doctor unequivocally declared their sentiments, Lord
 Gustavus was quite enchanted with his visitors, and spared no pains to
 render them equally happy as himself. He ordered a large apartment to
@@ -3333,7 +3252,6 @@ rich brogue, which, aided by his comely figure, round rosy face, and
 little laughing black eyes, gave a peculiar raciness to every thing he
 said. He had not long filled the office he then held, and though he
 had been recommended to it, on the death of the duke's late confessor,
-by Father Morris, yet no two human beings could be more different than
 he and that reverend personage. Father Murphy, indeed, was a general
 favourite, and the whole household of the duke concurred in thinking
 him quite a nonpareil of a priest; for, as he was not very fond of
@@ -3409,7 +3327,6 @@ separated.
 
 
 
-CHAPTER VIII.
 
 
 The journey of the duke and Sir Ambrose to London had nothing in it to
@@ -3451,7 +3368,6 @@ opinion freely of their hostess. Sir Ambrose felt no interest in his
 remarks, but he did not check them, as he hoped, after he had exhausted
 this theme, he might turn the conversation upon Edric. The baronet was
 indeed excessively anxious to hear some news of his son, though he was
-by far too proud to make any inquiries respecting him.
 
 "So you really think Mrs. Montagu disagreeable, Abelard," said Sir
 Ambrose.
@@ -3500,20 +3416,19 @@ that for a token of assent, deliberately unfolded the paper, and read
 as follows:--
 
 
-    "ON LOVE.
 
-    "Of all the powers in Heaven above,
-    Above all others, triumphs Love:
-    Love rules the soul--the heart invades,
-    Invades the cities and the shades.
-    Shades form no shelter from its power,
-    Power trembles in his courtly bower.
-    Bower of beauty--art thou free?
-    Free thou art not--nor canst thou be!
-    Be every other class released,
-    Released from love, thy woe's increased;
-    Increased by all the weight of care,
-    Care flowing from complete despair."
+"Of all the powers in Heaven above,
+Above all others, triumphs Love:
+Love rules the soul--the heart invades,
+Invades the cities and the shades.
+Shades form no shelter from its power,
+Power trembles in his courtly bower.
+Bower of beauty--art thou free?
+Free thou art not--nor canst thou be!
+Be every other class released,
+Released from love, thy woe's increased;
+Increased by all the weight of care,
+Care flowing from complete despair."
 
 
 "Humph!" said Sir Ambrose.
@@ -3634,11 +3549,11 @@ sign of pleasure that could be given. In the works of an ancient
 author, whose poetry was doubtless once esteemed very fine, since it is
 now quite unintelligible, we find the following passage:--
 
-    'And Hodge stood lost in wide-mouth'd speculation.'
+'And Hodge stood lost in wide-mouth'd speculation.'
 
 Again,
 
-    'His eyes and mouth the hero open'd wide.'
+'His eyes and mouth the hero open'd wide.'
 
 --And divers others, which----"
 
@@ -3888,7 +3803,6 @@ their balloon, sailed for Egypt.
 
 
 
-CHAPTER IX.
 
 
 No event of any importance occurred to our travellers in the course
@@ -3948,7 +3862,6 @@ and discovery, nothing certain should be known concerning them."
 
 "It is," returned the doctor; "but the thick mysterious veil that has
 rested upon them for so many ages, seems not intended to be removed
-by mortal hands. They remind one of the sublime inscription upon the
 temple of the goddess Isis, at Sais:--'I am whatever was, whatever is,
 and whatever shall be; but no mortal has, as yet, presumed to raise the
 veil that covers me.'"
@@ -4106,7 +4019,6 @@ and demanded what his honour pleased to want.
 "You must show these gentlemen the Pyramids," said the Justice.
 
 "Ay, that I will with pleasure!" returned Samuel; "I've got my living
-by showing them these fifty years, man and boy; and I know every crink
 and cranny of them, though I'm old now and somewhat lame. So walk this
 way, gentlemen."
 
@@ -4163,7 +4075,6 @@ into the awful secrets of my Creator? Why should I wish to restore
 animation to a body now resting in the quiet of the tomb? What right
 have I to renew the struggles, the pains, the cares, and the anxieties
 of mortal life? How can I tell the fearful effects that may be produced
-by the gratification of my unearthly longing? May I not revive a
 creature whose wickedness may involve mankind in misery? And what if my
 experiment should fail, and if the moment when I expect my rash wishes
 to be accomplished, the hand of Almighty vengeance should strike me to
@@ -4320,7 +4231,6 @@ thus feebly emitted, showed that the room in which they stood, was
 dedicated to Typhon, the evil spirit, as his fierce and savage types
 covered the walls; and images of his symbols, the crocodile and the
 dragon, placed beneath the shadow of the brazen gates, and dimly seen
-by the imperfect light, seemed starting into life, and grimly to forbid
 the farther advance of the intruders. Our travellers shuddered, and
 opening with trembling hand the ponderous gates, they entered _the tomb
 of Cheops_.
@@ -4554,7 +4464,6 @@ that which I find is any thing in the world but pleasing in reality."
 
 
 
-CHAPTER X.
 
 
 We left Dr. Entwerfen in the last chapter uttering a very moral, if
@@ -4845,7 +4754,6 @@ the sensorium had been destroyed, or even seriously injured. What
 then can be more simple than to suppose life resides there? Pursuing
 this idea, I have long been convinced that where the nervous system
 remained uninjured, and the appearance of death was only occasioned
-by a suspension of the operation of the animal functions, that life
 might be restored, if, by the intervention of any powerful agency,
 the nervous system could be excited to re-action; and as this, of
 course, could not be effected where any kind of decomposition had taken
@@ -5095,7 +5003,6 @@ air, like an arrow darting from a bow.
 
 
 
-CHAPTER XI.
 
 
 In the mean time, Sir Ambrose Montagu had been presented to the Queen,
@@ -5105,7 +5012,6 @@ The walls of the room in which the Queen received her guest, were
 literally one blaze of precious stones, and these being disposed in
 the form of bouquets, wreaths, and trophies, were so contrived as to
 quiver with every movement. These magnificent walls were relieved
-by a colonnade of pillars of solid gold, around which, were twined
 wreaths of jewels fixed also upon elastic gold wires, so as to tremble
 every instant. The throne of the Queen was formed of gold filigree
 beautifully wrought, richly chased and superbly ornamented, whilst
@@ -5405,7 +5311,6 @@ upon the ear, for these preceded the duke and Sir Ambrose; who, the one
 as uncle to the Queen, and the other as father of the expected hero,
 occupied the post of honour. The two venerable old men sate hand in
 hand in a sumptuous car drawn by two Arabian horses, and were followed
-by a large body of the Queen's guards.
 
 The costliness and variety of the dresses worn this day, were quite
 beyond description. Many of the ladies had turbans of woven glass;
@@ -5419,7 +5324,6 @@ to be the largest and finest in the world, where the meeting between
 the Queen and her general was appointed to take place. Amongst the
 numerous balloons that floated in the air, enjoying this magnificent
 spectacle, was one containing Father Murphy, who had been prevented,
-by a sprained ankle, from joining in the procession, and the family
 of Mr. Montagu--and nothing could be more enthusiastic than their
 delight, as they looked down upon the splendid scene below them. Few
 things, indeed, could be imagined finer than the sight of this gorgeous
@@ -5763,12 +5667,10 @@ it as it fell--his ghastly eyes glaring with unnatural lustre upon the
 terrified courtiers, who ran screaming in agony in all directions,
 forgetting every thing but the horrid vision before them.
 
-END OF VOL. I.
 
 
 
 
-CHAPTER XII.
 
 
 The tumult had now nearly subsided. The late busy crowd had flown,
@@ -6049,7 +5951,6 @@ Screaming, and scarcely knowing where they went, the terrified servants
 tumbled over each other in the hastiness of their retreat, huddling
 themselves together in a heap, yet keeping their eyes fixed upon the
 door from which they expected the spectre to appear, as though charmed
-by the fascination of a rattle-snake.
 
 A loud crash now produced a fresh scream; then all was still. After a
 long pause, which seemed of endless duration, Father Morris, evidently
@@ -6114,12 +6015,10 @@ and thickest allies, carefully shrouding itself from observation,
 and endeavouring, by availing itself of the shelter of the trees,
 the better to conceal its movements. It has been already stated that
 the garden of Mr. Montagu was only separated from that of the duke
-by a terrace very little used; the door, indeed, leading to it from
 Mr. Montagu's premises, had been so long closed up, as to be nearly
 forgotten, and yet it was towards this unfrequented spot that the
 mysterious figure directed its course. The long neglected door slowly
 opened, and the stream of light it admitted, was obscured for a moment
-by a passing shade; and then all seemed dark, silent, and mysterious as
 before.
 
 "It certainly went that way," said a voice, the preciseness of which
@@ -6177,7 +6076,6 @@ the grove.
 
 
 
-CHAPTER XIII.
 
 
 Father Morris, when Abelard and Evelina confessed to him the following
@@ -6551,7 +6449,6 @@ vipers."
 
 Sir Ambrose smiled inwardly at the mistaken confidence of his friend
 in his own judgment. Thinking it useless, however, to irritate him
-by farther opposition, he endeavoured to turn the conversation upon
 another subject. "It is strange," said he, "how frequently I have been
 thinking of that Mummy. If there be no deception in the business, it is
 a perfect miracle!"
@@ -6854,7 +6751,6 @@ dreaded Mummy!
 
 
 
-CHAPTER XIV.
 
 
 When the reverend father took refuge in his chamber after this fearful
@@ -7088,7 +6984,6 @@ souls no longer seem emanations from the divinity, though perhaps the
 immortal spark becomes degraded and abased from its long continuance in
 clay, and is sunk for ever from its pristine greatness! Stay, then!"
 continued he; "why should you fly me? I mean you no harm, and I swear
-by the sacred tomb of Osiris in Philæ, that I will not hurt you. Drive
 me not then from amongst you, and I may aid your projects: at least, it
 is your duty to receive me as the destined instrument of Fate, since
 Osiris decrees that my soul shall quit its transmigrations in the form
@@ -7173,7 +7068,6 @@ produced fever; and for some days Rosabella was in considerable danger.
 
 The secret exertions of Father Morris, however, in her behalf,
 prevented Rosabella's cause from being injured by her illness; and,
-by the time she was able to leave her bed, Lord Gustavus de Montfort,
 Lord Maysworth, and Dr. Hardman, with the Lords Noodle and Doodle, had
 declared themselves her adherents, bringing with them all the numerous
 host who, finding it too much trouble to judge for themselves, are
@@ -7284,7 +7178,6 @@ intrigues; she thought only of the feeble, miserable, old man before
 her; and, attempting to throw her arms round his neck, she sought to
 mingle her tears with his, and, clinging to his feet, implored his
 forgiveness. The duke, however, could not read her heart, and, blinded
-by his passion, saw in this action only an aggravated insult: violently
 he spurned her from him, commanding her to leave his house immediately,
 and, by so doing, extinguished for ever every gentler feeling in his
 niece's breast.
@@ -7322,7 +7215,6 @@ before she had recovered the full use of her faculties.
 
 
 
-CHAPTER XV.
 
 
 The morning appointed for the election of the council of state was
@@ -7697,7 +7589,6 @@ upon his breast, and obtain his forgiveness."
 
 "I believe you think so _now_," said Cheops maliciously; "but when
 Rosabella shall be Queen, and wealth and dignities shall be dispensed
-by Father Morris; when nobles shall bend humbly before him, and,
 hanging upon his smile, beg favours from his hand, then--"
 
 "Curses on thee, fiend!" cried Father Morris, rushing from the grove,
@@ -7723,7 +7614,6 @@ brow.
 
 
 
-CHAPTER XVI.
 
 
 "I am really glad we have left the house of my uncle," said Rosabella
@@ -7795,7 +7685,6 @@ downcast eyes and trembling voice, appear still more interesting from
 the strong effect of contrast they produced.
 
 The persons collected in the library of Lord Gustavus were all affected
-by her manners; and though perhaps it would have been difficult to find
 a group of individuals more various in their usual habits and modes of
 thinking, yet upon this one point they were agreed. The personages who
 composed this worthy assemblage, were Lord Maysworth, the Lords Noodle
@@ -7968,7 +7857,6 @@ that is necessary."
 
 Marianne laughed. "I did not imagine you so romantic," said she
 tauntingly. "Do not alarm yourself; the rage for dying of love is gone
-by: therefore, notwithstanding the power of your charms, you must
 excuse me, if I presume to doubt their murderous properties."
 
 Rosabella was too much mortified by the manner in which her confidant
@@ -7987,8 +7875,8 @@ don't think she has ever properly overcome the fright she experienced
 at the first sight of the Mummy, for she has never seemed herself
 since. Indeed
 
-    'It seems to me she hoards some secret care,
-    That breaks her rest and drives her to despair.'"
+'It seems to me she hoards some secret care,
+That breaks her rest and drives her to despair.'"
 
 "What do you quote that from, my dear?" asked Mr. Montagu, more
 interested in his wife's quotation than the illness of his daughter.
@@ -8342,7 +8230,6 @@ comprehension!"
 
 
 
-CHAPTER XVII.
 
 
 The day following was appointed for the departure of the two families
@@ -8616,7 +8503,6 @@ fancying she sought his approval before she would retire, his jealous
 rage was unbounded, and, darting at her a look of ungovernable passion,
 he sprang from the pavilion, and was out of sight in an instant. Elvira
 could not bear his look, nor his unreasonable jealousy; and, exhausted
-by her previous fatigue, she fainted. A crowd soon gathered round her,
 and she was carried to her chamber in a state of insensibility.
 
 "Mark me!" said a figure muffled in a thick cloak, speaking in a deep,
@@ -8662,7 +8548,6 @@ fall."
 
 
 
-CHAPTER XVIII.
 
 
 The day of election now rapidly approached. The duke, Sir Ambrose, the
@@ -9120,7 +9005,6 @@ lofty of all passions, perhaps no one makes its votaries occasionally
 condescend to greater meanness. At present patience alone is required.
 Novelty is always delightful; but the pleasure it produces can never
 be lasting: and the expectations of men having been raised too high
-by the brilliancy with which a new government is certain to commence,
 they will soon be disposed to quarrel with every thing that may chance
 to fall short of the standard they will then propose to themselves:
 though this same standard, if they give themselves time to consider,
@@ -9332,7 +9216,6 @@ bid fair shortly to rival even the imagined happiness of Utopia itself.
 
 
 
-CHAPTER XIX.
 
 
 In the mean time, what had become of Edric and Dr. Entwerfen? Gloomy
@@ -9464,7 +9347,6 @@ of the plague was quite sufficient to deter our travellers from
 visiting Constantinople; and finding he was bound for Malta, and that
 no other vessel would quit the harbour that day, they hastily embarked,
 notwithstanding his vessel was old and inconvenient, and not forwarded
-by steam, and though the superior certainty of the steam-packets was
 now so generally felt and acknowledged by all, that perhaps this was
 the only common sailing-boat in the harbour. The joy of our travellers
 at their deliverance was, however, too great to permit them to dwell
@@ -9647,7 +9529,6 @@ the shore.
 
 
 
-CHAPTER XX.
 
 
 It was morning, and the glowing sunbeams danced gaily on the sparkling
@@ -9709,7 +9590,6 @@ wandered with delight over orange groves and forests of cork-trees;
 whilst the green shining leaves, and rich scarlet blossoms of the
 pomegranates, and light tender waving foliage of the olive, afforded
 variety to the scene. The burning heat of the sun's rays felt softened
-by the breezes from the sea; a balmy fragrance seemed to pervade the
 air; birds flew twittering around them, or, perched upon the branches
 of the trees, made the groves resound with melodious harmony; whilst
 butterflies of the most brilliant colours fluttered from flower to
@@ -10065,7 +9945,6 @@ to our fate."
 
 
 
-CHAPTER XXI.
 
 
 A few days after this, the prisoners were honoured by another visit
@@ -10434,7 +10313,6 @@ that he now considered himself as the most fortunate of mortals.
 
 
 
-CHAPTER XXII.
 
 
 The Spanish nobility were daily collecting round the Irish King. To
@@ -10624,7 +10502,6 @@ also adorned his breast, and a deep frill of vandyk lace was fastened
 round his neck.
 
 Splendid, however, as was the attire of Roderick, it was far exceeded
-by his personal advantages; and no one could look upon that fair, open
 brow, those bright blue eyes, that manly, though youthful form, that
 glossy chestnut hair and curling mustachios, or, what was more than
 all, upon the fascinating smile of the mouth they decorated, without
@@ -10859,7 +10736,6 @@ lightly vaulted into the saddle.
 
 
 
-CHAPTER XXIII.
 
 
 The army of Roderick advanced rapidly through a lovely country richly
@@ -11248,7 +11124,6 @@ mercy or Christian charity in your disposition, succour this poor old
 man. Those cruel wretches have left him to perish miserably: though we
 are strangers, we are human beings, and have committed no crime."
 
-By this time, Edric and Roderick had arrived near enough to draw
 her from the column, when they perceived, to their infinite horror,
 that her arm was broken, and that she was otherwise seriously hurt.
 "Oh, think not of me," cried she, finding they wished to succour her
@@ -11419,7 +11294,6 @@ had been broken with the blow, and her shoulder dreadfully lacerated;
 yet still the heroic girl supported herself; and, sustaining with her
 remaining arm the apparently lifeless body of her father, who, stunned
 with so many misfortunes, lay insensible at her feet, she endeavoured
-by her cries to draw the attention of some one to the spot; as she
 found her father and herself were so entangled in the ruins, that it
 was impossible they could be extricated without powerful assistance.
 
@@ -11470,7 +11344,6 @@ French and Spanish army that was now fast approaching.
 
 
 
-CHAPTER XXIV.
 
 
 Notwithstanding the danger of his situation, Roderick was delighted at
@@ -12316,12 +12189,10 @@ left it to them and the Spaniard to release the other prisoners, whilst
 he returned with his dear doctor in triumph back to the camp.
 
 
-END OF VOL. II.
 
 
 
 
-CHAPTER XXV.
 
 
 When Roderick and Dr. Entwerfen returned to the camp, they found Edric
@@ -12767,8 +12638,8 @@ your passion for travelling," rejoined Edric.
 appetite for travelling always grows with what it feeds upon; and
 though the doctor may boast
 
-    'That he _has_ fair Seville seen.
-    So _is_ a traveller, I ween,'
+'That he _has_ fair Seville seen.
+So _is_ a traveller, I ween,'
 
 yet I do not doubt but that he is just as eager to explore new places
 as ever."
@@ -12833,7 +12704,6 @@ laugh and arch look of Roderick told that he was perfectly aware of
 what was passing in the mind of each. Doctor Entwerfen, however, saw
 nothing of the kind, his mind being quite absorbed in the delightful
 contemplation of his own glory. He had been presented to M. de Mallet
-by Roderick, as "his friend and counsellor, the learned and justly
 celebrated Dr. Entwerfen;" and that moment seemed a sufficient reward
 for a whole life of misery, the doctor's ecstasy upon the occasion
 being so unbounded, that he neither knew what he did nor what he said.
@@ -12983,8 +12853,8 @@ Roderick; "for you could never choose a more fitting moment for such
 a tale; as you may depend upon the sympathy of Mr. Montagu, even if I
 should be so barbarous as to refuse you mine:--
 
-    'We pity faults to which we feel inclined,
-    And to our proper failings can be kind;'
+'We pity faults to which we feel inclined,
+And to our proper failings can be kind;'
 
 as one of your own poets says. Eh, Edric! Don't you think he's right?"
 
@@ -12994,10 +12864,10 @@ as one of your own poets says. Eh, Edric! Don't you think he's right?"
 quite in tune; so no wonder it jars a little. Do you not remember the
 old proverb?
 
-    'Touch a man whose skin is sound,
-    He will stand, and fear no wound:
-    Touch a man when he is sore,
-    He will start, and bear no more.'"
+'Touch a man whose skin is sound,
+He will stand, and fear no wound:
+Touch a man when he is sore,
+He will start, and bear no more.'"
 
 "How can you condescend to repeat such nonsense?" cried Edric,
 indignantly. "It is unworthy the poorest beggar in your dominions!"
@@ -13133,7 +13003,6 @@ marches upon Madrid.
 
 
 
-CHAPTER XXVI.
 
 
 Whilst these scenes were taking place in Spain, Elvira was beginning to
@@ -13454,7 +13323,6 @@ now I recollect, I saw her talking to him, even now, with an appearance
 of deep interest, when I passed through her splendid chambers."
 
 "Damnation!" exclaimed Lord Edmund vehemently, driven to distraction
-by this speech; for, strange to tell, though we may be certain of the
 reality of our own sufferings, they always seem to come with double
 poignancy when we hear them related by another.
 
@@ -13629,7 +13497,6 @@ giving double the real value of a commodity, a tenth part so much,
 as paying even a small direct sum for the use of any of the common
 necessaries of life.
 
-By judiciously acting upon this principle, Edmund made himself adored;
 and whispers even were buzzed about, lamenting that he was not King.
 This was the point to which Edmund had wished to bring the people;
 and he pursued his plan by supporting the poor against the rich,
@@ -13638,7 +13505,6 @@ attempted to oppress the people. The multitude generally hate those
 entrusted with the execution of the laws, perhaps upon the same
 principle as the bleeding culprit abhors the sight of the whip that has
 flogged him; and their natural conceit and presumption were flattered
-by the attention paid to their complaints; till, by his judicious
 management, Lord Edmund found that he had obtained the entire devotion
 of the mob, and could wield them at his pleasure.
 
@@ -13917,7 +13783,6 @@ be mine."
 
 
 
-CHAPTER XXVII.
 
 
 The evening of the day on which Prince Ferdinand and Lord Edmund were
@@ -14368,7 +14233,6 @@ spirit, and robbed his confinement of half its bitterness.
 
 
 
-CHAPTER XXVIII.
 
 
 In the mean time, Lord Edmund's mind had been tortured by the bitterest
@@ -14994,7 +14858,6 @@ agitation will destroy her--her exhausted frame is not able to endure
 it."
 
 In fact, the Queen was now completely overpowered, and was carried off
-by Emma and her attendants in violent hysterics.
 
 Lord Maysworth had not been present at this scene, for his time had
 been otherwise engaged; and, to explain what occupied him, it will
@@ -15238,7 +15101,6 @@ to all the vicissitudes of hunger, thirst, and inclement seasons,
 whilst his life is endangered every instant?--let him condemn the
 prisoner;--but if he prefer these horrors to the comforts of a warm
 down bed, or if he enjoy the prospect of having his substance devoured
-by tax gatherers, to support the expenses of a foreign war, then let
 the prisoner be acquitted. But--unless--he--can--make--up--his--mind
 to--undergo--privations--like--these--let--him--aid--by--his--vote--to
 condemn--the--wretch--who--"
@@ -15302,8 +15164,8 @@ my learned brother. I, gentlemen, am not gifted with such an enviable
 facility of speech; nor is my imagination endowed with that creative
 power he has so forcibly displayed. I cannot, gentlemen, like him
 
-    Uprear the club of Hercules--For what?
-    To crush a butterfly, or brain a gnat.
+Uprear the club of Hercules--For what?
+To crush a butterfly, or brain a gnat.
 
 Nor have I the least intention of drawing either Neptune or Pluto from
 the quiet nap they have been taking for so many centuries--to assist in
@@ -15315,14 +15177,14 @@ tumultuous one of my learned brother, as the way-worn traveller rests
 peaceably upon the soft green turf, after having been tossed about upon
 the heaving billows of the tempestuous ocean.
 
-    'Tis sweet to rest from dread of danger free,
-    And mark the billows of the foaming sea;
-    'Tis sweet, a little skiff to safely urge
-    Through the tempestuous ocean's boiling surge;
-    To hear the pattering rains against the roof,
-    And feel your hospitable mansion proof.
-    But sweeter far the troubled mind's repose
-    When of a speech like this, it hears the close.
+'Tis sweet to rest from dread of danger free,
+And mark the billows of the foaming sea;
+'Tis sweet, a little skiff to safely urge
+Through the tempestuous ocean's boiling surge;
+To hear the pattering rains against the roof,
+And feel your hospitable mansion proof.
+But sweeter far the troubled mind's repose
+When of a speech like this, it hears the close.
 
 When I listened to the powerful exordium of my learned friend--and
 I did listen to him with the most profound attention--I confess my
@@ -15353,24 +15215,24 @@ the devotedness of true love, without becoming purified in our ideas,
 and raised from that disgusting selfishness which is ever the inspirer
 of base and mean actions.
 
-    Yes, love indeed is light from Heaven,
-      A spark of that immortal fire,
-    With angels shared, by Alla given,
-      To lift from earth our low desire.
-    Devotion wafts the mind above,
-    But Heaven itself descends in love.
+Yes, love indeed is light from Heaven,
+A spark of that immortal fire,
+With angels shared, by Alla given,
+To lift from earth our low desire.
+Devotion wafts the mind above,
+But Heaven itself descends in love.
 
 And from this heavenly, this inspiring feeling, shall my unfortunate
 client be debarred? Hear me, ye shades of heroic lovers, who, though
 dying for the hopeless object of your passion, have still exclaimed,
 with the enthusiastic devotion of a modern poet--
 
-    Lead on, lead on, though horrors wait
-    In awful fury round thy gate!
-    And danger, death, and grim despair,
-    Forbid my hopeless passage there!
-    If love, still smiling, beckon on,
-    The path is passed, the gate is won!
+Lead on, lead on, though horrors wait
+In awful fury round thy gate!
+And danger, death, and grim despair,
+Forbid my hopeless passage there!
+If love, still smiling, beckon on,
+The path is passed, the gate is won!
 
 And ye poets and philosophers, who have painted love as the oasis of
 the Desert, the green spot in memory's waste, where affection still
@@ -15491,7 +15353,6 @@ happy than she had before felt since the fatal combat in the garden.
 
 
 
-CHAPTER XXIX.
 
 
 The effect produced by the scene just described upon the minds of the
@@ -15959,7 +15820,6 @@ unanimously acknowledged as King and Queen of England.
 
 
 
-CHAPTER XXX.
 
 
 Notwithstanding the able manner in which the revolution had been
@@ -16271,12 +16131,12 @@ Queen.
 "Ah! who are these?" cried Rosabella, starting. Cheops took no notice
 of her surprise; but, tuning his lute, began to sing.
 
-    "Loveliest Queen! oh deign to hear
-    The humblest of thy suppliants' prayer;
-    Blandly on a stranger smile,
-    Who has sought thy happy Isle,
-    To feast his eyes upon that face,
-    Where majesty combines with grace."
+"Loveliest Queen! oh deign to hear
+The humblest of thy suppliants' prayer;
+Blandly on a stranger smile,
+Who has sought thy happy Isle,
+To feast his eyes upon that face,
+Where majesty combines with grace."
 
 "What means this mummery?" asked Rosabella; "how came these minstrels
 here?"
@@ -16289,22 +16149,22 @@ towards her, that she felt gratified that it should even be supposed
 he wished to please her, and, addressing the minstrel more graciously,
 asked what brought him to England. He sung his reply:
 
-    "Full often in my native land
-    I've struck my lute with bolder hand;
-    But with the liberties of Greece,
-    Her minstrel's harmony must cease.
-    Since Iwan with a soldier's frown
-    Hath seized and worn th' imperial crown,
-    Those hearts which spurn despotic power
-    Must wander from their native bower,
-    And in far distant lands must try
-    The meaner arts of palmistry.
-    Give then your hand, fair lady! give,
-    And let the wandering minstrel live:
-    So shall he tell the varied fate
-    That may that lovely form await.
-    To other strains his voice is mute;
-    Broken his heart, unstrung his lute!"
+"Full often in my native land
+I've struck my lute with bolder hand;
+But with the liberties of Greece,
+Her minstrel's harmony must cease.
+Since Iwan with a soldier's frown
+Hath seized and worn th' imperial crown,
+Those hearts which spurn despotic power
+Must wander from their native bower,
+And in far distant lands must try
+The meaner arts of palmistry.
+Give then your hand, fair lady! give,
+And let the wandering minstrel live:
+So shall he tell the varied fate
+That may that lovely form await.
+To other strains his voice is mute;
+Broken his heart, unstrung his lute!"
 
 "What say you, ladies," said Rosabella, again smiling, "shall we hear
 our destiny?"
@@ -16434,7 +16294,6 @@ with that vague sense of danger that generally attends the want of
 light, when Imagination pictures terrors which do not really exist, and
 Fancy lends her aid to magnify those which do.
 
-By degrees, however, the Queen and her companion became accustomed
 to the darkness; and as the pupils of their eyes dilated, they were
 enabled to discern the objects around them. Innumerable fantastic
 shapes, however, now appeared to flit before them, and grim giants
@@ -16459,7 +16318,6 @@ place!"
 
 And they hurried on as fast as their trembling limbs could carry them,
 along a dark and gloomy passage, leading in the direction pointed out
-by the Mummy. In a few minutes, however, a bright though glimmering
 light appeared afar off, like a star, which, gleaming through the
 darkness, seemed a beacon of hope to guide them on to happiness. A
 slight current of air, too, now blew freshly in their faces, and their
@@ -16700,7 +16558,6 @@ my own? D'ye think I'd use that of another person?"
 "No, no!" returned the soldier, laughing; "but my astonishment was, to
 find the owner of the voice so near me. Though, now I think of it, it
 is not at all surprising, as the Duke of Cornwall is at the palace hard
-by, and you of course are with him."
 
 "And how can I be with him," asked the literal Father Murphy, "when I
 am here? Now if an Irishman had said such a thing, they'd have called
@@ -16934,7 +16791,6 @@ on their eventful journey.
 
 
 
-CHAPTER XXXI.
 
 
 In the mean time, Roderick had been completely victorious in Spain. He
@@ -16994,7 +16850,6 @@ air of voluptuous languor to the whole scene.
 
 The delight felt by M. de Mallet and his daughter at again seeing their
 deliverers was enthusiastic; and though it was most openly expressed
-by the father, the burning cheeks and sparkling eyes of Pauline spoke
 quite as intelligibly her silent transport.
 
 "We have long expected you," said M. de Mallet; "for I cannot describe
@@ -17598,7 +17453,6 @@ upon--intense feelings cannot last."
 
 "Oh Elvira! say not so," cried Roderick, fixing his eyes earnestly upon
 her blushing countenance--whilst she, trembling and agitated, betrayed
-by her confusion the passion she would have fain concealed.
 
 How feeble are words to express the transports of such a moment! 'Tis
 the oasis in the desert of life--the bright gem that casts a radiance
@@ -17745,7 +17599,6 @@ has been already shown.
 
 
 
-CHAPTER XXXII.
 
 
 "Have you heard the news?" asked Lord Maysworth one morning, bustling
@@ -18155,7 +18008,6 @@ that horrid tomb--but I will go alone."
 
 In pursuance of this sudden, but irresistible desire, Edric hastily
 prepared to return to Egypt; and feigning that he was called to London
-by business of importance, to satisfy the anxious curiosity of Pauline,
 he departed. Indescribable emotions throbbed in his bosom as he
 took his seat in the stage balloon which was to convey him to Egypt;
 but when he saw the towers and temples, and, above all, the pyramids
@@ -18319,12 +18171,11 @@ tomb. Edric shuddered, and involuntarily rushed forward, but the Mummy
 no longer lived or breathed. Cold, pale, and inanimate it lay, as
 though its sleep of two thousand years had never been broken.
 
-    "Oblivion laid him down upon his hearse!"
+"Oblivion laid him down upon his hearse!"
 
 and no mortal ever more could boast of holding converse with THE MUMMY.
 
 
-THE END.
 
 
 
