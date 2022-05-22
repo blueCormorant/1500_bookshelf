@@ -1,38 +1,4 @@
 
-[Illustration]
-
-
-
-
-Off to Sea
-
-The Adventures of Jovial Jack Junker on his Road to Fame
-
-by W.H.G. Kingston
-
-
-Contents
-
- Chapter I. My Birth and Education.
- Chapter II. My First Start.
- Chapter III. Life on the Roarer.
- Chapter IV. First Experiences of Sailing.
- Chapter V. Across the Ocean.
- Chapter VI. We Reach the Flowery Land.
- Chapter VII. Our Cruise in the Junk.
- Chapter VIII. A Typhoon and a Shipwreck.
- Chapter IX. Captured by the Celestials.
- Chapter X. Liberty Again.
- Chapter XI. In the Pirate Stronghold.
- Chapter XII. I Get Promoted.
-
-
-
-
-Chapter One.
-My Birth and Education.
-
-
 From my earliest days I have been known as Jovial Jack Junker. I got
 the name, I believe, from always being in good humour, and seeing the
 bright side of things. Whatever I ate did me good, and I never had had
@@ -225,7 +191,6 @@ I answered; “but if you will hold on tight, till Dick comes and takes
 us off, I will say something for you.”
 
 My arguments had some effect, for hold on tight he did, I helping him
-by the collar of his jacket. I had enough to do, however, to keep him
 and myself afloat, as well as to hold on at the same time. It seemed to
 me that old Dick was a long time coming. At last I shouted out.
 
@@ -778,7 +743,6 @@ to come up to the house. My father wants to talk to you, and my sisters
 want to see you; to make much of you, I fancy, but that might be a
 bore. But, I say, let those two soldiers take your chest aboard, and
 present your compliments to the captain, and say you will come
-by-and-by.”
 
 My father and his companion, on hearing this, burst out laughing.
 
@@ -2466,7 +2430,6 @@ out, to think we were all going to be killed.
 know, I think we shall, in spite of appearances. The Chinamen would
 gain nothing by killing us, and our keep cannot cost them much.”
 
-By such remarks I soon restored Dicky’s hopes. We were kept for some
 days in our wretched little prison, having our food brought to us, but
 being otherwise left alone; at length, one day, the door opened, and
 four soldiers appeared: without saying a word, they seized hold of Ned;
@@ -3194,7 +3157,6 @@ made towards the beach, than up went the vessel, almost overwhelming us
 with her burning fragments; indeed, it seemed a wonder that we should
 have escaped, so close were we at the time. Many pieces, indeed, fell
 on the outside of us—no large portion, happily, striking the boat. Led
-by Mr Mason, we dashed on shore, and with our four marines, who had
 fixed bayonets—the rest of us armed with cutlasses—charged the enemy.
 They ran away—the wisest thing they could do, but we followed, which
 was not at all a wise thing. The Malays first fled along the beach, we
@@ -3648,9 +3610,3 @@ first-lieutenant, that it would be a loss to the service to make me a
 commander. I am jovial and contented as ever; and after all, in my
 opinion, I am in a far more enviable position than many who, as they
 think, have risen to the summit of fame.
-
-
-The End.
-
-
-

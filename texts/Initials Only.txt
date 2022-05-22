@@ -1,89 +1,5 @@
 
 
-
-
-
-INITIALS ONLY
-
-by Anna Katharine Green
-
-
-
-
-CONTENTS
-
-     BOOK I
-
-     AS SEEN BY TWO STRANGERS
-
-     I           POINSETTIAS
-     II          “I KNOW THE MAN”
-      III         THE MAN
-     IV          SWEET LITTLE MISS CLARKE
-     V           THE RED CLOAK
-     VI          INTEGRITY
-     VII         THE LETTERS
-     VIII        STRANGE DOINGS FOR GEORGE
-     IX          THE INCIDENT OF THE PARTLY LIFTED SHADE
-
-
-     BOOK II
-
-     AS SEEN BY DETECTIVE SWEETWATER
-
-     X           A DIFFERENCE OF OPINION
-     XI          ALIKE IN ESSENTIALS
-     XII         Mr. GRYCE FINDS AN ANTIDOTE FOR OLD AGE
-     XIII        TIME, CIRCUMSTANCE, AND A VILLAIN’S HEART
-     XIV         A CONCESSION
-     XV          THAT’S THE QUESTION
-     XVI         OPPOSED
-     XVII        IN WHICH A BOOK PLAYS A LEADING PART
-     XVIII       WHAT AM I TO DO NOW?
-     XIX         THE DANGER MOMENT
-     XX          CONFUSION
-     XXI         A CHANGE
-     XXII        O.  B.  AGAIN
-
-
-     BOOK III
-
-     THE HEART OF MAN
-
-     XXIII       DORIS
-     XXIV        SUSPENSE
-     XXV         THE OVAL HUT
-     XXVI        SWEETWATER RETURNS
-     XXVII       THE IMAGE OF DREAD
-     XXVIII      I HOPE NEVER TO SEE THAT MAN
-     XXIX        DO YOU KNOW MY BROTHER?
-     XXX         CHAOS
-     XXXI        WHAT IS HE MAKING?
-     XXXII       TELL ME, TELL IT ALL
-     XXXIII      ALONE!
-     XXXIV       THE HUT CHANGES ITS NAME
-     XXXV        SILENCE--AND A KNOCK
-     XXXVI       THE MAN WITHIN AND THE MAN WITHOUT
-     XXXVII      HIS GREAT HOUR
-     XXXVIII     NIGHT
-     XXXIX       THE AVENGER
-     XL          DESOLATE
-     XLI         FIVE O’CLOCK IN THE MORNING
-     XLII        AT SIX
-
-
-
-
-
-
-BOOK I. AS SEEN BY TWO STRANGERS
-
-
-
-
-I. POINSETTIAS
-
-
 “A remarkable man!”
 
 It was not my husband speaking, but some passerby. However, I looked up
@@ -351,7 +267,6 @@ It was fixed with a purpose I had no trouble in understanding.
 
 
 
-II. “I KNOW THE MAN”
 
 
 Yet he made no effort to detain Mr. Slater, when that gentleman, under
@@ -578,7 +493,6 @@ Mr. Slater stepped back, then moved forward again with a determined air.
 
 
 
-III. THE MAN
 
 
 “You know the man?”
@@ -726,29 +640,22 @@ A. B., as well as C. D., are half circular openings into the office
 lobby. E. F. are windows giving upon Broadway, and G. the party wall,
 necessarily unbroken by window, door or any other opening.
 
-      _____________________G.______
-     |         ===desk        |
-     |                        |
-     |    Where Miss C Fell-x o
-     |                        A o
-     |                         o
-     E                        o
-     |     _____                   |
-     |    |_____|table             |
-     |                        o
-     |                           o
-     |                        B o
-     |                        o
-     | ________     H     ________ |
-     |   ***          |       |
-     | **    **            |elevator    |
-     | **    staircase
-     | **   ** X.     |_________|_____C_________D____
-     |   ***
-     F                          Musician’s Gallery
-     |____   ______________   ________________   ______
-     |
-     |                   Dining Room Level With Lobby
+|         ===desk        |
+|                        |
+|    Where Miss C Fell-x o
+|                        A o
+|                         o
+E                        o
+|     _____                   |
+|    |_____|table             |
+|                        o
+|                           o
+|                        B o
+|                        o
+F                          Musician’s Gallery
+|____   ______________   ________________   ______
+|
+|                   Dining Room Level With Lobby
 
 It follows then that the only possible means of approach to this room
 lies through the archway H., or from the elevator door. But the elevator
@@ -782,14 +689,14 @@ know what George wrote, for he sealed his words up as soon as he had
 finished writing, but this is what I put on paper while my memory was
 still fresh and my excitement unabated:
 
-  He had the look of a man of powerful intellect and determined will,
-  who shudders while he triumphs; who outwardly washes his hands of
-  a deed over which he inwardly gloats.  This was when he first rose
-  from the snow.  Afterwards he had a moment of fear; plain, human,
-  everyday fear.  But this was evanescent.  Before he had turned to
-  go, he showed the self-possession of one who feels himself so
-  secure, or is so well-satisfied with himself, that he is no longer
-  conscious of other emotions.
+He had the look of a man of powerful intellect and determined will,
+who shudders while he triumphs; who outwardly washes his hands of
+a deed over which he inwardly gloats.  This was when he first rose
+from the snow.  Afterwards he had a moment of fear; plain, human,
+everyday fear.  But this was evanescent.  Before he had turned to
+go, he showed the self-possession of one who feels himself so
+secure, or is so well-satisfied with himself, that he is no longer
+conscious of other emotions.
 
 “Poor fellow,” I commented aloud, as I folded up these words; “he
 reckoned without you, George. By to-morrow he will be in the hands of
@@ -849,16 +756,15 @@ made on reading it, waking George.
 
 The writing was in Mr. Slater’s hand, and the words were:
 
-  “I must request, at the instance of Coroner Heath and such of
-  the police as listened to your adventure, that you make no
-  further mention of what you saw in the street under our windows
-  last night.  The doctors find no bullet in the wound.  This
-  clears Mr. Brotherson.”
+“I must request, at the instance of Coroner Heath and such of
+the police as listened to your adventure, that you make no
+further mention of what you saw in the street under our windows
+last night.  The doctors find no bullet in the wound.  This
+clears Mr. Brotherson.”
 
 
 
 
-IV. SWEET LITTLE MISS CLARKE
 
 
 When we took our seats at the breakfast-table, it was with the feeling
@@ -1267,7 +1173,6 @@ regard to the dreadful occurrence in which you played so kind a part.
 You were the first to reach the prostrate woman, I believe.”
 
 “Yes. The boys jumped up and ran towards her, but they were frightened
-by her looks and left it for me to put my hands under her and try to
 lift her up.”
 
 “Did you manage it?”
@@ -1355,7 +1260,6 @@ George.
 
 
 
-V. THE RED CLOAK
 
 
 “What results? Speak up, Sweetwater.”
@@ -1429,7 +1333,7 @@ sir.”
 “To leave?”
 
 The old man struggled to his feet. “No. 712, do you say? Seven stories,”
- he sighed. But as he turned with a hobble, he stopped. “There are
+he sighed. But as he turned with a hobble, he stopped. “There are
 difficulties in the way of this interview,” he remarked. “A blush is
 not much to go upon. I’m afraid we shall have to resort to the shadow
 business and that is your work, not mine.”
@@ -1438,21 +1342,20 @@ But here the door opened and a boy brought in a line which had been left
 at the desk. It related to the very matter then engaging them, and ran
 thus:
 
-  “I see that information is desired as to whether any person was
-  seen to stoop to the lobby floor last night at or shortly after
-  the critical moment of Miss Challoner’s fall in the half story
-  above.  I can give such information.  I was in the lobby at the
-  time, and in the height of the confusion following this alarming
-  incident, I remember seeing a lady,--one of the new arrivals
-  (there were several coming in at the time)--stoop quickly down
-  and pick up something from the floor.  I thought nothing of it at
-  the time, and so paid little attention to her appearance.  I can
-  only recall the suddenness with which she stooped and the colour
-  of the cloak she wore.  It was red, and the whole garment was
-  voluminous.  If you wish further particulars, though in truth, I
-  have no more to give, you can find me in  356.
+“I see that information is desired as to whether any person was
+seen to stoop to the lobby floor last night at or shortly after
+the critical moment of Miss Challoner’s fall in the half story
+above.  I can give such information.  I was in the lobby at the
+time, and in the height of the confusion following this alarming
+incident, I remember seeing a lady,--one of the new arrivals
+(there were several coming in at the time)--stoop quickly down
+and pick up something from the floor.  I thought nothing of it at
+the time, and so paid little attention to her appearance.  I can
+only recall the suddenness with which she stooped and the colour
+of the cloak she wore.  It was red, and the whole garment was
+voluminous.  If you wish further particulars, though in truth, I
+have no more to give, you can find me in  356.
 
-                                              “HENRY A.  MCELROY.”
 
 
 “Humph! This should simplify our task,” was Mr. Gryce’s comment, as
@@ -1741,7 +1644,6 @@ He could soon tell.
 
 
 
-VI. INTEGRITY
 
 
 Mr. Gryce’s fears were only too well founded. Though Mr. McElroy was
@@ -1941,7 +1843,6 @@ could be made to show.
 
 
 
-VII. THE LETTERS
 
 Before a table strewn with papers, in the room we have already mentioned
 as given over to the use of the police, sat Dr. Heath in a mood too
@@ -2002,14 +1903,14 @@ lines.”
 
 And Dr. Heath read:
 
-  “Dear Miss Challoner:
+“Dear Miss Challoner:
 
-  “Only a man of small spirit could endure what I endured from you
-  the other day.  Love such as mine would be respectable in a
-  clod-hopper, and I think that even you will acknowledge that I
-  stand somewhat higher than that.  Though I was silent under your
-  disapprobation, you shall yet have your answer.  It will not lack
-  point because of its necessary delay.”
+“Only a man of small spirit could endure what I endured from you
+the other day.  Love such as mine would be respectable in a
+clod-hopper, and I think that even you will acknowledge that I
+stand somewhat higher than that.  Though I was silent under your
+disapprobation, you shall yet have your answer.  It will not lack
+point because of its necessary delay.”
 
 “A threat!”
 
@@ -2080,7 +1981,6 @@ Mr. Gryce had not uttered a word.
 
 
 
-VIII. STRANGE DOINGS FOR GEORGE
 
 
 That evening George sat so long over the newspapers that in spite of my
@@ -2096,7 +1996,6 @@ and may not be in till daybreak.”
 are! What has happened--Oh!”
 
 This broken exclamation escaped me as I perceived in the dim background
-by the sitting-room door, the figure of a man who called up recent, but
 very thrilling experiences.
 
 “Mr. Sweetwater,” explained George. “We are going out together. It is
@@ -2166,7 +2065,7 @@ anything you see, and trust me for the rest; that’s all.”
 
 They alighted, and he dismissed the taxicab. Some clock in the
 neighbourhood struck the hour of ten. “Good! we shall be in time,”
- muttered the detective, and led the way down the street and round a
+muttered the detective, and led the way down the street and round a
 corner or so, till they came to a block darker than the rest, and much
 less noisy.
 
@@ -2177,7 +2076,6 @@ burly form of a policeman in the shadow of one of the doorways. Yet the
 houses he saw before him were not so very different from those they had
 already passed. His uneasiness could not have sprung from them. They
 had even an air of positive respectability, as though inhabited
-by industrious workmen. Then, what was it which made the close
 companionship of a member of the police so uncommonly welcome? Was it a
 certain aspect of solitariness which clung to the block, or was it the
 sudden appearance here and there of strangely gliding figures, which no
@@ -2262,7 +2160,7 @@ when I get back.”
 our man as he comes out,” returned the detective, drawing George towards
 a low window overlooking the yard he had described as sentinelled. “He
 will have to pass directly under this window on his way to the alley,”
- Sweetwater went on to explain, “and if I can only raise it--but the
+Sweetwater went on to explain, “and if I can only raise it--but the
 noise would give us away. I can’t do that.”
 
 “Perhaps it swings on hinges,” suggested George. “It looks like that
@@ -2403,7 +2301,6 @@ sir?”
 
 
 
-IX. THE INCIDENT OF THE PARTLY LIFTED SHADE
 
 The fellow had a way with him, hard to resist. Cold as George was
 and exhausted by an excitement of a kind to which he was wholly
@@ -2661,7 +2558,7 @@ George, for one, began to edge towards the door.
 unusually tall, as well as unusually muscular. “I never like to carry
 arms; but sometimes it is unavoidable. Damn it, what hands!” He was
 looking at his own, which certainly showed soil. “Will you pardon me?”
- he pleasantly apologised, stepping towards a washstand and plunging his
+he pleasantly apologised, stepping towards a washstand and plunging his
 hands into the basin. “I cannot think with dirt on me like that. Humph,
 hey! did you speak?”
 
@@ -2767,12 +2664,10 @@ But you will not lack a suitable guide.
 
 
 
-BOOK II. AS SEEN BY DETECTIVE SWEETWATER
 
 
 
 
-X. A DIFFERENCE OF OPINION
 
 
 At an early hour the next morning, Sweetwater stood before the coroner’s
@@ -2926,7 +2821,6 @@ apparent in his tones when he made his reply:
 why I should. The suggestion you would convey by such a question is
 hardly welcome, now. I pray you to be careful in your judgment of such a
 woman’s impulses. They often spring from sources not to be sounded even
-by her dearest friends.”
 
 Just; but how cold! Dr. Heath, eyeing him with admiration rather than
 sympathy, hesitated how to proceed; while Sweetwater, peering up from
@@ -2973,7 +2867,6 @@ nothing. If I mistook my position, or Miss Challoner’s position, it
 is not for me to apologise. I never hid my business from her, nor the
 moderate extent of my fortune. If she knew me at all, she knew me for
 what I am; a man of the people who glories in work and who has risen
-by it to a position somewhat unique in this city. I feel no lack of
 equality even with such a woman as Miss Challoner.”
 
 A most unnecessary preamble, no doubt, and of doubtful efficacy in
@@ -3225,7 +3118,6 @@ her. But got no further. When I saw her on her feet, with her face
 turned my way, I remembered the scorn with which she had received my
 former heart-felt proposals and, without taking another step forward, I
 turned away from her and fled down the steps and so out of the building
-by the main entrance. She saw me, for her hand flew up with a startled
 gesture, but I cannot think that my presence on the same floor with her
 could have caused her to strike the blow which terminated her life.
 Why should I? No woman sacrifices her life out of mere regret for the
@@ -3322,7 +3214,6 @@ secretive heart.”
 
 
 
-XI. ALIKE IN ESSENTIALS
 
 
 “Mr. Gryce, I am either a fool or the luckiest fellow going. You must
@@ -3599,7 +3490,7 @@ XII. Mr. GRYCE FINDS AN ANTIDOTE FOR OLD AGE
 sir. Yes, I have established the plain fact that this Brotherson was
 near to, if not in the exact line of the scene of crime in each of these
 extraordinary and baffling cases. A very odd coincidence, is it not?”
- was the dry conclusion of our eager young detective.
+was the dry conclusion of our eager young detective.
 
 “Odd enough if you are correct in your statement. But I thought it was
 conceded that the man Brotherson was not personally near,--was not even
@@ -3747,7 +3638,6 @@ brought to book, which I doubt. What do you think about it?”
 and unexpected reply, as the thoughtful, half-puzzled aspect of the old
 man yielded impulsively to a burst of his early enthusiasm. “If we can
 get a good grip on the thread you speak of, and can work ourselves along
-by it, though it be by no more than an inch at a time, we shall yet make
 our way through this labyrinth of undoubted crime and earn for ourselves
 a triumph which will make some of these raw and inexperienced young
 fellows about us stare. Sweetwater, coincidences are possible. We run
@@ -3763,7 +3653,6 @@ business had begun.
 
 
 
-XIII. TIME, CIRCUMSTANCE, AND A VILLAIN’S HEART
 
 
 “Our first difficulty is this. We must prove motive. Now, I do not think
@@ -3875,7 +3764,6 @@ the young. I can no longer manage the stairs.”
 
 
 
-XIV. A CONCESSION
 
 
 “It is true; there seems to be something extraordinary in the
@@ -4107,7 +3995,6 @@ the boy now. An hour ago I didn’t know how I was to do it.”
 
 
 
-XV. THAT’S THE QUESTION
 
 
 “How many times has he seen you?”
@@ -4216,7 +4103,6 @@ to rise. Which? That’s the question, Mr. Gryce.”
 
 
 
-XVI. OPPOSED
 
 
 There was a new tenant in the Hicks Street tenement. He arrived late one
@@ -4422,7 +4308,6 @@ turned, and he was ready to start upon another.
 
 
 
-XVII. IN WHICH A BOOK PLAYS A LEADING PART
 
 
 When Mr. Brotherson came in that night, he noticed that the door of
@@ -4883,7 +4768,6 @@ room.
 
 
 
-XVIII. WHAT AM I TO DO NOW
 
 
 Early morning saw Sweetwater peering into the depths of his closet. The
@@ -5063,7 +4947,6 @@ meets my every move. What am I to do now?”
 
 
 
-XIX. THE DANGER MOMENT
 
 
 For a day Sweetwater acknowledged himself to be mentally crushed,
@@ -5211,7 +5094,6 @@ just like poetry.”
 or in your story. You are a thief--self-convicted; or you’re an agent of
 the police whose motives I neither understand nor care to investigate.
 Take up your bag and go. I haven’t a cent’s worth of interest in its
-contents.”
 
 She started to her feet. Sweetwater heard her chair grate on the painted
 floor, as she pushed it back in rising. The brother rose too, but more
@@ -5315,30 +5197,30 @@ Mr. Brotherson read the first letter, standing. As it soon became public
 property, I will give it here, just as it afterwards appeared in the
 columns of the greedy journals:
 
-  “Beloved:
+“Beloved:
 
-  “When I sit, as I often do, in perfect quiet under the stars,
-  and dream that you are looking at them too, not for hours as I
-  do, but for one full moment in which your thoughts are with me as
-  wholly as mine are with you, I feel that the bond between us,
-  unseen by the world, and possibly not wholly recognised by
-  ourselves, is instinct with the same power which links together
-  the eternities.
+“When I sit, as I often do, in perfect quiet under the stars,
+and dream that you are looking at them too, not for hours as I
+do, but for one full moment in which your thoughts are with me as
+wholly as mine are with you, I feel that the bond between us,
+unseen by the world, and possibly not wholly recognised by
+ourselves, is instinct with the same power which links together
+the eternities.
 
-  “It seems to have always been; to have known no beginning, only a
-  budding, an efflorescence, the visible product of a hidden but
-  always present reality.  A month ago and I was ignorant, even, of
-  your name.  Now, you seem the best known to me, the best understood,
-  of God’s creatures.  One afternoon of perfect companionship--one
-  flash of strong emotion, with its deep, true insight into each
-  other’s soul, and the miracle was wrought.  We had met, and
-  henceforth, parting would mean separation only, and not the
-  severing of a mutual bond.  One hand, and one only, could do that
-  now.  I will not name that hand.  For us there is nought ahead but
-  life.
+“It seems to have always been; to have known no beginning, only a
+budding, an efflorescence, the visible product of a hidden but
+always present reality.  A month ago and I was ignorant, even, of
+your name.  Now, you seem the best known to me, the best understood,
+of God’s creatures.  One afternoon of perfect companionship--one
+flash of strong emotion, with its deep, true insight into each
+other’s soul, and the miracle was wrought.  We had met, and
+henceforth, parting would mean separation only, and not the
+severing of a mutual bond.  One hand, and one only, could do that
+now.  I will not name that hand.  For us there is nought ahead but
+life.
 
-  “Thus do I ease my heart in the silence which conditions impose
-  upon us.  Some day I shall hear your voice again, and then-”
+“Thus do I ease my heart in the silence which conditions impose
+upon us.  Some day I shall hear your voice again, and then-”
 
 The paper dropped from the reader’s hand. It was several minutes before
 he took up another.
@@ -5346,26 +5228,26 @@ he took up another.
 This one, as it happened, antedated the other, as will appear on reading
 it:
 
-  “My friend:
+“My friend:
 
-  “I said that I could not write to you--that we must wait.  You
-  were willing; but there is much to be accomplished, and the
-  silence may be long.  My father is not an easy man to please, but
-  he desires my happiness and will listen to my plea when the right
-  hour comes.  When you have won your place--when you have shown
-  yourself to be the man I feel you to be, then my father will
-  recognise your worth, and the way will be cleared, despite the
-  obstacles which now intervene.
+“I said that I could not write to you--that we must wait.  You
+were willing; but there is much to be accomplished, and the
+silence may be long.  My father is not an easy man to please, but
+he desires my happiness and will listen to my plea when the right
+hour comes.  When you have won your place--when you have shown
+yourself to be the man I feel you to be, then my father will
+recognise your worth, and the way will be cleared, despite the
+obstacles which now intervene.
 
-  “But meantime!  Ah, you will not know it, but words will rise
-  --the heart must find utterance.  What the lip cannot utter, nor
-  the looks reveal, these pages shall hold in sacred trust for you
-  till the day when my father will place my hand in yours, with
-  heart-felt approval.
+“But meantime!  Ah, you will not know it, but words will rise
+--the heart must find utterance.  What the lip cannot utter, nor
+the looks reveal, these pages shall hold in sacred trust for you
+till the day when my father will place my hand in yours, with
+heart-felt approval.
 
-  “Is it a folly?  A woman’s weak evasion of the strong silence of
-  man?  You may say so some day; but somehow, I doubt it--I doubt
-  it.”
+“Is it a folly?  A woman’s weak evasion of the strong silence of
+man?  You may say so some day; but somehow, I doubt it--I doubt
+it.”
 
 The creaking of a chair;--the man within had seated himself. There was
 no other sound; a soul in turmoil wakens no echoes. Sweetwater envied
@@ -5375,55 +5257,54 @@ only listen.
 A little while; then that slight rustling again of the unfolding sheet.
 The following was read, and then the fourth and last:
 
-  “Dearest:
+“Dearest:
 
-  “Did you think I had never seen you till that day we met in Lenox?
-  I am going to tell you a secret--a great, great secret--such a
-  one as a woman hardly whispers to her own heart.
+“Did you think I had never seen you till that day we met in Lenox?
+I am going to tell you a secret--a great, great secret--such a
+one as a woman hardly whispers to her own heart.
 
-  “One day, in early summer, I was sitting in St. Bartholomew’s
-  Church on Fifth Avenue, waiting for the services to begin.  It
-  was early and the congregation was assembling.  While idly
-  watching the people coming in, I saw a gentleman pass by me up
-  the aisle, who made me forget all the others.  He had not the
-  air of a New Yorker; he was not even dressed in city style, but
-  as I noted his face and expression, I said way down in my heart,
-  ‘That is the kind of man I could love; the only man I have ever
-  seen who could make me forget my own world and my own people.’
-  It was a passing thought, soon forgotten.  But when in that hour
-  of embarrassment and peril on Greylock Mountain, I looked up into
-  the face of my rescuer and saw again that countenance which so
-  short a time before had called into life impulses till then
-  utterly unknown, I knew that my hour was come.  And that was why
-  my confidence was so spontaneous and my belief in the future so
-  absolute.
+“One day, in early summer, I was sitting in St. Bartholomew’s
+Church on Fifth Avenue, waiting for the services to begin.  It
+was early and the congregation was assembling.  While idly
+watching the people coming in, I saw a gentleman pass by me up
+the aisle, who made me forget all the others.  He had not the
+air of a New Yorker; he was not even dressed in city style, but
+as I noted his face and expression, I said way down in my heart,
+‘That is the kind of man I could love; the only man I have ever
+seen who could make me forget my own world and my own people.’
+It was a passing thought, soon forgotten.  But when in that hour
+of embarrassment and peril on Greylock Mountain, I looked up into
+the face of my rescuer and saw again that countenance which so
+short a time before had called into life impulses till then
+utterly unknown, I knew that my hour was come.  And that was why
+my confidence was so spontaneous and my belief in the future so
+absolute.
 
-  “I trust your love which will work wonders; and I trust my own,
-  which sprang at a look but only gathered strength and permanence
-  when I found that the soul of the man I loved bettered his outward
-  attractions, making the ideal of my foolish girlhood seem as
-  unsubstantial and evanescent as a dream in the glowing noontide.”
+“I trust your love which will work wonders; and I trust my own,
+which sprang at a look but only gathered strength and permanence
+when I found that the soul of the man I loved bettered his outward
+attractions, making the ideal of my foolish girlhood seem as
+unsubstantial and evanescent as a dream in the glowing noontide.”
 
-  “My Own:
+“My Own:
 
-  “I can say so now; for you have written to me, and I have the
-  dancing words with which to silence any unsought doubt which might
-  subdue the exuberance of these secret outpourings.
+“I can say so now; for you have written to me, and I have the
+dancing words with which to silence any unsought doubt which might
+subdue the exuberance of these secret outpourings.
 
-  “I did not expect this.  I thought that you would remain as silent
-  as myself.  But men’s ways are not our ways.  They cannot exhaust
-  longing in purposeless words on scraps of soulless paper, and I am
-  glad that they cannot.  I love you for your impatience; for your
-  purpose, and for the manliness which will win for you yet all that
-  you covet of fame, accomplishment and love.  You expect no reply,
-  but there are ways in which one can keep silent and yet speak.
-  Won’t you be surprised when your answer comes in a manner you have
-  never thought of?”
-
-
+“I did not expect this.  I thought that you would remain as silent
+as myself.  But men’s ways are not our ways.  They cannot exhaust
+longing in purposeless words on scraps of soulless paper, and I am
+glad that they cannot.  I love you for your impatience; for your
+purpose, and for the manliness which will win for you yet all that
+you covet of fame, accomplishment and love.  You expect no reply,
+but there are ways in which one can keep silent and yet speak.
+Won’t you be surprised when your answer comes in a manner you have
+never thought of?”
 
 
-XX. CONFUSION
+
+
 
 
 In his interest in what was going on on the other side of the wall,
@@ -5553,7 +5434,6 @@ he nodded and left the room.
 
 
 
-XXI. A CHANGE
 
 
 “It’s all up. I’m beaten on my own ground.” Thus confessed Sweetwater,
@@ -5575,7 +5455,6 @@ situation.”
 
 
 
-XXII. O. B. AGAIN
 
 
 “What’s happened? Something very important. I ought to hope so after
@@ -5757,18 +5636,17 @@ fatal thrust.”
 Sweetwater took up the sheet Mr. Gryce pushed towards him and re-read
 these lines:
 
-  “Dear Little Doris:
+“Dear Little Doris:
 
-  “It is a snowy night, but it is all bright inside and I feel no
-  chill in mind or body.  I hope it is so in the little cottage in
-  Derby; that my little friend is as happy with harsh winds blowing
-  from the mountains as she was on the summer day she came to see
-  me at this hotel.  I like to think of her as cheerful and beaming,
-  rejoicing in tasks which make her so womanly and sweet.  She is
-  often, often in my mind.
+“It is a snowy night, but it is all bright inside and I feel no
+chill in mind or body.  I hope it is so in the little cottage in
+Derby; that my little friend is as happy with harsh winds blowing
+from the mountains as she was on the summer day she came to see
+me at this hotel.  I like to think of her as cheerful and beaming,
+rejoicing in tasks which make her so womanly and sweet.  She is
+often, often in my mind.
 
-                                      “Affectionately your friend,
-                                         “EDITH A. CHALLONER.”
+“Affectionately your friend,
 
 
 “That to a child of sixteen!”
@@ -5811,12 +5689,10 @@ youthful enthusiasm in that smile than there was confidence or hope.
 
 
 
-BOOK III. THE HEART OF MAN
 
 
 
 
-XXIII. DORIS
 
 
 “A young girl named Doris Scott?”
@@ -5940,7 +5816,7 @@ that name. “Mr. Brotherson!” he echoed. “Brotherson! Not Orlando?”
 “No, no; his name is Oswald. He’s the manager of these Works. He’s sick
 with typhoid. We are caring for him. If you belonged here you would know
 that much. There! that’s his voice you hear. Go, if you have any mercy.”
- And she began to push to the door.
+And she began to push to the door.
 
 But Sweetwater was impervious to all hint. With eager eyes straining
 into the shadowy depths just visible over her shoulder, he listened
@@ -6054,7 +5930,6 @@ master-destroyer had awakened the solicitude of a whole town.
 
 
 
-XXIV. SUSPENSE
 
 
 Ten minutes after Sweetwater’s arrival in the village streets, he was at
@@ -6135,7 +6010,6 @@ the doctor says, HE WILL LIVE.
 
 
 
-XXV. THE OVAL HUT
 
 
 That night Dr. Fenton had a visitor. We know that visitor and we almost
@@ -6147,7 +6021,7 @@ of his business or his chief cause of interest in Oswald Brotherson. The
 eye which met his was too penetrating not to detect the smallest attempt
 at subterfuge; besides, Sweetwater had no need to hide his errand;
 it was one of peace, and it threatened nobody--“the more’s the pity,”
- thought he in uneasy comment to himself, as he realised the hopelessness
+thought he in uneasy comment to himself, as he realised the hopelessness
 of the whole situation.
 
 His first word, therefore, was a plain announcement.
@@ -6166,7 +6040,6 @@ Were this happy condition of things to be disturbed,--were the faintest
 rumour of sorrow or disaster to reach him in his present weakened state,
 I should fear a relapse, with all its attendant dangers. What then, if
 any intimation should be given him of the horrible tragedy suggested
-by the name you have mentioned? The man would die before your eyes. Mr.
 Challoner’s business will have to wait.”
 
 “That I see; but if I knew when I might speak--”
@@ -6353,7 +6226,6 @@ questions as the affair in which he was so deeply interested, demanded.
 
 
 
-XXVI. SWEETWATER RETURNS
 
 
 “You see me again, Miss Scott. I hope that yesterday’s intrusion has not
@@ -6528,7 +6400,6 @@ I carry him.”
 
 
 
-XXVII. THE IMAGE OF DREAD
 
 
 In the comfortable little sitting-room of the Scott cottage Doris stood,
@@ -6802,7 +6673,6 @@ that fact as certainly as from the more serious one which lay behind it.
 
 
 
-XXVIII. I HOPE NEVER TO SEE THAT MAN
 
 
 That this would be a difficult thing to do, Doris was soon to realise.
@@ -7093,13 +6963,12 @@ stopped, with a murmur of dismay which pierced Mr. Challoner’s heart and
 prepared him for the words which now fell shudderingly from her lips:
 
 “It is he! it is he! I said that I should know him wherever I saw him.”
- Then with a quiet turn towards the intruder, “Oh, why, why, did you come
+Then with a quiet turn towards the intruder, “Oh, why, why, did you come
 here!”
 
 
 
 
-XXIX. DO YOU KNOW MY BROTHER
 
 
 Her hands were thrust out to repel, her features were fixed; her beauty
@@ -7346,7 +7215,6 @@ to lighten an exit which had something in it of doom and dread presage.
 
 
 
-XXX. CHAOS
 
 
 It is not difficult to understand Mr. Challoner’s feelings or even
@@ -7671,7 +7539,6 @@ this hour he had not really known that he possessed either.
 
 
 
-XXXI. WHAT IS HE MAKING
 
 
 Other boxes addressed to O. Brotherson had been received at the station,
@@ -7760,7 +7627,6 @@ no means blind to the difficulties awaiting him.
 
 
 
-XXXII. TELL ME, TELL IT ALL
 
 
 The day was a grey one, the first of the kind in weeks. As Doris stepped
@@ -7788,7 +7654,7 @@ hope.”
 
 “Are you quite strong this morning? Strong enough to listen to my
 troubles; strong enough to bear your own if God sees fit to send them?”
- came hesitatingly from her lips as she watched the effect of each word,
+came hesitatingly from her lips as she watched the effect of each word,
 in breathless anxiety.
 
 “Troubles? There can be but one trouble for me,” was his unexpected
@@ -8010,7 +7876,6 @@ Orlando had entered the room.
 
 
 
-XXXIII. ALONE
 
 
 Oswald had heard nothing, seen nothing. But he took note of Doris’
@@ -8186,7 +8051,6 @@ set himself to attain than on the day he first betrayed his suspicions.
 
 
 
-XXXIV. THE HUT CHANGES ITS NAME
 
 
 That night Oswald was taken very ill. For three days his life hung in
@@ -8462,7 +8326,6 @@ precipitation was necessary, but the tone in which this ultimatum was
 given was of that decisive character which admits of no argument. He,
 therefore, merely looked his query. But Orlando was not one to answer
 looks; besides, he had no reply for the same importunate question urged
-by his own good sense. He knew that he must make the attempt upon which
 his future rested soon, and without risk of the sapping influence of
 lengthened suspense and weeks of waiting. He could hold on to those two
 demons leagued in attack against him, for a definite seven days, but
@@ -8518,7 +8381,6 @@ ever since his brother had left him.
 
 
 
-XXXV. SILENCE--AND A KNOCK
 
 
 Oswald did not succeed in finding a man to please Orlando. He suggested
@@ -8616,7 +8478,7 @@ lock, and stood ready to turn it.
 
 “I ask again your name and your business,” he shouted out in loud
 command. “Tell them or--” He meant to say, “or I do not turn this key.”
- But something withheld the threat. He knew that it would perish in the
+But something withheld the threat. He knew that it would perish in the
 utterance; that he could not carry it out. He would have to open the
 door now, response or no response. “Speak!” was the word with which he
 finished his demand.
@@ -8645,7 +8507,6 @@ The man confronting him from the darkness was Sweetwater.
 
 
 
-XXXVI. THE MAN WITHIN AND THE MAN WITHOUT
 
 
 An instant of silence, during which the two men eyed each other; then,
@@ -8698,7 +8559,6 @@ A growl from Brotherson’s set lips. Never had he looked more dangerous
 than in the one burning instant following this daring repetition of
 the detective’s outrageous request. But as he noted how slight was the
 figure opposing him from the other side of the threshold, he was swayed
-by his natural admiration of pluck in the physically weak, and lost his
 threatening attitude, only to assume one which Sweetwater secretly found
 it even harder to meet.
 
@@ -8922,7 +8782,6 @@ minute examination of the mechanism necessary to their mutual work.
 
 
 
-XXXVII. HIS GREAT HOUR
 
 Saturday night at eight o’clock.
 
@@ -9054,7 +8913,6 @@ though it seemed next to impossible that he could have heard her:
 shouted in that gentleman’s ear, “what time is it now?”
 
 Mr. Challoner, disengaging himself from their mutual grasp, knelt down
-by the lantern to consult his watch.
 
 “One minute to eight,” he shouted back.
 
@@ -9163,7 +9021,6 @@ reap the joy of conquest.
 
 
 
-XXXVIII. NIGHT
 
 
 Three days had passed, and Orlando Brotherson sat in his room at
@@ -9395,7 +9252,7 @@ interview must end all allusion to the subject. I will seek and find
 another man to share my fortunes; (as he said this he approached
 suddenly, and took his papers from the other’s hand) or--” Here he
 hastily retraced his steps to the door which he softly opened. “Or”
- he repeated--But though Oswald listened for the rest, it did not come.
+he repeated--But though Oswald listened for the rest, it did not come.
 While he waited, the other had given him one deeply concentrated look
 and passed out.
 
@@ -9515,18 +9372,16 @@ been unconscious of the passage.
 
 
 
-XXXIX. THE AVENGER
 
 
-  “Dear Mr. Challoner:
+“Dear Mr. Challoner:
 
-  “With every apology for the intrusion, may I request
-  a few minutes of private conversation with you this evening
-  at seven o’clock?  Let it be in your own room.
+“With every apology for the intrusion, may I request
+a few minutes of private conversation with you this evening
+at seven o’clock?  Let it be in your own room.
 
-                                          “Yours truly,
+“Yours truly,
 
-                                          “ORLANDO BROTHERSON.”
 
 Mr. Challoner had been called upon to face many difficult and
 heartrending duties since the blow which had desolated his home fell
@@ -9548,7 +9403,7 @@ the way of a bow, he took a careful survey of the room before saying:
 somewhere within hearing?”
 
 “Mr. Sweetwater is gone, as I had the honour of telling you yesterday,”
- was the somewhat stiff reply. “There are no witnesses to this
+was the somewhat stiff reply. “There are no witnesses to this
 conference, if that is what you wish to know.”
 
 “Thank you, but you will pardon my insistence if I request the privilege
@@ -9667,7 +9522,6 @@ may God and the spirit of my mother nerve my arm!”
 
 
 
-XL. DESOLATE
 
 
 The struggle was fierce but momentary. Oswald with his weakened
@@ -9676,7 +9530,7 @@ strength, and ere long sank away from the contest into Mr. Challoner’s
 arms.
 
 “You should not have summoned the shade of our mother to your aid,”
- observed the other with a smile, in which the irony was lost in terrible
+observed the other with a smile, in which the irony was lost in terrible
 presage. “I was always her favourite.”
 
 Oswald shuddered. Orlando had spoken truly; she had always been blindly,
@@ -9737,7 +9591,7 @@ sleep. I will keep awake for two.”
 “Orlando!” Visions were passing before Oswald’s eyes, soul-crushing
 visions such as in his blameless life he never thought could enter into
 his consciousness or blast his tranquil outlook upon life. “Orlando!”
- he again appealed, covering his eyes in a frenzied attempt to shut out
+he again appealed, covering his eyes in a frenzied attempt to shut out
 these horrors, “I cannot let you go like this. To-morrow--”
 
 “To-morrow, in every niche and corner of this world, wherever Edith
@@ -9766,7 +9620,6 @@ them like a fracas between angry men.
 
 
 
-XLI. FIVE O’CLOCK IN THE MORNING
 
 
 The clock in the hotel office struck three. Orlando Brotherson counted
@@ -9837,7 +9690,6 @@ fingers reaching down into the hollow void beneath.
 
 
 
-XLII. AT SIX
 
 
 Mr. Challoner had been honest in his statement regarding the departure
