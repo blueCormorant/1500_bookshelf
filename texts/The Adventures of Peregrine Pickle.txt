@@ -1,29 +1,5 @@
 
 
-
-
-
-THE ADVENTURES OF PEREGRINE PICKLE
-
-In which are included Memoirs of a Lady of Quality
-
-
-By Tobias Smollett
-
-
-
-VOLUME I.
-
-
-
-CHAPTER I.
-
-
-
-An Account of Mr. Gamaliel Pickle--The Disposition of his Sister
-described--He yields to her Solicitations, and returns to the Country.
-
-
 In a certain county of England, bounded on one side by the sea, and at
 the distance of one hundred miles from the metropolis, lived Gamaliel
 Pickle, esq.; the father of that hero whose fortunes we propose to
@@ -68,8 +44,8 @@ luxuriant. Little subject to refined sensations, he was scarce ever
 disturbed with violent emotions of any kind. The passion of love never
 interrupted his tranquility; and if, as Mr. Creech says, after Horace,
 
-    Not to admire is all the art I know;
-    To make men happy, and to keep them so;
+Not to admire is all the art I know;
+To make men happy, and to keep them so;
 
 Mr. Pickle was undoubtedly possessed of that invaluable secret; at
 least, he was never known to betray the faintest symptom of transport,
@@ -79,7 +55,6 @@ veal.
 
 Notwithstanding this appearance of phlegm, he could not help feeling his
 disappointments in trade; and upon the failure of a certain underwriter,
-by which he lost five hundred pounds, declared his design of
 relinquishing business, and retiring to the country. In this resolution
 he was comforted and encouraged by his only sister, Mrs. Grizzle, who
 had managed his family since the death of his father, and was now in
@@ -118,7 +93,6 @@ London, she observed, was a receptacle of iniquity, where an honest,
 unsuspecting man was every day in danger of falling a sacrifice to
 craft; where innocence was exposed to continual temptations, and virtue
 eternally persecuted by malice and slander; where everything was ruled
-by caprice and corruption, and merit utterly discouraged and despised.
 This last imputation she pronounced with such emphasis and chagrin, as
 plainly denoted how far she considered herself as an example of what she
 advanced; and really the charge was justified by the constructions that
@@ -163,7 +137,6 @@ other unnecessary expense.
 
 
 
-CHAPTER II.
 
 
 He is made acquainted with the Characters of Commodore Trunnion and his
@@ -307,7 +280,7 @@ a post, so as that the carriage lay along, and could not right
 herself.”--“I run you foul of a post!” cried the commander: “d-- my
 heart! you're a pretty dog, an't you, to tell me so above-board to my
 face? Did I take charge of the chaise? Did I stand at the helm?”--“No,”
- answered Hatchway; “I must confess you did not steer; but, howsomever,
+answered Hatchway; “I must confess you did not steer; but, howsomever,
 you cunned all the way, and so, as you could not see how the land lay,
 being blind of your larboard eye, we were fast ashore before you knew
 anything of the matter, Pipes, who stood abaft, can testify the truth of
@@ -492,10 +465,10 @@ in a tone of voice that seemed to be the joint issue of an Irish bagpipe
 and a sow-gelder's horn: the commodore, the lieutenant, and landlord,
 joined in the chorus, repeating this elegant stanza:--
 
-    Bustle, bustle, brave boys!
-      Let us sing, let us toil,
-      And drink all the while,
-      Since labour's the price of our joys.
+Bustle, bustle, brave boys!
+Let us sing, let us toil,
+And drink all the while,
+Since labour's the price of our joys.
 
 
 The third line was no sooner pronounced, than the can was lifted to
@@ -513,7 +486,6 @@ evening in the same place.
 
 
 
-CHAPTER III.
 
 
 
@@ -580,15 +552,15 @@ to his own inventions, he sat down, and produced the following morceau,
 which was transmitted to Miss Appleby, before his sister and counsellor
 had the least intimation of the affair:--
 
-                    “Miss Sally Appleby.
+“Miss Sally Appleby.
 
-    “Madam,--Understanding you have a parcel of heart, warranted
-    sound, to be disposed of, shall be pleased to treat for said
-    commodity, on reasonable terms; doubt not, shall agree for
-    same; shall wait on you for further information, when and where
-    you shall appoint. This the needful from--Yours, etc.
+“Madam,--Understanding you have a parcel of heart, warranted
+sound, to be disposed of, shall be pleased to treat for said
+commodity, on reasonable terms; doubt not, shall agree for
+same; shall wait on you for further information, when and where
+you shall appoint. This the needful from--Yours, etc.
 
-                                    “Gam. Pickle.”
+“Gam. Pickle.”
 
 This laconic epistle, simple and unadorned as it was, met with as
 cordial a reception from the person to whom it was addressed, as if it
@@ -655,7 +627,6 @@ nuptials with their presence accordingly.
 
 
 
-CHAPTER IV.
 
 
 
@@ -765,7 +736,6 @@ woman, perfectly well acquainted with the nature of her own situation.
 
 
 
-CHAPTER V.
 
 
 
@@ -835,7 +805,6 @@ the commodore's heart, which the reader will easily believe was not very
 susceptible of tender impressions; but, on the contrary, fortified with
 insensibility and prejudice against the charms of the whole sex, and
 particularly prepossessed to the prejudice of that class distinguished
-by the appellation of old maids, in which Mrs. Grizzle was by this time
 unhappily ranked. She nevertheless took the field, and having invested
 this seemingly impregnable fortress, began to break ground one day,
 when Trunnion dined at her brother's, by springing certain ensnaring
@@ -904,7 +873,6 @@ Grizzle, who incessantly watched her sister's looks, took the alarm,
 because she thought they gave certain indications of curiosity and
 desire; and after having observed that she herself could never eat
 pine-apples, which were altogether unnatural productions, extorted
-by the force of artificial fire out of filthy manure, asked, with a
 faltering voice, if Mrs. Pickle was not of her way of thinking? This
 young lady, who wanted neither slyness nor penetration, at once divined
 her meaning, and replied, with seeming unconcern, that for her own part
@@ -953,12 +921,10 @@ to visit that very nobleman at whose house the officious stranger had
 been (for her) so unfortunately regaled, and actually arrived, in a
 post-chaise, at the place of his habitation, when she introduced her
 business as an affair on which the happiness of a whole family depended.
-By virtue of a present to his lordship's gardener, she procured the
 Hesperian fruit, with which she returned in triumph.
 
 
 
-CHAPTER VI.
 
 
 
@@ -970,7 +936,6 @@ resumes the Plan which she had before rejected.
 
 The success of this device would have encouraged Mrs. Pickle to practise
 more of the same sort upon her sister-in-law, had she not been deterred
-by a violent fever which seized her zealous ally, in consequence of the
 fatigue and uneasiness she had undergone; which, while it lasted, as
 effectually conduced to her repose, as any other stratagem she could
 invent. But Mrs. Grizzle's health was no sooner restored, than the
@@ -1089,7 +1054,6 @@ audience, disclosed the melancholy situation of her sister, and implored
 the benevolence of her ladyship, who, contrary to expectation, received
 her very graciously, and consented to indulge Mrs. Pickle's longing. Mr.
 Pickle began to be out of humour at the expense to which he was exposed
-by the caprice of his wife, who was herself alarmed at this last
 accident, and for the future kept her fancy within bounds; insomuch,
 that without being subject to any more extraordinary trouble, Mrs.
 Grizzle reaped the long-wished fruits of her dearest expectation in the
@@ -1119,20 +1083,19 @@ tears over the sacrifice when it was made; and took horse immediately,
 and departed for the habitation of an eminent country physician, whom
 she consulted in these words: “Pray, doctor, is it not both dangerous
 and cruel to be the means of letting a poor tender infant perish
-by sousing it in water as cold as ice?”--“Yes,” replied the doctor,
 “downright murder, I affirm.”--“I see you are a person of great learning
 and sagacity,” said the other; “and I must beg you will be so good as
 to signify your opinion in your own handwriting.” The doctor immediately
 complied with her request, and expressed himself upon a slip of paper to
 this purpose:--
 
-    “These are to certify whom it may concern, that I firmly
-    believe, and it is my unalterable opinion, that who soever
-    letteth an infant perish, by sousing it in cold water, even
-    though the said water should not be so cold as ice, is in
-    effect guilty of the murder of the said infant, as witness
-    my hand,
-                       “Comfit Colocynth.”
+“These are to certify whom it may concern, that I firmly
+believe, and it is my unalterable opinion, that who soever
+letteth an infant perish, by sousing it in cold water, even
+though the said water should not be so cold as ice, is in
+effect guilty of the murder of the said infant, as witness
+my hand,
+“Comfit Colocynth.”
 
 
 Having obtained this certificate, for which the physician was handsomely
@@ -1230,7 +1193,6 @@ of Mr. Hatchway, resolved to level this obstruction to her success, and
 actually found means to interest him in her scheme. She had indeed, on
 some occasions, a particular knack at making converts, being probably
 not unacquainted with that grand system of persuasion which is adopted
-by the greatest personages of the age, and fraught with maxims much
 more effectual than all the eloquence of Tully or Demosthenes, even
 when supported by the demonstrations of truth; besides, Mr. Hatchway's
 fidelity to his new ally was confirmed by his foreseeing, in his
@@ -1274,7 +1236,6 @@ most significantly picturesque.
 
 
 
-CHAPTER VII.
 
 
 
@@ -1341,7 +1302,6 @@ confirmed by a sudden explosion, which he took for thunder, though it
 was no other than the noise of a pistol fired down the chimney by the
 boatswain's mate, according to the instructions he had received; and he
 had time enough to descend before he was in any danger of being detected
-by his commodore, who could not for an hour recollect himself from the
 amazement and consternation which had overpowered his faculties.
 
 At length, however, he got up, and rang his bell with great agitation.
@@ -1371,7 +1331,6 @@ signals, and that it would be both sinful and foolish to disregard its
 commands, especially as the match proposed was, in all respects, more
 advantageous than any that one of his years could reasonably expect;
 declaring that for his own part he would not endanger his soul and body
-by living one day longer under the same roof with a man who despised the
 will of Heaven; and Tom Pipes adhered to the same pious resolution.
 
 Trunnion's perseverance could not resist the number and diversity
@@ -1439,13 +1398,11 @@ excluded from all share in the business; making that condition the
 indispensable preliminary of the whole agreement. Things being brought
 to this bearing, Mrs. Grizzle's heart dilated with joy; her health,
 which, by the bye, was never dangerously impaired, she recovered as if
-by enchantment; and, a day being fixed for the nuptials, employed the
 short period of her celibacy in choosing ornaments for the celebration
 of her entrance into the married state.
 
 
 
-CHAPTER VIII.
 
 
 
@@ -1455,7 +1412,6 @@ an Accident that hurried him the Lord knows whither.
 
 The fame of this extraordinary conjunction spread all over the county;
 and, on the day appointed for their spousals, the church was surrounded
-by an inconceivable multitude. The commodore, to give a specimen of his
 gallantry, by the advice of his friend Hatchway, resolved to appear on
 horseback on the grand occasion, at the head of all his male attendants,
 whom he had rigged with the white shirts and black caps formerly
@@ -1493,7 +1449,7 @@ leeway.”--“Lord, sir!” said the valet, “what occasion have you to go
 zig-zag in that manner? Do but clap spurs to your horses, and ride
 straight forward, and I'll engage yea shall be at the church-porch
 in less than a quarter of an hour.”--“What? right in the wind's eye?”
- answered the commodore; “ahey! brother, where did you learn your
+answered the commodore; “ahey! brother, where did you learn your
 navigation? Hawser Trunnion is not to be taught at this time of day how
 to lie his course, or keep his own reckoning. And as for you, brother,
 you best know the trim of your own frigate.”
@@ -1618,14 +1574,13 @@ Cognac, which it really was; and expressing a desire of participation,
 was immediately accommodated with a moderate dose, which perfectly
 completed his recovery.
 
-By this time he and his two horses had engrossed the attention of the
 whole crowd: while some admired the elegant proportion and uncommon
 spirit of the two animals, the rest contemplated the surprising
 appearance of their master, whom before they had only seen en passant;
 and at length, one of the gentlemen, accosting him very courteously,
 signified his wonder at seeing him in such an equipage, and asked if
 he had not dropped his companion by the way. “Why look ye, brother,”
- replied the commodore, “mayhap you think me an odd sort of a fellow,
+replied the commodore, “mayhap you think me an odd sort of a fellow,
 seeing me in this trim, especially as I have lost part of my rigging;
 but this here is the case, d'ye see: I weighed anchor from my own house
 this morning, at ten A.M. with fair weather, and a favourable breeze
@@ -1685,7 +1640,6 @@ satisfaction.
 
 
 
-CHAPTER IX.
 
 
 
@@ -1778,7 +1732,6 @@ best but a disagreeable, not to say dangerous situation. She accordingly
 complained with some warmth of this inconvenience, which she imputed
 to disrespect; and, at first, absolutely refused to put up with the
 expedient; but Mrs. Pickle soon brought her to reason and compliance,
-by observing that one night will soon be elapsed, and next day she might
 regulate her own economy.
 
 Thus persuaded, she ventured into the vehicle, and was visited by her
@@ -1810,7 +1763,6 @@ huddling on her clothes, she sallied from her chamber, explored her
 way through paths before unknown, and in the course of her researches
 perceived a large bell, to which she made such effectual application
 as alarmed every soul in the family. In a moment she was surrounded
-by Hatchway, Pipes, and all the rest of the servants half-dressed; but
 seeing none of the feminine gender appear, she began to storm at the
 sloth and laziness of the maids, who, she observed, ought to have been
 at work an hour at least before she called; and then, for the first
@@ -1869,7 +1821,6 @@ probability would have ensued, had not the lady of the castle
 interposed, and prevented the effects of their animosity, by assuring
 the lieutenant that the commodore had been the aggressor, and that the
 workmen, finding themselves attacked in such an extraordinary manner,
-by a person whom they did not know, were obliged to act in their own
 defence, by which he had received that unlucky contusion.
 
 Mr. Hatchway no sooner learnt the sentiments of Mrs. Trunnion, than,
@@ -1897,7 +1848,6 @@ he recovered his vision he was an utter stranger in his own house.
 
 
 
-CHAPTER X.
 
 
 
@@ -2049,8 +1999,7 @@ a case of the same nature, where a fine child was found, even after all
 signs of the mother's pregnancy had disappeared. Every twig of hope, how
 slender soever it may be, is eagerly caught hold on by people who find
 themselves in danger of being disappointed. To every question proposed
-by her to the lady, with the preambles of “Han't you?” or “Don't you?”
- answer was made in the affirmative, whether agreeable to truth or not,
+answer was made in the affirmative, whether agreeable to truth or not,
 because the respondent could not find in her heart to disown any symptom
 that might favour the notion she had so long indulged.
 
@@ -2079,7 +2028,6 @@ Lieutenant Hatchway, whom she never ventured to disoblige.
 
 
 
-CHAPTER XI.
 
 
 
@@ -2156,7 +2104,6 @@ particular by the example and instruction of Mr. Hatchway, who delighted
 in superintending the first essays of his genius. As the gout had taken
 up its residence in Mr. Trunnion's great toe, from whence it never
 removed, no not for a day, little Perry took great pleasure in treading
-by accident on this infirm member; and when his uncle, incensed by the
 pain, used to damn him for a hell-begotten brat, he would appease him in
 a twinkling, by returning the curse with equal emphasis, and asking
 what was the matter with old Hannibal Tough? an appellation by which the
@@ -2171,7 +2118,6 @@ did the caprice of his disposition abstain from the favourite beverage
 of Trunnion, who more than once swallowed a whole draught in which
 his brother's snuff-box had been emptied, before he perceived the
 disagreeable infusion; and one day, when the commodore had chastised him
-by a gentle tap with his cane, he fell flat on the floor as if he had
 been deprived of all sense and motion, to the terror and amazement of
 the striker; and after having filled the whole house with confusion and
 dismay, opened his eyes, and laughed heartily at the success of his own
@@ -2217,7 +2163,6 @@ absence of either.
 
 
 
-CHAPTER XII.
 
 
 
@@ -2241,7 +2186,6 @@ the character of an inferior teacher, had, by his sole capacity and
 application, brought the school to that degree of reputation, which
 it never could have obtained from the talents of its superior. He had
 established an economy, which, though regular, was not at all severe,
-by enacting a body of laws suited to the age and comprehension of every
 individual; and each transgressor was fairly tried by his peers, and
 punished according to the verdict of the jury. No boy was scourged for
 want of apprehension, but a spirit of emulation was raised by well-timed
@@ -2396,20 +2340,20 @@ of the person whom he both detested and despised. With this view he went
 to work, and composed the following billet, addressed to the commodore,
 which was the first specimen of his composition in the epistolary way:--
 
-    “Honoured and Loving Uncle,--Hoping you are in good health,
-    this serves to inform you, that Mr. Jennings is gone, and
-    Mr. Keypstick will never meet with his fellow. The school
-    is already almost broke up, and the rest daily going away;
-    and I beg of you of all love to have me fetched away also,
-    for I cannot bear to be any longer under one who is a perfect
-    ignoramus, who scarce knows the declination of musa, and is
-    more fit to be a scarecrow than a schoolmaster; hoping you
-    will send for me soon, with my love to my aunt, and my duty
-    to my honoured parents, craving their blessing and yours. And
-    this is all at present from, honoured uncle, your well-beloved
-    and dutiful nephew and godson, and humble servant to command
-    till death,
-                             “Peregrine Pickle.”
+“Honoured and Loving Uncle,--Hoping you are in good health,
+this serves to inform you, that Mr. Jennings is gone, and
+Mr. Keypstick will never meet with his fellow. The school
+is already almost broke up, and the rest daily going away;
+and I beg of you of all love to have me fetched away also,
+for I cannot bear to be any longer under one who is a perfect
+ignoramus, who scarce knows the declination of musa, and is
+more fit to be a scarecrow than a schoolmaster; hoping you
+will send for me soon, with my love to my aunt, and my duty
+to my honoured parents, craving their blessing and yours. And
+this is all at present from, honoured uncle, your well-beloved
+and dutiful nephew and godson, and humble servant to command
+till death,
+“Peregrine Pickle.”
 
 
 Trunnion was overjoyed at the receipt of this letter, which he looked
@@ -2463,7 +2407,6 @@ the welfare of the child.
 
 
 
-CHAPTER XIII.
 
 
 
@@ -2597,7 +2540,6 @@ obliquely at the innocent commodore, whom the officious son of
 Aesculapius suspected as the author of this expedient, to rid his hands
 of a yoke-fellow for whom he was well known to have no great devotion.
 This impertinent and malicious insinuation made some impression upon the
-bystanders, and furnished ample field for slander to asperse the morals
 of Trunnion, who was represented through the whole district as a monster
 of barbarity. Nay, the sufferer herself, though she behaved with great
 decency and prudence, could not help entertaining some small diffidence
@@ -2640,7 +2582,7 @@ affair the better; for 'tis an old observation, that delay breeds
 danger.”--“Truly, brother,” said the commodore, who could no longer
 contain himself, “I do confess that I am very much of your way of
 thinking, d'ye see, and therefore you shall be despatched in a trice.”
- So saying, he lifted up his walking-staff, which was something between
+So saying, he lifted up his walking-staff, which was something between
 a crutch and a cudgel, and discharged it with such energy on the seat of
 the attorney's understanding, that if there had been anything but solid
 bone, the contents of his skull must have been evacuated.
@@ -2653,7 +2595,6 @@ the vengeance he had taken on such an impudent pettifogging miscreant.
 
 The attorney no sooner awaked from his trance, into which he had been so
 unexpectedly killed, than he cast his eyes around in quest of evidence,
-by which he might be enabled the more easily to prove the injury he had
 sustained, but not a soul appearing, he made shift to get upon his legs
 again, and, with the blood trickling over his nose, followed one of the
 servants into the dining-room, resolved to come to an explanation with
@@ -2667,17 +2608,16 @@ smart for this here assault.” You think you have screened yourself from
 a prosecution by sending all your servants out of the way; but that
 circumstance will appear upon trial to be a plain proof of the malice
 prepense with which the fact was committed; especially when corroborated
-by the evidence of this here letter, under your own hand, whereby I am
 desired to come to your own house to transact an affair of consequence.
 So he produced the writing, and read the contents in these words:--
 
-                 “Mr. Roger Ravine.
-    Sir,--Being in a manner prisoner in my own house, I desire
-    you will give me a call precisely at three o'clock in the
-    afternoon, and insist upon seeing myself, as I have an affair
-    of great consequence, in which your particular advice is
-    wanted by your humble servant,
-                                   “Hawser Trunnion.”
+“Mr. Roger Ravine.
+Sir,--Being in a manner prisoner in my own house, I desire
+you will give me a call precisely at three o'clock in the
+afternoon, and insist upon seeing myself, as I have an affair
+of great consequence, in which your particular advice is
+wanted by your humble servant,
+“Hawser Trunnion.”
 
 
 The one-eyed commander, who had been satisfied with the chastisement he
@@ -2775,7 +2715,7 @@ eyes, his three rows of teeth, his horns and tail, and the blue smoke
 that came out of his nostrils. What does the blackguard hell's baby
 want with me? I'm sure I never committed murder, except in the way of my
 profession, nor wronged any man whatsomever since I first went to sea.”
- This same Davy Jones, according to the mythology of sailors, is the
+This same Davy Jones, according to the mythology of sailors, is the
 fiend that presides over all the evil spirits of the deep, and is
 often seen in various shapes, perching among the rigging on the eve of
 hurricanes, shipwrecks, and other disasters, to which a seafaring life
@@ -2785,7 +2725,6 @@ his opinion, foreboded some dreadful calamity.
 
 
 
-CHAPTER XIV.
 
 
 
@@ -2886,24 +2825,24 @@ to know the subject of an epistle from a person who had never before
 troubled him with any sort of address, he endeavoured to recollect
 himself, and perused the contents, which were these;--
 
-    “Loving Nephew,--I doubt not but you will be rejoiced to
-    hear of my welfare; and well you may, considering what a
-    kind uncle I have been to you in the days of your youth, and
-    how little you deserved any such thing; for yet, was always
-    a graceless young man, given to wicked courses and bad company,
-    whereby you would have come to a shameful end, had it not been
-    for my care in sending you out of mischief's way. But this is
-    not the cause of my present writing. The bearer, Mr. Timothy
-    Trickle, is a distant relation of yours, being the son of the
-    cousin of your aunt Margery, and is not over and above well as
-    to worldly matters. He thinks of going to London, to see for
-    some post in the excise or customs if so be that you will
-    recommend him to some great man of your acquaintance, and give
-    him a small matter to keep him till he is provided. I doubt not,
-    nephew, but you will be glad to serve him, if it was no more
-    but for the respect you bear to me, who am,--Loving nephew,
-    your affectionate uncle, and servant to command,
-                                          “Tobiah Trunnion.”
+“Loving Nephew,--I doubt not but you will be rejoiced to
+hear of my welfare; and well you may, considering what a
+kind uncle I have been to you in the days of your youth, and
+how little you deserved any such thing; for yet, was always
+a graceless young man, given to wicked courses and bad company,
+whereby you would have come to a shameful end, had it not been
+for my care in sending you out of mischief's way. But this is
+not the cause of my present writing. The bearer, Mr. Timothy
+Trickle, is a distant relation of yours, being the son of the
+cousin of your aunt Margery, and is not over and above well as
+to worldly matters. He thinks of going to London, to see for
+some post in the excise or customs if so be that you will
+recommend him to some great man of your acquaintance, and give
+him a small matter to keep him till he is provided. I doubt not,
+nephew, but you will be glad to serve him, if it was no more
+but for the respect you bear to me, who am,--Loving nephew,
+your affectionate uncle, and servant to command,
+“Tobiah Trunnion.”
 
 
 It would be a difficult task for the inimitable Hogarth himself to
@@ -2977,7 +2916,6 @@ disappointment he had undergone.
 
 
 
-CHAPTER XV.
 
 
 
@@ -3135,14 +3073,13 @@ the first time in his life, to have looked misty at parting: certain I
 am, that on the road homewards, after a long pause of silence, which the
 commodore never dreamt of interrupting, he exclaimed all of a sudden,
 “I'll be d--d if the dog ha'nt given me some stuff to make me love him!”
- Indeed, there was something congenial in the disposition of these two
+Indeed, there was something congenial in the disposition of these two
 friends, which never failed to manifest itself in the sequel, howsoever
 different their education, circumstances, and connections happened to
 be.
 
 
 
-CHAPTER XVI.
 
 
 
@@ -3174,7 +3111,6 @@ this pedagogue into a debauch, during which his caution forsook him, and
 he exposed himself to the censure of the company. Sometimes, when the
 conversation turned upon intricate subjects, he practised upon him the
 Socratic method of confutation, and, under pretence of being informed,
-by an artful train of puzzling questions insensibly betrayed him into
 self-contradiction.
 
 All the remains of authority which he had hitherto preserved over
@@ -3197,7 +3133,6 @@ for the benefit of the school.
 
 The governor, conscious of his own unimportance, was not a little
 disconcerted at this injunction, which it was not in his power to fulfil
-by any compulsive means. He therefore went home in a very pensive mood,
 and after mature deliberation, resolved to expostulate with Peregrine
 in the most familiar terms, and endeavour to dissuade him from practices
 which might affect his character as well as interest. He accordingly
@@ -3286,7 +3221,6 @@ the affair, would follow the example, and make his uncle acquainted
 with certain anecdotes, which it was the governor's interest to keep
 concealed. Peregrine was of opinion that he should spare himself the
 trouble of conveying any complaints to the commodore; and if questioned
-by the master, assure him he had complied with his desire: at the same
 time he promised faithfully to conduct himself with such circumspection
 for the future, that the masters should have no temptation to revive
 the inquiry. But the resolution attending this extorted promise was too
@@ -3296,7 +3230,6 @@ usual good fortune.
 
 
 
-CHAPTER XVII.
 
 
 
@@ -3580,7 +3513,6 @@ occasions should call him that way.
 
 
 
-CHAPTER XVIII.
 
 
 
@@ -3834,25 +3766,25 @@ In the mean time, Perry's ideas were totally engrossed by his amiable
 mistress, who, whether he slept or waked, was still present in his
 imagination, which produced the following stanzas in her praise:--
 
-    Adieu! ye streams that smoothly flow;
-    Ye vernal airs that softly blow;
-    Ye plains, by blooming spring arrayed;
-    Ye  birds that warble through the shade.
+Adieu! ye streams that smoothly flow;
+Ye vernal airs that softly blow;
+Ye plains, by blooming spring arrayed;
+Ye  birds that warble through the shade.
 
-    Unhurt from you my soul could fly,
-    Nor drop one tear, nor heave one sigh;
-    But forced from Celia's charms to part,
-    All joy deserts my drooping heart.
+Unhurt from you my soul could fly,
+Nor drop one tear, nor heave one sigh;
+But forced from Celia's charms to part,
+All joy deserts my drooping heart.
 
-    O' fairer than the rosy morn,
-    When flowers the dewy fields adorn;
-    Unsallied as the genial ray,
-    That warms the balmy breeze of May;
+O' fairer than the rosy morn,
+When flowers the dewy fields adorn;
+Unsallied as the genial ray,
+That warms the balmy breeze of May;
 
-    Thy charms divinely bright appear,
-    And add new splendour to the year;
-    Improve the day with fresh delight,
-    And gild with joy the dreary night.
+Thy charms divinely bright appear,
+And add new splendour to the year;
+Improve the day with fresh delight,
+And gild with joy the dreary night.
 
 
 This juvenile production was enclosed in a very tender billet to Emilia,
@@ -3863,7 +3795,6 @@ letter to miss, without the knowledge of her mamma.
 
 
 
-CHAPTER XIX.
 
 
 
@@ -3927,7 +3858,6 @@ discretion.
 Emilia, conveying the letter into her bosom, could not help smiling at
 Tom's politeness and dexterity; but lest her mamma should detect him in
 the execution of his pantomime, she broke off this intercourse of signs,
-by asking aloud when he proposed to set out on his return to Winchester?
 When he answered, “To-morrow morning.” Miss Gauntlet recommended him
 to the hospitality of her own footman, desiring him to make much of
 Mr. Pipes below, where he was kept to supper, and very cordially
@@ -3936,22 +3866,22 @@ which made her heart throb with rapturous expectation, retired to her
 chamber as soon as possible, with a view of perusing the contents, which
 were these:--
 
-    “Divine Empress Of My Soul,--If the refulgent flames of your
-    beauty had not evaporated the particles of my transported
-    brain, and scorched my intellects into a cinder of stolidity,
-    perhaps the resplendency of my passion might shine illustrious
-    through the sable curtain of my ink, and in sublimity transcend
-    the galaxy itself, though wafted on the pinions of a gray goose
-    quill! But, ah! celestial enchantress! the necromancy of thy
-    tyrannical charms hath fettered my faculties with adamantine
-    chains, which, unless thy compassion shall melt I must eternally
-    remain in the Tartarean gulf of dismal despair. Vouchsafe,
-    therefore, O thou brightest luminary of this terrestrial sphere!
-    to warm, as well as shine; and let the genial rays of thy
-    benevolence melt the icy emanations of thy disdain, which hath
-    frozen up the spirits of angelic pre-eminence.--Thy most
-    egregious admirer and superlative slave,
-                                     “Peregrine Pickle.”
+“Divine Empress Of My Soul,--If the refulgent flames of your
+beauty had not evaporated the particles of my transported
+brain, and scorched my intellects into a cinder of stolidity,
+perhaps the resplendency of my passion might shine illustrious
+through the sable curtain of my ink, and in sublimity transcend
+the galaxy itself, though wafted on the pinions of a gray goose
+quill! But, ah! celestial enchantress! the necromancy of thy
+tyrannical charms hath fettered my faculties with adamantine
+chains, which, unless thy compassion shall melt I must eternally
+remain in the Tartarean gulf of dismal despair. Vouchsafe,
+therefore, O thou brightest luminary of this terrestrial sphere!
+to warm, as well as shine; and let the genial rays of thy
+benevolence melt the icy emanations of thy disdain, which hath
+frozen up the spirits of angelic pre-eminence.--Thy most
+egregious admirer and superlative slave,
+“Peregrine Pickle.”
 
 
 Never was astonishment more perplexing than that of Emilia, when she
@@ -4030,7 +3960,6 @@ observed, stood always neuter in everything that concerned his eldest
 son; and as for Mrs. Pickle, she had never heard his name mentioned
 since his departure with any degree of temper or tranquility, except
 when her husband informed her that he was in a fair way of being ruined
-by this indiscreet amour. It was then she began to applaud her own
 foresight, which had discerned the mark of reprobation in that vicious
 boy, and launched out in comparison between him and Gammy, who, she
 observed, was a child of uncommon parts and solidity, and, with the
@@ -4050,7 +3979,6 @@ as it is, may not be thought to resemble more than one original.
 
 
 
-CHAPTER XX.
 
 
 
@@ -4149,7 +4077,7 @@ urged to declare himself by the youth, who pathetically begged to know
 how he had incurred his displeasure, he answered, in a peevish strain,
 “Why, good now, child, what would you have me to do? your mother can't
 abide you.”--“If my mother is so unkind, I will not call it unnatural,”
- said Peregrine, the tears of indignation starting from his eyes, “as
+said Peregrine, the tears of indignation starting from his eyes, “as
 to banish me from her presence and affection, without the least cause
 assigned; I hope you will not be so unjust as to espouse her barbarous
 prejudice.”
@@ -4201,18 +4129,17 @@ condescensions he had made, and for ever renounce the ungracious object
 of her disgust. This undertaking was punctually performed in a letter to
 the commodore, which she herself dictated in these words:--
 
-    “Sir--Whereas my good-nature being last night imposed upon, I
-    was persuaded to countenance and promise I know not what to
-    that vicious youth, whose parent I have the misfortune to be;
-    I desire you will take notice that I will revoke all such
-    countenance and promises, and shall never look upon that man
-    as my friend who will, in such a cause, solicit,--
-    Sir, yours, etc.
-                            “Gam. Pickle.”
+“Sir--Whereas my good-nature being last night imposed upon, I
+was persuaded to countenance and promise I know not what to
+that vicious youth, whose parent I have the misfortune to be;
+I desire you will take notice that I will revoke all such
+countenance and promises, and shall never look upon that man
+as my friend who will, in such a cause, solicit,--
+Sir, yours, etc.
+“Gam. Pickle.”
 
 
 
-CHAPTER XXI.
 
 
 
@@ -4223,7 +4150,6 @@ himself as a Youth of an enterprising Genius.
 
 
 Unspeakable were the transports of rage to which Trunnion was incensed
-by this absurd renunciation: he tore the letter with his gums (teeth
 he had none), spit with furious grimaces, in token of the contempt
 he entertain the for the author, whom he not only damned as a lousy,
 scabby, nasty, scurvy, skulking lubberly noodle, but resolved to
@@ -4239,16 +4165,16 @@ he retired to his apartment, and, in the first emotions of his ire,
 produced the following epistle, which was immediately conveyed to his
 mother,--
 
-    “Madam,--Had nature formed me a bugbear to the sight, and
-    inspired me with a soul as vicious as my body was detestable,
-    perhaps I might have enjoyed particular marks of your affection
-    and applause; seeing you have persecuted me with such unnatural
-    aversion, for no other visible reason than that of my differing
-    so widely in shape as well as disposition from that deformed
-    urchin who is the object of your tenderness and care. If these be
-    the terms on which alone I can obtain your favour, I pray God
-    you may never cease to hate,--Madam, your much-injured son,
-                           “Peregrine Pickle.”
+“Madam,--Had nature formed me a bugbear to the sight, and
+inspired me with a soul as vicious as my body was detestable,
+perhaps I might have enjoyed particular marks of your affection
+and applause; seeing you have persecuted me with such unnatural
+aversion, for no other visible reason than that of my differing
+so widely in shape as well as disposition from that deformed
+urchin who is the object of your tenderness and care. If these be
+the terms on which alone I can obtain your favour, I pray God
+you may never cease to hate,--Madam, your much-injured son,
+“Peregrine Pickle.”
 
 
 This letter, which nothing, but his passion and inexperience could
@@ -4283,7 +4209,6 @@ commoner in the books, and provided with a judicious tutor, instead of
 returning to the study of Greek and Latin, in which he thought himself
 already sufficiently instructed, he renewed his acquaintance with some
 of his old school-fellows, whom he found in the same situation, and was
-by them initiated in all the fashionable diversions of the place.
 
 It was not long before he made himself remarkable for his spirit and
 humour, which were so acceptable to the bucks of the university, that he
@@ -4335,7 +4260,6 @@ enthusiasts. It was a constant practice with them, in their midnight
 consistories, to swallow such plentiful draughts of inspiration, that
 their mysteries commonly ended like those of the Bacchanalian orgia; and
 they were seldom capable of maintaining that solemnity of decorum which,
-by the nature of their functions, most of them were obliged to profess.
 Now, as Peregrine's satirical disposition was never more gratified than
 when he had an opportunity of exposing grave characters in ridiculous
 attitudes, he laid a mischievous snare for his new confederates, which
@@ -4414,7 +4338,6 @@ faith and principles which he had professed.
 
 
 
-CHAPTER XXII.
 
 
 
@@ -4439,8 +4362,8 @@ proffigacy of morals; and, that he might feel it the more sensibly, was
 ordered, by way of exercise, to compose a paraphrase in English verse
 upon these two lines in Virgil:--
 
-    Vane Ligur, frustraque animis elate superbis,
-    Nequicquam patrias tentasti lubricus artes.
+Vane Ligur, frustraque animis elate superbis,
+Nequicquam patrias tentasti lubricus artes.
 
 
 The imposition of this invidious theme had all the desired effect upon
@@ -4463,33 +4386,33 @@ of learning. Fraught with this intelligence, he composed the following
 ballad in doggerel rhymes; and next day, presented it as a gloss upon
 the text which the tutor had chosen:--
 
-    Come, listen, ye students of every degree;
-    I sing of a wit and a tutor perdie,
-    A statesman profound, a critic immense,
-    In short a mere jumble of learning and sense;
-    And yet of his talents though laudably vain,
-    His own family arts he could never attain.
+Come, listen, ye students of every degree;
+I sing of a wit and a tutor perdie,
+A statesman profound, a critic immense,
+In short a mere jumble of learning and sense;
+And yet of his talents though laudably vain,
+His own family arts he could never attain.
 
-    His father, intending his fortune to build,
-    In his youth would have taught him the trowel to wield,
-    But the mortar of discipline never would stick,
-    For his skull was secured by a facing of brick;
-    And with all his endeavours of patience and pain,
-    The skill of his sire he could never attain.
+His father, intending his fortune to build,
+In his youth would have taught him the trowel to wield,
+But the mortar of discipline never would stick,
+For his skull was secured by a facing of brick;
+And with all his endeavours of patience and pain,
+The skill of his sire he could never attain.
 
-    His mother, a housewife neat, artful, and wise,
-    Renown'd for her delicate biscuit and pies,
-    soon alter'd his studies, by flattering his taste,
-    From the raising of walls to the rearing of paste!
-    But all her instructions were fruitless and vain;
-    The pie-making mystery he ne'er could attain.
+His mother, a housewife neat, artful, and wise,
+Renown'd for her delicate biscuit and pies,
+soon alter'd his studies, by flattering his taste,
+From the raising of walls to the rearing of paste!
+But all her instructions were fruitless and vain;
+The pie-making mystery he ne'er could attain.
 
-    Yet true to his race, in his labours were seen
-    A jumble of both their professions, I ween;
-    For, when his own genius he ventured to trust,
-    His pies seemed of brick, and his houses of crust.
-    Then good Mr. Tutor, pray be not so vain,
-    Since your family arts you could never attain.
+Yet true to his race, in his labours were seen
+A jumble of both their professions, I ween;
+For, when his own genius he ventured to trust,
+His pies seemed of brick, and his houses of crust.
+Then good Mr. Tutor, pray be not so vain,
+Since your family arts you could never attain.
 
 
 This impudent production was the most effectual vengeance he could
@@ -4558,7 +4481,6 @@ resentment to her aid, and found resolution enough to retire from such a
 dangerous scene.
 
 Alarmed at her retreat, he recollected all his assurance, and, impelled
-by love, which he could no longer resist, followed her into the next
 room, where, in the most disconcerted manner, he accosted her with “Your
 humble servant, Miss Gauntlet;” to which salutation she replied, with
 an affectation of indifference, that did not, however, conceal her
@@ -4579,10 +4501,9 @@ it happen otherwise,” retorted the nymph, with a flirt of her
 fan, “inconstancy will never want countenance from the practice of
 mankind.”--“True, madam,” resumed our hero, fixing his eyes upon her;
 “examples of levity are every where to be met with.”--“Oh Lord, sir,”
- cried Emilia, tossing her head, “you'll scarce ever find a fop without
+cried Emilia, tossing her head, “you'll scarce ever find a fop without
 it.”
 
-By this time his companion, seeing him engaged with one of the ladies,
 entered into conversation with the other; and, in order to favour his
 friend's gallantry, conducted her into the next apartment, on pretence
 of entertaining her with the sight of a remarkable piece of painting.
@@ -4653,14 +4574,12 @@ his endeavours, by keeping her companion continually engaged in the
 conversation, which turned upon the venerable appearance and imperial
 situation of the place. Thus tantalized, he lounged with them to the
 door of the house in which they lodged, when his mistress, perceiving,
-by the countenance of her comrade, that she was on the point of desiring
 him to walk in, checked her intention with a frown; then, turning to Mr.
 Pickle, dropped him a very formal curtsy, seized the other young lady by
 the arm, and saying, “Come, cousin Sophy,” vanished in a moment.
 
 
 
-CHAPTER XXIII.
 
 
 
@@ -4751,7 +4670,7 @@ me wretched.”--“Sir,” said Sophy, “you appear like a gentleman, and
 I doubt not but your behaviour has been always suitable to your
 appearance; but you must excuse me from undertaking any such office
 in behalf of a person whom I have not the honour to know.”--“Madam,”
- answered Peregrine, “I hope Miss Emy will justify my pretensions to that
+answered Peregrine, “I hope Miss Emy will justify my pretensions to that
 character, notwithstanding the mystery of her displeasure, which, upon
 my honour, I cannot for my soul explain.”--“Lord! Mr. Pickle,” said
 Emilia, who had by this time recollected herself, “I never questioned
@@ -4849,7 +4768,7 @@ astonishment, and, glowing with resentment at the same time, exclaimed,
 “Hell and the devil! what's all that? Sure you make a jest of me,
 madam!”--“Pray, sir,” said Sophy, “give me the hearing for a few
 moments, and then urge what you shall think proper in your own defence.”
- Having thus cautioned him, she proceeded; but before she had finished
+Having thus cautioned him, she proceeded; but before she had finished
 one-half of the performance, her gravity forsook her, and she was seized
 with a violent fit of laughter, in which neither of the lovers could
 help joining, notwithstanding the resentment which at that instant
@@ -4941,7 +4860,6 @@ often; and as he could not, without some previous introduction, visit
 her openly at the house of her relation, they agreed to meet every
 afternoon in the park till the next assembly, at which he would solicit
 her as a partner, and she be unengaged, in expectation of his request.
-By this connection he would be entitled to visit her next day, and
 thus an avowed correspondence would of course commence. This plan was
 actually put in execution, and attended with a circumstance which had
 well-nigh produced some mischievous consequence, had not Peregrine's
@@ -4949,7 +4867,6 @@ good fortune been superior to his discretion.
 
 
 
-CHAPTER XXIV.
 
 
 
@@ -5084,7 +5001,6 @@ governor desiring to have some serious conversation with him, they
 shut themselves up in an apartment, when Jolter, with great solemnity,
 communicated the cause of his journey, which was no other than his
 concern for his pupil's welfare; and very gravely undertook to prove,
-by mathematical demonstration, that this intrigue, if further pursued,
 would tend to the young gentleman's ruin and disgrace. This singular
 proposition raised the curiosity of Peregrine, who promised to yield all
 manner of attention, and desired him to begin without further preamble.
@@ -5161,7 +5077,6 @@ present to better advantage.
 
 
 
-CHAPTER XXV.
 
 
 
@@ -5195,22 +5110,22 @@ the good opinion of the commodore. He could not, however, digest in
 silence the severe expostulations of his aunt; to which he replied by
 the following letter, addressed to her husband:--
 
-    “Sir,--Though my temper could never stoop to offer nor, I
-    believe, your disposition deign to receive, that gross incense
-    which the illiberal only expect, and none but the base-minded
-    condescend to pay; my sentiments have always done justice to
-    your generosity, and my intention scrupulously adhered to the
-    dictates of my duty. Conscious of this integrity of heart, I
-    cannot but severely feel your lady's unkind (I will not call
-    it ungenerous) recapitulation of the favours I have received;
-    and, as I take it for granted that you knew and approved of her
-    letter, I must beg leave to assure you, that, far from being
-    swayed by menaces and reproach, I am determined to embrace the
-    most abject extremity of fortune, rather than submit to such
-    dishonourable compulsion. When I am treated in a more delicate
-    and respectful manner, I hope I shall behave as becomes,--Sir,
-    your obliged
-                                “P. Pickle.”
+“Sir,--Though my temper could never stoop to offer nor, I
+believe, your disposition deign to receive, that gross incense
+which the illiberal only expect, and none but the base-minded
+condescend to pay; my sentiments have always done justice to
+your generosity, and my intention scrupulously adhered to the
+dictates of my duty. Conscious of this integrity of heart, I
+cannot but severely feel your lady's unkind (I will not call
+it ungenerous) recapitulation of the favours I have received;
+and, as I take it for granted that you knew and approved of her
+letter, I must beg leave to assure you, that, far from being
+swayed by menaces and reproach, I am determined to embrace the
+most abject extremity of fortune, rather than submit to such
+dishonourable compulsion. When I am treated in a more delicate
+and respectful manner, I hope I shall behave as becomes,--Sir,
+your obliged
+“P. Pickle.”
 
 
 The commodore, who did not understand those nice distinctions of
@@ -5220,19 +5135,19 @@ and obstinacy of this adopted son; to whose epistle he wrote the
 following answer, which was transmitted by the hands of Hatchway, who
 had orders to bring the delinquent along with him to the garrison:--
 
-    “Hark ye, child,--You need not bring your fine speeches to bear
-    upon me: you only expend your ammunition to no purpose. Your
-    aunt told you nothing but truth; for it is always fair and
-    honest to be above-board, d'ye see. I am informed as how you
-    are in chase of a painted galley, which will decoy you upon the
-    flats of destruction, unless you keep a better look-out and a
-    surer reckoning than you have hitherto done; and I have sent
-    Jack Hatchway to see how the land lies, and warn you of your
-    danger: if so be as you will put about ship, and let him steer
-    you into this harbour, you shall meet with a safe berth and
-    friendly reception; but if you refuse to alter your course you
-    cannot expect any farther assistance from yours as you behave,
-                                   “Hawser Trunnion.”
+“Hark ye, child,--You need not bring your fine speeches to bear
+upon me: you only expend your ammunition to no purpose. Your
+aunt told you nothing but truth; for it is always fair and
+honest to be above-board, d'ye see. I am informed as how you
+are in chase of a painted galley, which will decoy you upon the
+flats of destruction, unless you keep a better look-out and a
+surer reckoning than you have hitherto done; and I have sent
+Jack Hatchway to see how the land lies, and warn you of your
+danger: if so be as you will put about ship, and let him steer
+you into this harbour, you shall meet with a safe berth and
+friendly reception; but if you refuse to alter your course you
+cannot expect any farther assistance from yours as you behave,
+“Hawser Trunnion.”
 
 
 Peregrine was equally piqued and disconcerted at the receipt of this
@@ -5313,7 +5228,6 @@ they found it impossible to bring the cause to mortal arbitrement at
 that time, and strolled about the park in profound silence; during
 which, Hatchway's indignation subsiding, he, all of a sudden, thrust out
 his hand as an advance to reconciliation, which being cordially shaken
-by Peregrine, a general pacification ensued; and was followed by a
 consultation about the means of extricating the youth from his present
 perplexity. Had his disposition been like that of most other young men,
 it would have been no difficult task to overcome his difficulties; but
@@ -5373,19 +5287,18 @@ immediately approved; when Trunnion, going into his closet, after divers
 efforts, produced the following billet, with which Jack departed for
 Windsor that same afternoon:--
 
-    “My good lad,--If I gave offence in my last letter I'm sorry
-    for't, d'ye see: I thought it was the likeliest way to bring
-    you up; but, in time to come, you shall have a larger swing
-    of cable. When you can spare time, I should be glad if you will
-    make a short trip and see your aunt, and him who is--Your
-    loving godfather and humble servant,
-                                   “Hawser Trunnion.
+“My good lad,--If I gave offence in my last letter I'm sorry
+for't, d'ye see: I thought it was the likeliest way to bring
+you up; but, in time to come, you shall have a larger swing
+of cable. When you can spare time, I should be glad if you will
+make a short trip and see your aunt, and him who is--Your
+loving godfather and humble servant,
+“Hawser Trunnion.
 
-    P.S. If you want money, you may draw upon me payable at sight.”
+P.S. If you want money, you may draw upon me payable at sight.”
 
 
 
-CHAPTER XXVI.
 
 
 
@@ -5527,7 +5440,6 @@ of the commodore's intention, without, however, mentioning a syllable
 of his being offended at their correspondence; and accompanied his
 information with such fervent vows of eternal constancy and solemn
 promises of a speedy return, that Emily's heart, which had been invaded
-by a suspicion that this scheme of travelling was an effect of her
 lover's inconstancy, began to be more at ease; and she could not help
 signifying her approbation of his design.
 
@@ -5546,7 +5458,6 @@ acquainted.
 
 
 
-CHAPTER XXVII.
 
 
 
@@ -5589,7 +5500,6 @@ chamber where he knew these companions lodged, and Emily being saved by
 her lover brought off Miss Sophy with the loss of his own shock-head of
 hair, which was singed off in his retreat.
 
-By this time the whole inn was alarmed; every lodger, as well as
 servant, exerted himself, in order to stop the progress of this
 calamity: and there being a well-replenished horse-pond in the yard, in
 less than an hour the fire was totally extinguished, without having done
@@ -5634,7 +5544,7 @@ great vehemence, that she should never be able to make acknowledgment
 adequate to the service he had done her, and that she should never
 be perfectly easy in her own mind until she found some opportunity of
 manifesting the sense she had of the obligation: “I do not pretend,”
- said she, “to reward Mr. Pipes; but I shall be absolutely unhappy,
+said she, “to reward Mr. Pipes; but I shall be absolutely unhappy,
 unless I am allowed to give him some token of my regard.”
 
 Peregrine, thus earnestly solicited, desired, that since she was bent
@@ -5771,7 +5681,6 @@ for the garrison.
 
 
 
-CHAPTER XXVIII.
 
 
 
@@ -5910,7 +5819,6 @@ The commodore, who was by this time turned of seventy, and altogether
 crippled by the gout, seldom went abroad; and as his conversation was
 not very entertaining, had but little company within doors; so that his
 spirits must have quite stagnated, had not they been kept in motion
-by the conversation of Hatchway, and received at different times a
 wholesome fillip from the discipline of his spouse, who, by the force of
 pride, religion, and Cognac, had erected a most terrible tyranny in the
 house. There was such a quick circulation of domestics in the family,
@@ -5990,7 +5898,6 @@ Crook-back had broken his neck in the fall.
 
 
 
-CHAPTER XXIX.
 
 
 
@@ -6121,10 +6028,10 @@ Peregrine, affecting to start at the approach of such an uncouth figure,
 asked if he had been with a spirit; upon which he answered, with great
 vehemence, “Spirit! No, no, master, I have had a roll and tumble with
 the flesh. A dog. I'll teach him to come a caterwauling about my doors.”
- Guessing from this reply, that his aim was accomplished, and curious to
+Guessing from this reply, that his aim was accomplished, and curious to
 know the particulars of the rencounter, “Well, then,” said the youth,
 “I hope you have prevailed against the flesh, Tunley.”--“Yes, yes,”
- answered the publican, “I have cooled his capissens, as the saying is:
+answered the publican, “I have cooled his capissens, as the saying is:
 I have played such a tune about his ears, that I'll be bound he shan't
 long for music this month. A goatish, man-faced rascal! Why, he's a
 perfect parish bull, as I hope to live.”
@@ -6157,7 +6064,6 @@ received.
 
 
 
-CHAPTER XXX.
 
 
 
@@ -6321,7 +6227,7 @@ pronounced than he eagerly asked if the French ship was not the
 Diligence? The commodore replied, with a stare, “The very same, my
 lad.”--“Then,” said Gauntlet, “the person of whom you are pleased to
 make such honourable mention was my own father.”--“The devil he was!”
- cried Trunnion, shaking him by the hand: “I am rejoiced to see a son of
+cried Trunnion, shaking him by the hand: “I am rejoiced to see a son of
 Ned Guntlet in my house.”
 
 This discovery introduced a thousand questions, in the course of which
@@ -6415,7 +6321,6 @@ departure, he had recovered his natural tranquility and unconcern.
 
 
 
-CHAPTER XXXI.
 
 
 
@@ -6599,7 +6504,6 @@ public-house.
 
 
 
-CHAPTER XXXII.
 
 
 
@@ -6627,7 +6531,6 @@ affair to the young gentlemen, entreating them, for the love of God,
 to concert some means of bringing old Hannibal into the field. The
 two friends relished the proposal; and after some deliberation, it was
 resolved that Hatchway should tell Trunnion his invitation was accepted
-by Gamaliel, who would meet him at the place appointed, with his second,
 to-morrow in the twilight, because, if either should fall, the other
 would have the chance of escaping in the dark; that Godfrey should
 personate old Pickle's friend, and Peregrine represent his own father;
@@ -6742,7 +6645,6 @@ the success of their imposition.
 
 
 
-CHAPTER XXXIII.
 
 
 
@@ -6842,7 +6744,6 @@ in the line with the rest of thy fellows.” He then reminded Gauntlet
 of his promise to call at the garrison in his return from Dover, and
 imparted something in a whisper to the governor, while Jack Hatchway,
 unable to speak, pulled his hat over his eyes, and, squeezing Peregrine
-by the hand, gave him a pistol of curious workmanship, as a memorial
 of his friendship. Our youth, who was not unmoved on this occasion,
 received the pledge, which he acknowledged with the present of a
 tobacco-box bought for this purpose; and the two lads of the castle
@@ -6857,7 +6758,6 @@ was to sail next day.
 
 
 
-CHAPTER XXXIV.
 
 
 
@@ -7080,7 +6980,6 @@ company walked up hill to visit the castle, where they saw the sword
 of Julius Caesar, and Queen Elizabeth's pocket pistol; repeated
 Shakespeare's description, while they surveyed the chalky cliffs on each
 side, and cast their eyes towards the city of Calais, that was obscured
-by a thick cloud which did not much regale their eye-sight, because it
 seemed to portend foul weather.
 
 Having viewed everything remarkable in this place, they returned to
@@ -7092,7 +6991,6 @@ from whence they set out for Canterbury before dinner.
 
 
 
-CHAPTER XXXV.
 
 
 
@@ -7152,7 +7050,7 @@ with such noise, that he believed the mast had gone by the board; and
 starting upright in his bed, asked, with all the symptoms of horror,
 what was the cause of that disturbance? The boy, half-stunned by his
 fall, answered in a dolorous tone, “I'm come to put up the dead-lights.”
- At the mention of dead-lights, the meaning of which he did not
+At the mention of dead-lights, the meaning of which he did not
 understand, the poor governor's heart died within him: he shivered with
 despair, his recollection forsaking him, he fell upon his knees in the
 bed, and, fixing his eyes upon the book which was in his hand, began to
@@ -7171,7 +7069,6 @@ not conceive the cause of this tremendous silence, he imagined that
 either the men were washed overboard, or that, despairing of safety,
 they had ceased to oppose the tempest. While he was harrowed by this
 miserable uncertainty, which, however, was not altogether unenlightened
-by some scattered rays of hope, the master entered the cabin: then he
 asked, with a voice half-extinguished by fear, how matters went upon
 deck; and the skipper, with a large bottle of brandy applied to his
 mouth, answered, in a hollow tone, “All's over now, master.” Upon which,
@@ -7334,7 +7231,6 @@ such a needless precaution.
 
 
 
-CHAPTER XXXVI.
 
 
 
@@ -7448,7 +7344,6 @@ walked out with Mr. Jolter to view both towns, which they had not
 leisure to consider minutely before. In their return from the harbour
 they met with four or five gentlemen, all of whom seemed to look with an
 air of dejection, and perceiving our hero and his governor to be English
-by their dress, bowed with great respect as they passed. Pickle, who
 was naturally compassionate, felt an emotion of sympathy; and seeing a
 person, who by his habit he judged to be one of their servants, accosted
 him in English, and asked who the gentlemen were. The lacquey gave
@@ -7546,7 +7441,6 @@ with his attendants left Boulogne for the second time.
 
 
 
-CHAPTER XXXVII.
 
 
 
@@ -7674,7 +7568,6 @@ eagerness, crying, “Zounds! madam, your charms are irresistible!” and
 without further ceremony would have clasped her in his arms, had she not
 begged him for the love of God to retire; for should Mr. Hornbeck return
 and find him there, she would be undone for ever. He was not so blinded
-by his passion, but that he saw the reasonableness of her fear; and as
 he could not pretend to crown his wishes at that interview, he avowed
 himself her lover, assured her that he would exhaust his whole invention
 in finding a proper opportunity for throwing himself at her feet; and in
@@ -7686,7 +7579,6 @@ caution of his fellow-traveller.
 
 
 
-CHAPTER XXXVIII.
 
 
 
@@ -7827,7 +7719,6 @@ hotel in the Faubourg St. Germaine, not far from the playhouse.
 
 
 
-CHAPTER XXXIX.
 
 
 
@@ -7965,7 +7856,6 @@ contention, Pipes could not bear to see the laws of boxing so
 scandalously transgressed, and, leaping from his station, pulled the
 offender from his antagonist, whom he raised up, and in the English
 language encouraged to a second essay, instructing him at the same time
-by clenching his fists according to art, and putting himself in a proper
 attitude. Thus confirmed, the enraged carman sprang upon his foe, and
 in all appearance would have effectually revenged the injury he had
 sustained, if he had not been prevented by the interposition of a
@@ -8017,7 +7907,6 @@ honoured with particular marks of consideration, took his leave, fully
 determined to cultivate such a valuable acquaintance.
 
 His vanity suggested, that now the time was come when he should profit
-by his talents among the fair sex, on whom he resolved to employ his
 utmost art and address. With this view he assiduously engaged in all
 parties to which he had access by means of his noble friend, who let
 slip no opportunity of gratifying his ambition. He for some time shared
@@ -8063,7 +7952,6 @@ dispute its existence.
 
 
 
-CHAPTER XL.
 
 
 
@@ -8214,7 +8102,6 @@ He waited impatiently till midnight, and then, arming himself with a
 brace of pocket-pistols, and attended by trusty Tom with a cudgel in his
 hand, repaired to the lodgings of his suspected inamorata. Having given
 Pipes his cue, he knocked gently at the door, which was no sooner opened
-by the lacquey, than he bolted in, before the fellow could recollect
 himself from the confusion occasioned by his unexpected appearance; and,
 leaving Tom to guard the door, ordered the trembling valet to light
 him upstairs into his lady's apartment. The first object that presented
@@ -8326,7 +8213,6 @@ as he brought.”
 
 
 
-CHAPTER XLI.
 
 
 
@@ -8420,18 +8306,18 @@ understanding, and was not deceived in his expectation; for the very
 next forenoon, a Savoyard called at the academy, and put the following
 billet in his hand:--
 
-     “Coind Sur,--Heaving the playsure of meating with you at the
-     osspital of awilheads, I take this lubbertea of latin you
-     know, that I lotch at the hottail de May cong dangle rouy
-     Doghouseten, with two postis at the gait, naytheir of um very
-     hole, ware I shall be at the windore, if in kais you will be
-     so good as to pass that way at sicks a cloak in the heavening
-     when Mr. Hornbeck goes to the Calf hay de Contea. Prey for the
-     loaf of Geesus keep this from the nolegs of my hussban, ells he
-     will make me leed a hell upon urth.--Being all from, deer Sur,
-     your most umbell servan wile
+“Coind Sur,--Heaving the playsure of meating with you at the
+osspital of awilheads, I take this lubbertea of latin you
+know, that I lotch at the hottail de May cong dangle rouy
+Doghouseten, with two postis at the gait, naytheir of um very
+hole, ware I shall be at the windore, if in kais you will be
+so good as to pass that way at sicks a cloak in the heavening
+when Mr. Hornbeck goes to the Calf hay de Contea. Prey for the
+loaf of Geesus keep this from the nolegs of my hussban, ells he
+will make me leed a hell upon urth.--Being all from, deer Sur,
+your most umbell servan wile
 
-     “Deborah Hornbeck.”
+“Deborah Hornbeck.”
 
 Our young gentleman was ravished at the receipt of this elegant epistle,
 which was directed, A Monsr. Monsr. Pickhell, a la Gaddamme de Paul
@@ -8587,7 +8473,6 @@ his troublesome charge.
 
 
 
-CHAPTER XLII.
 
 
 
@@ -8772,7 +8657,6 @@ all others, the sublime Rubens, the--.” He would have proceeded with
 a long catalogue of names which he had got by heart for the purpose,
 without retaining the least idea of their several qualifications, had
 not he been interrupted by his friend, whose indignation being kindled
-by the irreverence with which he mentioned the Greeks, he called
 him blasphemer, Goth, Boeotian, and, in his turn, asked with great
 vehemence, which of those puny moderns could match with Panaenus of
 Athens, and his brother Phidias; Polycletus of Sicyon; Polygnotus, the
@@ -8843,7 +8727,6 @@ on that tour.
 
 
 
-CHAPTER XLIII.
 
 
 
@@ -8954,12 +8837,12 @@ means of exerting his virtues, it would not support a tyrant in the
 exercise of cruelty and oppression; because in all nations the genius
 of the people must be consulted by their governors, and the burthen
 proportioned to the shoulders on which it is laid. “Else, what follows?”
- said the physician. “The consequence is plain,” replied the governor,
+said the physician. “The consequence is plain,” replied the governor,
 “insurrection, revolt, and his own destruction; for it is not to
 be supposed that the subjects of any nation would be so abject and
 pusillanimous as to neglect the means which heaven hath put in their
 power for their own preservation.”--“Gadzooks, you're in the right, sir!”
- cried Pallet; “that, I grant you, must be confessed: doctor, I'm afraid
+cried Pallet; “that, I grant you, must be confessed: doctor, I'm afraid
 we have got into the wrong box.” This son of Paean, however, far from
 being of his friend's opinion, observed, with an air of triumph, that
 he would not only demonstrate the sophistry of the gentleman's last
@@ -9015,7 +8898,6 @@ together with a liberal fortune which he inherited from his father.
 
 
 
-CHAPTER XLIV.
 
 
 
@@ -9042,7 +8924,6 @@ the joy of the entertainment.
 Accordingly, the hour being arrived, he conducted them to the hotel
 where the physician lodged, after having regaled their expectations with
 an elegant meal in the genuine old Roman taste; and they were received
-by Mr. Pallet, who did the honours of the house, while his friend
 superintended the cook below. By this communicative painter, the guests
 understood that the doctor had met with numerous difficulties in
 the execution of his design; that no fewer than five cooks had been
@@ -9060,7 +8941,6 @@ hours without intermission.
 
 While the company listened to this odd information, by which they were
 prepossessed with strange notions of the dinner, their ears were invaded
-by a voice that exclaimed in French, “For the love of God! dear sir! for
 the passion of Jesus Christ! spare me the mortification of the honey
 and oil!” Their ears still vibrated with the sound, when the doctor
 entering, was by Peregrine made acquainted with the strangers, to whom
@@ -9114,7 +8994,6 @@ situation, with his head raised above the end of the couch, that the
 economy of his hair might not suffer by the projection of his body. The
 Italian, being a thin limber creature, planted himself next to Pickle,
 without sustaining any misfortune but that of his stocking being torn
-by a ragged nail of the seat, as he raised his legs on a level with the
 rest of his limbs. But the baron, who was neither so wieldy nor supple
 in his joints as his companions, flounced himself down with such
 precipitation, that his feet, suddenly tilting up, came in furious
@@ -9150,7 +9029,7 @@ is a loin of veal boiled with fennel and caraway-seed, on a pottage
 composed of pickle, oil, honey, and flour, and a curious hachis of the
 lights, liver, and blood of a hare, together with a dish of roasted
 pigeons. Monsieur le baron, shall I help you to a plate of this soup?”
- The German, who did not at all disapprove of the ingredients, assented
+The German, who did not at all disapprove of the ingredients, assented
 to the proposal, and seemed to relish the composition; while the marquis
 being asked by the painter which of the silly-kickabys he chose, was,
 in consequence of his desire, accommodated with a portion of the
@@ -9306,7 +9185,6 @@ preparations in vogue about the time of that absurd voluptuary
 Heliogabalus, who ordered the brains of six hundred ostriches to be
 compounded in one illness.
 
-By this time the dessert appeared, and the company were not a little
 rejoiced to see plain olives in salt and water: butt what the master of
 the feast valued himself upon, was a sort of jelly, which he affirmed
 to be preferable to the hypotrimma of Hesychius, being a mixture of
@@ -9339,7 +9217,6 @@ in the behaviour of all present.
 
 
 
-CHAPTER XLV.
 
 
 
@@ -9508,11 +9385,9 @@ his master.
 
 
 
-CHAPTER XLVI.
 
 
 
-By the Fidelity of Pipes, Jolter is informed of his Pupil's
 fate--Confers with the Physician--Applies to the Ambassador, who, with
 great difficulty, obtains the Discharge of the Prisoners on certain
 Conditions.
@@ -9645,7 +9520,6 @@ own imagination suggested.
 
 
 
-CHAPTER XLVII.
 
 
 
@@ -9797,7 +9671,7 @@ dismayed, at the strange apparition.
 
 During the whole course of this irruption, he ceased nor to cry, with
 great vociferation, “Drive, coachman, drive, in the name of God!”
- and the carriage had proceeded the length of a whole street before he
+and the carriage had proceeded the length of a whole street before he
 manifested the least sign of reflection, but stared like the Gorgon's
 head, with his mouth wide open, and each particular hair crawling
 and twining like an animated serpent. At length, however, he began to
@@ -9886,7 +9760,6 @@ dictates of gratitude and humanity.
 
 
 
-CHAPTER XLVIII.
 
 
 
@@ -10119,12 +9992,10 @@ with looks of horror and disgust; and the one muttering the term
 “cannibal,” and the other pronouncing the word “abomination,” they rose
 from table in a great hurry, and running towards another apartment,
 jostled with such violence in the passage, that both were overturned
-by the shock, which also contributed to the effect of their nausea that
 mutually defiled them as they lay.
 
 
 
-CHAPTER XLIX.
 
 
 
@@ -10155,7 +10026,6 @@ from our hero, he sported in many other equivoques of the same nature;
 and at dinner, told the physician, that he was like the root of the
 tongue, as being cursedly down in the mouth.
 
-By this time, such was the animosity subsisting between these quondam
 friends, that they never conversed together, except with a view
 of exposing each other to the ridicule or contempt of their
 fellow-travellers. The doctor was at great pains to point out the folly
@@ -10203,7 +10073,6 @@ in the end.
 
 The game was scarce begun, when, by the reflection of a glass, he
 discerned the officer at his back making signs to his companion, who,
-by preconcerted gestures, was perfectly informed of the contents of
 Peregrine's hand, and, of consequence, fortunate in the course of play.
 Thus they were allowed to enjoy the fruits of their dexterity, until
 their money amounted to some louis; when our young gentleman, thinking
@@ -10274,7 +10143,6 @@ willingness to entertain them on their own terms.
 
 
 
-CHAPTER L.
 
 
 
@@ -10316,7 +10184,6 @@ suffered in his own person; having been often bespattered by
 hackney-coachmen, jostled by draymen and porters, and reviled in the
 most opprobrious terms by the watermen of London, where he had once lost
 his bag and a considerable quantity of hair, which had been cut off
-by some rascal in his passage through Ludgate, during the Lord Mayor's
 procession. On the other hand, the doctor with great warmth alleged,
 that those officers ought to suffer death, or banishment at least, for
 having plundered the people in this manner, which was so impudent
@@ -10435,7 +10302,6 @@ he uttered the epithet, “impertinent scoundrel;” which was no sooner
 pronounced than the Caledonian made manual application to his nose, and,
 leaping out of the coach, stood waiting for him on the plain; while he,
 the physician, made feeble efforts to join him, being easily retained
-by the other soldier; and Pallet, dreading the consequence in which he
 himself might be involved, bellowed aloud for prevention.
 
 Our hero endeavoured to quiet the commotion by representing to the Scot
@@ -10453,7 +10319,6 @@ curiosities of Lisle, willingly surrendered his place to the physician.
 
 
 
-CHAPTER LI.
 
 
 
@@ -10634,7 +10499,6 @@ him to have been a madman once in his life.
 
 
 
-CHAPTER LII.
 
 
 
@@ -10725,7 +10589,6 @@ about midnight took his leave with marks of mortification at his want of
 success.
 
 Next day the company agreed to travel through Flanders in the diligence,
-by the advice of Peregrine, who was not without hope of meeting with
 some adventure or amusement in that carriage; and Jolter took care to
 secure places for them all; it being resolved that the valet-de-chambre
 and the doctor's man should attend the vehicle on horseback; and as for
@@ -10793,7 +10656,6 @@ lingering distemper, which, in all probability, would soon put a period
 to her life. He then launched out in praise of her daughter's virtue
 and conjugal affection; and, lastly, told him, that he was her
 father-confessor, and pitched upon to be her conductor through Flanders,
-by her husband, as well as his wife, placed the utmost confidence in his
 prudence and integrity.
 
 Pickle easily comprehended the meaning of this insinuation, and took
@@ -10856,7 +10718,6 @@ with that celebrated English ditty, the burden of which begins with,
 
 
 
-CHAPTER LIII.
 
 
 
@@ -11013,7 +10874,6 @@ him but the utmost turbulence of unruly desire.
 
 
 
-CHAPTER LIV.
 
 
 
@@ -11149,7 +11009,6 @@ in order to acquit herself of all suspicion, exclaimed with incredible
 volubility against the author of this uproar, who, she did not doubt,
 had concealed himself in the apartment with a view of perpetuating some
 wicked attempt upon her precious virtue, and was punished and prevented
-by the immediate interposition of heaven. At her desire, therefore, and
 at the earnest solicitation of the other lady, he was conducted to his
 own bed; and the chamber being evacuated, they locked their door, fully
 resolved to admit no more visitants for that night: while Peregrine,
@@ -11161,7 +11020,6 @@ had so unluckily interfered with his delight.
 
 
 
-CHAPTER LV.
 
 
 
@@ -11280,7 +11138,6 @@ entertainment, and the company so much disposed to be sociable.
 
 The Capuchin, who had found his account in cultivating the acquaintance
 of the young stranger, was not ill-pleased at this event, which might,
-by protracting the term of their intercourse, yield him some opportunity
 of profiting still farther by his liberality: he therefore joined Mr.
 Jolter in his admonitions, congratulating himself upon the prospect
 of enjoying his conversation a little longer than he had expected.
@@ -11288,7 +11145,6 @@ Our young gentleman received a compliment to the same purpose from
 the Hebrew, who had that day exercised his gallantry upon the French
 coquette, and was not without hope of reaping the fruit of his
 attention, his rival, the painter, being quite disgraced and dejected
-by the adventure of last night, As for the doctor, he was too much
 engrossed in the contemplation of his own importance, to interest
 himself in the affair or its consequences, further than by observing,
 that the European powers ought to establish public games, like those
@@ -11338,7 +11194,6 @@ whisper forbade our hero to despair.
 
 
 
-CHAPTER LVI.
 
 
 
@@ -11496,7 +11351,6 @@ inamorata, who accordingly underwent the ridicule of the whole audience.
 
 
 
-CHAPTER LVII.
 
 
 
@@ -11537,7 +11391,6 @@ passage, began to be afraid of some new alarm, and very prudently bolted
 her door; so that when her lover wanted to repeat his visit he was not
 only surprised and incensed at this disagreeable serenade, the author of
 which he did not know; but when compelled by his passion, which was
-by this time wound to the highest pitch, he ventured to approach the
 entrance, he had the extreme mortification to find himself shut out. He
 durst not knock or signify his presence in any other manner, on account
 of the lady's reputation, which would have greatly suffered had the
@@ -11695,7 +11548,7 @@ accident shall happen to you, either from his slaver or his sword,
 I will assist you with my advice, which from this station I can more
 coolly and distinctly administer, than I should be able to supply if my
 ideas were disturbed, or my attention engaged in any personal concern.”
- Jolter, who could make no objection to the justness of the conclusion,
+Jolter, who could make no objection to the justness of the conclusion,
 frankly owned that he had no inclination to try the experiment;
 observing, that self-preservation was the first law of nature; that his
 connections with the unhappy lunatic were but slight; and that it could
@@ -11849,7 +11702,6 @@ unworthy of his notice.
 
 
 
-CHAPTER LVIII.
 
 
 
@@ -11867,7 +11719,6 @@ dejected in consequence of their disgrace, the poet absorbed in lofty
 meditation, the painter in schemes of revenge; while Jolter, rocked by
 the motion of the carriage, made himself amends for the want of rest he
 had sustained; and the mendicant, with his fair charge, were infected
-by the cloudy aspect of our youth, in whose disappointment each of
 them, for different reasons, bore no inconsiderable share. This general
 languor and recess from all bodily exercise disposed them all to receive
 the gentle yoke of slumber; and in half-an-hour after they had embarked,
@@ -11895,7 +11746,6 @@ swerve; and, beseeching him to forget her for his own peace, gave him to
 understand, that neither the plan she had laid down for her own conduct,
 nor the dictates of her honour, would allow her to receive his visits,
 or carry on any other correspondence with him, while she was restricted
-by the articles of her marriage-vow.
 
 This explanation produced such a violent effect upon her admirer, that
 he was for some minutes deprived of the faculty of speech; which he no
@@ -11949,21 +11799,21 @@ of Prince Charles of Lorraine, then governor of the Low Countries. In
 short, the stated period was almost lapsed when Peregrine received a
 letter to this purport:--
 
-     “Sir,--If you knew what violence I do my own heart, in
-     declaring, that I have withdrawn myself for ever from your
-     addresses, you would surely applaud the sacrifice I make to
-     virtue, and strive to imitate this example of self-denial.
-     Yes, sir, Heaven hath lent me grace to struggle with my guilty
-     passion, and henceforth to avoid the dangerous sight of him,
-     who inspired it. I therefore conjure you, by the regard you
-     ought to have to the eternal welfare of us both, as well as by
-     the esteem and affection you profess, to war with your unruly
-     inclination, and desist from all attempts of frustrating the
-     laudable resolution I have made. Seek not to invade the peace
-     of one who loves you, to disturb the quiet of a family that
-     never did you wrong, and to alienate the thoughts of a weak
-     woman from a deserving man, who, by the most sacred claim,
-     ought to have the full possession of her heart.”
+“Sir,--If you knew what violence I do my own heart, in
+declaring, that I have withdrawn myself for ever from your
+addresses, you would surely applaud the sacrifice I make to
+virtue, and strive to imitate this example of self-denial.
+Yes, sir, Heaven hath lent me grace to struggle with my guilty
+passion, and henceforth to avoid the dangerous sight of him,
+who inspired it. I therefore conjure you, by the regard you
+ought to have to the eternal welfare of us both, as well as by
+the esteem and affection you profess, to war with your unruly
+inclination, and desist from all attempts of frustrating the
+laudable resolution I have made. Seek not to invade the peace
+of one who loves you, to disturb the quiet of a family that
+never did you wrong, and to alienate the thoughts of a weak
+woman from a deserving man, who, by the most sacred claim,
+ought to have the full possession of her heart.”
 
 
 This billet, without either date or subscription, banished all remains
@@ -12025,7 +11875,6 @@ and Mr. Jolter was rejoiced beyond measure at his pupil's recovery.
 
 
 
-CHAPTER LIX.
 
 
 
@@ -12185,7 +12034,6 @@ from the severity of her guard.
 
 
 
-CHAPTER LX.
 
 
 
@@ -12257,7 +12105,6 @@ wife, and has steered privately into this port with a large complement
 of hands, in order, d'ye see, to secure you while you are under the
 hatches. Now, if so be as how you have a mind to give him a salt eel for
 his supper, here am I, without hope of fee or reward, ready to stand
-by you as long as my timbers will stick together: and if I expect any
 recompense, may I be bound to eat oakum and drink bilge-water for life.”
 
 Startled at this information, Peregrine examined him upon the
@@ -12369,7 +12216,6 @@ prejudice of his birth and reputation.
 
 
 
-CHAPTER LXI.
 
 
 
@@ -12473,7 +12319,6 @@ cursed him for his impertinent intrusion, which had deprived him of the
 most delightful vision that ever regaled the human fancy. He imagined,
 as he afterwards imparted to Peregrine, that, as he enjoyed himself in
 walking through the flowery plain that borders on Parnassus, he was met
-by a venerable sage, whom, by a certain divine vivacity that lightened
 from his eyes, he instantly knew to be the immortal Pindar. He was
 immediately struck with reverence and awe, and prostrated himself before
 the apparition, which, taking him by the hand, lifted him gently from
@@ -12507,7 +12352,7 @@ you say was drawn from your own wife, I believe the copy has as much
 as the original: but, were it mine, it should be hung up
 in the Temple of Cloacina, as the picture of that goddess; for any
 other apartment would be disgraced by its appearance.”--“Hark ye, sir,”
- replied Pallet, enraged in his turn at the contemptuous mention of his
+replied Pallet, enraged in his turn at the contemptuous mention of his
 darling performance, “you may make as free with my wife as you think
 proper, but 'ware my works; those are the children of my fancy,
 conceived by the glowing imagination, and formed by the art of my own
@@ -12559,7 +12404,6 @@ and offered his good offices towards an accommodation. Peregrine also,
 seeing the fray was finished, expressed himself to the same purpose;
 and the painter, for obvious reasons, declining an explanation, his
 antagonist told the youth what a mortifying interruption he had suffered
-by the impertinent intrusion of Pallet, and gave him a detail of the
 particulars of his vision, as above recited. The arbiter owned the
 provocation was not to be endured; and decreed that the offender should
 make some atonement for his transgression. Upon which the painter
@@ -12580,7 +12424,6 @@ the next edition of his odes.
 
 
 
-CHAPTER LXII.
 
 
 
@@ -12703,7 +12546,6 @@ scoffer at their worship.
 The painter, seeing himself addressed by a friar, who, while he spoke,
 bowed with great complaisance, imagined that he was a begging brother
 come to supplicate his charity; and his attention being quite engrossed
-by the design he was making, he patted the priest's shaven crown with
 his hand, saying, Oter tems, oter tems, and then resumed his pencil with
 great earnestness. The ecclesiastic, perceiving that the stranger did
 not comprehend his meaning, pulled him by the sleeve, and explained
@@ -12724,7 +12566,6 @@ Those who understood the French language communicated this information
 to the rest, so that he escaped without any other chastisement than
 being obliged to retire. And as they could not see the famous Descent
 from the Cross till after the service was finished, they were conducted
-by their domestic to the house of a painter, where they found a
 beggar standing for his picture, and the artist actually employed in
 representing a huge louse that crawled upon his shoulder. Pallet was
 wonderfully pleased with this circumstance, which he said was altogether
@@ -12779,7 +12620,6 @@ was obliged to interpose for his own credit.
 
 
 
-CHAPTER LXIII.
 
 
 
@@ -12830,7 +12670,6 @@ entreated Mr. Pickle to be the bearer of a challenge, which he would
 instantly commit to writing.
 
 The mischievous fomenter highly applauded this manifestation of courage,
-by which he was at liberty to cultivate his friendship and society,
 but declined the office of carrying the billet, that his tenderness of
 Pallet's reputation might not be misinterpreted into an officious desire
 of promoting quarrels. At the same time, he recommended Tom Pipes, not
@@ -12838,17 +12677,17 @@ only as a very proper messenger on this occasion, but also as a trusty
 second in the field. The magnanimous painter took his advice, and,
 retiring to his chamber, penned a challenge in these terms:--
 
-     “Sir,--When I am heartily provoked, I fear not the devil
-     himself; much less--I will not call you a pedantic coxcomb,
-     nor an unmannerly fellow, because these are the hippethets of
-     the vulgar; but, remember, such as you are, I nyther love you
-     nor fear you; but, on the contrary, expect satisfaction for your
-     audacious behaviour to me on divers occasions; and will, this
-     evening, in the twilight, meet you on the ramparts with sword
-     and pistol, where the Lord have mercy on the soul of one of us,
-     for your body shall find no favour with your incensed defier
-     till death,
-                                      “Layman Pallet.”
+“Sir,--When I am heartily provoked, I fear not the devil
+himself; much less--I will not call you a pedantic coxcomb,
+nor an unmannerly fellow, because these are the hippethets of
+the vulgar; but, remember, such as you are, I nyther love you
+nor fear you; but, on the contrary, expect satisfaction for your
+audacious behaviour to me on divers occasions; and will, this
+evening, in the twilight, meet you on the ramparts with sword
+and pistol, where the Lord have mercy on the soul of one of us,
+for your body shall find no favour with your incensed defier
+till death,
+“Layman Pallet.”
 
 This resolute defiance, after having been submitted to the perusal, and
 honoured with the approbation of our youth, was committed to the charge
@@ -12919,21 +12758,20 @@ their way to the ramparts.
 
 “Mr. Pipes,” said the painter, with disordered accent, “methinks the
 doctor was in a pestilent hurry with that message of his.”--“Ey, ey,”
- answered Tom, “I do suppose he longs to be foul of you.”--“What,”
- replied the other, “d'ye think he thirsts after my blood?”--“To be sure
+answered Tom, “I do suppose he longs to be foul of you.”--“What,”
+replied the other, “d'ye think he thirsts after my blood?”--“To be sure
 a does,” said Pipes, thrusting a large quid of tobacco in his check,
 with great deliberation. “If that be the case,” cried Pallet, beginning
 to shake, “he is no better than a cannibal, and no Christian ought to
 fight him on equal footing.” Tom observing his emotion, eyed him with a
 frown of indignation, saying, “You an't afraid, are you?”--“God forbid,”
- replied the challenger, stammering with fear; “what should I be afraid
+replied the challenger, stammering with fear; “what should I be afraid
 of? The worst he can do is to take my life, and then he'll be answerable
 both to God and man for the murder. Don't you think he will?”--“I think
 no such matter,” answered the second; “if so be as how he puts a brace
 of bullets through your bows, and kills you fairly, it is no more murder
 than if I was to bring down a noddy from the main top-sail yard.”
 
-By this time Pallet's teeth chattered with such violence, that he could
 scarce pronounce this reply: “Mr. Thomas, you seem to make very light
 of a man's life; but I trust in the Almighty. I shall not be so easily
 brought down. Sure many a man has fought a duel without losing his life.
@@ -13065,7 +12903,6 @@ disembarrassing him from the disagreeable consequence of his fear.
 
 
 
-CHAPTER LXIV.
 
 
 
@@ -13260,7 +13097,6 @@ him for some minutes on the common topics of discourse.
 
 
 
-CHAPTER LXV.
 
 
 
@@ -13299,7 +13135,6 @@ approve the joke with loud peals of applause.
 
 Our travellers stayed a few days at the Hague, during which the young
 gentleman waited on the British ambassador, to whom he was recommended
-by his excellency at Paris, and lost about thirty guineas at billiards
 to a French adventurer, who decoyed him into the snare by keeping up his
 game. Then they departed in a post-waggon for Amsterdam, being provided
 with letters of introduction to an English merchant residing in that
@@ -13442,7 +13277,6 @@ in eighteen hours arrived at Harwich.
 
 
 
-CHAPTER LXVI.
 
 
 
@@ -13488,7 +13322,6 @@ God, in this unhappy kingdom of England. And thus concludes the journal
 of my last peregrination.” Peregrine's curiosity being inflamed by this
 extraordinary conclusion he turned to the beginning, and perused several
 sheets of a diary such as is commonly kept by that class of people known
-by the denomination of travelling governors, for the satisfaction of
 themselves and the parents or guardians of their pupils, and for the
 edification and entertainment of their friends.
 
@@ -13673,7 +13506,6 @@ four hundred pounds, and take her to wife without any expectation of a
 dowry. She moreover gave him to understand, that, in his absence, she
 had received several messages from her mother, commanding her to return
 to her father's house; but that she had refused to obey these orders,
-by the advice and injunction of her aunt and the commodore, which were
 indeed seconded by her own inclination; because she had all the reason
 in the world to believe, that her mother only wanted an opportunity of
 treating her with severity and rancour. The resentment of that lady
@@ -13683,7 +13515,6 @@ with great bitterness, in the face of the whole congregation.
 
 
 
-CHAPTER LXVII.
 
 
 
@@ -13862,7 +13693,6 @@ told him were at present misapplied.
 
 
 
-CHAPTER LXVIII.
 
 
 
@@ -13972,7 +13802,6 @@ arguments used in behalf of his friend, that Godfrey's business was
 transacted in a very few days, though he himself knew nothing of his
 interest being thus reinforced.
 
-By this time, the season at Bath was begun; and our hero, panting with
 the desire of distinguishing himself at that resort of the fashionable
 world, communicated his design of going thither to his friend Godfrey,
 whom he importuned to accompany him in the excursion; and leave of
@@ -14039,7 +13868,6 @@ Gauntlet in the following manner.
 
 
 
-CHAPTER LXIX.
 
 
 
@@ -14118,7 +13946,6 @@ Gauntlet seeing the agreement settled, struck his antagonist's ball
 into the pocket in a twinkling, though it was in one of those situations
 which are supposed to be against the striker. The betters were a little
 discomposed at this event, for which, however, they consoled themselves
-by imputing the success to accident; but when, at the very next
 stroke, he sprung it over the table, their countenances underwent an
 instantaneous distraction of feature, and they waited, in the most
 dreadful suspense, for the next hazard, which being likewise taken with
@@ -14198,7 +14025,6 @@ he intended for a present to Miss Emily.
 
 
 
-CHAPTER LXX.
 
 
 
@@ -14230,7 +14056,6 @@ nymphs of this gay place, he did not meet with one object that disputed
 the empire of his heart with Emilia, and therefore he divided his
 attachment according to the suggestions of vanity and whim; so that,
 before he had resided a fortnight at Bath, he had set all the ladies
-by the ears, and furnished all the hundred tongues of scandal with full
 employment. The splendour of his appearance excited the inquiries of
 envy, which, instead of discovering any circumstances to his prejudice,
 was cursed with the information of his being a young gentleman of a good
@@ -14297,7 +14122,6 @@ concerned must have promulgated her own breach of trust, in discovering
 her author of the report.
 
 Peregrine, instead of allaying, rather exasperated this contention,
-by an artful distribution of his attention among the competitors; well
 knowing, that, should his regard be converged into one point, he would
 soon forfeit the pleasure he enjoyed in seeing them at variance; for
 both parties would join against the common enemy, and his favourite
@@ -14314,7 +14138,6 @@ least furnish them with a previous account of what they could collect,
 that their correspondents may use this intelligence for their own
 advantage. By these means, and the assistance of flattery and assurance,
 they often insinuate themselves into the acquaintance of strangers, and,
-by consulting their dispositions, become necessary and subservient to
 their prevailing passions. By their connection with apothecaries and
 nurses, they are informed of all the private occurrences in each family,
 and therefore enabled to gratify the rancour of malice, amuse the spleen
@@ -14364,7 +14187,6 @@ enter, and the whole triumvirate stuck in the passage. While they
 remained thus wedged together, they descried two of their brethren
 posting towards the same goal, with all the speed that God had enabled
 them to exert; upon which they came to a parley, and agreed to stand
-by one another. This covenant being made, they disentangled themselves,
 and, inquiring about the patient, were told by the servant that he had
 just fallen asleep.
 
@@ -14433,7 +14255,6 @@ assailant too much enfeebled to renew the attack, set up their throats
 together, and loudly threatened to prosecute him severely for such an
 outrageous assault.
 
-By this time the landlord had interposed; and, inquiring into the
 cause of the disturbance, was informed of what had happened by the
 complainants, who, at the same time, giving him to understand that
 they had been severally summoned to attend the colonel that morning, he
@@ -14459,7 +14280,6 @@ afforded no handle of prosecution.
 
 
 
-CHAPTER LXXI.
 
 
 
@@ -14542,7 +14362,6 @@ sheathed his sword, pelted him with stones as he ran, and compelled him
 to go, that same day, into banishment from Bath, where he had domineered
 so long.
 
-By this achievement, which was the subject of astonishment to all the
 company, who had looked upon the fugitive as a person of heroic
 courage, our adventurer's reputation was rendered formidable in all
 its circumstances; although he thereby disobliged a good many people of
@@ -14590,7 +14409,6 @@ much grimace and gesticulation, that they burst out into a loud fit
 of laughter, which they fathered upon a monkey that was chained in the
 room; and, when the peal was over, the wit renewed the attack in these
 words: “I suppose you are fool enough to think this mirth was occasioned
-by Pug. Ay, there he is; you had best survey him; he is of your own
 family; switch me. But the laugh was at your expense; and you ought
 to thank Heaven for making you so ridiculous.” While he uttered these
 ingenious ejaculations, the old gentleman bowed alternately to him and
@@ -14659,7 +14477,6 @@ impression upon him, without a previous renovation of his organs.
 
 
 
-CHAPTER LXXII.
 
 
 
@@ -14799,7 +14616,6 @@ for the stake; while I, not at all ambitious of the crown of martyrdom,
 resolved to temporize; so that, when I was brought to the question the
 second time, I made a solemn recantation. As I had no worldly fortune to
 obstruct my salvation, I was received into the bosom of the church, and,
-by way of penance, enjoined to walk barefoot to Rome in the habit of a
 pilgrim.
 
 “During my peregrination through Spain, I was detained as a spy, until
@@ -14886,7 +14702,6 @@ rest of the season.
 
 
 
-CHAPTER LXXIII.
 
 
 
@@ -15074,11 +14889,9 @@ the garrison, where he had proposed to stay for some months.
 
 
 
-VOLUME II.
 
 
 
-CHAPTER LXXIV.
 
 
 
@@ -15265,7 +15078,6 @@ valuable admirer.
 
 
 
-CHAPTER LXXV.
 
 
 
@@ -15304,7 +15116,6 @@ lips, in the most respectful manner, went away, leaving her in a most
 whimsical state of suspense, chequered with an interesting vicissitude
 of hope and fear. On the appointed day, he appeared again about five
 o'clock in the afternoon, and found her native charms so much improved
-by the advantages of dress, that he was transported with admiration
 and delight; and, while he conducted her to the Haymarket, could scarce
 bridle the impetuosity of his passion, so as to observe the forbearing
 maxims he had adopted. When she entered the pit, he had abundance of
@@ -15319,7 +15130,6 @@ fashion who knew him, and proud of an occasion to display his quality
 acquaintance to Emilia, that she might entertain the greater idea of the
 conquest she had made, and pay the more deference to his importance in
 the sequel of his addresses. That he might profit as much as possible
-by this situation, he went up and accosted every person in the pit,
 with whom he ever had least communication, whispered and laughed with an
 affected air of familiarity, and even bowed at a distance to some of the
 nobility, on the slender foundation of having stood near them at court,
@@ -15341,7 +15151,6 @@ Abundance of young men in this manner make free with the names, though
 they have never had access to the persons of the nobility; but this was
 not the case with Peregrine, who, in consideration of his appearance and
 supposed fortune, together with the advantage of his introduction, was,
-by this time, freely admitted to the tables of the great.
 
 In his return with Emilia from the opera, though he still maintained
 the most scrupulous decorum in his behaviour, he plied her with the most
@@ -15412,7 +15221,6 @@ surprising eagerness and perseverance.
 
 
 
-CHAPTER LXXVI.
 
 
 
@@ -15452,7 +15260,7 @@ the whole intrigue, provided she would keep this information secret,
 and contrive some excuse for detaining the young lady at home, without
 giving her cause to believe she was apprised of her intention. This
 billet, subscribed “Your well-wisher, and unknown humble servant,”
- had the desired effect upon the careful matron, who, on the ball day,
+had the desired effect upon the careful matron, who, on the ball day,
 feigned herself so extremely ill, that Miss could not with any decency
 quit her mamma's apartment; and therefore sent her apology to Emilia in
 the afternoon, immediately after the arrival of Peregrine, who pretended
@@ -15654,7 +15462,6 @@ her spirit, and his heart did homage to her charms.
 
 
 
-CHAPTER LXXVII.
 
 
 
@@ -15673,13 +15480,13 @@ handwriting, than he guessed the nature of the contents; and, opening
 the seal with disordered eagerness, found the jewels he had given to her
 enclosed in a billet, couched in these words:--
 
-     “That I may have no cause to reproach myself with having
-     retained the least memorial of a wretch whom I equally
-     despise and abhor, I take this opportunity of restoring
-     these ineffectual instruments of his infamous design upon
-     the honour of
+“That I may have no cause to reproach myself with having
+retained the least memorial of a wretch whom I equally
+despise and abhor, I take this opportunity of restoring
+these ineffectual instruments of his infamous design upon
+the honour of
 
-     “Emilia.”
+“Emilia.”
 
 His chagrin was so much galled and inflamed at the bitterness of this
 contemptuous message, that he gnawed his fingers till the blood ran
@@ -15728,7 +15535,6 @@ expected success.
 
 Emilia, whose caution was equally vigilant and commendable, foreseeing
 that she might be exposed to the fertility of his invention, came home
-by a private passage, and entered by a postern, which was altogether
 unknown to her admirer; and her uncle did not arrive until it was so
 late that he could not, with any decency, demand a conference.
 
@@ -15782,7 +15588,6 @@ him, he would have chastised him for his insolent behaviour.
 
 
 
-CHAPTER LXXVIII.
 
 
 
@@ -15879,7 +15684,6 @@ directions, clapped spurs to his horse, commanding Pipes to make the
 valet acquainted with the course, that they might attend him with all
 imaginable despatch.
 
-By the publican's account of their conduct, his former opinion was fully
 confirmed. He plied his steed to the height of his mettle; and so much
 was his imagination engrossed by the prospect of having Emilia in his
 power, that he did not perceive the road on which he travelled was quite
@@ -15917,7 +15721,6 @@ other gelding, and committed the lame hunter to the care of Pipes.
 
 Matters being adjusted in this manner, our adventurer prosecuted the
 race with all his might; and, having made some progress, was informed
-by a countryman, that the chaise had struck off into another road, and,
 according to his judgment, was by that time about three miles ahead;
 though, in all probability, the horses would not be able to hold out
 much longer, because they seemed to be quite spent when they passed
@@ -16024,7 +15827,7 @@ for entrance, was given to understand by the nymph's attendant, that
 a blunderbuss was ready primed for his reception, and that he would do
 well to spare him the necessity of shedding blood in defence of a person
 who had put herself under his protection. “All the laws of the land,”
- said he, “cannot now untie the knots by which we are bound together; and
+said he, “cannot now untie the knots by which we are bound together; and
 therefore I will guard her as my own property; so that you had better
 desist from your fruitless attempt, and thereby consult your own safety;
 for, by the God that made me! I will discharge my piece upon you, as
@@ -16063,7 +15866,6 @@ days elapsed before he would answer for his life.
 
 
 
-CHAPTER LXXIX.
 
 
 
@@ -16124,28 +15926,28 @@ In four-and-twenty hours after Pipes was charged with his commission,
 he brought back an answer from the mother of Emilia, couched in these
 words:--
 
-     Sir,--I received the favour of yours, and am glad, for your
-     own sake, that you have attained a due sense and conviction
-     of your unkind and unchristian behaviour to poor Emy. I thank
-     God, none of my children were ever so insulted before. Give
-     me leave to tell you, sir, my daughter was no upstart, without
-     friends or education, but a young lady, as well bred, and
-     better born, than most private gentlewomen in the kingdom;
-     and therefore, though you had no esteem for her person, you
-     ought to have paid some regard to her family, which, no
-     disparagement to you, sir, is more honourable than your own.
-     As for your proposal, Miss Gauntlet will not hear of it,
-     being that she thinks her honour will not allow her to listen
-     to any terms of reconciliation; and she is not yet so
-     destitute as to embrace an offer to which she has the least
-     objection. In the meantime, she is so much indisposed, that
-     she cannot possibly see company; so I beg you will not take
-     the trouble of making a fruitless journey to this place.
-     Perhaps your future conduct may deserve her forgiveness,
-     and really, as I am concerned for your happiness, which you
-     assure me depends upon her condescension, I wish with all my
-     heart it may; and am, notwithstanding all that has happened,
-     your sincere well-wisher.             “Cecilia Gauntlet.”
+Sir,--I received the favour of yours, and am glad, for your
+own sake, that you have attained a due sense and conviction
+of your unkind and unchristian behaviour to poor Emy. I thank
+God, none of my children were ever so insulted before. Give
+me leave to tell you, sir, my daughter was no upstart, without
+friends or education, but a young lady, as well bred, and
+better born, than most private gentlewomen in the kingdom;
+and therefore, though you had no esteem for her person, you
+ought to have paid some regard to her family, which, no
+disparagement to you, sir, is more honourable than your own.
+As for your proposal, Miss Gauntlet will not hear of it,
+being that she thinks her honour will not allow her to listen
+to any terms of reconciliation; and she is not yet so
+destitute as to embrace an offer to which she has the least
+objection. In the meantime, she is so much indisposed, that
+she cannot possibly see company; so I beg you will not take
+the trouble of making a fruitless journey to this place.
+Perhaps your future conduct may deserve her forgiveness,
+and really, as I am concerned for your happiness, which you
+assure me depends upon her condescension, I wish with all my
+heart it may; and am, notwithstanding all that has happened,
+your sincere well-wisher.             “Cecilia Gauntlet.”
 
 From this epistle, and the information of his messenger, our hero
 learned, that his mistress had actually profited by his wild-goose
@@ -16180,33 +15982,32 @@ next care was to give orders for erecting a plain marble monument to the
 memory of his uncle, on which the following inscription, composed by the
 bridegroom, actually appeared in golden letters:
 
-                     Here lies,
-             Foundered in a fathom and half,
-                     The shell
-                         Of
-                 HAWSER TRUNNION, Esq.
-            Formerly commander of a squadron
-               In his Majesty's service,
-          Who broached to, at five P.M. Oct. 10,
-      In the year of his age threescore and nineteen.
+Here lies,
+Foundered in a fathom and half,
+The shell
+Of
+HAWSER TRUNNION, Esq.
+Formerly commander of a squadron
+In his Majesty's service,
+Who broached to, at five P.M. Oct. 10,
+In the year of his age threescore and nineteen.
 
-            He kept his guns always loaded,
-             And his tackle ready mann'd,
-        And never showed his poop to the enemy,
-            Except when he took her in tow;
-    But, His shot being expended, His match burnt out,
-             And his upper works decayed,
-    He was sunk by Death's superior weight of metal.
+He kept his guns always loaded,
+And his tackle ready mann'd,
+And never showed his poop to the enemy,
+Except when he took her in tow;
+But, His shot being expended, His match burnt out,
+And his upper works decayed,
+He was sunk by Death's superior weight of metal.
 
-                     Nevertheless,
-       He will be weighed again at the Great Day,
-      His rigging refitted, And his timbers repaired;
-                And, with one broadside,
-          Make his adversary strike in his turn.
+Nevertheless,
+He will be weighed again at the Great Day,
+His rigging refitted, And his timbers repaired;
+And, with one broadside,
+Make his adversary strike in his turn.
 
 
 
-CHAPTER LXXX.
 
 
 
@@ -16242,7 +16043,6 @@ retained in his interest, because she found means to persuade him
 that she was in the confidence of her lady. But, notwithstanding this
 encouragement, and the sanguine suggestions of his own vanity, he
 dreaded the thoughts of exposing himself to her ridicule and resentment
-by a premature declaration and determined to postpone his addresses,
 until he should be more certified of the probability of succeeding in
 his attempt.
 
@@ -16369,7 +16169,6 @@ of this kind that now brought him to the house of her grace.
 After having sat a few minutes, he told the company that he would favour
 them with a very proper opportunity to extend their benevolence, for the
 relief of a poor gentlewoman, who was reduced to the most abject misery,
-by the death of her husband, and just delivered of a couple of fine
 boys: they, moreover, understood from his information, that this object
 was daughter of a good family, who had renounced her in consequence
 of her marrying an ensign without a fortune; and even obstructed
@@ -16505,13 +16304,11 @@ and adventure, which he had heard indistinctly related, with numberless
 errors and misrepresentations, he was no sooner entitled, by the
 familiarity of communication, to ask such a favour, than he earnestly
 entreated her to entertain him with the particulars of her story; and,
-by dint of importunity, she was at length prevailed upon, in a select
 party, to gratify his curiosity, by the account given in the following
 chapter.
 
 
 
-CHAPTER LXXXI.
 
 
 
@@ -16546,7 +16343,6 @@ person, which was remarkably tall for my years; and there my fancy was
 quite captivated by the variety of diversions in which I was continually
 engaged. Not that the parties were altogether new to me, but because I
 now found myself considered as a person of consequence, and surrounded
-by a crowd of admirers, who courted my acquaintance, and fed my vanity
 with praise and adulation. In short, whether or not I deserved their
 encomiums, I leave the world to judge; but my person was commended, and
 my talent in dancing met with universal applause. No wonder, then,
@@ -16770,7 +16566,6 @@ until all parties should be agreed; and such a favourable crisis, I
 feared, would never happen.
 
 “I therefore resolved within myself to gratify my lover's expectation,
-by eloping, if possible, that very night; though the execution of this
 plan was extremely difficult, because my father was upon the alarm,
 and my own maid, who was my bedfellow, altogether in his interest.
 Notwithstanding these considerations, I found means to engage one of
@@ -17169,7 +16964,6 @@ embrace, and in a little time he was ravished for ever from my view.
 “On that fatal morning, which put a period to his life, I saw the
 duchess of L-- approach my bed, and, from her appearance, concluded that
 he was no more; yet I begged she would not confirm the unhappy presage
-by announcing his death; and she accordingly preserved the most emphatic
 silence. I got up, and trod softly over his head, as if I had been
 afraid of interrupting his repose. Alas! he was no longer sensible of
 such disturbance. I was seized with a stupefaction of sorrow; I threw
@@ -17390,7 +17184,6 @@ time: but the amour was interrupted by his going to Ireland; upon which
 occasion, understanding that he was but indifferently provided with
 money, I made him a present of a gold snuff-box, in which was enclosed
 a bank-note; a trifling mark of my esteem, which he afterwards justified
-by the most grateful, friendly, and genteel behaviour; and as we
 corresponded by letters, I frankly told him, that Mr. S--- had stepped
 in, and won the palm from all the rest of my admirers.
 
@@ -17525,7 +17318,6 @@ ever, that the fruit of my love for Mr. S-- might not have inherited,
 to the detriment of the right heir. This was my determination, which
 I thought just, if not prudent; and for which I have incurred the
 imputation of folly, in the opinion of this wise and honest generation,
-by whose example and advice I have, since that time, been a little
 reformed in point of prudentials, though I still retain a strong
 tendency to return to my primitive way of thinking.
 
@@ -18253,7 +18045,6 @@ purpose, I used to walk round Hyde-park in the evening, when the place
 was quite solitary and unvisited by any other human creature.
 
 “In the course of this melancholy perambulation, I was one day accosted
-by a very great man, who, after the first salutation, asked whether or
 not my intercourse with S-- was at an end, and if I had any allowance
 from my husband. To the first of these questions I replied in the
 affirmative; and to the last answered, that my lord did not allow me a
@@ -18541,7 +18332,6 @@ without disgust, and, in a word, promised to deliberate with myself upon
 his proposals, and give him an account of my determination in writing.
 
 “Thus resolved, I went to Lord B--, in Wiltshire, whither I was followed
-by this pretender to my heart, who visited us on the footing of an
 acquaintance; but when I reflected on what I had done, I condemned my
 own conduct as indiscreet, though nothing decisive had passed between
 us, and began to hate him in proportion to the self-conviction I felt,
@@ -18979,7 +18769,6 @@ enjoyed one gleam of satisfaction except at the expense of another's
 quiet; and yet with this, I had almost called it diabolical quality, he
 expects that I should cherish him with all the tenderness of affection.
 After he has been at pains to incur my aversion, he punishes my disgust,
-by contriving schemes to mortify and perplex me, which have often
 succeeded so effectually, as to endanger my life and constitution; for
 I have been fretted and frighted into sundry fits of illness, and then I
 own I have experienced his care and concern.
@@ -18994,7 +18783,6 @@ series of my conduct since our marriage, which ought to have convinced
 him of my dislike, he is still persuaded, that, at bottom, I must admire
 and be enamoured of his agreeable person and accomplishments, and that
 I would not fail to manifest my love, were I not spirited against him
-by his own relations. Perhaps it might be their interest to foment the
 misunderstanding betwixt us; but really they give themselves no trouble
 about our affairs; and, so far as I know them, are a very good sort of
 people. On the whole, I think I may with justice pronounce my precious
@@ -19275,7 +19063,6 @@ of that term.
 next necessary step was to elude the vigilance of my guard: and in this
 manner did I effectuate my purpose. Being by this time indulged in the
 liberty of going out in the coach for the benefit of the air, attended
-by two footmen, who had orders to watch all my motions, I made use
 of this privilege one forenoon, when Lord -- expected some company to
 dinner, and bade the coachman drive to the lodgings of a man who wrote
 with his mouth, intending to give my spies the slip, on pretence of
@@ -19900,7 +19687,6 @@ undertaken to effect a reconciliation between my father and me; but,
 when he was questioned about the particulars of this difference, and
 desired to declare whether his lordship or I was to blame, he declined
 the office of arbitrator, refused to be explicit upon the subject, and
-by certain shrewd hums and ha's, signified his disapprobation of my
 conduct. Yet this very man, when I imparted to him, in confidence, my
 intention of making another retreat, and frankly asked his opinion of
 my design, seemed to acquiesce in the justice of it in these remarkable
@@ -20029,7 +19815,6 @@ of a whole month, waiting with resignation for the issue of my lawsuit;
 when, one afternoon, I was apprised of his lordship's approach by one
 of my spies, whom I always employed to reconnoitre the road; and so
 fortunate was I in the choice of these scouts, that I never was betrayed
-by one of them, though they were often bribed for that purpose. I
 no sooner received this intelligence, than I ordered my horse to be
 saddled, and, mounting, rode out of sight immediately, directing my
 course a different way from the London road. I had not long proceeded
@@ -20434,7 +20219,6 @@ than I at first imagined, and affected my companion so much, that she
 did not recover her spirits till she returned to England, I say,
 though I was for some time a valetudinarian, I enjoyed myself in great
 tranquility for the space of ten months, during which I was visited
-by English, Scotch, and French, of all parties and persuasions; for
 pleasure is of no faction, and that was the chief object of my pursuit;
 neither was I so ambitious of being a politician, as to employ my time
 and thoughts upon subjects which I did not understand. I had admirers of
@@ -20474,7 +20258,6 @@ involved in fresh difficulties, from which I found it impossible to
 extricate myself; and though I had occasion to write a letter to my
 benefactor Lord --, in which I expressed my acknowledgment of past
 favours, I could not venture to solicit more, even when I was encouraged
-by a very obliging answer, wherein he declared, that the good qualities
 of my mind and heart would bind him to me in friendship for ever.
 
 “While I ruminated on my uncomfortable situation, which would neither
@@ -20581,7 +20364,6 @@ behaviour; and, when we arrived at the place, refused to alight; but,
 setting them down, declared my intention of returning home immediately.
 She was so much pleased with this intimation, that she could not conceal
 the joy she felt at the thoughts of conversing with him, uninterrupted
-by my presence; an opportunity with which I had never favoured her
 before. This open exultation increased my anger and anxiety. I went
 home; but, being still tortured with the reflection of having left them
 together, adjusted myself in the glass, though I was too angry to take
@@ -20722,7 +20504,6 @@ changed; and though he attempted to elude my suspicion, by imputing
 it to a mistake of his servant, I could not rest satisfied with this
 account of the matter, but inquired into the truth with such eagerness
 and penetration, that he could not deny he had been to make a visit.
-By degrees, I even extorted from him a confession, that he had engaged
 himself further than he ought to have proceeded, without making me
 acquainted with his design, though he endeavoured to excuse his conduct,
 and pacify my displeasure, by saying, that the affair would not be
@@ -20997,7 +20778,6 @@ equilibrio, and his bosom tolerably quiet.
 
 
 
-CHAPTER LXXXII.
 
 
 
@@ -21109,7 +20889,7 @@ him about the success of his amour. Encouraged by this observation, or
 rather prompted by an insatiable curiosity, which was proof against all
 sorts of apprehension, the disguised lady returned to the magician's own
 apartment, and, assuming the air of a pert chambermaid, “Mr. Conjurer,”
- said she, “now you have satisfied my mistress, will you be as good as
+said she, “now you have satisfied my mistress, will you be as good as
 to tell me if ever I shall be married?” The sage, without the least
 hesitation, favoured her with an answer, in the following words: “You
 cannot be married before you are a widow; and whether or not that will
@@ -21269,7 +21049,6 @@ the remainder be distributed to poor families in distress.
 
 
 
-CHAPTER LXXXIII.
 
 
 
@@ -21310,7 +21089,7 @@ person upon earth was wiser than himself; and his ears were regaled with
 a thousand instances of the conjurer's wonderful prescience, for which
 he was altogether indebted to fiction. Some of these specimens being
 communicated to him by way of appeal to his opinion, “They are,”
- said he, “mere phantoms of ignorance and credulity, swelled up in the
+said he, “mere phantoms of ignorance and credulity, swelled up in the
 repetition, like those unsubstantial bubbles which the boys blow up in
 soap-suds with a tobacco-pipe. And this will ever be the case in the
 propagation of all extraordinary intelligence. The imagination naturally
@@ -21332,7 +21111,7 @@ malady he had undergone. Surprised at this salutation, the gentleman
 replied, it was true he had been a little out of order overnight, but
 there was nothing at all extraordinary in his indisposition. “Jesu! not
 extraordinary!” cried the other, “when you vomited three black crows.”
- This strange exclamation the grave gentleman at first mistook for
+This strange exclamation the grave gentleman at first mistook for
 raillery, though his friend was no joker; but, perceiving in him all the
 marks of sincerity and astonishment, he suddenly changed his opinion,
 and, after a short reverie, taking him aside, expressed himself in these
@@ -21351,10 +21130,10 @@ Mr. Such-a-one, their common acquaintance: upon which the person who
 conceived himself injured went immediately in quest of his supposed
 defamer, and having found him: “Pray, sir,” said he, with a peremptory
 tone, “who told you that I vomited three black crows?”--“Three?”
- answered the gentleman, “I mentioned two only.”--“Zounds! Sir,” cried
+answered the gentleman, “I mentioned two only.”--“Zounds! Sir,” cried
 the other, incensed at his indifference, “you will find the two too
 many, if you refuse to discover the villainous source of such calumny.”
- The gentleman, surprised at his heat, said he was sorry to find he had
+The gentleman, surprised at his heat, said he was sorry to find he had
 been the accidental instrument of giving him offence, but translated
 the blame, if any there was, from himself to a third person, to
 whose information he owed his knowledge of the report. The plaintiff,
@@ -21431,7 +21210,6 @@ who he knew would listen from the next apartment, laid her under the
 necessity of refreshing his remembrance with a recapitulation of her
 former confession, which was almost finished, when she was alarmed by a
 noise at the door, occasioned by two gentlemen, who attempted to enter
-by force.
 
 Terrified at this uproar, which disconcerted the magician himself, she
 ran for shelter into the place which was preoccupied by the other lady,
@@ -21462,7 +21240,6 @@ spheres.”
 Our necromancer, perplexed at this rencontre, made no reply; but, taking
 up his wand, waved it around his head in a very mysterious motion, with
 a view of intimidating these forward visitants, who, far from being awed
-by this sort of evolution, became more and more obstreperous, and even
 threatened to pull him by the beard, if he would not immediately comply
 with their desire. Had he called his associate, or even Hadgi, to his
 aid, he knew he could have soon calmed their turbulence; but, being
@@ -21475,7 +21252,6 @@ understanding the hint, rushed in without hesitation.
 
 The females, finding their place of retreat taken by assault, ran about
 the room in great consternation, and were immediately taken prisoners
-by the assailants, who, pulling them towards the windows, opened the
 shutters at the same instant of time, when, strange to tell! one of the
 heroes discovered in the prize he had made, the very wife of his bosom;
 and his companion perceived that he had stumbled in the dark upon
@@ -21494,7 +21270,6 @@ parent's reproof; and the other lady, in imitation of such a consummate
 pattern, began to open upon her husband, whom she bitterly reproached
 with his looseness and intemperance, demanding to know what he had to
 allege in alleviation of his present misconduct. The surprise occasioned
-by such an unexpected meeting, had already, in a great measure,
 destroyed the effects of the wine he had so plentifully drunk, and
 the first use he made of his recovered sobriety, was to revolve within
 himself the motives that could possibly induce his wife to give him
@@ -21698,7 +21473,6 @@ were solicited by sharpers, who desired to possess an infallible method
 of cheating unperceived; by fortune-hunters, who wanted to make prize of
 widows and heiresses; by debauchees, who were disposed to be with other
 men's wives; by coxcombs, who longed for the death of their fathers;
-by wenches with child, who wished themselves rid of their burdens; by
 merchants, who had insured above value, and thirsted after the news of a
 wreck; by underwriters, who prayed for the gift of prescience, that they
 might venture money upon such ships only as should perform the voyage
@@ -21710,7 +21484,6 @@ calculation, De Moivre was utterly neglected.
 
 
 
-CHAPTER LXXXIV.
 
 
 
@@ -21719,7 +21492,6 @@ certain Infidels who pretend to despise their Art; and Peregrine
 achieves an Adventure with a young Nobleman.
 
 
-By these means, the whole variety of characters undisguised passed, as
 it were, in review before the confederates, who, by divers ingenious
 contrivances, punished the most flagrant offenders with as much severity
 as the nature of their plan would allow. At length they projected a
@@ -21945,7 +21717,6 @@ pay such a considerable sum for a spendthrift, whom he had but too much
 indulged, and who in less than one week might involve himself in such
 another difficulty, the old gentleman wrote a letter to Peregrine,
 representing what a hardship it would be upon him to forfeit such sums
-by the indiscretion of a son, whose engagements he was not bound to
 fulfil, and desiring some mitigation in his demand, as it was not a debt
 contracted for value received, but incurred without subjecting him to
 the least damage or inconvenience.
@@ -21971,7 +21742,6 @@ strain of encomium, begged the favour of his acquaintance, and insisted
 upon his dining with him next day. The youth, proud of having met
 with such an opportunity to distinguish himself, in less than an hour
 performed every article of his promise; and in the morning was visited
-by the debtor, who came, by the express order of his father, to thank
 him for the obligation under which he was laid, and to ask pardon for
 the offence he had given.
 
@@ -21994,7 +21764,6 @@ promotion.
 
 
 
-CHAPTER LXXXV.
 
 
 
@@ -22096,7 +21865,7 @@ lender; and as soon as he could recover his breath, which was almost
 exhausted by the despatch he had made, “Sir,” said he, “I presume
 you are the gentleman I was to meet about that loan.” Here he was
 interrupted by the other, who eagerly replied, “A. B., sir, I suppose.”
- “The same,” cried the last-comer: “I was afraid I should be too late;
+“The same,” cried the last-comer: “I was afraid I should be too late;
 for I was detained beyond my expectation by a nobleman at the other end
 of the town, that wants to mortgage a small trifle of his estate, about
 a thousand a year; and my watch happens to be in the hands of the maker,
@@ -22175,14 +21944,12 @@ the landlord durst not abate, without running the risk of having his
 nose slit for his moderation.
 
 But this was puny expense compared with that which they often incurred,
-by the damage done to the furniture and servants, in the madness of
 their intoxication, as well as the loss they sustained at hazard, an
 amusement to which all of them had recourse in the progress of their
 debauches. This elegant diversion was introduced, encouraged, and
 promoted by a crew of rapacious sharpers, who had made themselves
 necessary companions to this hopeful generation, by the talents of
 pimping and buffoonery. Though they were universally known, even
-by those they preyed upon to have no other means of earning their
 livelihood, than the most infamous and fraudulent practices, they were
 caressed and courted by these infatuated dupes, when a man of honour,
 who would not join in their excesses, would have been treated with the
@@ -22210,7 +21977,6 @@ commencement of their reformation.
 
 
 
-CHAPTER LXXXVI.
 
 
 
@@ -22226,38 +21992,37 @@ to whet his appetite for a repetition of the pleasures she so prudently
 condemned; when he received the following letter, by which he was
 determined to visit his estate in the country:
 
-     Cousin Pickle,--I hope you are in a better trim than your
-     aunt, who hath been fast moored to her bed these seven weeks,
-     by several feet of under-water lodging in her hold and
-     hollop, whereby I doubt her planks are rotted, so that she
-     cannot choose but fall to pieces in a short time. I have
-     done all in my power to keep her tight and easy, and free
-     from sudden squalls that might overstrain her. And here
-     have been the doctors, who have scuttled her lower deck, and
-     let out six gallons of water. For my own part, I wonder how
-     the devil it came there; for you know as how it was a liquor
-     she never took in. But as for those fellows the doctors, they
-     are like unskilful carpenters, that in mending one leak make
-     a couple; and so she fills again apace. But the worst sign of
-     all is this here, she won't let a drop of Nantz go between
-     the combings of her teeth, and has quite lost the rudder of
-     her understanding, whereby she yaws woundily in her speech
-     palavering about some foreign part called the New Geereusalem,
-     and wishing herself in a safe berth in the river Geordun.
-     The parson, I must say, strives to keep her steady, concerning
-     the navigation of her soul, and talks very sensibly of charity
-     and the poor, whereof she hath left a legacy of two hundred
-     pounds in her will. And here has been Mr. Gamaliel and your
-     brother my lord, demanding entrance at the gate, in order to
-     see her; but I would not suffer them to come aboard, and
-     pointed my patereroes, which made them sheer off. Your sister,
-     Mrs. Clover, keeps close watch upon her kinswoman, without
-     ever turning in, and a kind-hearted young woman it is. I
-     should be glad to see you at the garrison, if the wind of your
-     inclination sits that way; and mayhap it may be a comfort to
-     your aunt, to behold you alongside of her, when her anchor is
-     apeak. So no more at present, but rests your friend and humble
-     servant to command,                        “John Hatchway.”
+Cousin Pickle,--I hope you are in a better trim than your
+aunt, who hath been fast moored to her bed these seven weeks,
+hollop, whereby I doubt her planks are rotted, so that she
+cannot choose but fall to pieces in a short time. I have
+done all in my power to keep her tight and easy, and free
+from sudden squalls that might overstrain her. And here
+have been the doctors, who have scuttled her lower deck, and
+let out six gallons of water. For my own part, I wonder how
+the devil it came there; for you know as how it was a liquor
+she never took in. But as for those fellows the doctors, they
+are like unskilful carpenters, that in mending one leak make
+a couple; and so she fills again apace. But the worst sign of
+all is this here, she won't let a drop of Nantz go between
+the combings of her teeth, and has quite lost the rudder of
+her understanding, whereby she yaws woundily in her speech
+palavering about some foreign part called the New Geereusalem,
+and wishing herself in a safe berth in the river Geordun.
+The parson, I must say, strives to keep her steady, concerning
+the navigation of her soul, and talks very sensibly of charity
+and the poor, whereof she hath left a legacy of two hundred
+pounds in her will. And here has been Mr. Gamaliel and your
+brother my lord, demanding entrance at the gate, in order to
+see her; but I would not suffer them to come aboard, and
+pointed my patereroes, which made them sheer off. Your sister,
+Mrs. Clover, keeps close watch upon her kinswoman, without
+ever turning in, and a kind-hearted young woman it is. I
+should be glad to see you at the garrison, if the wind of your
+inclination sits that way; and mayhap it may be a comfort to
+your aunt, to behold you alongside of her, when her anchor is
+apeak. So no more at present, but rests your friend and humble
+servant to command,                        “John Hatchway.”
 
 Next morning, after the receipt of this epistle, Peregrine, in order to
 manifest his regard to his aunt, as well as his friendship for honest
@@ -22368,7 +22133,6 @@ parliament.
 This scheme, which was suggested to him by one of his quality patrons,
 would have succeeded according to his wish, had the election taken place
 immediately; but, before that happened, his interest was overbalanced
-by some small accidents that will be recorded in the sequel. In the
 meantime, he repaired to Windsor on the eve of his friend's marriage,
 and understood from Godfrey that it was with the utmost difficulty he
 and Sophy could prevail upon his sister to be present at the wedding.
@@ -22449,7 +22213,6 @@ language of the eyes, in which he was a perfect connoisseur.
 
 This behaviour soon manifested itself to the whole assembly, the
 greatest part of whom believed that he was in good earnest captivated
-by the charms of his partner; while Emilia, penetrating into his
 design, turned his own artillery upon himself, by seeming to listen with
 pleasure to the addresses of his rival, who was no novice in the art of
 making love. She even affected uncommon vivacity, and giggled aloud at
@@ -22536,49 +22299,49 @@ neglected: calling for paper, he sat up in his bed, and, in the first
 transports of his emotion, wrote the following petition to Godfrey's
 amiable wife:--
 
-     Dear Madam--The affliction of a contrite heart can never
-     appeal to your benevolence in vain, and, therefore, I
-     presume to approach you in this season of delight, with
-     the language of sorrow, requesting that you will espouse
-     the cause of an unhappy lover, who mourns with unutterable
-     anguish over his ruined hope, and intercede for my pardon
-     with that divine creature, whom, in the intemperance and
-     excess of passion, I have so mortally offended. Good Heaven!
-     is my guilt inexpiable? Am I excluded from all hope of
-     remission? Am I devoted to misery and despair? I have
-     offered all the atonement which the most perfect and sincere
-     penitence could suggest, and she rejects my humility and
-     repentance. If her resentment would pursue me to the grave,
-     let her signify her pleasure; and may I be branded with the
-     name of villain, and remembered with infamy and detestation
-     to all posterity, if I hesitate one moment in sacrificing a
-     life which is odious to Emilia. Ah! madam, while I thus pour
-     forth the effusions of my grief and distraction, I look
-     around the apartment in which I lie, and every well-known
-     object that salutes my view, recalls to my remembrance that
-     fond, that happy day, on which the fair, the good, the
-     tender-hearted Sophy became my advocate, though I was a
-     stranger to her acquaintance, and effected a transporting
-     reconciliation between me and that same enchanting beauty,
-     that is now so implacably incensed. If she is not satisfied
-     with the pangs of remorse and disappointment, the transports
-     of madness I have undergone, let her prescribe what further
-     penance she thinks I ought to endure, and when I decline her
-     sentence, let me be the object of her eternal disdain.
+Dear Madam--The affliction of a contrite heart can never
+appeal to your benevolence in vain, and, therefore, I
+presume to approach you in this season of delight, with
+the language of sorrow, requesting that you will espouse
+the cause of an unhappy lover, who mourns with unutterable
+anguish over his ruined hope, and intercede for my pardon
+with that divine creature, whom, in the intemperance and
+excess of passion, I have so mortally offended. Good Heaven!
+is my guilt inexpiable? Am I excluded from all hope of
+remission? Am I devoted to misery and despair? I have
+offered all the atonement which the most perfect and sincere
+penitence could suggest, and she rejects my humility and
+repentance. If her resentment would pursue me to the grave,
+let her signify her pleasure; and may I be branded with the
+name of villain, and remembered with infamy and detestation
+to all posterity, if I hesitate one moment in sacrificing a
+life which is odious to Emilia. Ah! madam, while I thus pour
+forth the effusions of my grief and distraction, I look
+around the apartment in which I lie, and every well-known
+object that salutes my view, recalls to my remembrance that
+fond, that happy day, on which the fair, the good, the
+tender-hearted Sophy became my advocate, though I was a
+stranger to her acquaintance, and effected a transporting
+reconciliation between me and that same enchanting beauty,
+that is now so implacably incensed. If she is not satisfied
+with the pangs of remorse and disappointment, the transports
+of madness I have undergone, let her prescribe what further
+penance she thinks I ought to endure, and when I decline her
+sentence, let me be the object of her eternal disdain.
 
-     I commit myself, dear madam! dear Sophy! dear partner of my
-     Friend! to your kind interposition. I know you will manage
-     my cause, as a concern on which my happiness entirely
-     depends; and I hope everything from your compassion and
-     beneficence, while I fear everything from her rigour and
-     barbarity. Yes! I call it barbarity, a savageness of delicacy
-     altogether inconsistent with the tenderness of human nature;
-     and may the most abject contempt be my portion, if I live
-     under its scourge! But I begin to rave. I conjure you by your
-     own humanity and sweetness of disposition, I conjure you by
-     your love for the man whom Heaven hath decreed your protector,
-     to employ your influence with that angel of wrath, in behalf
-     of your obliged and obedient servant.             “P. PICKLE.”
+I commit myself, dear madam! dear Sophy! dear partner of my
+Friend! to your kind interposition. I know you will manage
+my cause, as a concern on which my happiness entirely
+depends; and I hope everything from your compassion and
+beneficence, while I fear everything from her rigour and
+barbarity. Yes! I call it barbarity, a savageness of delicacy
+altogether inconsistent with the tenderness of human nature;
+and may the most abject contempt be my portion, if I live
+under its scourge! But I begin to rave. I conjure you by your
+own humanity and sweetness of disposition, I conjure you by
+your love for the man whom Heaven hath decreed your protector,
+to employ your influence with that angel of wrath, in behalf
+of your obliged and obedient servant.             “P. PICKLE.”
 
 This epistle was immediately transmitted by Godfrey to his wife, who
 perused it with marks of the most humane sympathy; and, carrying it
@@ -22670,7 +22433,7 @@ stood, scarce crediting the testimony of his own senses, till Peregrine,
 with an air of discontent, which denoted him displeased with his
 intrusion, dispelled his apprehension by a second address, saying, “I
 see you consider me as a friend, by your using me without ceremony.”
- The soldier, thus convinced of the falsehood of the information he had
+The soldier, thus convinced of the falsehood of the information he had
 received, began to imagine, that Pickle had projected the plan which was
 executed by his servant; and looking upon it as a piece of unjustifiable
 finesse, which might be attended with very melancholy consequences to
@@ -22689,7 +22452,7 @@ his military look of defiance, and, erecting his chest, replied with
 an exalted voice, “Mr. Pickle, whether you were in jest or earnest,
 you must give me leave to tell you, that the scheme was childish,
 unseasonable, and unkind, not to give it a harsher term.”--“Death, sir!”
- cried our adventurer, “you trifle with my disquiet; if there is any
+cried our adventurer, “you trifle with my disquiet; if there is any
 meaning in your insinuation, explain yourself, and then I shall know
 what answer it will befit me to give.”--“I came with very different
 sentiments,” resumed the soldier, “but since you urge me to
@@ -22697,7 +22460,7 @@ expostulation, and behave with such unprovoked loftiness of displeasure,
 I will, without circumlocution, tax you with having committed an outrage
 upon the peace of my family, in sending your fellow to alarm us with
 such an abrupt account of your having done violence upon yourself.”
- Peregrine, confounded at this imputation, stood silent, with a most
+Peregrine, confounded at this imputation, stood silent, with a most
 savage aspect of surprise, eager to know the circumstance to which
 his accuser alluded, and incensed to find it beyond the sphere of his
 comprehension.
@@ -22755,7 +22518,6 @@ him, for allowing Peregrine to depart in terms of misunderstanding.
 
 
 
-CHAPTER LXXXVII.
 
 
 
@@ -22918,7 +22680,6 @@ to pronounce occasionally, with an air of careless familiarity; and,
 perceiving that her voice was naturally clear, he enriched it with
 remnants of opera tunes, to be hummed during a pause in conversation,
 which is generally supplied with a circulation of a pinch of snuff.
-By means of this cultivation she became a wonderful proficient in the
 polite graces of the age; she, with great facility, comprehended the
 scheme of whist, though cribbage was her favourite game, with which she
 had amused herself in her vacant hours, from her first entrance into the
@@ -23053,7 +22814,6 @@ the way.
 
 
 
-CHAPTER LXXXVIII.
 
 
 
@@ -23103,8 +22863,8 @@ compose a little smart, clever ode upon my Cleopatra. As Gad shall judge
 me, I thought it would have been of some service, in helping him out of
 obscurity; for you know, as Sir Richard observes,
 
-     “Soon will that die, which adds thy fame to mine;
-     Let me then live, join'd to a work of thine.”
+“Soon will that die, which adds thy fame to mine;
+Let me then live, join'd to a work of thine.”
 
 “By the bye, there is a most picturesque contrast in these lines, of thy
 and me, living and dying, and thine and mine. Ah! a prize upon it! Dick,
@@ -23199,7 +22959,6 @@ into a spirit of keenness and adventure, and disposed to depend upon his
 own judgment, in opposition to that of people who had made horse-racing
 the sole study of their lives. He accompanied my lord to Newmarket, and,
 entering at once into the genius of the place, was marked as fair game,
-by all the knowing ones there assembled, many of whom found means
 to take him in, in spite of all the cautions and admonitions of his
 lordship, who wanted to reserve him for his own use.
 
@@ -23251,7 +23010,6 @@ his making use of their interest and goodwill.
 
 
 
-CHAPTER LXXXIX.
 
 
 
@@ -23455,7 +23213,6 @@ shifts for the maintenance of his family, which consisted of a wife
 and child. Not that he was destitute of the necessaries of life, being
 comfortably supplied by the bounty of his friends; but this was a
 provision not at all suited to his inclination; and he had endeavoured,
-by divers unsuccessful schemes, to retrieve his former independency.
 
 Peregrine happened one evening to be sitting alone in a coffee-house,
 where he overheard a conversation between this schemer and another
@@ -23627,7 +23384,6 @@ provided he would listen to any reasonable terms of accommodation.
 
 Peregrine, who was not more prone to anger than open to conviction,
 being appeased by his condescension, moved by his arguments, and chid
-by his own reflection for what he had done in the precipitation of his
 wrath, began to give ear to his remonstrances; and the bailiffs being
 ordered to withdraw, they entered into a conference, the result of which
 was our adventurer's immediate departure for London; so that next day
@@ -23635,7 +23391,6 @@ his competitor was unanimously chosen, because nobody appeared to oppose
 his election. The discontented Pickle, on his arrival in town, went
 directly to the house of his patron, to whom, in the anguish of his
 disappointment, he bitterly complained of the treatment he had received,
-by which, besides the disgrace of his overthrow, he was no less than two
 thousand pounds out of pocket, exclusive of the debt for which he
 stood engaged to the receiver. His lordship, who was prepared for this
 expostulation, on his knowledge of the young man's impetuous temper,
@@ -23654,7 +23409,6 @@ danger of forgetting his services and desert.
 
 
 
-CHAPTER XC.
 
 
 
@@ -23757,7 +23511,6 @@ believe that you would be pleased to hear that I was in town. However,
 I will not detain you at present, because you seem to be engaged about
 some particular business; but, if you will favour me with your company
 at breakfast to-morrow, I shall be much pleased, and honoured to boot,
-by the visit.” So saying, she gave him a direction to her lodgings;
 and he took his leave, with a faithful promise of seeing her at the
 appointed time.
 
@@ -23848,7 +23601,7 @@ friendly correspondence with each other, they never dreamt of inquiring
 into particular concerns; and if one of the two who were most intimately
 connected, had been asked how the other made a shift to live, he would
 have answered with great truth, “Really, that is more than I know.”
- Notwithstanding this phlegmatic indifference, which is of the true
+Notwithstanding this phlegmatic indifference, which is of the true
 English production, they were all inoffensive, good-natured people, who
 loved a joke and a song, delighted in telling a merry story, and prided
 themselves in the art of catering, especially in the articles of fish,
@@ -23991,7 +23744,6 @@ some collusion.
 
 
 
-CHAPTER XCI.
 
 
 
@@ -24200,7 +23952,6 @@ His lordship never wanted a proper exhortation upon these occasions. He
 did not now endeavour to pacify him with assurances of the minister's
 favour, because he perceived that these medicines had, by repeated use,
 lost their effect upon our adventurer, whose menaces he now combated
-by representing that the minister's purse was heavier than that of
 Mr. Pickle; that, therefore, should he make a point of opposing his
 interest, the youth must infallibly fail in the contest; in which case
 he would find himself utterly destitute of the means of subsistence, and
@@ -24246,7 +23997,6 @@ dispose of the mortgage, purchase an annuity, and live independent.
 
 
 
-CHAPTER XCII.
 
 
 
@@ -24272,7 +24022,6 @@ very much disposed to convince him of the regard which he paid to
 both; that till of late he did not know the nature of his expectations,
 neither had he the power of creating posts for those whom he was
 inclined to serve; but if Mr. Pickle would chalk out any feasible method
-by which he could manifest his sentiments of friendship, he should not
 be backward in executing the plan.
 
 Peregrine, laying hold on this declaration, mentioned several places
@@ -24376,7 +24125,6 @@ personal application to the heir, who, by a candid representation of
 the case, might be inclined to do him justice. In consequence of this
 determination, he next morning put his writings in his pocket, and went
 in a chair to the house of the young nobleman, to whom, being admitted
-by virtue of his appearance, and a small gratification to the porter, he
 explained the whole affair, corroborating his assertions with the papers
 which he produced, and describing the disgrace that would be entailed
 upon the memory of the deceased, should he be obliged to seek redress in
@@ -24440,7 +24188,6 @@ would doubtless discharge the debts of his deceased bosom friend.
 
 
 
-CHAPTER XCIII.
 
 
 
@@ -24499,7 +24246,6 @@ He was afterwards, by the same minister, instructed in the ceremonies of
 the college; and, in consequence of his information, composed an ode,
 to be publicly recited on the evening of his introduction. He understood
 that this constitution was no other than a body of authors, incorporated
-by mutual consent, for their joint advantage and satisfaction,
 opposed to another assembly of the same kind, their avowed enemies and
 detractors. No wonder, then, that they sought to strengthen themselves
 with such a valuable acquisition as our hero was likely to prove. The
@@ -24558,7 +24304,6 @@ This honourable consistory was held in the best room of an ale-house,
 which afforded wine, punch, or beer, suitable to the purse or
 inclination of every individual, who separately paid for his own choice;
 and here was our hero introduced in the midst of twenty strangers, who,
-by their looks and equipage, formed a very picturesque variety. He was
 received with a most gracious solemnity, and placed upon the right
 hand of the president, who, having commanded silence, recited aloud
 his introductory ode, which met with universal approbation. Then was
@@ -24735,7 +24480,6 @@ seeing their performances exhibited on the stage.”
 
 
 
-CHAPTER XCIV.
 
 
 
@@ -24850,7 +24594,6 @@ the park, and being naturally civil, I could not pass him without a
 salutation of the hat, which he returned in the most distant manner,
 though we were both solitary, and not a soul within view, and when that
 very performance, which he had applauded so warmly, was lately published
-by subscription, he did not bespeak so much as one copy. I have often
 reflected with wonder upon this inconsistency of his conduct. I never
 courted his patronage, nor indeed thought of his name, until he
 made interest for my acquaintance; and if he was disappointed in my
@@ -24909,7 +24652,6 @@ at the whole?” said another. “His wit,” replied the chairman, “is too
 subtle to be perceived.”
 
 A third mouth was just open, when the exercise was suddenly interrupted
-by the dreadful cry of “Fire!” which issued from the kitchen, and
 involved the whole college in confusion. Every man endeavoured to be
 the first in making his exit, the door and passage were blocked up; each
 individual was pommelled by the person that happened to be behind him.
@@ -25015,10 +24757,10 @@ be repeated with an air of eagerness and satisfaction, not with the
 ridiculous grimace of a monkey, to which, methought, his action bore an
 intimate resemblance, in uttering this plain sentence:--
 
-     ----He took it up:
-     But scarce was it unfolded to his sight,
-     When he, as if an arrow pierc'd his eye,
-     Started, and trembling dropp'd it on the ground.
+----He took it up:
+But scarce was it unfolded to his sight,
+When he, as if an arrow pierc'd his eye,
+Started, and trembling dropp'd it on the ground.
 
 “In pronouncing the first two words, this egregious actor stoops down,
 and seems to take up something from the stage, then proceeding to repeat
@@ -25030,9 +24772,9 @@ throws all his limbs into a tremulous motion, and shakes the imaginary
 paper from his hand. The latter part of the description is carried on
 with the same minute gesticulation, while he says:--
 
-     Pale and aghast awhile my victim stood,
-     Disguis'd a sigh or two, and puff'd them from him;
-     Then rubb'd his brow, and took it up again.
+Pale and aghast awhile my victim stood,
+Disguis'd a sigh or two, and puff'd them from him;
+Then rubb'd his brow, and took it up again.
 
 The player's countenance assumes a wild stare, he sighs twice most
 piteously, as if he were on the point of suffocation, scrubs his
@@ -25040,9 +24782,9 @@ forehead, and, bending his body, apes the action of snatching an object
 from the floor. Nor is this dexterity of dumb-show omitted, when he
 concludes his imitation in these three lines:--
 
-     At first he look'd as if he meant to read it;
-     But check'd by rising fears, he crushed it thus,
-     And thrust it, like an adder, in his bosom.
+At first he look'd as if he meant to read it;
+But check'd by rising fears, he crushed it thus,
+And thrust it, like an adder, in his bosom.
 
 “Here the judicious performer imitates the confusion and concern of
 Alonzo, seems to cast his eyes upon something, from which they are
@@ -25102,7 +24844,6 @@ with a repulse.
 
 
 
-CHAPTER XCV.
 
 
 
@@ -25170,7 +24911,6 @@ consequently he was surrounded by a strange variety of pretenders; but
 none were discouraged, because he knew that even the most insignificant
 might, in some shape, conduce to the propagation of his praise. A
 babbler, though he cannot run upon the scent, may spring the game, and,
-by his yelping, help to fill up the cry. No wonder, then, that a youth
 of Pickle's accomplishments was admitted and even invited into the pack.
 After having enjoyed a very short private audience in the closet, our
 young gentleman was shown into another room, where half a dozen of his
@@ -25189,11 +24929,9 @@ expressed than every guest opened his mouth, in order to ratify his
 curiosity. But he that first captivated his attention was a meagre,
 shrivelled antiquary, who looked like an animated mummy, which had been
 scorched among the sands of the desert. He told the patron, that he had,
-by accident, met with a medal, which, though it was defaced by time, he
 would venture to pronounce a genuine antique, from the ringing and taste
 of the metal, as well as from the colour and composition of the rust. So
 saying, he produced a piece of copper coin, so consumed and disguised
-by age, that scarce a vestige of the impression was to be perceived.
 Nevertheless, this connoisseur pretended to distinguish a face in
 profile, from which he concluded that the piece was of the Upper Empire,
 and on the reverse he endeavoured to point out the bulb of the spear,
@@ -25291,7 +25029,7 @@ which prejudice and annoy mankind, in all probability you must have
 been contented with the contemplation of the good you had done; but this
 curious expedient for multiplying maggots will surely entitle you to an
 honourable rank in the list of learned philosophers.”--“I don't wonder,”
- replied the naturalist, “that you should be so much averse to the
+replied the naturalist, “that you should be so much averse to the
 propagation of insects, because, in all likelihood, you are afraid that
 they will not leave you a cabbage to cut down with the same miraculous
 machine.”--“Sir,” answered the mechanic, with great bitterness of
@@ -25352,7 +25090,6 @@ the first of the old gentleman's dependents.
 
 
 
-CHAPTER XCVI.
 
 
 
@@ -25735,33 +25472,31 @@ paper, presented her with the following song, which he had written
 in her praise, immediately after he was made acquainted with the
 particulars of her story:
 
-                       I.
-     While with fond rapture and amaze,
-     On thy transcendent charms I gaze,
-     My cautious soul essays in vain
-     Her peace and freedom to maintain;
-     yet let that blooming form divine,
-     Where grace and harmony combine;
-     Those eyes, like genial orbs that move,
-     Dispensing gladness, joy, and love;
-     in all their pomp assail my view,
-     Intent my bosom to subdue;
-     My breast, by wary maxims steel'd,
-     Not all those charms shall force to yield.
+While with fond rapture and amaze,
+On thy transcendent charms I gaze,
+My cautious soul essays in vain
+Her peace and freedom to maintain;
+yet let that blooming form divine,
+Where grace and harmony combine;
+Those eyes, like genial orbs that move,
+Dispensing gladness, joy, and love;
+in all their pomp assail my view,
+Intent my bosom to subdue;
+My breast, by wary maxims steel'd,
+Not all those charms shall force to yield.
 
-                       II.
-     But, when invok'd to Beauty's aid,
-     I see the enlighten'd soul display'd,
-     That soul so sensibly sedate
-     Amid the storms of froward fate!
-     Thy genius active, strong, and clear,
-     Thy wit sublime, though not severe,
-     The social ardour, void of art,
-     That glows within thy candid heart;
-     My spirits, sense, and strength decay,
-     My resolution dies away,
-     And, every faculty oppress'd,
-     Almighty love invades my breast!
+But, when invok'd to Beauty's aid,
+I see the enlighten'd soul display'd,
+That soul so sensibly sedate
+Amid the storms of froward fate!
+Thy genius active, strong, and clear,
+Thy wit sublime, though not severe,
+The social ardour, void of art,
+That glows within thy candid heart;
+My spirits, sense, and strength decay,
+My resolution dies away,
+And, every faculty oppress'd,
+Almighty love invades my breast!
 
 Her ladyship having perused this production, “Were I inclined to
 be suspicious,” said she, “I should believe that I had no share in
@@ -25780,7 +25515,6 @@ topic of discourse.
 
 
 
-CHAPTER XCVII.
 
 
 
@@ -25846,7 +25580,6 @@ ill manners, but had been commanded to arrest our adventurer according
 to the express direction of the creditor, on pain of forfeiting his
 place.
 
-By this declaration Peregrine was appeased, and, out of a delirium of
 passion, waked to all the horrors of reflection. All the glory of his
 youth was now eclipsed, all the blossoms of his hope were blasted,
 and he saw himself doomed to the miseries of a jail, without the least
@@ -26055,7 +25788,7 @@ a portmanteau filled with necessaries, according to the direction of
 Cadwallader; and, tossing it down upon the floor, regaled himself with a
 quid, without the least manifestation of concern. After some pause, “You
 see, Pipes,” said his master, “to what I have brought myself.” “Ey, ey,”
- answered the valet, “once the vessel is ashore, what signifies talking?
+answered the valet, “once the vessel is ashore, what signifies talking?
 We must bear a hand to tow her off, if we can. If she won't budge for
 all the anchors and capstans aboard, after we have lightened her, by
 cutting away her masts, and heaving our guns and cargo overboard, why
@@ -26283,7 +26016,6 @@ pinioned his arms so fast, that he could not wag a finger. Perceiving
 himself fairly overpowered, he desired to be conducted forthwith to
 jail, and was stowed in a boat accordingly; by the time they had
 reached the middle of the river, he found means to overset the wherry
-by accident, and every man, disregarding the prisoner, consulted his own
 safety. As for Hackabout, to whom that element was quite familiar, he
 mounted astride upon the keel of the boat, which was uppermost, and
 exhorted the bailiffs to swim for their lives; protesting before God,
@@ -26339,9 +26071,8 @@ knight gratified his desire, by telling him, that one evening, while
 he was engaged in a party of cards, at a drum in the house of a certain
 lady of quality, he was given to understand by one of the servants, that
 a stranger, very richly dressed, was just arrived in a chair, preceded
-by five footmen with flambeaux, and that he refused to come upstairs,
 until he should be introduced by Sir Simple. “Upon this notice,”
- continued the knight, “I judged it was some of my quality friends; and,
+continued the knight, “I judged it was some of my quality friends; and,
 having obtained her ladyship's permission to bring him up, went down to
 the hall, and perceived a person, whom, to the best of my recollection,
 I had never seen before. However, his appearance was so magnificent,
@@ -26370,7 +26101,6 @@ the county jail without further let or molestation.”
 
 
 
-CHAPTER XCVIII.
 
 
 
@@ -26426,7 +26156,7 @@ of the grievances under which he labours from the villainy of guardian.”
 
 Peregrine's curiosity being excited by this encomium, asked the name of
 this generous patron, of which when he was informed, “I am no stranger,”
- said he, “to the fame of that gentleman, who has made a considerable
+said he, “to the fame of that gentleman, who has made a considerable
 noise in the world, on account of that great cause he undertook in
 defence of an unhappy orphan; and, since he is a person of such an
 amiable disposition, I am heartily sorry to find that his endeavours
@@ -26615,7 +26345,6 @@ friendship, and for whom he had done a good office, in supporting him
 with spirit against a brutal German, with whom he had an affair of
 honour. This gentleman came to propose a party for a fortnight, to
 Fontainebleau, where the court then was; and the proposal being declined
-by M-- with more than usual stiffness, his friend was very urgent to
 know the reason of his refusal, and at length, with some confusion,
 said, 'Perhaps your finances are low?' M-- replied, that he had
 wherewithal to defray the expense of his journey to London, where he
@@ -26649,7 +26378,6 @@ snare.
 execute his former plan of seeing the south of France, together with the
 sea-ports of Spain, as far as Cadiz, from whence he proposed to take a
 passage for London by sea; and, with this view, sent forward his trunks
-by the diligence to Lyons, determined to ride post, in order to enjoy a
 better view of the country, and for the conveniency of stopping at those
 places where there was anything remarkable to be seen or inquired into.
 While he was employed in taking leave of his Parisian friends, who
@@ -26782,7 +26510,6 @@ manage, and wrote some pamphlets on the reigning controversies of that
 time, that had the good fortune to please. He was also concerned in a
 monthly journal of literature, and the work was carried on by the two
 friends jointly, though M-- did not at all appear in the partnership.
-By these means he not only spent his mornings in useful exercise but
 supplied himself with money for what the French call the menus plaisirs,
 during the whole summer. He frequented all the assemblies in and about
 London, and considerably enlarged his acquaintance among the fair sex.
@@ -27171,7 +26898,6 @@ scrupulous. This much, however, may be said, without derogation from,
 or impeachment of, the noble earl's nice virtue and honour, that he
 took care to compromise all differences with the other branches of the
 family, whose interests were, in this affair, connected with his own,
-by sharing the estate with them, and also retained most of the eminent
 counsel within the bar of both kingdoms against this formidable bastard,
 before any suit was instituted by him.
 
@@ -27391,7 +27117,6 @@ Dublin, skulking chiefly about the college, several members and students
 of which, taking pity on his misfortunes, supplied him at different
 times with clothes and money. In this unsettled and uncomfortable way
 of life did he remain, from the year 1725 to the latter end of November,
-1727; at which time his father died, so miserably poor, that he was
 actually buried at the public expense.
 
 “This unfortunate nobleman was no sooner dead, than his brother Richard,
@@ -27462,7 +27187,6 @@ the assistance of his neighbours, rescued him by force from their cruel
 hands. This, however, was but a short respite; for, though warned by
 this adventure, the boy seldom crept out of his lurking-places, without
 the most cautious circumspection, he was, in March, 1727, discovered
-by the diligence of his persecutors, and forcibly dragged on board of
 a ship bound for Newcastle, on Delaware river in America, where he
 was sold as a slave, and kept to hard labour, much above his age
 or strength, for the space of thirteen years, during which he was
@@ -27637,7 +27361,6 @@ or by letters, communicated their knowledge of the claimant, in
 declarations consonant with one another, as well as with the accounts
 he gave of himself. Several servants who had lived with his father, and
 been deceived with the story of his death, so industriously propagated
-by his uncle, no sooner heard of his being in Dublin, than they came
 from different parts of the country to see him; and though great pains
 were taken to deceive them, they, nevertheless, knew him at first
 sight; some of them fell upon their knees to thank for his preservation,
@@ -27689,7 +27412,6 @@ of joy, crowded out to meet him, and ushered him into town with such
 demonstrations of pleasure and goodwill, that the noble peer found it
 convenient to hide himself from the resentment of his own tenants, the
 effects of which he must have severely felt, had not he been screened
-by the timely remonstrances of Mr. M--, and the other gentlemen who
 accompanied his competitor.
 
 “Nor did his apprehension vanish with the transaction of this day; the
@@ -27857,7 +27579,6 @@ and to spirit up suits against him? Is it not obvious from all these
 circumstances, as well as from the obstruction they have given to the
 attorney-general's proceeding to make a report to his majesty on the
 claimant's petition to the king for the peerage, which was referred
-by his majesty to that gentleman, so far back as 1743, that all their
 efforts are bent to that one point, of stifling, rather than suffering
 the merits of this cause to come to a fair and candid hearing; and that
 the sole consideration at present between them and this unfortunate man
@@ -28029,7 +27750,6 @@ again into the country, lest he should happen to be undeceived by some
 means or other.
 
 “In the meantime, this wicked machination was providentially discovered
-by Mr. M--, before it could be carried into execution, by means of the
 jealousies that arose among the conspirators themselves; and was, at the
 same time, confirmed to him by a person whom the very agent for the A--
 party had entrusted with the secret. M-- no sooner detected it, than he
@@ -28127,7 +27847,6 @@ in three different places, on the right side of his neck; but, as he was
 not used to such barbarous attempts, his hand failed in the performance;
 and he was seized with such remorse, that, perceiving the wounds were
 not mortal, he carried the hapless victim to the house of a surgeon,
-by whose care they were healed; and, in the meantime, that he might not
 forfeit his recompense, found means to persuade his employer, that
 his orders were performed. A bundle being made up for the purpose, was
 publicly interred as the body of the child, who was said to have been
@@ -28199,7 +27918,6 @@ mystery of his fortune.
 
 “If he was agreeably amazed at this explanation, the case was otherwise
 with his wife, who thought herself in great danger of being abandoned
-by a husband of such high rank; but he immediately dispelled her
 apprehension, by assuring her, that, as she had shared in his adversity,
 she should also partake of his good fortune. He set out immediately for
 Vienna, to make his acknowledgments to the emperor, who favoured him
@@ -28226,7 +27944,6 @@ construed into forwardness or presumption.
 
 
 
-CHAPTER XCIX.
 
 
 
@@ -28318,21 +28035,21 @@ The two sailors were no sooner gone, than he took up the pen, and wrote
 the following letter, in which he enclosed the bank-note to his generous
 benefactress:
 
-     Madam,--Your humanity is not more ingenious than my
-     suspicion. In vain you attempt to impose upon me by an
-     act of generosity, which no person on earth but your
-     ladyship is capable of committing. Though your name was
-     not subscribed on the paper, your sentiments were fully
-     displayed in the contents, which I must beg leave to
-     restore, with the same sense of gratitude, and for the
-     same reasons I expressed when last I had the honour to
-     converse with you upon this subject. Though I am deprived
-     of my liberty by the villainy and ingratitude of mankind,
-     I am not yet destitute of the other conveniences of life;
-     and therefore beg to be excused for incurring an unnecessary
-     addition to that load of obligation you have already laid
-     upon, madam, your ladyship's most devoted, humble servant,
-                                     “Peregrine Pickle.”
+Madam,--Your humanity is not more ingenious than my
+suspicion. In vain you attempt to impose upon me by an
+act of generosity, which no person on earth but your
+ladyship is capable of committing. Though your name was
+not subscribed on the paper, your sentiments were fully
+displayed in the contents, which I must beg leave to
+restore, with the same sense of gratitude, and for the
+same reasons I expressed when last I had the honour to
+converse with you upon this subject. Though I am deprived
+of my liberty by the villainy and ingratitude of mankind,
+I am not yet destitute of the other conveniences of life;
+and therefore beg to be excused for incurring an unnecessary
+addition to that load of obligation you have already laid
+upon, madam, your ladyship's most devoted, humble servant,
+“Peregrine Pickle.”
 
 Having dressed himself, and repaired to the place of appointment, he
 despatched this epistle by the hands of Pipes, who was ordered to leave
@@ -28473,7 +28190,6 @@ the coffee-house and kitchen, and give the people to understand that he
 would pay for all such liquor and provisions as Mr. Pickle should order
 to be sent to his lodging. This expedient was immediately practised; and
 as there was no credit in the place, Hatchway deposited a sum of money,
-by way of security, to the cook and the vintner, intimating, that
 there was a necessity for taking that method of befriending his cousin
 Peregrine, who was subject to strange whims, that rendered it impossible
 to serve him any other way.
@@ -28529,7 +28245,6 @@ Pickle, in being offended at such forwardness of friendship.
 
 
 
-CHAPTER C.
 
 
 
@@ -28567,7 +28282,6 @@ himself, by accident, before it was dark, and even before they had
 intelligence of his retreat. But, next day, they kept themselves upon
 the watch till he appeared, and Pipes lifting his hat, as Crabtree
 passed, “O d-- ye, old Dunny,” said he, “you and I must grapple by and
-by; and a'gad I shall lie so near your quarter, that your ear-ports will
 let in the sound, thof they are double caulked with oakum.”
 
 The misanthrope's ears were not quite so fast closed, but that they
@@ -28750,7 +28464,6 @@ from all society.
 
 
 
-CHAPTER CI.
 
 
 
@@ -28827,7 +28540,6 @@ finding his friend, and, ordering the coachman to stop the carriage,
 called to the lieutenant by his name. Jack replying with an hilloah,
 looking behind him, and recognizing the face of his old acquaintance,
 ran up to the coach with great eagerness. Shaking the captain heartily
-by the hand, “Odds heart!” said he, “I am glad thou hast fallen in with
 us; we shall now be able to find the trim of the vessel, and lay her
 about on t'other tack. For my own part, I have had many a consort in my
 time, that is, in the way of good fellowship, and I always made a
@@ -28942,26 +28654,26 @@ perused, had not Gauntlet insisted upon his waiving all ceremony, and
 reading it forthwith. Thus solicited, Pickle unsealed the billet, which,
 to his no small surprise, contained the following intimation:--
 
-     Sir,--This comes to inform you, that, after many dangers
-     and disappointments, I am, by the blessing of God, safely
-     arrived in the Downs, on board of the Gomberoon Indiaman,
-     having made a tolerable voyage; by which I hope I shall be
-     enabled to repay, with interest, the seven hundred pounds
-     which I borrowed of you before my departure from England.
-     I take this opportunity of writing by our purser, who goes
-     express with despatches for the Company, that you may have
-     this satisfactory notice as soon as possible, relating to
-     one whom I suppose you have long given over as lost. I have
-     enclosed it in a letter to my broker, who, I hope, knows
-     your address, and will forward it accordingly. And I am,
-     with respect, Sir, your most humble servant,
-                                         “Benjamin Chintz.”
+Sir,--This comes to inform you, that, after many dangers
+and disappointments, I am, by the blessing of God, safely
+arrived in the Downs, on board of the Gomberoon Indiaman,
+having made a tolerable voyage; by which I hope I shall be
+enabled to repay, with interest, the seven hundred pounds
+which I borrowed of you before my departure from England.
+I take this opportunity of writing by our purser, who goes
+express with despatches for the Company, that you may have
+this satisfactory notice as soon as possible, relating to
+one whom I suppose you have long given over as lost. I have
+enclosed it in a letter to my broker, who, I hope, knows
+your address, and will forward it accordingly. And I am,
+with respect, Sir, your most humble servant,
+“Benjamin Chintz.”
 
 He had no sooner taken a cursory view of this agreeable epistle, than
 his countenance cleared up, and, reaching it to his friend, with a
 smile, “There,” said he, “is a more convincing argument, on your side
 of the question, than all the casuists in the universe can advance.”
- Gauntlet, wondering at this observation, took the paper, and, casting
+Gauntlet, wondering at this observation, took the paper, and, casting
 his eyes greedily upon the contents, congratulated him upon the receipt
 of it, with extravagant demonstrations of joy. “Not on account of the
 sum,” said he, “which, upon my honour, I would with pleasure pay three
@@ -28991,7 +28703,6 @@ empowered him to obtain the possession of an excellent woman, who had
 filled up the measure of his felicity.
 
 Peregrine declared himself already overpaid for all his good offices,
-by the pleasure he enjoyed in employing them, and the happy effects they
 had produced in the mutual satisfaction of two persons so dear to his
 affection; and assured his friend, that one time or other he would set
 his conscience at ease, and remove the scruples of his honour, by having
@@ -29002,7 +28713,6 @@ attachment with surprising obstinacy and perseverance.
 
 
 
-CHAPTER CII.
 
 
 
@@ -29028,7 +28738,6 @@ one of the steps, and his prop plunging into a hole, he fell backwards,
 to the imminent danger of his life. Tom was luckily at his back, and
 sustained him in his arms, so as that he escaped without any other
 damage than the loss of his wooden leg, which was snapped in the middle,
-by the weight of his body in falling; and such was his impatience, that
 he would not give himself the trouble to disengage the fractured member.
 Unbuckling the whole equipage in a trice, he left it sticking in the
 crevice, saying, a rotten cable was not worth heaving up, and, in
@@ -29071,7 +28780,6 @@ a letter to his sister, at the desire of his uncle who, finding his end
 approaching, wanted to see her without loss of time, Peregrine made his
 appearance on the Bare, and was complimented on his coming abroad again,
 not only by his old messmates, who had not seen him for many weeks, but
-by a number of those objects whom his liberality had fed, before his
 funds were exhausted. Hatchway was, by his interest with the warden,
 put in possession of his former quarters, and Pipes despatched to make
 inquiry about Crabtree at his former lodging, where he learned that
@@ -29164,7 +28872,6 @@ deceased commodore.
 
 
 
-CHAPTER CIII.
 
 
 
@@ -29234,20 +28941,20 @@ agitation; for he at once guessed the import of the billet, which he
 kissed with great reverence and devotion, and was not at all surprised
 when he read the following words:--
 
-     Sir,--I have performed a sufficient sacrifice to my
-     reputation, in retaining hitherto the appearance of that
-     resentment which I had long ago dismissed; and as the
-     late favourable change in my situation empowers me to
-     avow my genuine sentiments, without fear of censure, or
-     suspicion of mercenary design, I take this opportunity
-     to assure you, that, if I still maintain that place in
-     your heart which I was vain enough to think I once
-     possessed, I am willing to make the first advances to an
-     accommodation, and have actually furnished my brother
-     with full powers to conclude it in the name of your
-     appeased
+Sir,--I have performed a sufficient sacrifice to my
+reputation, in retaining hitherto the appearance of that
+resentment which I had long ago dismissed; and as the
+late favourable change in my situation empowers me to
+avow my genuine sentiments, without fear of censure, or
+suspicion of mercenary design, I take this opportunity
+to assure you, that, if I still maintain that place in
+your heart which I was vain enough to think I once
+possessed, I am willing to make the first advances to an
+accommodation, and have actually furnished my brother
+with full powers to conclude it in the name of your
+appeased
 
-     “Emilia.”
+“Emilia.”
 
 Pickle, having kissed the subscription with great ardour, fell upon his
 knees, and lifting up his eyes, “Thank Heaven!” cried he, with an air
@@ -29287,20 +28994,20 @@ extremely mortified at his refusal, forbore to press him with further
 argument, which served only to rivet him the more strongly in his own
 opinion, and undertook to deliver this answer to Emilia's letter:--
 
-     Madam,--That I revere the dignity of your virtue with the
-     utmost veneration, and love you infinitely more than life,
-     I am at all times ready to demonstrate; but the sacrifice
-     to honour it is now my turn to pay; and such is the rigour
-     of my destiny, that, in order to justify your generosity,
-     I must refuse to profit by your condescension. Madam, I am
-     doomed to be for ever wretched; and to sigh without ceasing
-     for the possession of that jewel, which, though now in my
-     offer, I dare not enjoy. I shall not pretend to express the
-     anguish that tears my heart, whilst I communicate this fatal
-     renunciation, but appeal to the delicacy of your own
-     sentiments, which can judge of my sufferings, and will,
-     doubtless, do justice to the self-denial of your forlorn
-                                         “P. Pickle.”
+Madam,--That I revere the dignity of your virtue with the
+utmost veneration, and love you infinitely more than life,
+I am at all times ready to demonstrate; but the sacrifice
+to honour it is now my turn to pay; and such is the rigour
+of my destiny, that, in order to justify your generosity,
+I must refuse to profit by your condescension. Madam, I am
+doomed to be for ever wretched; and to sigh without ceasing
+for the possession of that jewel, which, though now in my
+offer, I dare not enjoy. I shall not pretend to express the
+anguish that tears my heart, whilst I communicate this fatal
+renunciation, but appeal to the delicacy of your own
+sentiments, which can judge of my sufferings, and will,
+doubtless, do justice to the self-denial of your forlorn
+“P. Pickle.”
 
 Emilia, who knew the nicety of our hero's pride, had foreseen the
 purport of this epistle before it came to her hands; she did not,
@@ -29323,7 +29030,6 @@ any prospect of conviction on either part, till, at last, she began to
 despair of making him a proselyte to her opinion by dint of argument;
 and resolved for the future to apply herself chiefly to the irresistible
 prepossessions of his love, which were not at all diminished or impaired
-by the essays of her pen. With this view she proposed a conference,
 pretending that it was impossible to convey all her reflections upon
 this subject in a series of short letters; and Godfrey undertook to bail
 him for the day. But, conscious of her power, he would not trust himself
@@ -29374,7 +29080,7 @@ to a man of Peregrine's impatient temper, already soured by his own
 uneasy situation. This reflection would have induced him to suppress the
 letter, had not he been afraid to tamper with the ticklish disposition
 of his friend, to whom, while he delivered it, “As for my own part,”
- said he, “mayhap I may have as much natural affection as another, but
+said he, “mayhap I may have as much natural affection as another, but
 when my spouse parted, I bore my misfortune like a British man, and a
 Christian. For why? He's no better than a fresh-water sailor, who knows
 not how to stem the current of mischance.”
@@ -29385,21 +29091,21 @@ bed, and unsealed the letter, in a state of mortification and disgust.
 But what were the emotions of his soul, when he read the following
 intimation:--
 
-     Dear Brother,--It hath pleased God to take your father
-     suddenly off by a fit of apoplexy; and as he has died
-     intestate, I give you this notice, that you may, with all
-     speed, come down and take possession of your right, in
-     despite of Master Gam and his mother, who, you may be sure,
-     do not sit easy under this unexpected dispensation of
-     Providence. I have, by virtue of being a justice of the
-     peace, taken such precautions as I thought necessary for
-     your advantage; and the funeral shall be deferred until
-     your pleasure be known. Your sister, though sincerely
-     afflicted by her father's fate, submits to the will of
-     Heaven with laudable resignation, and begs you will set
-     out for this place without delay; in which request she is
-     joined by, sir, your affectionate brother, and humble
-     servant,                         “Charles Clover.”
+Dear Brother,--It hath pleased God to take your father
+suddenly off by a fit of apoplexy; and as he has died
+intestate, I give you this notice, that you may, with all
+speed, come down and take possession of your right, in
+despite of Master Gam and his mother, who, you may be sure,
+do not sit easy under this unexpected dispensation of
+Providence. I have, by virtue of being a justice of the
+peace, taken such precautions as I thought necessary for
+your advantage; and the funeral shall be deferred until
+your pleasure be known. Your sister, though sincerely
+afflicted by her father's fate, submits to the will of
+Heaven with laudable resignation, and begs you will set
+out for this place without delay; in which request she is
+joined by, sir, your affectionate brother, and humble
+servant,                         “Charles Clover.”
 
 Peregrine at first looked upon this epistle as a mere illusion of the
 brain, and a continuation of the reverie in which he had been engaged.
@@ -29458,7 +29164,6 @@ need not say, was heartily rejoiced at the occasion.
 
 
 
-CHAPTER CIV.
 
 
 
@@ -29579,7 +29284,6 @@ who luckily escaped the shot, closed with him in a moment, and, wresting
 the other pistol from his grip, turned him out into the courtyard, to
 the consolation of his two dependents.
 
-By this time, Pipes and the two postilions had taken possession of
 the stables, without being opposed by the coachman and his deputy, who
 quietly submitted to the authority of their new sovereign. But the noise
 of the pistol had alarmed Mrs. Pickle, who, running downstairs, with the
@@ -29605,7 +29309,6 @@ family. The lady, who, in all probability, expected that he would
 endeavour to appease her with all the tenderness of filial submission,
 was so much exasperated at his cavalier behaviour, that her constitution
 could not support the transports of her spirits; and she was carried off
-by her women in a fit, while the officious clergyman was dismissed after
 his pupil, with all the circumstances of disgrace.
 
 Our hero having thus made his quarters good, took possession of the best
@@ -29670,7 +29373,6 @@ other accommodation in his power.
 
 
 
-CHAPTER CV.
 
 
 
@@ -29717,7 +29419,6 @@ Our hero expressed himself upon this occasion as became a man of
 honour, sensibility, and politeness, and frankly gave his lordship to
 understand, that his heart was already engaged. He was pleased with the
 opportunity of making such a sacrifice of his passion for Emilia, which,
-by this time, inflamed his thoughts to such a degree of impatience, that
 he resolved to depart for London with all possible speed; and for
 that purpose industriously employed almost every hour of his time in
 regulating his domestic affairs. He paid off all his father's servants,
@@ -29727,7 +29428,6 @@ half-yearly payment of his mother's jointure; and as for his brother
 Gam, he gave him divers opportunities of acknowledging his faults, so
 that he might have answered to his own conscience for taking any step in
 his favour; but that young gentleman was not yet sufficiently humbled
-by misfortune, and not only forbore to make any overtures of peace, but
 also took all occasions to slander the conduct and revile the person of
 our hero, being in this practice comforted and abetted by his righteous
 mamma.
@@ -29796,7 +29496,6 @@ town about eleven at night.
 
 
 
-CHAPTER CVI.
 
 
 
@@ -29827,7 +29526,7 @@ brother, you have done me infinite prejudice, in promoting this jaunt
 with my obstinate correspondent; who, I suppose, is so ravished with
 this transient glimpse of liberty, that he will never be persuaded
 to incur unnecessary confinement for the future.”--“My dear sister,”
- replied the captain tauntingly, “your own pride set him the example; so
+replied the captain tauntingly, “your own pride set him the example; so
 you must e'en stand to the consequence of his imitation.”--“'Tis a hard
 case, however,” answered the fair offender, “that I should suffer all
 my life, by one venial trespass. Heigh ho! who would imagine that
@@ -30000,7 +29699,6 @@ saw it would be too much for both to bear their present tantalizing
 situation till night, without some amusement to divert their thoughts;
 and therefore proposed to pass part of the evening at the public
 entertainments in Marylebone gardens, which were at that time frequented
-by the best company in town. The scheme was relished by the discreet
 Sophy, who saw the meaning of the proposal, and the bride submitted
 to the persuasion of her sister; so that, after tea, two coaches were
 called, and Peregrine was forcibly separated from his charmer during the
