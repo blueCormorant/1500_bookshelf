@@ -1,17 +1,5 @@
 
 
-
-
-
-THE CLUB OF QUEER TRADES
-
-by G. K. Chesterton
-
-
-
-
-Chapter 1. The Tremendous Adventures of Major Brown
-
 Rabelais, or his wild illustrator Gustave Dore, must have had something
 to do with the designing of the things called flats in England
 and America. There is something entirely Gargantuan in the idea of
@@ -75,7 +63,6 @@ have presented in my declining years. I only hope the spirits in the
 better world have as good dinners as I have. But the finding of the Club
 of Queer Trades has one very curious thing about it. The most curious
 thing about it is that it was not discovered by me; it was discovered
-by my friend Basil Grant, a star-gazer, a mystic, and a man who scarcely
 stirred out of his attic.
 
 Very few people knew anything of Basil; not because he was in the least
@@ -163,7 +150,7 @@ moustache, which gave him a look of fierceness which was contradicted by
 his sad sea-blue eyes.
 
 Basil immediately said to me, “Let us come into the next room, Gully,”
- and was moving towards the door, but the stranger said:
+and was moving towards the door, but the stranger said:
 
 “Not at all. Friends remain. Assistance possibly.”
 
@@ -256,7 +243,7 @@ things, you just get on to that wall.”
 quailed within him at the thought of such fantastic trespass.
 
 “Finest show of yellow pansies in England in that there garden, sir,”
- hissed the tempter. “I'll help you up, sir.”
+hissed the tempter. “I'll help you up, sir.”
 
 How it happened no one will ever know but that positive enthusiasm of
 the Major's life triumphed over all its negative traditions, and with
@@ -272,7 +259,6 @@ once it was not their horticultural aspects that Major Brown beheld, for
 the pansies were arranged in gigantic capital letters so as to form the
 sentence:
 
-DEATH TO MAJOR BROWN
 
 A kindly looking old man, with white whiskers, was watering them. Brown
 looked sharply back at the road behind him; the man with the barrow had
@@ -696,18 +682,18 @@ whose hand was beating the devil's tattoo on the back of the chair.
 The Major looked at it; whether he found it all right or not will appear
 later, but he found it like this:
 
-  Major Brown to P. G. Northover.                                    £ s. d.
-   January 1, to account rendered                                    5  6 0
-   May 9, to potting and embedding of 200 pansies                    2  0 0
-   To cost of trolley with flowers                                   0 15 0
-   To hiring of man with trolley                                     0  5 0
-   To hire of house and garden for one day                           1  0 0
-   To furnishing of room in peacock curtains, copper ornaments, etc. 3  0 0
-   To salary of Miss Jameson                                         1  0 0
-   To salary of Mr Plover                                            1  0 0
-                                                                 ----------
-                                                             Total L14  6 0
-  A Remittance will oblige.
+Major Brown to P. G. Northover.                                    £ s. d.
+January 1, to account rendered                                    5  6 0
+May 9, to potting and embedding of 200 pansies                    2  0 0
+To cost of trolley with flowers                                   0 15 0
+To hiring of man with trolley                                     0  5 0
+To hire of house and garden for one day                           1  0 0
+To furnishing of room in peacock curtains, copper ornaments, etc. 3  0 0
+To salary of Miss Jameson                                         1  0 0
+To salary of Mr Plover                                            1  0 0
+----------
+Total L14  6 0
+A Remittance will oblige.
 
 “What,” said Brown, after a dead pause, and with eyes that seemed slowly
 rising out of his head, “What in heaven's name is this?”
@@ -739,7 +725,7 @@ excusable. The abominable crime you have attempted--”
 alleged overcharge, but, confound it all, not to throw furniture.”
 
 “What, in God's name, do you mean by your customers and overcharges?”
- shrieked Major Brown, whose keen feminine nature, steady in pain
+shrieked Major Brown, whose keen feminine nature, steady in pain
 or danger, became almost hysterical in the presence of a long and
 exasperating mystery. “Who are you? I've never seen you or your insolent
 tomfool bills. I know one of your cursed brutes tried to choke me--”
@@ -843,7 +829,6 @@ receives a mysterious telegram or a dramatic visit, and is immediately
 in a vortex of incidents. A very picturesque and moving story is first
 written by one of the staff of distinguished novelists who are at
 present hard at work in the adjoining room. Yours, Major Brown (designed
-by our Mr Grigsby), I consider peculiarly forcible and pointed; it is
 almost a pity you did not see the end of it. I need scarcely explain
 further the monstrous mistake. Your predecessor in your present house,
 Mr Gurney-Brown, was a subscriber to our agency, and our foolish clerks,
@@ -985,7 +970,6 @@ The vast blank space of North London was flying by; the very pace gave
 us a sense of its immensity and its meanness. It was, as it were, a base
 infinitude, a squalid eternity, and we felt the real horror of the poor
 parts of London, the horror that is so totally missed and misrepresented
-by the sensational novelists who depict it as being a matter of narrow
 streets, filthy houses, criminals and maniacs, and dens of vice. In a
 narrow street, in a den of vice, you do not expect civilization, you
 do not expect order. But the horror of this was the fact that there was
@@ -1583,7 +1567,6 @@ this afternoon at the Beaumonts. He can scarcely come though till the
 Beaumonts' dinner is over.”
 
 For I do not know how many hours we stood there calmly in the darkness.
-By the time those hours were over I had thoroughly made up my mind that
 the same thing had happened which had happened long ago on the bench of
 a British Court of Justice. Basil Grant had gone mad. I could imagine
 no other explanation of the facts, with the portly, purple-faced old
@@ -2244,7 +2227,7 @@ Basil took his arm out of the fur coat, threw it over the chair again,
 and put his hands in his pockets.
 
 “Oh,” he said, with emphasis. “Oh--you don't think it necessary; then,”
- and he added the words with great clearness and deliberation, “then, Mr
+and he added the words with great clearness and deliberation, “then, Mr
 Ellis Shorter, I can only say that I would like to see you without your
 whiskers.”
 
@@ -4711,7 +4694,6 @@ The old lady rose from her chair and came very quickly towards us.
 them down and tying them up. But what is the matter?”
 
 To the surprise of every one the old lady walked slowly back to her seat
-by the window.
 
 “Do I understand,” she said, with the air of a person about to begin
 knitting, “that you have knocked down Mr Burrows and tied him up?”
@@ -4931,7 +4913,7 @@ nervous. I'll go and see.” And he ran out of the room.
 An instant after he ran back again, twittering with a timid ecstasy.
 
 “He's there, gentlemen--he's there all right--he's coming in now,”
- he cried, and sat down. Rupert and I could hardly help feeling the
+he cried, and sat down. Rupert and I could hardly help feeling the
 beginnings of a sort of wonder as to who this person might be who
 was the first member of this insane brotherhood. Who, we thought
 indistinctly, could be maddest in this world of madmen: what fantastic
@@ -5018,7 +5000,4 @@ presence of God. We dimly heard Basil say:
 And we heard equally dimly Northover beginning the statement he had made
 long ago to Major Brown. Thus our epic ended where it had begun, like a
 true cycle.
-
-
-
 
