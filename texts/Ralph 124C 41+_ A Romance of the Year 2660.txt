@@ -1,117 +1,4 @@
-digitized by the Google Books Library Project (http://books.google.com)
-and generously made available by HathiTrust Digital Library
-(https://www.hathitrust.org/)
 
-
-
-Note: Project Gutenberg also has an HTML version of this
-      file which includes the original illustrations.
-      See 60944-h.htm or 60944-h.zip:
-      (http://www.gutenberg.org/files/60944/60944-h/60944-h.htm)
-      or
-      (http://www.gutenberg.org/files/60944/60944-h.zip)
-
-
-      Images of the original pages are available through
-      HathiTrust Digital Library. See
-      https://babel.hathitrust.org/cgi/pt?id=mdp.39015003928853&view=1up&seq=5
-
-
-
-
-
-RALPH 124C 41+
-
-
-[Illustration]
-
-
-A ROMANCE OF THE YEAR 2660
-
-
-RALPH 124C 41+
-
-by
-
-HUGO GERNSBACK
-
-Forewords by Dr. Lee de Forest and Fletcher Pratt
-
-
-
-
-
-
-New York: Frederick Fell, Inc.
-
-Copyright 1925 by the Stratford Company
-
-Second Edition Copyright 1950 by Hugo Gernsback
-
-All rights in this book are reserved. It may not be used for dramatic
-or motion- or talking-picture purposes without written authorization
-from the holder of these rights. Nor may the book or part thereof be
-reproduced in any manner whatsoever without permission in writing,
-except for brief quotations embodied in critical articles and reviews.
-For information, address: Frederick Fell, Inc., 386 Fourth Avenue, New
-York 16, N.Y. Manufactured in the United States of America by H. Wolff,
-New York. Designed by Sidney Solomon.
-
-Published simultaneously in Canada by George J. McLeod, Ltd.,
-Toronto.
-
-
-
-
-CONTENTS
-
-
- PREFACE TO THE SECOND EDITION               _7_
-
- PREFACE TO THE FIRST EDITION               _11_
-
- FOREWORD BY DR. LEE DE FOREST              _15_
-
- FOREWORD BY FLETCHER PRATT                 _19_
-
- 1   _The Avalanche_                        _25_
-
- 2   _Two Faces_                            _40_
-
- 3   _Dead or Alive?_                       _52_
-
- 4   _Fernand_                              _66_
-
- 5   _New York A.D. 2660_                   _79_
-
- 6   "_Give Us Food_"                       _97_
-
- 7   _The End of Money_                    _110_
-
- 8   _The Menace of the Invisible Cloak_   _118_
-
- 9   _The Conquest of Gravitation_         _127_
-
- 10  _Two Letters_                         _140_
-
- 11  _The Flight Into Space_               _147_
-
- 12  _Llysanorh' Strikes_                  _164_
-
- 13  _Alice Objects_                       _172_
-
- 14  _The Terror of the Comet_             _176_
-
- 15  _Llysanorh' Throws Off the Mask_      _188_
-
- 16  _The Supreme Victory_                 _195_
-
-
-
-
-PREFACE
-
-TO THE SECOND EDITION
 
 
 Since the first edition of _Ralph 124C 41+_ in 1925, an eventful
@@ -171,7 +58,6 @@ continuous _tours de force_ every month, there can be no question, but
 somehow the scientific and technical content came through unscathed
 most of the time.
 
-[Illustration]
 
 After 39 years I could point out a number of minor technical flaws
 in some of my early predictions, but on the whole I probably could not
@@ -188,15 +74,14 @@ distant future. I am certain that _all_ of them will be commonplace by
 2660, the time in which the action of this novel moves.
 
 Perhaps I can do no better than reprint the foreword of the original
-1911 "_Ralph_":
 
-  This story which plays in the year 2660, will run serially during the
-  coming year in Modern Electrics. It is intended to give the reader as
-  accurate a prophecy of the future as is consistent with the present
-  marvelous growth of science. The author wishes to call especial
-  attention to the fact that while there may be extremely strange
-  and improbable devices and scenes in this narrative, they are not
-  impossible, or outside of the reach of science.
+This story which plays in the year 2660, will run serially during the
+coming year in Modern Electrics. It is intended to give the reader as
+accurate a prophecy of the future as is consistent with the present
+marvelous growth of science. The author wishes to call especial
+attention to the fact that while there may be extremely strange
+and improbable devices and scenes in this narrative, they are not
+impossible, or outside of the reach of science.
 
 We are now at the beginning of a new and fantastic era--the
 electronic-atomic age--an age that makes the impossible come true
@@ -205,16 +90,14 @@ with the same enthusiasm for scientific research and accomplishment as
 it did their fathers in the past, I shall feel amply repaid in having
 instigated this new, 1950 edition of _Ralph_.
 
- Hugo Gernsback
+Hugo Gernsback
 
 _New York, May 1950_
 
 
 
 
-PREFACE
 
-TO THE FIRST EDITION
 
 
 Ralph 124C 41+ first appeared as a serial in the author's first
@@ -257,7 +140,6 @@ made by the author when this story was written have already become
 verities. Notable among these is what the author termed the
 _Hypnobioscope_, the purpose of which is to acquire knowledge while
 asleep. The author was greatly astonished to read the results obtained
-by J.A. Phinney, Chief Radioman, U.S. Navy, who, having tried the
 system himself, in 1923, introduced it at the Pensacola, Florida, Naval
 Training School. Here one may see naval students stretched out on long
 benches asleep with casket-like coverings over their heads. The caskets
@@ -274,14 +156,13 @@ that pace is maintained, it seems fair to assume that the conception
 herein described will, 750 years hence, be found to have fallen far
 short of the actual progress made in the interim.
 
- Hugo Gernsback
+Hugo Gernsback
 
 _September 3, 1925_
 
 
 
 
-FOREWORD
 
 BY LEE DE FOREST, Ph.D., D.Sc., D.Eng.
 
@@ -303,7 +184,6 @@ interest in all realms of physical Nature.
 
 His first essay in this field was his monthly magazine, _Modern
 Electrics_, the first to attempt to outline in language understandable
-by American youth the newly developing science of _wireless
 communication_. He made of this first venture into the publishing
 business a medium wherein, amid serious newsy articles regarding
 current electrical developments, his eager imagination could find full
@@ -381,7 +261,6 @@ sexy pulps.
 
 Last year in the Bell Laboratories I witnessed the recording on paper
 of the complexities of my voice, very much as Ralph described it in
-1911 to his A.D. 2660 friends.
 
 As to the plausibility of Ralph's conquest of gravitation I refer
 the reader to the recently published General Field Equations of Dr.
@@ -399,15 +278,13 @@ earthy romance, the uncanny foresight of Hugo Gernsback in 1911 into
 the realities of World War II constitutes perhaps the most amazing
 paragraphs in this astonishing Book of Prophecy.
 
- _Chicago, Ill.
- May 1950_
+_Chicago, Ill.
+May 1950_
 
 
 
 
-FOREWORD
 
-BY FLETCHER PRATT
 
 
 This is a book of historic importance, which belongs on the shelves
@@ -556,14 +433,12 @@ and when that happens, Mr. Gernsback's educated imagination, which has
 preceded the normal human mind to so many things on Earth, will have
 led the way to the stars.
 
-  _New York, May 1950_
+_New York, May 1950_
 
 
 
 
-1
 
-THE AVALANCHE
 
 
 As the _vibrations_ died down in the laboratory the big man arose from
@@ -664,7 +539,6 @@ seen one of my pictures."
 
 "How stupid of me!" she exclaimed. "Why of course I should have
 recognized you immediately. You are the great American inventor, Ralph
-124C 41+."
 
 He again smiled and she continued:
 
@@ -923,7 +797,6 @@ Ralph looked at the clock. It was exactly ten minutes after the first
 sounding of the gong. He then turned the wheel one notch further and
 instantly the room was plunged into pitch-black darkness.
 
-       *       *       *       *       *
 
 To anyone unacquainted with the tremendous force under the control of
 Ralph 124C 41 +, but having the temerity to insulate himself and stand
@@ -992,7 +865,6 @@ has no effect on these functions; but he had been robbed of his visual
 senses, and heat or cold could not affect him, as there was no means by
 which the heat or cold could traverse the ether-hole.
 
-       *       *       *       *       *
 
 Alice's father, who had heard of the strike of the Meteoro-Tower
 operators and guessed of his daughter's predicament, rushed back from
@@ -1078,7 +950,6 @@ Ralph 124C 41+ with discretion disconnected the Telephot.
 
 2
 
-TWO FACES
 
 
 Feeling the need of fresh air and quiet after the strain of the last
@@ -1289,7 +1160,6 @@ Moreover, each paper had eight "pages," in separate sheets, as was the
 fashion centuries ago, but eight pages literally on top of each other.
 The printing process was electrolytic, no ink whatsoever being used in
 the manufacture of the "newspaper." This process was invented in 1910
-by an Englishman, and improved by the American 64L 52 in 2031, who made
 it possible to "print" _in one operation_ eight different subjects,
 _one on top of another_.
 
@@ -1352,9 +1222,7 @@ recording tracer.
 (Below is shown the record of a Menograph, the piece of tape being
 actual size.
 
-[Illustration:
 
- I  N--OLD EN--T I M  ES--]
 
 Where the wave line breaks, a new word or sentence commences; the three
 words shown are the result of the thought which expresses itself in the
@@ -1427,7 +1295,6 @@ became good scholars if the lessons were repeated during their
 sleep-life.
 
 The morning "newspapers" were transmitted to the sleeping subscribers
-by wire at about 5 a.m. The great newspaper offices had hundreds of
 Hypnobioscopes in operation, the subscriber's wire leading to them.
 The newspaper office, notified by each subscriber what kind of news is
 desirable, furnished only such news. Consequently, when the subscriber
@@ -1435,9 +1302,7 @@ woke up for breakfast he already knew the latest news, and could
 discuss it with his family, the members of which were also connected
 with the newspaper Hypnobioscope.
 
-FOOTNOTES:
 
-[Footnote 1: At the time this was written there was no newspaper of
 that name.]
 
 
@@ -1445,7 +1310,6 @@ that name.]
 
 3
 
-DEAD OR ALIVE?
 
 
 An apologetic cough came through the entrance to the laboratory. It was
@@ -1514,7 +1378,6 @@ animal tissue. It could be handled freely and without danger.
 
 The dog lying in the glass box had been "dead" for three years. Just
 three years previous, in the presence of twenty noted scientists Ralph
-124C 41+ had exhibited a live dog and had proceeded to drain off _all_
 its blood till the dog was pronounced quite dead and its heart had
 stopped beating. Thereupon he had refilled the empty blood vessels of
 the animal with a weak solution of Radium-K bromide, and the large
@@ -1536,7 +1399,6 @@ There were several delicate instruments inside the box and these were
 connected by means of wires to recording instruments on the side, and
 these Ralph inspected twice each day. Throughout the three years the
 "dead" dog had never stirred a muscle. His temperature had not varied
-1/100 of a degree and his respiratory functions had shown no signs of
 life. To all intents and purposes the dog was "dead."
 
 The time was close at hand for the final stages of what Ralph
@@ -1710,7 +1572,6 @@ off automatically by the car itself, the latter plunging through the
 open space of the magnet coil, only to be influenced now by the next
 electromagnet, three hundred feet distant.
 
-[Illustration]
 
 "The momentum acquired by the pull of the former electromagnet propels
 the car with ever-increasing speed, and by the time it has passed
@@ -1774,7 +1635,6 @@ him instructions to show his guests to their apartment, and directions
 as to their bags, escorted them to the car and returned to the
 laboratory.
 
-       *       *       *       *       *
 
 Promptly at four, Ralph greeted a notable group of fellow scientists,
 who had come from all corners of the planet to witness the completion
@@ -1830,7 +1690,6 @@ fresh warm blood and immediately efforts were made to bring the dog
 back to life.
 
 Oxygen was freely administered and the heart was artificially pulsated
-by means of an electrical vibratory apparatus.
 
 At the same time one of the assistants had trained a vacuum tube on the
 dog's head and its cathode shot the powerful F-9-Rays into the animal's
@@ -1880,7 +1739,6 @@ an emotion he had never before experienced.
 
 4
 
-FERNAND
 
 
 On the following morning, Ralph, breakfasting alone, sent Peter to the
@@ -1920,7 +1778,6 @@ said:
 think." He hesitated. "A short time ago I said that I felt that Alice
 would be safe in your care. I had a special reason for making the
 remark. The fact is, I am a little worried about her. A young man,
-by name Fernand 60O 10, has been making rather a nuisance of himself
 lately. He has asked her to marry him, a number of times, and she has
 refused, and he has begun to force his attentions on her in a manner
 which savors something of persecution.
@@ -1974,7 +1831,6 @@ town. As a matter of fact the real, dyed-in-the-wool New Yorker hates
 the town and only stays in it because it has cast a spell over him
 which he cannot escape."
 
-By this time they had arrived at the street level of the building and
 Ralph bade Alice sit down on a chair in the vestibule. He pressed a
 nearby button twice and a servant brought two pairs of what appeared to
 be roller-skates.
@@ -2185,12 +2041,11 @@ street, in a large square, a petrified animal stood upon a pedestal.
 The girl, desiring to know what it represented, approached and read
 this inscription, hewn in the stone:
 
- PETE
 
- The last Horse in Harness in the
- Streets of New York
- Died on this Spot
- June 19th, 2096 A.D.
+The last Horse in Harness in the
+Streets of New York
+Died on this Spot
+June 19th, 2096 A.D.
 
 "The poor thing," she said, "it looks so pitiful, doesn't it? To think
 that once the poor dumb animals were made to labor! It is much better
@@ -2263,16 +2118,13 @@ you will always call me that."
 
 And laughing together they rolled on.
 
-FOOTNOTES:
 
-[Footnote 2: 72° Fahrenheit.]
 
 
 
 
 5
 
-NEW YORK A.D. 2660
 
 
 Being much interested in sports, she desired to know presently how the
@@ -2396,7 +2248,6 @@ energy.
 
 The photo-electric elements, of which there were 400 to each square
 meter, were placed in large movable metal cases, each case containing
-1,600 photo-electric units.
 
 Each metal case in turn was movable, and mounted on a kind of large
 tripod in such a manner that each case from sunrise to sunset presented
@@ -2430,7 +2281,6 @@ Sun-power-generator which could deliver ten volts and six amperes, or
 one-sixtieth kilowatt in a space of twelve square feet. Since that
 time inventors by the score had busied themselves to perfect solar
 generators, but it was not until the year 2469 that the Italian 63A
-1243 invented the photo-electric cell, which revolutionized the entire
 electrical industry. This Italian discovered that by derivatives of
 the Radium-M class, in conjunction with Tellurium and Arcturium, a
 photo-electric element could be produced which was strongly affected by
@@ -2566,7 +2416,6 @@ preparatory to seeing more of New York--this time by night.
 The party proceeded to roll down Broadway, the historic thoroughfare of
 New York. Despite the fact that it was 11 o'clock at night, the streets
 were almost as light as at noonday. They were illuminated brilliantly
-by the iridium spirals, hanging high above the crossings. These
 spirals gave forth a pure, dazzling-white light of the same quality as
 sunlight. This light moreover was absolutely cold, as all electrical
 energy was transformed into light, none being lost in heat. Not a
@@ -2639,7 +2488,6 @@ the package into the basement of the house, where it fell on the
 platform of an electric dumb-waiter. The dumb-waiter started upward
 automatically and the package was delivered at once.
 
-By this method a package could be delivered in the average space
 of forty minutes from the time of purchase. Some packages could be
 delivered in a much shorter time and others which had to travel to the
 city limits took much longer.
@@ -2788,7 +2636,6 @@ high oscillatory currents, were called _Arcturium Rays_ and would
 instantly destroy any bacilli exposed to them for a few seconds.
 Arcturium Rays, like X-rays, pass through solid objects, and when used
 alone burned the tissue of the human body. It was found, however, that
-by filtering arcturium rays through helium no burns would result, but
 any germ or bacillus in or on the body would be killed at once.
 
 The Bacillatorium was prescribed by law and each citizen ordered to
@@ -2803,15 +2650,11 @@ enforced use of the Bacillatorium extended the span of human life to
 between one hundred and twenty and one hundred and forty years, where
 in former centuries three score and ten was the average.
 
-FOOTNOTES:
 
-[Footnote 3: Since this was written a national playground has actually
 been created at Montauk, L.I. A rather strange coincidence.]
 
-[Footnote 4: At the time this was written, no illuminated, night time
 sports fields existed.]
 
-[Footnote 5: In 1911 the outer planet Pluto had as yet not been
 discovered.]
 
 
@@ -2819,7 +2662,6 @@ discovered.]
 
 6
 
-"GIVE US FOOD"
 
 
 The following day was set aside for a visit to the Accelerated Plant
@@ -3201,7 +3043,6 @@ or goat can do."
 
 7
 
-THE END OF MONEY
 
 
 A few days later, Alice, while rolling along one of the elevated
@@ -3413,9 +3254,7 @@ A number of combinations were made whereby cork thread and silk thread
 were spun together, giving an entirely new product, with all the
 virtues of silk as well as those of cork.
 
-FOOTNOTES:
 
-[Footnote 6: When this was written gold coins were legal tender. Gold
 payments were outlawed by Congress in 1933.]
 
 
@@ -3423,7 +3262,6 @@ payments were outlawed by Congress in 1933.]
 
 8
 
-THE MENACE OF THE INVISIBLE CLOAK
 
 
 Leaving the Pennsylvania mills the aeroflyer, traveling at high speed
@@ -3702,9 +3540,7 @@ Ralph looked very thoughtful.
 decision. "And with such resources at his command, I wonder what his
 next move will be."
 
-FOOTNOTES:
 
-[Footnote 7: In 1925 John L. Reinartz, working with ultra-short radio
 waves, actually made it possible to look through solid metal plates
 with the naked eye.]
 
@@ -3713,7 +3549,6 @@ with the naked eye.]
 
 9
 
-THE CONQUEST OF GRAVITATION
 
 
 Alice and her father had been invited, the next day, to Ralph's
@@ -3844,7 +3679,6 @@ machine and does away with the human element. I do not require my real
 secretary when I dictate. I sit alone in my study or office and simply
 talk."
 
-       *       *       *       *       *
 
 "There is one unique place, I am sure you will be interested in." Ralph
 led the way to the elevator and they quickly shot up to the roof,
@@ -3950,7 +3784,6 @@ That night after dinner Ralph took his guests to a new entertainment
 that had just become popular. They entered a big building on which, in
 big fiery letters, was inscribed
 
-  GRAVITATIONAL CIRCUS
 
 Ralph explained to his guests that with the invention of the nullifying
 of gravitation, many new and wonderful effects had come about. Gravity,
@@ -4009,7 +3842,6 @@ which are continually emitted by radium.
 "The screen finally evolved was expensive to make at first, but
 quantity production now has very considerably lowered the price."
 
-By this time the party had found their seats in the amphitheater, and
 they had seated themselves. Seats were all around a ring, which did
 not look much different from the old-fashioned circus ring, except
 that it was, perhaps, a little larger. The gravitational screen,
@@ -4081,7 +3913,6 @@ The jugglers approached the balls and began to drink, simply by placing
 their lips against them. They then demonstrated the mobility of the
 water balls by pushing their fingers into them and cutting the balls
 in two, the halves immediately becoming new and smaller balls. Then
-by carefully giving each of the balls a slight push, the water balls
 would gravitate up to the ceiling of the arena and still having enough
 momentum left they would rebound and come back, only to be pushed up
 again by flat tennis racquets.
@@ -4111,9 +3942,7 @@ around within the weightless water.
 
 
 
-10
 
-TWO LETTERS
 
 
 During September Alice and her father had remained Ralph's guests,
@@ -4167,45 +3996,45 @@ her forever, and the next inter-planetary liner, which left Earth for
 Mars, carried, not himself, but this code letter to his best friend on
 his distant planet.
 
- New York, September 20, 2660.
+New York, September 20, 2660.
 
- To Rrananolh AK 42,
+To Rrananolh AK 42,
 
-  Although I am booked on the _Terrestrial_ which departs tomorrow, I
-  have cancelled my reservation and consequently will not arrive on
-  Mars November 31st as planned. I do not know whether I shall take
-  passage on the next transport or not. In fact, I don't know what I
-  shall do. I am mad with despair and anguish. A thousand times over
-  have I wished that I had never come to this planet!
+Although I am booked on the _Terrestrial_ which departs tomorrow, I
+have cancelled my reservation and consequently will not arrive on
+Mars November 31st as planned. I do not know whether I shall take
+passage on the next transport or not. In fact, I don't know what I
+shall do. I am mad with despair and anguish. A thousand times over
+have I wished that I had never come to this planet!
 
-  I have not told you before, but as perhaps you have guessed from my
-  previous letters, I am in love with a Terrestrial woman. Never mind
-  her name. I loved her from the first moment I saw her. You, who have
-  never visited the Earth, can hardly understand. It does not matter.
+I have not told you before, but as perhaps you have guessed from my
+previous letters, I am in love with a Terrestrial woman. Never mind
+her name. I loved her from the first moment I saw her. You, who have
+never visited the Earth, can hardly understand. It does not matter.
 
-  I have tried in every way to free myself from this mad infatuation,
-  but it is hopeless. Chemicals and Radio-treatments seem but to
-  accentuate my longing for that which is forever beyond my reach. I
-  thought at first that I could conquer myself, but I know now that I
-  cannot, and the knowledge is driving me to madness.
+I have tried in every way to free myself from this mad infatuation,
+but it is hopeless. Chemicals and Radio-treatments seem but to
+accentuate my longing for that which is forever beyond my reach. I
+thought at first that I could conquer myself, but I know now that I
+cannot, and the knowledge is driving me to madness.
 
-  She has never known, and I think no one else here does. I have told
-  none but you, my friend. Always I feared that in some way I might
-  betray myself to her. There are times now when I wish that I had.
+She has never known, and I think no one else here does. I have told
+none but you, my friend. Always I feared that in some way I might
+betray myself to her. There are times now when I wish that I had.
 
-  And yet--to have her suffer as I am suffering--I could not have borne
-  that.
+And yet--to have her suffer as I am suffering--I could not have borne
+that.
 
-  I will, I suppose, go the way of all Martians who have had the
-  misfortune to care for a Terrestrial. A little _Listadinide_ injected
-  under the skin will free me from an existence which has become a
-  daily torture unless I find a way to evade the harsh laws.
+I will, I suppose, go the way of all Martians who have had the
+misfortune to care for a Terrestrial. A little _Listadinide_ injected
+under the skin will free me from an existence which has become a
+daily torture unless I find a way to evade the harsh laws.
 
-  Please hand the enclosed documents to my Second. If I do not see you
-  again do not grieve for me, but remember our friendship, and think
-  sometimes of your unhappy friend.
+Please hand the enclosed documents to my Second. If I do not see you
+again do not grieve for me, but remember our friendship, and think
+sometimes of your unhappy friend.
 
- Llysanorh'
+Llysanorh'
 
 Long after his missive had gone, he sat rigid, motionless, by the
 window with unseeing eyes fixed on the city below him. At last he rose
@@ -4215,55 +4044,55 @@ there no straw he could grasp?
 Of a very different caliber was an epistle sent by Fernand 60O 10 to
 his friend Paul 9B 1261.
 
- New York, Sept. 28th, 2660.
+New York, Sept. 28th, 2660.
 
- Dear Paul:
+Dear Paul:
 
-  You have heard the gossip, but don't fear my having a broken heart.
-  I am not easily downed, and I have a card or two yet to play in this
-  game.
+You have heard the gossip, but don't fear my having a broken heart.
+I am not easily downed, and I have a card or two yet to play in this
+game.
 
-  Fact is, Alice is as hard to conquer as a steelonium wall is to
-  break through. That, however, is to my liking, my dear Paul. I love
-  obstacles, particularly when the goal is as pretty as Alice. I have
-  never wanted her more than now that she has thrown me down. Perhaps
-  if she had ever encouraged me I would not have cared a rap for her.
-  But--this opposition inflames me! Now I will have her. I _will_ have
-  her, and she shall love me, mark my words.
+Fact is, Alice is as hard to conquer as a steelonium wall is to
+break through. That, however, is to my liking, my dear Paul. I love
+obstacles, particularly when the goal is as pretty as Alice. I have
+never wanted her more than now that she has thrown me down. Perhaps
+if she had ever encouraged me I would not have cared a rap for her.
+But--this opposition inflames me! Now I will have her. I _will_ have
+her, and she shall love me, mark my words.
 
-  I have mentioned to you before the ridiculous Martian, Llysanorh',
-  I believe. It is very amusing to see him staring at Alice with
-  adoration in those enormous eyes of his. I really believe he is in
-  love with her, but these Martians are so self-controlled it is hard
-  to tell anything about them.
+I have mentioned to you before the ridiculous Martian, Llysanorh',
+I believe. It is very amusing to see him staring at Alice with
+adoration in those enormous eyes of his. I really believe he is in
+love with her, but these Martians are so self-controlled it is hard
+to tell anything about them.
 
-  If Alice had fallen in love with this lanky, seven-foot Llysanorh'
-  she would have been lost to me, and to all the rest of the world.
-  That fellow certainly can be sugary when he wants to. However, she
-  really imagines that she's in love with this crazy scientist, and
-  right now I'm decidedly _de trop_. That worries me very little, I
-  assure you. She will soon learn to love me once I can get her away
-  from him. And I am going to provide for that.
+If Alice had fallen in love with this lanky, seven-foot Llysanorh'
+she would have been lost to me, and to all the rest of the world.
+That fellow certainly can be sugary when he wants to. However, she
+really imagines that she's in love with this crazy scientist, and
+right now I'm decidedly _de trop_. That worries me very little, I
+assure you. She will soon learn to love me once I can get her away
+from him. And I am going to provide for that.
 
-  Everything has been arranged, and I am only awaiting my opportunity.
-  If I am successful, I will take her out into space for a few months.
-  My machine is in readiness. It is the latest type, and the finest
-  I have ever seen. Provisions, books, reels for the Hypnobioscope,
-  instruments, etc., in fact, everything you can think of is on board.
-  I have even provided a well trained maid. I can assure you Alice
-  won't find it lonesome. Besides, I flatter myself that I can be very
-  entertaining.
+Everything has been arranged, and I am only awaiting my opportunity.
+If I am successful, I will take her out into space for a few months.
+My machine is in readiness. It is the latest type, and the finest
+I have ever seen. Provisions, books, reels for the Hypnobioscope,
+instruments, etc., in fact, everything you can think of is on board.
+I have even provided a well trained maid. I can assure you Alice
+won't find it lonesome. Besides, I flatter myself that I can be very
+entertaining.
 
-  Before I close I must ask you to attend to several matters for me,
-  as per enclosed rolls. You will understand everything better after
-  you read the instructions. I do not expect to be away more than three
-  months at the latest, and you will see from the gray document that I
-  empower you to take charge of my affairs. I will send you a message
-  from on board the machine if all goes well.
+Before I close I must ask you to attend to several matters for me,
+as per enclosed rolls. You will understand everything better after
+you read the instructions. I do not expect to be away more than three
+months at the latest, and you will see from the gray document that I
+empower you to take charge of my affairs. I will send you a message
+from on board the machine if all goes well.
 
- Until then,
+Until then,
 
- Fernand.
+Fernand.
 
 It was the night of the full moon. There was a faint touch of crispness
 in the early autumn breeze that now and again gently ruffled the waters
@@ -4316,9 +4145,7 @@ Alice's fingers and then blackness overwhelmed him.
 
 
 
-11
 
-THE FLIGHT INTO SPACE
 
 
 How long he was unconscious Ralph did not know, but when he came to his
@@ -4462,7 +4289,6 @@ bodies, but it was not until the year 2659 that Ralph 124C 41+
 succeeded in accurately determining the exact location of flyers, in
 space, beyond the reach of the most powerful telescope.
 
-[Illustration]
 
 A _pulsating polarized ether wave_, if directed on a metal object
 can be reflected in the same manner as a light-ray is reflected from
@@ -4533,36 +4359,36 @@ he handed him a transcribed telegram with the words:
 Dismay seized the scientist, as, breaking the seal of the wrapper, he
 read the printed words:
 
- Unipopulis, Sept. 34, 2660,
- Planet Governor's Capitol.
+Unipopulis, Sept. 34, 2660,
+Planet Governor's Capitol.
 
-  I have just received news of the calamity that has befallen you.
+I have just received news of the calamity that has befallen you.
 
-  I extend to you my sincere sympathy.
+I extend to you my sincere sympathy.
 
-  I will this afternoon place at your disposal six Government space
-  flyers, the crews of which are absolutely under your instructions.
+I will this afternoon place at your disposal six Government space
+flyers, the crews of which are absolutely under your instructions.
 
-  I must, however, caution you not to enter into any pursuit in person.
+I must, however, caution you not to enter into any pursuit in person.
 
-  As Planet Governor it is my duty to advise you that you have not the
-  right to place your person in unnecessary danger.
+As Planet Governor it is my duty to advise you that you have not the
+right to place your person in unnecessary danger.
 
-  Allow me furthermore to point out to you that under the law "+"
-  scientists are not allowed to endanger their lives under any
-  circumstances.
+Allow me furthermore to point out to you that under the law "+"
+scientists are not allowed to endanger their lives under any
+circumstances.
 
-  I therefore command you not to leave the earth without my permission.
+I therefore command you not to leave the earth without my permission.
 
-  I have ordered your space flyer to be guarded.
+I have ordered your space flyer to be guarded.
 
- In high esteem,
- William Kendrick 21K 4,
- _The 18th Planet Governor_.
+In high esteem,
+William Kendrick 21K 4,
+_The 18th Planet Governor_.
 
- To
- Ralph 124C 41+,
- New York.
+To
+Ralph 124C 41+,
+New York.
 
 Ralph read the radiogram twice before he folded it slowly and
 deliberately thrust it into his pocket.
@@ -4584,7 +4410,6 @@ In fifteen minutes he will be all right again."
 He slammed the door of his space flyer and simultaneously the machine
 rose as if shot from a cannon, and in ten seconds was lost to sight.
 
-       *       *       *       *       *
 
 Since the Dark Ages, men have had a powerful longing to leave Earth and
 visit other planets. Towards the end of the twenty-first century, when
@@ -4834,21 +4659,16 @@ limply into a chair, and buried his face in his hands.
 
 _Alice was not on board the flyer!!_
 
-FOOTNOTES:
 
-[Footnote 8: In the outer space the "sky" is dead black; the blue color
 of the sky as seen from the earth is due to the atmosphere. The real
 sky is colorless.]
 
-[Footnote 9: If a shaft were sunk to the center of the earth, an object
 placed there would stay suspended in space.]
 
 
 
 
-12
 
-LLYSANORH' STRIKES
 
 
 For some minutes, Ralph stood motionless, completely bewildered. To
@@ -5067,27 +4887,15 @@ of the small gravity, and life, on one of these little planets, was,
 in many respects, far more comfortable and pleasant than on Earth or
 Mars.
 
-[Illustration:
 
- ----  ORIGINAL DIRECTION OF RALPH
 
- * WHERE RALPH OVERTOOK FERNAND
 
- -.-.-. NEW COURSE OF RALPH IN
- PURSUIT OF LLYSANORH'
 
- ® WHERE MARS WOULD BE AT END
- OF LLYSANORH'S JOURNEY
 
- ---  COURSE OF LLYSANORH'
 
- O POSITION OF LLYSANORH' WHEN
- RALPH OVERTOOK FERNAND
 
- 1 WHERE VENUS WOULD HAVE BEEN MET
- IF FERNAND HAD CONTINUED HIS JOURNEY
 
- x WHERE LLYSANORH' ABDUCTED ALICE]
+x WHERE LLYSANORH' ABDUCTED ALICE]
 
 Now began the hardest part of the chase for Ralph. There was nothing
 more to do than he had already done. From now on he must wait with what
@@ -5101,16 +4909,12 @@ At work, he had not had much time for thought.
 Now, with time hanging heavily on his hands, his conjectures as to the
 fate of his sweetheart drove him, at times, nearly to madness.
 
-FOOTNOTES:
-
-[Footnote 10: Up to 1911 over 650 Asteroids had been discovered.]
 
 
 
 
-13
 
-ALICE OBJECTS
+
 
 
 Alice, on being aroused to consciousness by the ministrations of
@@ -5240,9 +5044,7 @@ Martian stood upon the threshold!
 
 
 
-14
 
-THE TERROR OF THE COMET
 
 
 During the next few days Ralph passed midway between Earth and Venus.
@@ -5336,7 +5138,6 @@ Ralph would literally move the heavens. He would threaten Mars with a
 comet! Llysanorh's patriotism could be depended upon to make an effort
 to divert the comet from its course, to avoid the imminent collision
 with Mars. This, Llysanorh' could do without danger to himself, simply
-by steering his flyer close to the head of the comet--within a few
 hundred kilometers. The gravitational action of his machine on the
 comet would deflect the course of the latter enough--even a few degrees
 would be sufficient to change the path of the meteor.
@@ -5356,7 +5157,6 @@ Ralph thus became the first human being to _create_ a heavenly body. As
 comets are composed mainly of hydrogen gas and dust, the creating of
 Ralph's artificial comet was absurdly simple to the scientist.
 
-By means of scraps of zinc and iron filings, over which sulphuric acid
 was poured, Ralph produced a great quantity of hydrogen. This he filled
 in tanks and when he had generated enough of the gas he connected the
 tanks with a large metal stop cock in the wall of the space flyer. As
@@ -5580,9 +5380,7 @@ aside.
 _There lay Alice in a terrible pool of her own blood, her eyes
 closed--dead._
 
-FOOTNOTES:
 
-[Footnote 11: In 1876 Reitlinger & Urbanitzky before the Vienna Academy
 of Sciences published a report on their experiments on artificial
 comets. A tube containing hydrocarbon has been pumped out till the
 pressure has fallen to 0.1 millimeter. If connected to an induction
@@ -5592,9 +5390,7 @@ a tail, fig. 1. One is struck immediately with the close resemblance
 between this artificial comet and that of Henry's Comet of 1873, fig.
 2. If a
 
-[Illustration: _Fig. 1_]
 
-[Illustration: _Fig. 2_]
 
 conductor (a brass ball) as seen in fig. 1 is brought near the tube,
 the tail flees from the conductor as far as the tube allows. This again
@@ -5602,7 +5398,6 @@ proves that the artificial as well as the real comets are subject
 to the same natural laws. As is known, the tails of all comets are
 repulsed strongly by the sun, which latter is nothing but a conductor.]
 
-[Footnote 12: According to Bredikhine, the long straight tails, as
 seen in the comet of 1861, are composed of hydrogen; the long curved
 tails, like the principal tail of Donati's Comet, consist largely of
 hydrocarbon vapors; while the somnolent, rare, short tails of violent
@@ -5615,7 +5410,6 @@ of supposing the tail to consist, not of gaseous matter, but of
 fine particles produced by condensation from the emanations of the
 comet.--New International Encyclopædia.]
 
-[Footnote 13: The induction balance is an instrument which, connected
 with a telephone, causes the latter to emit a singing sound, when a
 piece of metal is brought near the balance. It is incredibly sensitive
 and has been used to locate buried treasures, etc. Invented in 1880 by
@@ -5624,9 +5418,7 @@ Professor Hughes.]
 
 
 
-15
 
-LLYSANORH' THROWS OFF THE MASK
 
 
 When Alice saw that it was Llysanorh' standing on the threshold of her
@@ -5794,7 +5586,6 @@ you are dead I will be sure that no other man can possess you."
 She was a courageous girl, but before the madness in his face she fled
 shuddering.
 
-       *       *       *       *       *
 
 During the next several days Alice kept close to her rooms. She saw
 little of Llysanorh', who seemed to be avoiding her purposely, and
@@ -5850,9 +5641,7 @@ instant she was slumping--seemed to drop off into a dreamless sleep.
 
 
 
-16
 
-THE SUPREME VICTORY
 
 
 When Ralph burst into the machine room of the Martian's flyer and
@@ -6054,7 +5843,6 @@ probability, rush through the boundless universe for aeon upon aeon,
 ere it would eventually collide with some other body, and would be
 reduced to cosmic dust.
 
-       *       *       *       *       *
 
 The long days during Ralph's flight back to Earth left their indelible
 imprint upon his mind. Never, in all the years to follow, could he look
@@ -6159,7 +5947,6 @@ Alice.
 In a few seconds Alice's arteries had been opened and the Radium-K
 Bromide solution was drawn off. A quantity of warm, distilled water,
 containing antiseptic salts was then pumped through her blood vessels
-by two assistants. During this time the surgeon had opened the large
 arteries of both Ralph and Cléose, and had introduced a flexible glass
 tube into each. In a short time the blood of Ralph and Cléose began
 flowing rapidly through these tubes into Alice's blood vessels.
@@ -6232,7 +6019,6 @@ him, and a great peace settled upon his soul.
 
 The surgeon sprang to catch him as he dropped, unconscious.
 
-       *       *       *       *       *
 
 About a week later Ralph was admitted by the nurse to the room where
 Alice lay, regaining her strength. He was still weak, himself, from the
@@ -6266,7 +6052,5 @@ going to be my name now, so I keep saying it over to myself--"
 
 "My darling
 
- ONE TO FORESEE FOR ONE!"
- (1  2  4   C   4   1)
 
 

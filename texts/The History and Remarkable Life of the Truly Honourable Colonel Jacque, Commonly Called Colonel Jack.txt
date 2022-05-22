@@ -1,81 +1,3 @@
-Google Books (Robarts - University of Toronto)
-
-
-
-
-
-
-Transcriber's Notes:
-1. Page scan source: The Web Archive
-https://archive.org/details/historyandremark00defouoft
-(Robarts - University of Toronto)
-
-
-
-
-
-
-The History and Remarkable Life
-of the truly honourable
-Colonel Jacque
-Commonly call’d
-Colonel Jack
-
-by Daniel Defoe
-
-With the author’s preface, and an introduction by
-G. H. Maynadier, Ph. D.
-
-DEPARTMENT OF ENGLISH, HARVARD UNIVERSITY
-
-
-
-National Library Company
-New York
-
-
-Edition De Luxe
-LIMITED TO ONE THOUSAND SETS
-
-
-
-COPYRIGHT, 1904, BY
-THE UNIVERSITY PRESS
-
-
-
-Jacque summoned
-Jacque is summoned before his master.
-
-CONTENTS Introduction Author’s Preface The Life of Colonel Jacque The
-True-born Englishman The Shortest Way with the Dissenters
-
-
-
-
-
-
-ILLUSTRATIONS
-
-
-COLONEL JACQUE
-
-PART I
-
-Jacque is summoned before his master. _ Frontispiece_
-
-Escaping with the purloined horse.
-
-
-PART II
-
-Colonel Jacque and the lady
-
-Colonel Jacque’s arrival is announced
-
-
-INTRODUCTION
-
 Smollett bears witness to the popularity of Defoe’s _Colonel Jacque_.
 In the sixty-second chapter of _Roderick Random_, the hero of that
 novel is profoundly impressed by the genius of the disappointed poet,
@@ -330,7 +252,6 @@ G. H. Maynadier.
 
 
 
-AUTHOR’S PREFACE
 
 Sir,—It is so customary to write prefaces to all books of this kind, to
 introduce them with the more advantage into the world, that I cannot
@@ -389,8 +310,6 @@ The Editor.
 
 
 
-THE LIFE OF
-COLONEL JACQUE
 
 Seeing my life has been such a chequer-work of nature, and that I am
 able now to look back upon it from a safer distance than is ordinarily
@@ -471,7 +390,6 @@ it.
 
 So here was Colonel Jacque and Captain Jacque. As for the third boy, he
 was only plain Jacque for some years after, till he came to preferment
-by the merit of his birth, as you shall hear in its place.
 
 We were hopeful boys, all three of us, and promised very early, by many
 repeated circumstances of our lives, that we would be all rogues; and
@@ -673,7 +591,6 @@ stories they could think of, and that not only of the wars then going
 on, but also of the wars in Oliver’s time, the death of King Charles
 I., and the like.
 
-By this means, as young as I was, I was a kind of an historian; and
 though I had read no books, and never had any books to read, yet I
 could give a tolerable account of what had been done and of what was
 then a-doing in the world, especially in those things that our own
@@ -771,7 +688,6 @@ encourage him to the undertaking, who had been made backward before by
 the misfortune of the captain. The list of their purchase the first
 night was as follows:—
 
-1. A white handkerchief from a country wench, as she was staring up at
 a jack-pudding; there was 3s. 6d. and a row of pins tied up in one end
 of it.
 
@@ -813,7 +729,6 @@ He came very early to me, who lay not far from him, and said to me,
 “Colonel Jacque, I want to speak with you.” “Well,” said I, “what do
 you say?” “Nay,” said he, “it is business of consequence; I cannot talk
 here;” so we walked out. As soon as we were come out into a narrow lane
-by the glass-house, “Look here,” says he, and pulls out his little hand
 almost full of money.
 
 I was surprised at the sight, when he puts it up again, and, bringing
@@ -1304,7 +1219,6 @@ and so I came away.
 
 I was but a boy, ’tis true, but I thought myself a man, now I had got a
 pocket to put my money in, and I went directly to find out my companion
-by whose means I got it; but I was frighted out of my wits when I heard
 that he was carried to Bridewell. I made no question but it was for the
 letter-case, and that I should be carried there too; and then my poor
 brother Captain Jacque’s case came into my head, and that I should be
@@ -1613,7 +1527,6 @@ the gentleman said, “All is right.”
 
 Then said the first man, “Then I am security to the poor boy for the
 money.” “Well, but,” says the gentleman, “the rogues have got the £12,
-10s.; they ought to reckon that as part of the £30.” Had he asked me, I
 should have consented to it at first word; but the first man stood my
 friend. “Nay,” says he, “it was since you knew that the £12, 10s. was
 received that you offered £30 for the other bills, and published it by
@@ -1972,7 +1885,6 @@ middle of the great field, which since that has been called the
 Farthing Pie-House Fields. There we would have sat down, but it was all
 full of water; so we went on, crossed the road at Anniseed Cleer, and
 went into the field where now the great hospital stands; and finding a
-by-place, we sat down, and he pulls out the bag. “Thou art a lucky boy,
 Jacque,” says he; “thou deservest a good share of this job, truly; for
 it is all along of thy lucky news.” So he pours it all out into my hat;
 for, as I told you, I now wore a hat.
@@ -2874,7 +2786,6 @@ whole family as soon as Tom (that was the manservant) could get an
 opportunity to let them in.
 
 Two days after this Will came to my lodging; for I had now got a room
-by myself, had bought me tolerable good clothes and some shirts, and
 began to look like other folks. But, as it happened, I was abroad upon
 the scout in another way; for though I was not hardened enough for so
 black a villain as Will would have had me be, yet I had not arrived to
@@ -3134,7 +3045,6 @@ now) “does not know me. I am the poor boy Jacque.” He looked hard at
 me, and then recollecting me presently, says he, “Who—Colonel Jacque!
 Why, where hast thou been all this while? Why, ’tis five or six years
 since I saw you.” “’Tis above six years, and please your worship,” says
-I.
 
 “Well, and where hast thou been all this while?” says he.
 
@@ -3209,7 +3119,6 @@ warrant, and bade me read it, and I should know the rest when I came
 before the justice; so they hurried me away.
 
 I took the warrant, but, to my great affliction, I could know nothing
-by that, for I could not read; so I desired them to read it, and they
 read it, that they were to apprehend a known thief, that went by the
 name of one of the three Jacques of Rag Fair; for that he was charged
 upon oath with having been a party in a notorious robbery, burglary,
@@ -3451,7 +3360,6 @@ to myself, “Oh that I had some trade to live by! I would never rob no
 more, for sure ’tis a wicked, abominable thing.”
 
 Here indeed I felt the loss of what just parents do, and ought to do,
-by all their children—I mean, being bred to some trade or employment;
 and I wept many times that I knew not what to do or what to turn my
 hand to, though, I resolved to leave off the wicked course I was in.
 
@@ -3937,7 +3845,6 @@ not with him, nor without some or other with me belonging to the inn
 that might give an account of me.
 
 Nor did I use this caution in vain; for he had made himself so public
-by his rogueries that he was waylaid everywhere to be taken, and had he
 not artfully at first given out that he was come from Scotland and was
 going toward London, inquiring that road, and the like, which amused
 his pursuers for the first day, he had been taken, and in all
@@ -4946,7 +4853,6 @@ asked for us out of it.
 _Mast_. Ay; but he knew better than that, too. He knew, if he had any
 friends there, they would call him to an account for what he had done.
 But I wonder he did not take it from you while you were at sea, either
-by fraud or by force.
 
 _Jacque_. He did not attempt that indeed.
 
@@ -5041,7 +4947,6 @@ broadcloth, about 11s. a yard in England; and with this he gave me
 three good shirts, two pair of shoes, stockings, and gloves, a hat, six
 neckcloths, and, in short, everything I could want; and when he had
 looked everything out, and fitted them, he lets me into a little room
-by itself. “Here,” says he; “go in there a slave, and come out a
 gentleman;” and with that carried everything into the room, and,
 shutting the door, bid me put them on, which I did most willingly; and
 now you may believe that I began to hope for something better than
@@ -5727,7 +5632,6 @@ up but this.
 _Mast_. Well, seeing you put so much weight upon it, he shall be called
 for.
 
-[He was called, and being ordered by the master to tell the measures
 that were concerted between them for the punishment or management of
 those negroes, he gave it just as Jacque had done before.]
 
@@ -5902,7 +5806,6 @@ Here I am to observe in the general, to avoid dwelling too long upon a
 story, that as the two negroes who I delivered from punishment were
 ever after the most diligent and laborious poor fellows in the whole
 plantation as above, except Mouchat, of whom I shall speak more
-by-and-by, so they not only were grateful themselves for their good
 usage, but they influenced the whole plantation; so that the gentle
 usage and lenity with which they had been treated had a thousand times
 more influence upon them to make them diligent than all the blows and
@@ -6173,7 +6076,6 @@ the ship, and that, though it was a loss, I could not but be glad that
 those ill-gotten goods was gone, and that I had lost what I had stolen.
 For I looked on it as none of mine, and that it would be fire in my
 flax if I should mingle it with what I had now, which was come honestly
-by, and was, as it were, sent from heaven to lay the foundation of my
 prosperity, which the other would be only as a moth to consume.
 
 At the same time my thoughts dictated to me, that though this was the
@@ -6723,7 +6625,6 @@ However, I now began to frame my thoughts for a voyage to England,
 resolving then to act as I should see cause, but with a secret
 resolution to see more of the world if possible, and realise those
 things to my mind which I had hitherto only entertained remote ideas of
-by the help of books.
 
 Accordingly I pushed forward the settlement of my third plantation, in
 order to bring it to be in a posture either to be let to a tenant or
@@ -6734,9 +6635,7 @@ world could have been fit for it like my tutor; but I could not think
 of parting with him, who was the cause of my desire of travelling, and
 who I concluded to make my partner in my travels.
 
-END OF VOL. I.
 
-THE LIFE OF COLONEL JACQUE.
 
 It was three years after this before I could get things in order, fit
 for my leaving the country. In this time I delivered my tutor from his
@@ -6749,7 +6648,6 @@ the same manner and by the like steps that my good benefactor raised
 me, only that I did not assist him to enter upon planting for himself
 as I was assisted, neither was I upon the spot to do it. But this man’s
 diligence and honest application, even unassisted, delivered himself,
-[though not] any farther than, as I say, by making him an overseer,
 which was only a present ease and deliverance to him from the hard
 labour and fare which he endured as a servant.
 
@@ -6957,7 +6855,6 @@ while the fight held, and, besides the civility of it, I found he was
 not willing I should be upon deck. Perhaps he thought I might have some
 opportunity to do hurt, though I know not how it could be. However, I
 was very ready to go down, for I had no mind to be killed, especially
-by my own friends; so I went down and sat by the surgeon, and had the
 opportunity to find that, the first broadside the English fired, seven
 wounded men were brought down to the surgeon, and three-and-thirty more
 afterwards, that is to say, when the English lay thwart their bow; and
@@ -6991,13 +6888,10 @@ enrich all his men and his owners also. The account of her cargo, by
 the captain’s books, of which I took a copy, was in general:
 
 260 hogsheads of sugar.
-187 smaller casks of sugar.
-176 barrels of indigo.
 28 casks of pimento.
 42 bags of cotton wool.
 80 cwt. of elephants’ teeth.
 60 small casks of rum.
-18,000 pieces of eight, besides the six thousand concealed.
 Several parcels of drugs, tortoise-shell, sweetmeats, called succades,
 chocolate, lime juice, and other things of considerable value.
 
@@ -7225,7 +7119,6 @@ hat when I saw her at her window, or at the door, or when I passed her
 in the court; so that we became almost acquainted at a distance.
 Sometimes she also visited at the house I lodged at, and it was
 generally contrived that I should be introduced when she came, and thus
-by degrees we became more intimately acquainted, and often conversed
 together in the family, but always in public, at least for a great
 while.
 
@@ -7427,7 +7320,6 @@ that’s left at home, then you came to visit me.”
 
 
 Jacque and lady
-COLONEL JACQUE AND THE LADY
 
 
 “I never receive visits from those that I hate,” says she.
@@ -8116,7 +8008,6 @@ army, till the arrival of the Duke de Vendôme, who was to command in
 chief. Here we had a severe campaign, _anno_ 1701, having Prince Eugene
 of Savoy and an army of forty thousand Germans, all old soldiers, to
 deal with; and though the French army was more numerous than the enemy
-by twenty-five thousand men, yet, being on the defensive, and having so
 many posts to cover, not knowing exactly where the Prince of Savoy, who
 commanded the imperial army, would attack us, it obliged the French to
 keep their troops so divided and so remote from one another that the
@@ -8164,7 +8055,6 @@ circumventing the plunders of the other side. But they very often came
 short home, for the Germans had the better of them on several
 occasions; and indeed so many lost their lives upon these petty
 encounters that I think, including those who died of distempers gotten
-by hard service and bad quarters, lying in the field even till the
 middle of December among rivers and bogs, in a country so full of
 canals and rivers as that part of Italy is known to be; I say, we lost
 more men, and so did the enemy also, than would have been lost in a
@@ -8223,7 +8113,6 @@ This made the prince halt, not knowing what the case was or how strong
 we were, and, to get better intelligence, sent two hundred horse to
 surround or skirt the wood and beat up our quarter, and in the interim
 the Count de Tesse appeared in his rear. We found the strait he was in
-by the noise of our own troops at a distance; so we resolved to engage
 the two hundred horse immediately. Accordingly our little troop of
 horse drew up in the entrance of the lane and offered to skirmish, and
 our foot, lying behind the hedge which went round the wood, stood ready
@@ -8647,7 +8536,6 @@ I must confess she had a difficult point here upon her, though she had
 been really honest; for, as my head was prepossessed of her dishonesty,
 if she had been lavish I should have said she had spent it upon her
 gentlemen; and as she had been frugal, I said she had been maintained
-by them. Thus, I say, my head was distempered; I believed myself
 abused, and nothing could put it out of my thoughts night or day.
 
 All this while it was not visibly broken out between us; but I was so
@@ -8895,7 +8783,6 @@ hundred crowns a year on her, and I never heard any more of her.
 
 I was now in London, but was obliged to be very retired and change my
 name, letting nobody in the nation know who I was, except my merchant
-by whom I corresponded with my people in Virginia; and particularly
 with my tutor, who was now become the head manager of my affairs, and
 was in very good circumstances himself also by my means. But he
 deserved all I did or could do for him, for he was a most faithful
@@ -10084,7 +9971,6 @@ of any that I had ever been engaged in before.
 
 It was very lucky to me that I killed and buried my horse, for he would
 have been taken two days after, and would, to be sure, have been known
-by those who had seen me upon him at Preston. But now, as none knew I
 had been abroad, nor any such circumstance could discover me, I kept
 close, and as my excursion had been short and I had not been missed by
 any of my neighbours, if anybody came to speak with me, behold I was at
@@ -10674,7 +10560,6 @@ determine it but another express to be sent to the viceroy of Mexico.
 
 Upon this the governor was so kind as to say he would get me a passport
 for anybody that should bring the money, and any vessel they were in,
-by his own authority, and for their safe returning, and taking me with
 them, provided I would answer for it that they should bring no European
 or other goods whatever with them, and should not set foot on shore
 without his express permission, and provided he did not receive orders
@@ -10790,7 +10675,6 @@ Upon that I went into the place, shut myself in, and having opened all
 the things, placed them to my mind. There was five little parcels, as
 follows:—
 
-1, 2. A piece of twenty yards fine English broad cloth, five yards
 black, five yards crimson, in one parcel; and the rest of fine mixtures
 in another parcel.
 
@@ -11076,7 +10960,6 @@ Spanish _barco longos_, as she was before; and I found the benefit of
 it afterwards, as you shall hear.
 
 We set sail the beginning of August, and as I had twice been attacked
-by pirates in passing the Gulf of Florida, or among the Bahama Islands,
 I resolved, though it was farther about, to stand off to sea, and so
 keep, as I believed it would be, out of the way of them.
 
@@ -11178,7 +11061,6 @@ times visited with the Spaniards’ _barco longos_ and small barks, in
 hopes of making a prize of us; but carrying Spanish colours deceived
 most of them, and a good tier of guns kept the rest at a distance, so
 that we came safe, though once or twice in danger of being run on shore
-by a storm of wind—I say, we came safe into Charles River in Carolina.
 
 From hence I found means to send a letter home, with an account to my
 wife of my good success; and having an account that the coast was clear
@@ -11668,13 +11550,10 @@ to my wife, and where, in about five months more, she came over to me,
 leaving with full satisfaction the management of all our affairs in
 Virginia in the same faithful hands as before.
 
-END OF THE LIFE OF COLONEL JACQUE
 
 
 
-THE TRUE-BORN ENGLISHMAN
 
-AN EXPLANATORY PREFACE
 
 It is not that I see any reason to alter my opinion in anything I have
 written which occasions this epistle, but I find it necessary, for the
@@ -11735,7 +11614,6 @@ But when I see the town full of lampoons and invectives against
 Dutchmen only because they are foreigners, and the King reproached and
 insulted by insolent pedants and ballad-making poets for employing
 foreigners, and for being a foreigner himself, I confess myself moved
-by it to remind our nation of their own original, thereby to let them
 see what a banter is put upon ourselves in it, since, speaking of
 Englishmen _ab origine_, we are really foreigners ourselves.
 
@@ -11756,7 +11634,6 @@ left us in so much worse a condition than we are in now; whereas we
 ought rather to boast among our neighbours that we are a part of
 themselves, or the same original as they, but bettered by our climate,
 and, like our language and manufactures, derived from them and improved
-by us to a perfection greater than they can pretend to.
 
 This we might have valued ourselves upon without vanity; but to disown
 our descent from them, talking big of our ancient families and long
@@ -11843,7 +11720,6 @@ say—print an answer to it, and give it about for God’s sake.
 
 
 
-THE PREFACE
 
 
 The end of satire is reformation; and the author, though he doubts the
@@ -11906,7 +11782,6 @@ Lest men should think we owe.”
 
 
 
-THE INTRODUCTION
 
 Speak, Satire; for there’s none can tell like thee
 Whether ’tis folly, pride, or knavery
@@ -11964,9 +11839,7 @@ Go back to causes where our follies dwell,
 And fetch the dark original from hell:
 Speak, Satire, for there’s none like thee can tell.
 
-THE TRUE-BORN ENGLISHMAN
 
-PART I
 
 Wherever God erects a house of prayer,
 The Devil always builds a chapel there:[11]
@@ -12045,11 +11918,8 @@ Worshipped as God, his Paynim altars smoke,
 Embrued with blood of those that him invoke.
 The rest by Deputies he rules as well,
 And plants the distant colonies of Hell.
-By them his secret power he maintains,
 And binds the world in his infernal chains.
-By Zeal the Irish, and the Russ by Folly
 Fury the Dane, the Swede by Melancholy;
-By stupid Ignorance the Muscovite;
 The Chinese by a child of Hell called Wit
 Wealth makes the Persian too effeminate,
 And Poverty the Tartars desperate;
@@ -12079,12 +11949,10 @@ Second to him in malice and in force,
 All devil without, and all within him worse.
 He made her first-born race to be so rude,
 And suffered her so oft to be subdued;
-By several crowds of wandering thieves o’errun,
 Often unpeopled, and as oft undone;
 While every nation that her powers reduced
 Their languages and manners introduced.
 From whose mixed relics our compounded breed
-By spurious generation does succeed,
 Making a race uncertain and uneven,
 Derived from all the nations under Heaven.
 The Romans first with Julius Cæsar came,
@@ -12105,7 +11973,6 @@ The customs, surnames, languages, and manners
 Of all these nations are their own explainers:
 Whose relics are so lasting and so strong,
 They ha’ left a shibboleth upon our tongue,
-By which with easy search you may distinguish
 Your Roman-Saxon-Danish Norman English.
 The great invading Norman[12] let us know
 What conquerors in after times might do.
@@ -12152,7 +12019,6 @@ From the most scoundrel race that ever lived;
 A horrid crowd of rambling thieves and drones,
 Who ransacked kingdoms and dispeopled towns,
 The Pict and painted Briton, treacherous Scot,
-By hunger, /theft, and rapine hither brought;
 Norwegian pirates, buccaneering Danes,
 Whose red-haired offspring everywhere remains,
 Who, joined with Norman-French, compound the breed
@@ -12345,7 +12211,6 @@ And lords whose parents were the Lord knows who.
 
 
 
-PART II
 
 
 The breed’s described: Now, Satire, if you can,
@@ -12365,7 +12230,6 @@ Always provided that their belly’s full.
 In close intrigues their faculty’s but weak,
 For generally what e’er they know they speak,
 And often their own counsels undermine
-By their infirmity, and not design;
 From whence the learned say it does proceed,
 That English treasons never can succeed;
 For they’re so open-hearted, you may know
@@ -12673,7 +12537,6 @@ And lawless power against their oaths maintain,
 Then subjects must have reason to complain.
 If oaths must bind us when our kings do ill,
 To call in foreign aid is to rebel.
-By force to circumscribe our lawful prince
 Is wilful treason in the largest sense;
 And they who once rebel, most certainly
 Their God, and king, and former oaths defy.
@@ -12683,7 +12546,6 @@ Let all our learned sons of Levi try
 This ecclesiastic riddle to untie:
 How they could make a step to call the prince,
 And yet pretend to oaths and innocence?
-By the first address they made beyond the seas,
 They’re perjured in the most intense degrees;
 And without scruple for the time to come
 May swear to all the kings in Christendom.
@@ -12786,7 +12648,6 @@ Whether it be the fatal blast or no.
 
 
 
-BRITANNIA
 
 
 The fame of virtue ’tis for which I sound,
@@ -12803,13 +12664,11 @@ Nothing is heard so far or lasts so long;
 ’Tis heard by every ear and spoke by every tongue.
 My hero, with the sails of honour furled,
 Rises like the great genius of the world.
-By Fate and Fame wisely prepared to be
 The soul of war and life of victory;
 He spreads the wings of virtue on the throne,
 And every wind of glory fans them on.
 Immortal trophies dwell upon his brow,
 Fresh as the garlands he has won but now.
-By different steps the high ascent he gains,
 And differently that high ascent maintains.
 Princes for pride and lust of rule make war,
 And struggle for the name of conqueror.
@@ -12947,7 +12806,6 @@ Shall give you his own character by rote.
 I’ll make it out, deny it he that can,
 His worship is a true-born Englishman,
 In all the latitude of that empty word,
-By modern acceptations understood.
 The parish books his great descent record;
 And now he hopes ere long to be a lord.
 And truly, as things go, it would be pity
@@ -13036,7 +12894,6 @@ My cousin, Ziba, of immortal fame
 (Ziba and I shall never want a name),
 First-born of treason, nobly did advance
 His master’s fall for his inheritance,
-By whose keen arts old David first began
 To break his sacred oath with Jonathan:
 The good old king, ’tis thought, was very loth
 To break his word, and therefore broke his oath.
@@ -13122,17 +12979,9 @@ For fame of families is all a cheat,
 
 
 
-THE SHORTEST WAY WITH
-THE DISSENTERS;
-OR,
-PROPOSALS FOR THE ESTABLISHMENT
-OF
-THE CHURCH
 
 
 
-THE SHORTEST WAY WITH
-THE DISSENTERS
 
 Sir Roger L’Estrange tells us a story in his collection of fables, of
 the cock and the horses. The cock was gotten to roost in the stable
@@ -13442,7 +13291,6 @@ ever the Church had, to secure herself and destroy her enemies.
 The representatives of the nation have now an opportunity; the time is
 come which all good men have wished for, that the gentlemen of England
 may serve the Church of England. Now they are protected and encouraged
-by a Church of England Queen.
 
 What will you do for your sister in the day that she shall be spoken
 for?
@@ -13604,7 +13452,6 @@ this end the present opportunity seems to be put into our hands.
 
 To this end her present Majesty seems reserved to enjoy the crown, that
 the ecclesiastic as well as civil rights of the nation may be restored
-by her hand. To this end the face of affairs have received such a turn
 in the process of a few months as never has been before; the leading
 men of the nation, the universal cry of the people, the unanimous
 request of the clergy, agree in this, that the deliverance of our
@@ -13679,142 +13526,6 @@ And may God Almighty put it into the hearts of all the friends of truth
 to lift up a standard against pride and Antichrist, that the posterity
 of the sons of error may be rooted out from the face of this land for
 ever.
-
-FOOTNOTES
-
-Footnote 1: _Hours in a Library_.
-
-Footnote 2: Wilson’s _ Memoirs of Defoe_, London, 1830, III., p. 429.
-
-Footnote 3: Defoe mentions the letter in his _Review_ for August 11th,
-1705.
-
-Footnote 4: I was not called Colonel Jacque as at London, but Colonel,
-and they did not know me by any other name.
-
-Footnote 5: He did not now talk quite so blindly and childishly as when
-he was a boy, and when the custom-house gentleman talked to him about
-his names.
-
-Footnote 6: Here he showed him the horsewhip that was given him with
-his new office.
-
-Footnote 7: So the negroes call the owner of the plantation, or at
-least so they called him, because he was a great man in the country,
-having three or four large plantations.
-
-Footnote 8: To be drunk in a negro is to be mad; for when they get rum
-they are worse than raving, and fit to do any manner of mischief.
-
-Footnote 9: He understood the plot, and took the opportunity to tell
-him that, to see what he would say.
-
-Footnote 10: He understood him; he meant he would beg your honour for
-me, that I might not be hanged for offending you.
-
-Footnote 11: This old proverb was quoted by Robert Burton in his
-“Anatomy of Melancholy” (1621), “Where God hath a temple the Devil hath
-a chapel” (Part III. sc. iv. subs. 1). It was also No. 670 in George
-Herbert’s “Jacula Prudentium,” first published in 1640, where it ran,
-“No sooner is a temple built to God but the Devil builds a chapel hard
-by.” Defoe was the first rhymer of the proverb, and the rider to it is
-his own.
-
-Footnote 12: William the Conqueror. [D.F.]
-
-Footnote 13: Or archer. [D.F.]
-
-Footnote 14: Dr. Sherlock, _de facto_. [D.F.]
-
-Footnote 15: K. J. I. [D.F.]
-
-Footnote 16: K. C. II. [D.F.]
-
-Footnote 17: Lady Castlemaine, of the Italian-French family of Villars,
-was first known to Charles II. as Mrs. Palmer. Afterwards her husband
-was made Earl of Castlemaine, and in 1668 she was made Duchess of
-Cleveland. Of the cost of this woman Andrew Marvell wrote:—“They have
-signed and sealed ten thousand pounds a year more to the Duchess of
-Cleveland; who has likewise near ten thousand pounds a year out of the
-new farm of the country excise of beer and ale; five thousand pounds a
-year out of the Post Office; and, they say, the reversion of all the
-King’s leases, the reversion of all places in the Custom House, the
-green-wax, and, indeed, what not? All promotions, spiritual and
-temporal, pass under her cognisance,” &c. Charles II. had by her five
-children.
-
-Footnote 18: Louise Renée de Puencovet de Queroualle came over to Dover
-as a maid of honour, and was created Duchess of Portsmouth in August
-1673. She cost as much as Lady Castlemaine. Her son, Charles Lennox,
-was made Duke of Richmond. The Duchess of Portsmouth was living when
-this satire appeared. She died in 1734.
-
-Footnote 19: Frederick de Schomberg, an old favourite of King
-William’s, was made Duke of Schomberg on the 10th of April 1689.
-Another friend of the King’s, William Bentinck, was created Earl of
-Portland on the 9th of April 1689. His son and heir was raised to a
-dukedom in 1716.
-
-Footnote 20: The drunkard’s name for Canary. [D.F.]
-
-Footnote 21: “Mobile,” applied to the movable, unstable populace, was
-first abridged to “mob” in Charles the Second’s time.
-
-Footnote 22: The Devil.—[D.F.]
-
-Footnote 23: Dating from 1688-89, the Revolution and accession of King
-William III.
-
-Footnote 24: Charles I., James II., William III.
-
-Footnote 25: On the 16th of July, 1604, the Puritan clergy within the
-Church were required to conform on or before the 30th of November on
-pain of expulsion. On the 4th of December Whitgift’s successor, Richard
-Bancroft, was consecrated Archbishop of Canterbury. He strictly carried
-out this order, and declared every man, cleric or lay, to be
-excommunicated who questioned the complete accordance of the Prayer
-Book with the Word of God. On the 6th of September, 1620, the
-_Mayflower_ left England with the first freight of English families
-that sought freedom of worship where they came to be the founders of a
-New England across the sea.
-
-Footnote 26: Charles II. unconstitutionally suspended the penal laws
-against nonconformists and recusants in 1679.
-
-Footnote 27: The story of the Rye House Plot was used for bringing
-Algernon Sidney and Lord William Russell to the scaffold.
-
-Footnote 28: James II. unconstitutionally suspended the penal laws
-against nonconformists and recusants by Declarations of Indulgence in
-1686 and 1688.
-
-Footnote 29: The oath taken by Tories against the legal right of the
-Pretender to the crown was said to reserve the question of his divine
-right of succession. Divine right was unchangeable, but laws were
-liable to change—and so far as they go, what to-day is treason may be
-loyalty to-morrow.
-
-Footnote 30: The Revocation of the Edict of Nantes was signed on the
-17th of October 1685. All Protestant churches were to be demolished,
-and their ministers who would not be converted were to leave France
-within a fortnight. Fugitive reformers who did not return within four
-months would have their property confiscated. Lay Reformers were
-forbidden to leave France, on pain of the galleys for men and
-confiscation of body and goods for women. Those who remained were
-exposed to cruelties of the soldiery. The King thought that his way of
-conversion by dragoons had reduced a million and a half of French
-heretics to twelve or fifteen thousand; but between the Revocation and
-the time when Defoe wrote this pamphlet, it has been estimated that
-250,000 French Protestants left France to establish homes in England
-and elsewhere.
-
-Footnote 31: John Howe, in his answer to Defoe’s request for a
-statement of opinion from him on Occasional Conformity.
-
-
-
-
-
 
 
 

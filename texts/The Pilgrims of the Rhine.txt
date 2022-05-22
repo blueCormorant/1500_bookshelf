@@ -1,51 +1,5 @@
 
 
-
-
-
-
-
-
-
-THE PILGRIMS OF THE RHINE
-
-TO WHICH IS PREFIXED THE IDEAL WORLD
-
-By Edward Bulwer Lytton (Lord Lytton)
-
-
-
-
-THE PILGRIMS OF THE RHINE
-
-
-
-TO HENRY LYTTON BULWER.
-
-ALLOW me, my dear Brother, to dedicate this Work to you. The greater
-part of it (namely, the tales which vary and relieve the voyages of
-Gertrude and Trevylyan) was written in the pleasant excursion we made
-together some years ago. Among the associations--some sad and some
-pleasing--connected with the general design, none are so agreeable to
-me as those that remind me of the friendship subsisting between us, and
-which, unlike that of near relations in general, has grown stronger
-and more intimate as our footsteps have receded farther from the fields
-where we played together in our childhood. I dedicate this Work to you
-with the more pleasure, not only when I remember that it has always
-been a favourite with yourself, but when I think that it is one of my
-writings most liked in foreign countries; and I may possibly, therefore,
-have found a record destined to endure the affectionate esteem which
-this Dedication is intended to convey.
-
-Yours, etc.
-
-E. L. B. LONDON, April 23, 1840.
-
-
-
-
-ADVERTISEMENT TO THE FIRST EDITION.
-
 COULD I prescribe to the critic and to the public, I would wish that
 this work might be tried by the rules rather of poetry than prose,
 for according to those rules have been both its conception and its
@@ -74,7 +28,6 @@ his dreams.
 
 
 
-PREFACE.
 
 WITH the younger class of my readers this work has had the good fortune
 to find especial favour; perhaps because it is in itself a collection of
@@ -117,7 +70,7 @@ the Druid on Salisbury plain, or trod his bewildered way over the broad
 expanse on which the Chaldaean first learned to number the stars.
 
 To the former editions of this tale was prefixed a poem on “The Ideal,”
- which had all the worst faults of the author’s earliest compositions
+which had all the worst faults of the author’s earliest compositions
 in verse. The present poem (with the exception of a very few lines) has
 been entirely rewritten, and has at least the comparative merit of being
 less vague in the thought, and less unpolished in the diction, than that
@@ -125,631 +78,535 @@ which it replaces.
 
 
 
-CONTENTS.
 
 
 
-  THE IDEAL WORLD
 
 
 
-  THE PILGRIMS OF THE RHINE
 
-  CHAPTER I.
-  In which the Reader is Introduced to Queen Nymphalin
+In which the Reader is Introduced to Queen Nymphalin
 
-  CHAPTER II.
-  The Lovers
+The Lovers
 
-  CHAPTER III.
-  Feelings
+Feelings
 
-  CHAPTER IV.
-  The Maid of Malines
+The Maid of Malines
 
-  CHAPTER V.
-  Rotterdam.--The Character of the Dutch.--Their Resemblance to the
-  Germans.--A Dispute between Vane and Trevylyan, after the manner of the
-  ancient Novelists, as to which is preferable, the Life of Action, or the
-  Life of Repose.--Trevylyan’s Contrast between Literary Ambition and the
-  Ambition of Public Life
+Rotterdam.--The Character of the Dutch.--Their Resemblance to the
+Germans.--A Dispute between Vane and Trevylyan, after the manner of the
+ancient Novelists, as to which is preferable, the Life of Action, or the
+Life of Repose.--Trevylyan’s Contrast between Literary Ambition and the
+Ambition of Public Life
 
-  CHAPTER VI.
-  Gorcum.--The Tour of the Virtues: a Philosopher’s Tale
+Gorcum.--The Tour of the Virtues: a Philosopher’s Tale
 
-  CHAPTER VII.
-  Cologne.--The Traces of the Roman Yoke.--The Church of St.
-  Maria.--Trevylyan’s Reflections on the Monastic Life.--The Tomb of the
-  Three Kings.--An Evening Excursion on the Rhine
+Cologne.--The Traces of the Roman Yoke.--The Church of St.
+Maria.--Trevylyan’s Reflections on the Monastic Life.--The Tomb of the
+Three Kings.--An Evening Excursion on the Rhine
 
-  CHAPTER VIII.
-  The Soul in Purgatory; or, Love Stronger than Death
+The Soul in Purgatory; or, Love Stronger than Death
 
-  CHAPTER IX.
-  The Scenery of the Rhine analogous to the German Literary Genius.--The
-  Drachenfels
+The Scenery of the Rhine analogous to the German Literary Genius.--The
+Drachenfels
 
-  CHAPTER X.
-  The Legend of Roland.--The Adventures of Nymphalin on the Island of
-  Nonnewerth.--Her Song.--The Decay of the Fairy-Faith in England
+The Legend of Roland.--The Adventures of Nymphalin on the Island of
+Nonnewerth.--Her Song.--The Decay of the Fairy-Faith in England
 
-  CHAPTER XI.
-  Wherein the Reader is made Spectator with the English Fairies of the
-  Scenes and Beings that are beneath the Earth
+Wherein the Reader is made Spectator with the English Fairies of the
+Scenes and Beings that are beneath the Earth
 
-  CHAPTER XII.
-  The Wooing of Master Fox
+The Wooing of Master Fox
 
-  CHAPTER XIII.
-  The Tomb of a Father of Many Children
+The Tomb of a Father of Many Children
 
-  CHAPTER XIV.
-  The Fairy’s Cave, and the Fairy’s Wish
+The Fairy’s Cave, and the Fairy’s Wish
 
-  CHAPTER XV.
-  The Banks of the Rhine.--From the Drachenfels to Brohl.--An Incident that
-  suffices in this Tale for an Epoch
+The Banks of the Rhine.--From the Drachenfels to Brohl.--An Incident that
+suffices in this Tale for an Epoch
 
-  CHAPTER XVI.
-  Gertrude.--The Excursion to Hammerstein.--Thoughts
+Gertrude.--The Excursion to Hammerstein.--Thoughts
 
-  CHAPTER XVII.
-  Letter from Trevylyan to -----
+Letter from Trevylyan to -----
 
-  CHAPTER XVIII.
-  Coblentz.--Excursion to the Mountains of Taunus; Roman Tower in the
-  Valley of Ehrenbreitstein.--Travel, its Pleasures estimated differently
-  by the Young and the Old.--The Student of Heidelberg: his Criticisms on
-  German Literature
+Coblentz.--Excursion to the Mountains of Taunus; Roman Tower in the
+Valley of Ehrenbreitstein.--Travel, its Pleasures estimated differently
+German Literature
 
-  CHAPTER XIX.
-  The Fallen Star; or, the History of a False Religion
+The Fallen Star; or, the History of a False Religion
 
-  CHAPTER XX.
-  Glenhausen.--The Power of Love in Sanctified Places.--A Portrait of
-  Frederick Barbarossa.--The Ambition of Men finds no adequate Sympathy in
-  Women
+Glenhausen.--The Power of Love in Sanctified Places.--A Portrait of
+Frederick Barbarossa.--The Ambition of Men finds no adequate Sympathy in
+Women
 
-  CHAPTER XXI.
-  View of Ehrenbreitstein.--A New Alarm in Gertrude’s Health.--Trarbach
+View of Ehrenbreitstein.--A New Alarm in Gertrude’s Health.--Trarbach
 
-  CHAPTER XXII.
-  The Double Life.--Trevylyan’s Fate.--Sorrow the Parent of
-  Fame.--Niederlahnstein.--Dreams
+The Double Life.--Trevylyan’s Fate.--Sorrow the Parent of
+Fame.--Niederlahnstein.--Dreams
 
-  CHAPTER XXIII.
-  The Life of Dreams
+The Life of Dreams
 
-  CHAPTER XXIV.
-  The Brothers
+The Brothers
 
-  CHAPTER XXV.
-  The Immortality of the Soul.--A Common Incident not before Described.
-  --Trevylyan and Gertrude
-
-  CHAPTER XXVI.
-  In which the Reader will learn how the Fairies were received by the
-  Sovereigns of the Mines.--The Complaint of the Last of the Fauns.--The
-  Red Huntsman.--The Storm.--Death
-
-  CHAPTER XXVII.
-  Thurmberg.--A Storm upon the Rhine.--The Ruins of Rheinfels.--Peril
-  Unfelt by Love.--The Echo of the Lurlei-berg.--St. Goar.--Kaub,
-  Gutenfels, and Pfalzgrafenstein.--A certain Vastness of Mind in the First
-  Hermits.--The Scenery of the Rhine to Bacharach
-
-  CHAPTER XXVIII.
-  The Voyage to Bingen.--The Simple Incidents in this Tale Excused.--The
-  Situation and Character of Gertrude.--The Conversation of the Lovers in
-  the Tempest.--A Fact Contradicted.--Thoughts occasioned by a Madhouse
-  amongst the most Beautiful Landscapes of the Rhine
-
-  CHAPTER XXIX.
-  Ellfeld.--Mayence.--Heidelberg.--A Conversation between Vane and the
-  German Student.--The Ruins of the Castle of Heidelberg and its Solitary
-  Habitant
-
-  CHAPTER XXX.
-  No Part of the Earth really Solitary.--The Song of the Fairies.--The
-  Sacred Spot.--The Witch of the Evil Winds.--The Spell and the Duty of the
-  Fairies
-
-  CHAPTER XXXI.
-  Gertrude and Trevylyan, when the former is awakened to the Approach of
-  Death
-
-  CHAPTER XXXII.
-  A Spot to be Buried in
-
-  CHAPTER THE LAST
-  The Conclusion of this Tale
-
-
-
-
-THE IDEAL WORLD
-
-
-
-
-  I.
-
-  THE IDEAL WORLD,--ITS REALM IS EVERYWHERE AROUND US; ITS INHABITANTS ARE
-  THE IMMORTAL PERSONIFICATIONS OF ALL BEAUTIFUL THOUGHTS; TO THAT WORLD WE
-  ATTAIN BY THE REPOSE OF THE SENSES.
-
-  AROUND “this visible diurnal sphere”
-     There floats a World that girds us like the space;
-  On wandering clouds and gliding beams career
-    Its ever-moving murmurous Populace.
-  There, all the lovelier thoughts conceived below
-    Ascending live, and in celestial shapes.
-  To that bright World, O Mortal, wouldst thou go?
-    Bind but thy senses, and thy soul escapes:
-  To care, to sin, to passion close thine eyes;
-  Sleep in the flesh, and see the Dreamland rise!
-  Hark to the gush of golden waterfalls,
-  Or knightly tromps at Archimagian Walls!
-  In the green hush of Dorian Valleys mark
-    The River Maid her amber tresses knitting;
-  When glow-worms twinkle under coverts dark,
-    And silver clouds o’er summer stars are flitting,
-  With jocund elves invade “the Moone’s sphere,
-  Or hang a pearl in every cowslip’s ear;” *
-  Or, list! what time the roseate urns of dawn
-    Scatter fresh dews, and the first skylark weaves
-  Joy into song, the blithe Arcadian Faun
-    Piping to wood-nymphs under Bromian leaves,
-  While slowly gleaming through the purple glade
-  Come Evian’s panther car, and the pale Naxian Maid.
-
-    * “Midsummer Night’s Dream.”
-
-  Such, O Ideal World, thy habitants!
-    All the fair children of creative creeds,
-  All the lost tribes of Fantasy are thine,--
-  From antique Saturn in Dodonian haunts,
-    Or Pan’s first music waked from shepherd reeds,
-  To the last sprite when Heaven’s pale lamps decline,
-  Heard wailing soft along the solemn Rhine.
-
-
-
-  II.
-
-  OUR DREAMS BELONG TO THE IDEAL.--THE DIVINER LOVE FOR WHICH YOUTH SIGHS
-  NOT ATTAINABLE IN LIFE, BUT THE PURSUIT OF THAT LOVE BEYOND THE WORLD OF
-  THE SENSES PURIFIES THE SOUL AND AWAKES THE GENIUS.--PETRARCH.--DANTE.
-
-  Thine are the Dreams that pass the Ivory Gates,
-    With prophet shadows haunting poet eyes!
-  Thine the belov’d illusions youth creates
-    From the dim haze of its own happy skies.
-  In vain we pine; we yearn on earth to win
-    The being of the heart, our boyhood’s dream.
-  The Psyche and the Eros ne’er have been,
-    Save in Olympus, wedded!  As a stream
-  Glasses a star, so life the ideal love;
-  Restless the stream below, serene the orb above!
-  Ever the soul the senses shall deceive;
-  Here custom chill, there kinder fate bereave:
-  For mortal lips unmeet eternal vows!
-  And Eden’s flowers for Adam’s mournful brows!
-  We seek to make the moment’s angel guest
-    The household dweller at a human hearth;
-  We chase the bird of Paradise, whose nest
-    Was never found amid the bowers of earth.*
-
-    * According to a belief in the East, which is associated with one
-      of the loveliest and most familiar of Oriental superstitions,
-      the bird of Paradise is never seen to rest upon the earth, and
-      its nest is never to be found.
-
-  Yet loftier joys the vain pursuit may bring,
-    Than sate the senses with the boons of time;
-  The bird of Heaven hath still an upward wing,
-    The steps it lures are still the steps that climb;
-  And in the ascent although the soil be bare,
-  More clear the daylight and more pure the air.
-  Let Petrarch’s heart the human mistress lose,
-  He mourns the Laura but to win the Muse.
-  Could all the charms which Georgian maids combine
-  Delight the soul of the dark Florentine,
-  Like one chaste dream of childlike Beatrice
-  Awaiting Hell’s dark pilgrim in the skies,
-  Snatched from below to be the guide above,
-  And clothe Religion in the form of Love?*
-
-    * It is supposed by many of the commentators on Dante, that in
-      the form of his lost Beatrice, who guides him in his Vision
-      of Heaven, he allegorizes Religious Faith.
-
-
-
-  III.
-
-  GENIUS, LIFTING ITS LIFE TO THE IDEAL, BECOMES ITSELF A PURE IDEA: IT
-  MUST COMPREHEND ALL EXISTENCE, ALL HUMAN SINS AND SUFFERINGS; BUT IN
-  COMPREHENDING, IT TRANSMUTES THEM.--THE POET IN HIS TWO-FOLD BEING,--THE
-  ACTUAL AND THE IDEAL.--THE INFLUENCE OF GENIUS OVER THE STERNEST
-  REALITIES OF EARTH; OVER OUR PASSIONS; WARS AND SUPERSTITIONS.--ITS
-  IDENTITY IS WITH HUMAN PROGRESS.--ITS AGENCY, EVEN WHERE UNACKNOWLEDGED,
-  IS UNIVERSAL.
-
-  Oh, thou true Iris! sporting on thy bow
-    Of tears and smiles! Jove’s herald, Poetry,
-  Thou reflex image of all joy and woe,
-    _Both_ fused in light by thy dear fantasy!
-  Lo! from the clay how Genius lifts its life,
-    And grows one pure Idea, one calm soul!
-  True, its own clearness must reflect our strife;
-    True, its completeness must comprise our whole;
-  But as the sun transmutes the sullen hues
-    Of marsh-grown vapours into vermeil dyes,
-  And melts them later into twilight dews,
-    Shedding on flowers the baptism of the skies;
-  So glows the Ideal in the air we breathe,
-    So from the fumes of sorrow and of sin,
-  Doth its warm light in rosy colours wreathe
-    Its playful cloudland, storing balms within.
-
-  Survey the Poet in his mortal mould,
-    Man, amongst men, descended from his throne!
-  The moth that chased the star now frets the fold,
-    Our cares, our faults, our follies are his own.
-  Passions as idle, and desires as vain,
-  Vex the wild heart, and dupe the erring brain.
-  From Freedom’s field the recreant Horace flies
-  To kiss the hand by which his country dies;
-  From Mary’s grave the mighty Peasant turns,
-  And hoarse with orgies rings the laugh of Burns.
-  While Rousseau’s lips a lackey’s vices own,--
-  Lips that could draw the thunder on a throne!
-  But when from Life the Actual GENIUS springs,
-    When, self-transformed by its own magic rod,
-  It snaps the fetters and expands the wings,
-    And drops the fleshly garb that veiled the god,
-  How the mists vanish as the form ascends!
-  How in its aureole every sunbeam blends!
-  By the Arch-Brightener of Creation seen,
-    How dim the crowns on perishable brows!
-  The snows of Atlas melt beneath the sheen,
-    Through Thebaid caves the rushing splendour flows.
-  Cimmerian glooms with Asian beams are bright,
-  And Earth reposes in a belt of light.
-  Now stern as Vengeance shines the awful form,
-  Armed with the bolt and glowing through the storm;
-  Sets the great deeps of human passion free,
-  And whelms the bulwarks that would breast the sea.
-  Roused by its voice the ghastly Wars arise,
-  Mars reddens earth, the Valkyrs pale the skies;
-  Dim Superstition from her hell escapes,
-  With all her shadowy brood of monster shapes;
-  Here life itself the scowl of Typhon* takes;
-  There Conscience shudders at Alecto’s snakes;
-  From Gothic graves at midnight yawning wide,
-  In gory cerements gibbering spectres glide;
-  And where o’er blasted heaths the lightnings flame,
-  Black secret hags “do deeds without a name!”
-   Yet through its direst agencies of awe,
-  Light marks its presence and pervades its law,
-  And, like Orion when the storms are loud,
-  It links creation while it gilds a cloud.
-  By ruthless Thor, free Thought, frank Honour stand,
-  Fame’s grand desire, and zeal for Fatherland.
-  The grim Religion of Barbarian Fear
-  With some Hereafter still connects the Here,
-  Lifts the gross sense to some spiritual source,
-  And thrones some Jove above the Titan Force,
-  Till, love completing what in awe began,
-  From the rude savage dawns the thoughtful man.
-
-    * The gloomy Typhon of Egypt assumes many of the mystic attributes
-      of the Principle of Life which, in the Grecian Apotheosis of the
-      Indian Bacchus, is represented in so genial a character of
-      exuberant joy and everlasting youth.
-
-  Then, oh, behold the Glorious comforter!
-    Still bright’ning worlds but gladd’ning now the hearth,
-  Or like the lustre of our nearest star,
-    Fused in the common atmosphere of earth.
-  It sports like hope upon the captive’s chain;
-  Descends in dreams upon the couch of pain;
-  To wonder’s realm allures the earnest child;
-  To the chaste love refines the instinct wild;
-  And as in waters the reflected beam,
-  Still where we turn, glides with us up the stream,
-  And while in truth the whole expanse is bright,
-  Yields to each eye its own fond path of light,--
-  So over life the rays of Genius fall,
-  Give each his track because illuming all.
-
-
-
-  IV.
-
-  FORGIVENESS TO THE ERRORS OF OUR BENEFACTORS.
-
-  Hence is that secret pardon we bestow
-    In the true instinct of the grateful heart,
-  Upon the Sons of Song.  The good they do
-    In the clear world of their Uranian art
-  Endures forever; while the evil done
-    In the poor drama of their mortal scene,
-  Is but a passing cloud before the sun;
-    Space hath no record where the mist hath been.
-  Boots it to us if Shakspeare erred like man?
-    Why idly question that most mystic life?
-  Eno’ the giver in his gifts to scan;
-    To bless the sheaves with which thy fields are rife,
-  Nor, blundering, guess through what obstructive clay
-  The glorious corn-seed struggled up to day.
-
-
-
-  V.
-
-  THE IDEAL IS NOT CONFINED TO POETS.--ALGERNON SIDNEY RECOGNIZES HIS IDEAL
-  IN LIBERTY, AND BELIEVES IN ITS TRIUMPH WHERE THE MERE PRACTICAL MAN
-  COULD BEHOLD BUT ITS RUINS; YET LIBERTY IN THIS WORLD MUST EVER BE AN
-  IDEAL, AND THE LAND THAT IT PROMISES CAN BE FOUND BUT IN DEATH.
-
-  But not to you alone, O Sons Of Song,
-  The wings that float the loftier airs along.
-  Whoever lifts us from the dust we are,
-    Beyond the sensual to spiritual goals;
-  Who from the MOMENT and the SELF afar
-    By deathless deeds allures reluctant souls,
-  Gives the warm life to what the Limner draws,--
-  Plato but thought what godlike Cato was.*
-  Recall the Wars of England’s giant-born,
-    Is Elyot’s voice, is Hampden’s death in vain?
-  Have all the meteors of the vernal morn
-    But wasted light upon a frozen main?
-  Where is that child of Carnage, Freedom, flown?
-  The Sybarite lolls upon the martyr’s throne.
-  Lewd, ribald jests succeed to solemn zeal;
-  And things of silk to Cromwell’s men of steel.
-  Cold are the hosts the tromps of Ireton thrilled,
-  And hushed the senates Vane’s large presence filled.
-  In what strong heart doth the old manhood dwell?
-  Where art thou, Freedom?  Look! in Sidney’s cell!
-  There still as stately stands the living Truth,
-  Smiling on age as it had smiled on youth.
-  Her forts dismantled, and her shrines o’erthrown,
-  The headsman’s block her last dread altar-stone,
-  No sanction left to Reason’s vulgar hope,
-  Far from the wrecks expands her prophet’s scope.
-  Millennial morns the tombs of Kedron gild,
-  The hands of saints the glorious walls rebuild,--
-  Till each foundation garnished with its gem,
-  High o’er Gehenna flames Jerusalem!
-  O thou blood-stained Ideal of the free,
-  Whose breath is heard in clarions,--Liberty!
-  Sublimer for thy grand illusions past,
-  Thou spring’st to Heaven,--Religion at the last.
-  Alike below, or commonwealths or thrones,
-  Where’er men gather some crushed victim groans;
-  Only in death thy real form we see,
-  All life is bondage,--souls alone are free.
-  Thus through the waste the wandering Hebrews went,
-  Fire on the march, but cloud upon the tent.
-  At last on Pisgah see the prophet stand,
-  Before his vision spreads the PROMISED LAND;
-  But where revealed the Canaan to his eye?--
-  Upon the mountain he ascends to die.
-
-    * What Plato thought, and godlike Cato was.--POPE.
-
-
-
-  VI.
-
-  YET ALL HAVE TWO ESCAPES INTO THE IDEAL WORLD; NAMELY, MEMORY AND
-  HOPE.--EXAMPLE OF HOPE IN YOUTH, HOWEVER EXCLUDED FROM ACTION AND
-  DESIRE.--NAPOLEON’S SON.
-
-  Yet whatsoever be our bondage here,
-  All have two portals to the phantom sphere.
-  What hath not glided through those gates that ope
-  Beyond the Hour, to MEMORY or to HOPE!
-  Give Youth the Garden,--still it soars above,
-  Seeks some far glory, some diviner love.
-  Place Age amidst the Golgotha,--its eyes
-  Still quit the graves, to rest upon the skies;
-  And while the dust, unheeded, moulders there,
-  Track some lost angel through cerulean air.
-
-  Lo! where the Austrian binds, with formal chain,
-  The crownless son of earth’s last Charlemagne,--
-  Him, at whose birth laughed all the violet vales
-    (While yet unfallen stood thy sovereign star,
-  O Lucifer of nations).  Hark, the gales
-    Swell with the shout from all the hosts, whose war
-  Rended the Alps, and crimsoned Memphian Nile,--
-    “Way for the coming of the Conqueror’s Son:
-  Woe to the Merchant-Carthage of the Isle!
-    Woe to the Scythian ice-world of the Don!
-  O Thunder Lord, thy Lemnian bolts prepare,
-  The Eagle’s eyry hath its eagle heir!”
-   Hark, at that shout from north to south, gray Power
-    Quails on its weak, hereditary thrones;
-  And widowed mothers prophesy the hour
-    Of future carnage to their cradled sons.
-  What! shall our race to blood be thus consigned,
-    And Ate claim an heirloom in mankind?
-  Are these red lots unshaken in the urn?
-  Years pass; approach, pale Questioner, and learn
-  Chained to his rock, with brows that vainly frown,
-  The fallen Titan sinks in darkness down!
-  And sadly gazing through his gilded grate,
-  Behold the child whose birth was as a fate!
-  Far from the land in which his life began;
-  Walled from the healthful air of hardy man;
-  Reared by cold hearts, and watched by jealous eyes,
-  His guardians jailers, and his comrades spies.
-  Each trite convention courtly fears inspire
-  To stint experience and to dwarf desire;
-  Narrows the action to a puppet stage,
-  And trains the eaglet to the starling’s cage.
-  On the dejected brow and smileless cheek,
-  What weary thought the languid lines bespeak;
-  Till drop by drop, from jaded day to day,
-  The sickly life-streams ooze themselves away.
-  Yet oft in HOPE a boundless realm was thine,
-    That vaguest Infinite,--the Dream of Fame;
-  Son of the sword that first made kings divine,
-    Heir to man’s grandest royalty,--a Name!
-  Then didst thou burst upon the startled world,
-  And keep the glorious promise of thy birth;
-  Then were the wings that bear the bolt unfurled,
-    A monarch’s voice cried, “Place upon the earth!”
-   A new Philippi gained a second Rome,
-  And the Son’s sword avenged the greater Caesar’s doom.
-
-
-
-  VII.
-
-  EXAMPLE OF MEMORY AS LEADING TO THE IDEAL,--AMIDST LIFE HOWEVER HUMBLE,
-  AND IN A MIND HOWEVER IGNORANT.--THE VILLAGE WIDOW.
-
-  But turn the eye to life’s sequestered vale
-    And lowly roofs remote in hamlets green.
-  Oft in my boyhood where the moss-grown pale
-    Fenced quiet graves, a female form was seen;
-  Each eve she sought the melancholy ground,
-  And lingering paused, and wistful looked around.
-  If yet some footstep rustled through the grass,
-  Timorous she shrunk, and watched the shadow pass;
-  Then, when the spot lay lone amidst the gloom,
-  Crept to one grave too humble for a tomb,
-  There silent bowed her face above the dead,
-  For, if in prayer, the prayer was inly said;
-  Still as the moonbeam, paused her quiet shade,
-  Still as the moonbeam, through the yews to fade.
-  Whose dust thus hallowed by so fond a care?
-  What the grave saith not, let the heart declare.
-    On yonder green two orphan children played;
-  By yonder rill two plighted lovers strayed;
-  In yonder shrine two lives were blent in one,
-  And joy-bells chimed beneath a summer sun.
-  Poor was their lot, their bread in labour found;
-  No parent blessed them, and no kindred owned;
-  They smiled to hear the wise their choice condemn;
-  They loved--they loved--and love was wealth to them!
-  Hark--one short week--again the holy bell!
-  Still shone the sun; but dirge like boomed the knell,--
-  The icy hand had severed breast from breast;
-  Left life to toil, and summoned Death to rest.
-  Full fifty years since then have passed away,
-  Her cheek is furrowed, and her hair is gray.
-  Yet, when she speaks of _him_ (the times are rare),
-  Hear in her voice how youth still trembles there.
-  The very name of that young life that died
-  Still heaves the bosom, and recalls the bride.
-  Lone o’er the widow’s hearth those years have fled,
-  The daily toil still wins the daily bread;
-  No books deck sorrow with fantastic dyes;
-  Her fond romance her woman heart supplies;
-  And, haply in the few still moments given,
-  (Day’s taskwork done), to memory, death, and heaven,
-  To that unuttered poem may belong
-  Thoughts of such pathos as had beggared song.
-
-
-
-  VIII.
-
-  HENCE IN HOPE, MEMORY, AND PRAYER, ALL OF US ARE POETS.
-
-  Yes, while thou hopest, music fills the air,
-    While thou rememberest, life reclothes the clod;
-  While thou canst feel the electric chain of prayer,
-    Breathe but a thought, and be a soul with God!
-  Let not these forms of matter bound thine eye.
-    He who the vanishing point of Human things
-  Lifts from the landscape, lost amidst the sky,
-    Has found the Ideal which the poet sings,
-  Has pierced the pall around the senses thrown,
-  And is himself a poet, though unknown.
-
-
-
-  IX.
-
-  APPLICATION OF THE POEM TO THE TALE TO WHICH IT IS PREFIXED.--THE
-  RHINE,--ITS IDEAL CHARACTER IN ITS HISTORICAL AND LEGENDARY ASSOCIATIONS.
-
-  Eno’!--my song is closing, and to thee,
-    Land of the North, I dedicate its lay;
-  As I have done the simple tale to be
-    The drama of this prelude!
-                                    Faraway
-  Rolls the swift Rhine beneath the starry ray;
-  But to my ear its haunted waters sigh;
-  Its moonlight mountains glimmer on my eye;
-  On wave, on marge, as on a wizard’s glass,
-  Imperial ghosts in dim procession pass;
-  Lords of the wild, the first great Father-men,
-  Their fane the hill-top, and their home the glen;
-  Frowning they fade; a bridge of steel appears
-  With frank-eyed Caesar smiling through the spears;
-  The march moves onwards, and the mirror brings
-  The Gothic crowns of Carlovingian kings
-  Vanished alike!  The Hermit rears his Cross,
-  And barbs neigh shrill, and plumes in tumult toss,
-  While (knighthood’s sole sweet conquest from the Moor)
-  Sings to Arabian lutes the Tourbadour.
-    Not yet, not yet; still glide some lingering shades,
-  Still breathe some murmurs as the starlight fades,
-  Still from her rock I hear the Siren call,
-  And see the tender ghost in Roland’s mouldering hall!
-
-
-
-  X.
-
-  APPLICATION OF THE POEM CONTINUED.--THE IDEAL LENDS ITS AID TO THE MOST
-  FAMILIAR AND THE MOST ACTUAL SORROW OF LIFE.--FICTION COMPARED TO
-  SLEEP,--IT STRENGTHENS WHILE IT SOOTHES.
-
-  Trite were the tale I tell of love and doom,
-  (Whose life hath loved not, whose not mourned a tomb?)
-  But fiction draws a poetry from grief,
-  As art its healing from the withered leaf.
-  Play thou, sweet Fancy, round the sombre truth,
-    Crown the sad Genius ere it lower the torch!
-  When death the altar and the victim youth,
-    Flutes fill the air, and garlands deck the porch.
-  As down the river drifts the Pilgrim sail,
-  Clothe the rude hill-tops, lull the Northern gale;
-  With childlike lore the fatal course beguile,
-  And brighten death with Love’s untiring smile.
-  Along the banks let fairy forms be seen
-  “By fountain clear, or spangled starlike sheen.” *
-  Let sound and shape to which the sense is dull
-  Haunt the soul opening on the Beautiful.
-  And when at length, the symbol voyage done,
-  Surviving Grief shrinks lonely from the sun,
-  By tender types show Grief what memories bloom
-  From lost delight, what fairies guard the tomb.
-  Scorn not the dream, O world-worn; pause a while,
-  New strength shall nerve thee as the dreams beguile,
-  Stung by the rest, less far shall seem the goal!
-  As sleep to life, so fiction to the soul.
-
-    * “Midsummer Night’s Dream.”
-
-
-
-
-
-THE PILGRIMS OF THE RHINE
-
-
-
-CHAPTER I. IN WHICH THE READER IS INTRODUCED TO QUEEN NYMPHALIN.
+The Immortality of the Soul.--A Common Incident not before Described.
+--Trevylyan and Gertrude
+
+In which the Reader will learn how the Fairies were received by the
+Sovereigns of the Mines.--The Complaint of the Last of the Fauns.--The
+Red Huntsman.--The Storm.--Death
+
+Thurmberg.--A Storm upon the Rhine.--The Ruins of Rheinfels.--Peril
+Unfelt by Love.--The Echo of the Lurlei-berg.--St. Goar.--Kaub,
+Gutenfels, and Pfalzgrafenstein.--A certain Vastness of Mind in the First
+Hermits.--The Scenery of the Rhine to Bacharach
+
+The Voyage to Bingen.--The Simple Incidents in this Tale Excused.--The
+Situation and Character of Gertrude.--The Conversation of the Lovers in
+the Tempest.--A Fact Contradicted.--Thoughts occasioned by a Madhouse
+amongst the most Beautiful Landscapes of the Rhine
+
+Ellfeld.--Mayence.--Heidelberg.--A Conversation between Vane and the
+German Student.--The Ruins of the Castle of Heidelberg and its Solitary
+Habitant
+
+No Part of the Earth really Solitary.--The Song of the Fairies.--The
+Sacred Spot.--The Witch of the Evil Winds.--The Spell and the Duty of the
+Fairies
+
+Gertrude and Trevylyan, when the former is awakened to the Approach of
+Death
+
+A Spot to be Buried in
+
+The Conclusion of this Tale
+
+
+
+
+
+
+
+
+
+
+AROUND “this visible diurnal sphere”
+There floats a World that girds us like the space;
+On wandering clouds and gliding beams career
+Its ever-moving murmurous Populace.
+There, all the lovelier thoughts conceived below
+Ascending live, and in celestial shapes.
+To that bright World, O Mortal, wouldst thou go?
+Bind but thy senses, and thy soul escapes:
+To care, to sin, to passion close thine eyes;
+Sleep in the flesh, and see the Dreamland rise!
+Hark to the gush of golden waterfalls,
+Or knightly tromps at Archimagian Walls!
+In the green hush of Dorian Valleys mark
+The River Maid her amber tresses knitting;
+When glow-worms twinkle under coverts dark,
+And silver clouds o’er summer stars are flitting,
+With jocund elves invade “the Moone’s sphere,
+Or, list! what time the roseate urns of dawn
+Scatter fresh dews, and the first skylark weaves
+Joy into song, the blithe Arcadian Faun
+Piping to wood-nymphs under Bromian leaves,
+While slowly gleaming through the purple glade
+Come Evian’s panther car, and the pale Naxian Maid.
+
+
+Such, O Ideal World, thy habitants!
+All the fair children of creative creeds,
+All the lost tribes of Fantasy are thine,--
+From antique Saturn in Dodonian haunts,
+Or Pan’s first music waked from shepherd reeds,
+To the last sprite when Heaven’s pale lamps decline,
+Heard wailing soft along the solemn Rhine.
+
+
+
+
+
+Thine are the Dreams that pass the Ivory Gates,
+With prophet shadows haunting poet eyes!
+Thine the belov’d illusions youth creates
+From the dim haze of its own happy skies.
+In vain we pine; we yearn on earth to win
+The being of the heart, our boyhood’s dream.
+The Psyche and the Eros ne’er have been,
+Save in Olympus, wedded!  As a stream
+Glasses a star, so life the ideal love;
+Restless the stream below, serene the orb above!
+Ever the soul the senses shall deceive;
+Here custom chill, there kinder fate bereave:
+For mortal lips unmeet eternal vows!
+And Eden’s flowers for Adam’s mournful brows!
+We seek to make the moment’s angel guest
+The household dweller at a human hearth;
+We chase the bird of Paradise, whose nest
+
+of the loveliest and most familiar of Oriental superstitions,
+the bird of Paradise is never seen to rest upon the earth, and
+its nest is never to be found.
+
+Yet loftier joys the vain pursuit may bring,
+Than sate the senses with the boons of time;
+The bird of Heaven hath still an upward wing,
+The steps it lures are still the steps that climb;
+And in the ascent although the soil be bare,
+More clear the daylight and more pure the air.
+Let Petrarch’s heart the human mistress lose,
+He mourns the Laura but to win the Muse.
+Could all the charms which Georgian maids combine
+Delight the soul of the dark Florentine,
+Like one chaste dream of childlike Beatrice
+Awaiting Hell’s dark pilgrim in the skies,
+Snatched from below to be the guide above,
+
+the form of his lost Beatrice, who guides him in his Vision
+of Heaven, he allegorizes Religious Faith.
+
+
+
+
+
+Oh, thou true Iris! sporting on thy bow
+Of tears and smiles! Jove’s herald, Poetry,
+Thou reflex image of all joy and woe,
+_Both_ fused in light by thy dear fantasy!
+Lo! from the clay how Genius lifts its life,
+And grows one pure Idea, one calm soul!
+True, its own clearness must reflect our strife;
+True, its completeness must comprise our whole;
+But as the sun transmutes the sullen hues
+Of marsh-grown vapours into vermeil dyes,
+And melts them later into twilight dews,
+Shedding on flowers the baptism of the skies;
+So glows the Ideal in the air we breathe,
+So from the fumes of sorrow and of sin,
+Doth its warm light in rosy colours wreathe
+Its playful cloudland, storing balms within.
+
+Survey the Poet in his mortal mould,
+Man, amongst men, descended from his throne!
+The moth that chased the star now frets the fold,
+Our cares, our faults, our follies are his own.
+Passions as idle, and desires as vain,
+Vex the wild heart, and dupe the erring brain.
+From Freedom’s field the recreant Horace flies
+To kiss the hand by which his country dies;
+From Mary’s grave the mighty Peasant turns,
+And hoarse with orgies rings the laugh of Burns.
+While Rousseau’s lips a lackey’s vices own,--
+Lips that could draw the thunder on a throne!
+But when from Life the Actual GENIUS springs,
+When, self-transformed by its own magic rod,
+It snaps the fetters and expands the wings,
+And drops the fleshly garb that veiled the god,
+How the mists vanish as the form ascends!
+How in its aureole every sunbeam blends!
+How dim the crowns on perishable brows!
+The snows of Atlas melt beneath the sheen,
+Through Thebaid caves the rushing splendour flows.
+Cimmerian glooms with Asian beams are bright,
+And Earth reposes in a belt of light.
+Now stern as Vengeance shines the awful form,
+Armed with the bolt and glowing through the storm;
+Sets the great deeps of human passion free,
+And whelms the bulwarks that would breast the sea.
+Roused by its voice the ghastly Wars arise,
+Mars reddens earth, the Valkyrs pale the skies;
+Dim Superstition from her hell escapes,
+With all her shadowy brood of monster shapes;
+There Conscience shudders at Alecto’s snakes;
+From Gothic graves at midnight yawning wide,
+In gory cerements gibbering spectres glide;
+And where o’er blasted heaths the lightnings flame,
+Black secret hags “do deeds without a name!”
+Yet through its direst agencies of awe,
+Light marks its presence and pervades its law,
+And, like Orion when the storms are loud,
+It links creation while it gilds a cloud.
+Fame’s grand desire, and zeal for Fatherland.
+The grim Religion of Barbarian Fear
+With some Hereafter still connects the Here,
+Lifts the gross sense to some spiritual source,
+And thrones some Jove above the Titan Force,
+Till, love completing what in awe began,
+From the rude savage dawns the thoughtful man.
+
+of the Principle of Life which, in the Grecian Apotheosis of the
+Indian Bacchus, is represented in so genial a character of
+exuberant joy and everlasting youth.
+
+Then, oh, behold the Glorious comforter!
+Still bright’ning worlds but gladd’ning now the hearth,
+Or like the lustre of our nearest star,
+Fused in the common atmosphere of earth.
+It sports like hope upon the captive’s chain;
+Descends in dreams upon the couch of pain;
+To wonder’s realm allures the earnest child;
+To the chaste love refines the instinct wild;
+And as in waters the reflected beam,
+Still where we turn, glides with us up the stream,
+And while in truth the whole expanse is bright,
+Yields to each eye its own fond path of light,--
+So over life the rays of Genius fall,
+Give each his track because illuming all.
+
+
+
+
+
+Hence is that secret pardon we bestow
+In the true instinct of the grateful heart,
+Upon the Sons of Song.  The good they do
+In the clear world of their Uranian art
+Endures forever; while the evil done
+In the poor drama of their mortal scene,
+Is but a passing cloud before the sun;
+Space hath no record where the mist hath been.
+Boots it to us if Shakspeare erred like man?
+Why idly question that most mystic life?
+Eno’ the giver in his gifts to scan;
+To bless the sheaves with which thy fields are rife,
+Nor, blundering, guess through what obstructive clay
+The glorious corn-seed struggled up to day.
+
+
+
+
+
+But not to you alone, O Sons Of Song,
+The wings that float the loftier airs along.
+Whoever lifts us from the dust we are,
+Beyond the sensual to spiritual goals;
+Who from the MOMENT and the SELF afar
+Gives the warm life to what the Limner draws,--
+Recall the Wars of England’s giant-born,
+Is Elyot’s voice, is Hampden’s death in vain?
+Have all the meteors of the vernal morn
+But wasted light upon a frozen main?
+Where is that child of Carnage, Freedom, flown?
+The Sybarite lolls upon the martyr’s throne.
+Lewd, ribald jests succeed to solemn zeal;
+And things of silk to Cromwell’s men of steel.
+Cold are the hosts the tromps of Ireton thrilled,
+And hushed the senates Vane’s large presence filled.
+In what strong heart doth the old manhood dwell?
+Where art thou, Freedom?  Look! in Sidney’s cell!
+There still as stately stands the living Truth,
+Smiling on age as it had smiled on youth.
+Her forts dismantled, and her shrines o’erthrown,
+The headsman’s block her last dread altar-stone,
+No sanction left to Reason’s vulgar hope,
+Far from the wrecks expands her prophet’s scope.
+Millennial morns the tombs of Kedron gild,
+The hands of saints the glorious walls rebuild,--
+Till each foundation garnished with its gem,
+High o’er Gehenna flames Jerusalem!
+O thou blood-stained Ideal of the free,
+Whose breath is heard in clarions,--Liberty!
+Sublimer for thy grand illusions past,
+Thou spring’st to Heaven,--Religion at the last.
+Alike below, or commonwealths or thrones,
+Where’er men gather some crushed victim groans;
+Only in death thy real form we see,
+All life is bondage,--souls alone are free.
+Thus through the waste the wandering Hebrews went,
+Fire on the march, but cloud upon the tent.
+At last on Pisgah see the prophet stand,
+Before his vision spreads the PROMISED LAND;
+But where revealed the Canaan to his eye?--
+Upon the mountain he ascends to die.
+
+
+
+
+
+
+Yet whatsoever be our bondage here,
+All have two portals to the phantom sphere.
+What hath not glided through those gates that ope
+Beyond the Hour, to MEMORY or to HOPE!
+Give Youth the Garden,--still it soars above,
+Seeks some far glory, some diviner love.
+Place Age amidst the Golgotha,--its eyes
+Still quit the graves, to rest upon the skies;
+And while the dust, unheeded, moulders there,
+Track some lost angel through cerulean air.
+
+Lo! where the Austrian binds, with formal chain,
+The crownless son of earth’s last Charlemagne,--
+Him, at whose birth laughed all the violet vales
+(While yet unfallen stood thy sovereign star,
+O Lucifer of nations).  Hark, the gales
+Swell with the shout from all the hosts, whose war
+Rended the Alps, and crimsoned Memphian Nile,--
+“Way for the coming of the Conqueror’s Son:
+Woe to the Merchant-Carthage of the Isle!
+Woe to the Scythian ice-world of the Don!
+O Thunder Lord, thy Lemnian bolts prepare,
+The Eagle’s eyry hath its eagle heir!”
+Hark, at that shout from north to south, gray Power
+Quails on its weak, hereditary thrones;
+And widowed mothers prophesy the hour
+Of future carnage to their cradled sons.
+What! shall our race to blood be thus consigned,
+And Ate claim an heirloom in mankind?
+Are these red lots unshaken in the urn?
+Years pass; approach, pale Questioner, and learn
+Chained to his rock, with brows that vainly frown,
+The fallen Titan sinks in darkness down!
+And sadly gazing through his gilded grate,
+Behold the child whose birth was as a fate!
+Far from the land in which his life began;
+Walled from the healthful air of hardy man;
+Reared by cold hearts, and watched by jealous eyes,
+His guardians jailers, and his comrades spies.
+Each trite convention courtly fears inspire
+To stint experience and to dwarf desire;
+Narrows the action to a puppet stage,
+And trains the eaglet to the starling’s cage.
+On the dejected brow and smileless cheek,
+What weary thought the languid lines bespeak;
+Till drop by drop, from jaded day to day,
+The sickly life-streams ooze themselves away.
+Yet oft in HOPE a boundless realm was thine,
+That vaguest Infinite,--the Dream of Fame;
+Son of the sword that first made kings divine,
+Heir to man’s grandest royalty,--a Name!
+Then didst thou burst upon the startled world,
+And keep the glorious promise of thy birth;
+Then were the wings that bear the bolt unfurled,
+A monarch’s voice cried, “Place upon the earth!”
+A new Philippi gained a second Rome,
+And the Son’s sword avenged the greater Caesar’s doom.
+
+
+
+
+
+But turn the eye to life’s sequestered vale
+And lowly roofs remote in hamlets green.
+Oft in my boyhood where the moss-grown pale
+Fenced quiet graves, a female form was seen;
+Each eve she sought the melancholy ground,
+And lingering paused, and wistful looked around.
+If yet some footstep rustled through the grass,
+Timorous she shrunk, and watched the shadow pass;
+Then, when the spot lay lone amidst the gloom,
+Crept to one grave too humble for a tomb,
+There silent bowed her face above the dead,
+For, if in prayer, the prayer was inly said;
+Still as the moonbeam, paused her quiet shade,
+Still as the moonbeam, through the yews to fade.
+Whose dust thus hallowed by so fond a care?
+What the grave saith not, let the heart declare.
+On yonder green two orphan children played;
+In yonder shrine two lives were blent in one,
+And joy-bells chimed beneath a summer sun.
+Poor was their lot, their bread in labour found;
+No parent blessed them, and no kindred owned;
+They smiled to hear the wise their choice condemn;
+They loved--they loved--and love was wealth to them!
+Hark--one short week--again the holy bell!
+Still shone the sun; but dirge like boomed the knell,--
+The icy hand had severed breast from breast;
+Left life to toil, and summoned Death to rest.
+Full fifty years since then have passed away,
+Her cheek is furrowed, and her hair is gray.
+Yet, when she speaks of _him_ (the times are rare),
+Hear in her voice how youth still trembles there.
+The very name of that young life that died
+Still heaves the bosom, and recalls the bride.
+Lone o’er the widow’s hearth those years have fled,
+The daily toil still wins the daily bread;
+No books deck sorrow with fantastic dyes;
+Her fond romance her woman heart supplies;
+And, haply in the few still moments given,
+(Day’s taskwork done), to memory, death, and heaven,
+To that unuttered poem may belong
+Thoughts of such pathos as had beggared song.
+
+
+
+
+
+Yes, while thou hopest, music fills the air,
+While thou rememberest, life reclothes the clod;
+While thou canst feel the electric chain of prayer,
+Breathe but a thought, and be a soul with God!
+Let not these forms of matter bound thine eye.
+He who the vanishing point of Human things
+Lifts from the landscape, lost amidst the sky,
+Has found the Ideal which the poet sings,
+Has pierced the pall around the senses thrown,
+And is himself a poet, though unknown.
+
+
+
+
+
+Eno’!--my song is closing, and to thee,
+Land of the North, I dedicate its lay;
+As I have done the simple tale to be
+The drama of this prelude!
+Faraway
+Rolls the swift Rhine beneath the starry ray;
+But to my ear its haunted waters sigh;
+Its moonlight mountains glimmer on my eye;
+On wave, on marge, as on a wizard’s glass,
+Imperial ghosts in dim procession pass;
+Lords of the wild, the first great Father-men,
+Their fane the hill-top, and their home the glen;
+Frowning they fade; a bridge of steel appears
+With frank-eyed Caesar smiling through the spears;
+The march moves onwards, and the mirror brings
+The Gothic crowns of Carlovingian kings
+Vanished alike!  The Hermit rears his Cross,
+And barbs neigh shrill, and plumes in tumult toss,
+While (knighthood’s sole sweet conquest from the Moor)
+Sings to Arabian lutes the Tourbadour.
+Not yet, not yet; still glide some lingering shades,
+Still breathe some murmurs as the starlight fades,
+Still from her rock I hear the Siren call,
+And see the tender ghost in Roland’s mouldering hall!
+
+
+
+
+
+Trite were the tale I tell of love and doom,
+(Whose life hath loved not, whose not mourned a tomb?)
+But fiction draws a poetry from grief,
+As art its healing from the withered leaf.
+Play thou, sweet Fancy, round the sombre truth,
+Crown the sad Genius ere it lower the torch!
+When death the altar and the victim youth,
+Flutes fill the air, and garlands deck the porch.
+As down the river drifts the Pilgrim sail,
+Clothe the rude hill-tops, lull the Northern gale;
+With childlike lore the fatal course beguile,
+And brighten death with Love’s untiring smile.
+Along the banks let fairy forms be seen
+Let sound and shape to which the sense is dull
+Haunt the soul opening on the Beautiful.
+And when at length, the symbol voyage done,
+Surviving Grief shrinks lonely from the sun,
+From lost delight, what fairies guard the tomb.
+Scorn not the dream, O world-worn; pause a while,
+New strength shall nerve thee as the dreams beguile,
+Stung by the rest, less far shall seem the goal!
+As sleep to life, so fiction to the soul.
+
+
+
+
+
+
+
+
+
 
 IN one of those green woods which belong so peculiarly to our island
 (for the Continent has its forests, but England its woods) there lived,
@@ -819,7 +676,7 @@ and the queen herself and half-a-dozen of her favourites were yawning
 their pleasure from a little mound covered with the thickest moss.
 
 “It has been very dull, madam, ever since Prince Fayzenheim left us,”
- said the fairy Nip.
+said the fairy Nip.
 
 The queen sighed.
 
@@ -925,7 +782,6 @@ Maydew.
 
 
 
-CHAPTER II. THE LOVERS.
 
 I WISH only for such readers as give themselves heart and soul up to
 me,--if they begin to cavil I have done with them; their fancy should
@@ -976,7 +832,7 @@ get into the Rhine, you will see me grow so strong as to shock all your
 interest for me.”
 
 “Ah, would to Heaven my interest for you may be put to such an ordeal!”
- said Trevylyan; and they turned slowly to the inn, where Gertrude’s
+said Trevylyan; and they turned slowly to the inn, where Gertrude’s
 father already awaited them.
 
 Trevylyan was of a wild, a resolute, and an active nature. Thrown on
@@ -1100,7 +956,6 @@ and Spirits have ministered to your dreams.
 
 
 
-CHAPTER III. FEELINGS.
 
 GERTRUDE and her companions proceeded by slow and, to her, delightful
 stages to Rotterdam. Trevylyan sat by her side, and her hand was ever
@@ -1153,52 +1008,51 @@ truth were the only inspiration:--
 
 
 
-     I. As leaves left darkling in the flush of day,
-       When glints the glad sun checkering o’er the tree,
-     I see the green earth brightening in the ray,
-       Which only casts a shadow upon me!
+I. As leaves left darkling in the flush of day,
+When glints the glad sun checkering o’er the tree,
+I see the green earth brightening in the ray,
+Which only casts a shadow upon me!
 
 
-     II. What are the beams, the flowers, the glory, all
-       Life’s glow and gloss, the music and the bloom,
-     When every sun but speeds the Eternal Pall,
-       And Time is Death that dallies with the Tomb?
+II. What are the beams, the flowers, the glory, all
+Life’s glow and gloss, the music and the bloom,
+When every sun but speeds the Eternal Pall,
+And Time is Death that dallies with the Tomb?
 
 
-     III. And yet--oh yet, so young, so pure!--the while
-       Fresh laugh the rose-hues round youth’s morning sky,
-     That voice, those eyes, the deep love of that smile,
-       Are they not soul--_all_ soul--and _can_ they die?
+III. And yet--oh yet, so young, so pure!--the while
+Fresh laugh the rose-hues round youth’s morning sky,
+That voice, those eyes, the deep love of that smile,
+Are they not soul--_all_ soul--and _can_ they die?
 
 
-     IV. Are there the words “NO MORE” for thoughts like ours?
-       Must the bark sink upon so soft a wave?
-     Hath the short summer of thy life no flowers
-       But those which bloom above thine early grave?
+IV. Are there the words “NO MORE” for thoughts like ours?
+Must the bark sink upon so soft a wave?
+Hath the short summer of thy life no flowers
+But those which bloom above thine early grave?
 
 
-     V. O God! and what is life, that I should live?
-       (Hath not the world enow of common clay?)
-     And she--the Rose--whose life a soul could give
-       To the void desert, sigh its sweets away?
+V. O God! and what is life, that I should live?
+(Hath not the world enow of common clay?)
+And she--the Rose--whose life a soul could give
+To the void desert, sigh its sweets away?
 
 
-     VI. And I that love thee thus, to whom the air,
-       Blest by thy breath, makes heaven where’er it be,
-     Watch thy cheek wane, and smile away despair,
-       Lest it should dim one hour yet left to Thee.
+VI. And I that love thee thus, to whom the air,
+Blest by thy breath, makes heaven where’er it be,
+Watch thy cheek wane, and smile away despair,
+Lest it should dim one hour yet left to Thee.
 
 
-     VII. Still let me conquer self; oh, still conceal
-       By the smooth brow the snake that coils below;
-     Break, break my heart! it comforts yet to feel
-       That _she_ dreams on, unwakened by my woe!
+VII. Still let me conquer self; oh, still conceal
+Break, break my heart! it comforts yet to feel
+That _she_ dreams on, unwakened by my woe!
 
 
-     VIII. Hushed, where the Star’s soft angel loves to keep
-       Watch o’er their tide, the morning waters roll;
-     So glides my spirit,--darkness in the deep,
-       But o’er the wave the presence of thy soul!
+VIII. Hushed, where the Star’s soft angel loves to keep
+Watch o’er their tide, the morning waters roll;
+So glides my spirit,--darkness in the deep,
+But o’er the wave the presence of thy soul!
 
 
 
@@ -1236,7 +1090,6 @@ Trevylyan, he began the following tale.
 
 
 
-CHAPTER IV. THE MAID OF MALINES.
 
 IT was noonday in the town of Malines, or Mechlin, as the English
 usually term it; the Sabbath bell had summoned the inhabitants to
@@ -1255,7 +1108,6 @@ wearied of confinement, had slipped from the string, and was at play
 with his kind in a distant quarter of the town, leaving the blind man to
 seek his way as he might to his solitary inn.
 
-By and by a light step passed through the street, and the young
 stranger’s face brightened.
 
 “Pardon me,” said he, turning to the spot where his quick ear had
@@ -1273,8 +1125,8 @@ direction will avail me little; my dog has deserted me, and I am blind!”
 
 There was something in these words, and in the stranger’s voice, which
 went irresistibly to the heart of the young woman. “Pray forgive me,”
- she said, almost with tears in her eyes, “I did not perceive your--”
- misfortune, she was about to say, but she checked herself with an
+she said, almost with tears in her eyes, “I did not perceive your--”
+misfortune, she was about to say, but she checked herself with an
 instinctive delicacy. “Lean upon me, I will conduct you to the door;
 nay, sir,” observing that he hesitated, “I have time enough to spare, I
 assure you.”
@@ -1421,7 +1273,7 @@ He had said rightly that his only test of beauty was in the melody of
 voice; and never had a softer or more thrilling tone than that of the
 young maiden touched upon his ear. Her exclamation, so beautifully
 denying self, so devoted in its charity, “Thank God, _you_ are saved!”
- uttered too in the moment of her own suffering, rang constantly upon his
+uttered too in the moment of her own suffering, rang constantly upon his
 soul, and he yielded, without precisely defining their nature, to vague
 and delicious sentiments, that his youth had never awakened to till
 then. And Lucille--the very accident that had happened to her on his
@@ -1602,14 +1454,14 @@ declared himself a witness of its truth.
 A woman at Anvers had given birth to a son, the offspring of an illicit
 connection, who came into the world deaf and dumb. The unfortunate
 mother believed the calamity a punishment for her own sin. “Ah, would,”
- said she, “that the affliction had fallen only upon me! Wretch that I
+said she, “that the affliction had fallen only upon me! Wretch that I
 am, my innocent child is punished for my offence!” This, idea haunted
 her night and day; she pined and could not be comforted. As the child
 grew up, and wound himself more and more round her heart, his caresses
 added new pangs to her remorse; and at length (continued the narrator)
 hearing perpetually of the holy fame of the Tomb of Cologne, she
 resolved upon a pilgrimage barefoot to the shrine. “God is merciful,”
- said she; “and He who called Magdalene his sister may take the mother’s
+said she; “and He who called Magdalene his sister may take the mother’s
 curse from the child.” She then went to Cologne; she poured her tears,
 her penitence, and her prayers at the sacred tomb. When she returned to
 her native town, what was her dismay as she approached her cottage to
@@ -1775,7 +1627,6 @@ With a patient and hopeful spirit, the young pilgrim turned her back on
 the Roman Cologne; and now about to rejoin St. Amand, she felt neither
 the heat of the sun nor the weariness of the road. It was one day at
 noon that she again passed through Louvain, and she soon found herself
-by the noble edifice of the Hotel de Ville. Proud rose its spires
 against the sky, and the sun shone bright on its rich tracery and
 Gothic casements; the broad open street was crowded with persons of all
 classes, and it was with some modest alarm that Lucille lowered her veil
@@ -1837,7 +1688,7 @@ suddenly of importance; that there should be one person in the world,
 and that person young, rich, handsome, to whom she was less than
 nothing, when weighed in the balance with Lucille, mortified to the
 quick a vanity that had never till then received a wound. “It is well,”
- she would say with a bitter jest, “that Lucille’s lover is blind. To be
+she would say with a bitter jest, “that Lucille’s lover is blind. To be
 the one it is necessary to be the other!”
 
 During Lucille’s absence she had been constantly in Madame le Tisseur’s
@@ -2006,7 +1857,7 @@ the impulse of her wounded feelings; that chilled by _his_ coldness, she
 had left him so often to himself, and had not sufficiently dared to
 tell him of that affection which, in her modest self-depreciation,
 constituted her only pretension to his love. “Perhaps he is alone now,”
- she thought; “the air too is one which he knows that I love;” and with
+she thought; “the air too is one which he knows that I love;” and with
 her heart in her step, she stole from the house and sought the arbour.
 She had scarce turned from her chamber when the flute ceased; as she
 neared the arbour she heard voices,--Julie’s voice in grief, St. Amand’s
@@ -2044,7 +1895,7 @@ addressed him:--
 mind that I think it better to speak at once; and if I do not exactly
 express what I would wish to say, you must not be offended with Lucille:
 it is not an easy matter to put into words what one feels deeply.”
- Colouring, and suspecting something of the truth, St. Amand would have
+Colouring, and suspecting something of the truth, St. Amand would have
 broken in upon her here; but she with a gentle impatience motioned him
 to be silent, and continued:--
 
@@ -2164,7 +2015,6 @@ more bandit than soldier, whom the subtle Dumouriez had united to his
 army, and by whose blood he so often saved that of his nobler band. Her
 shrieks, her cries, were vain, when suddenly the troopers gave way. “The
 Captain! brave Captain!” was shouted forth; the insolent soldier, felled
-by a powerful arm, sank senseless at the feet of Lucille, and a glorious
 form, towering above its fellows,--even through its glittering garb,
 even in that dreadful hour, remembered at a glance by Lucille,--stood
 at her side; her protector, her guardian! Thus once more she beheld St.
@@ -2320,11 +2170,6 @@ why hast thou deserted me?”
 
 
 
-CHAPTER V. ROTTERDAM.--THE CHARACTER OF THE DUTCH.--THEIR RESEMBLANCE TO
-THE GERMANS.--A DISPUTE BETWEEN VANE AND TREVYLYAN, AFTER THE MANNER OF
-THE ANCIENT NOVELISTS, AS TO WHICH IS PREFERABLE, THE LIFE OF ACTION OR
-THE LIFE OF REPOSE.--TREVYLYAN’S CONTRAST BETWEEN LITERARY AMBITION AND
-THE AMBITION OF PUBLIC LIFE.
 
 OUR travellers arrived at Rotterdam on a bright and sunny day. There is
 a cheerfulness about the operations of Commerce,--a life, a bustle,
@@ -2379,7 +2224,6 @@ great river.
 “I never felt before,” whispered Gertrude, tenderly, “how much there
 was of consolation in your presence; for here I am at last on the
 Rhine,--the blue Rhine, and how disappointed I should be if you were not
-by my side!”
 
 “But, my Gertrude, you must wait till we have passed Cologne, before the
 _glories_ of the Rhine burst upon you.”
@@ -2452,7 +2296,6 @@ also lowers him; his noble nature begins to nourish the base vices of
 jealousy, and the unwillingness to admire. Goldsmith is forgotten in the
 presence of a puppet; he feels it, and is mean; he expresses it, and
 is ludicrous. It is well to say that great minds will not stoop to
-jealousy; in the greatest minds, it is most frequent.* Few authors are
 ever so aware of the admiration they excite as to afford to be generous;
 and this melancholy truth revolts us with our own ambition. Shall we be
 demigods in our closets at the price of sinking below mortality in the
@@ -2463,11 +2306,10 @@ and if, by the restless desire that haunts men who think much to write
 ever, I should be urged hereafter to literature, I will sternly teach
 myself to persevere in the indifference to its fame.”
 
-  * See the long list of names furnished by Disraeli, in that most
-    exquisite work, “The Literary Character,” vol. ii. p. 75.  Plato,
-    Xenophon, Chaucer, Corneille, Voltaire, Dryden, the Caracci,
-    Domenico Venetiano, murdered by his envious friend, and the gentle
-    Castillo fainting away at the genius of Murillo.
+exquisite work, “The Literary Character,” vol. ii. p. 75.  Plato,
+Xenophon, Chaucer, Corneille, Voltaire, Dryden, the Caracci,
+Domenico Venetiano, murdered by his envious friend, and the gentle
+Castillo fainting away at the genius of Murillo.
 
 “You say as I would say,” answered Vane, with his tranquil smile; “and
 your experience corroborates my theory. Ambition, then, is not the root
@@ -2598,7 +2440,6 @@ eye,--and lo, he was by her side or at her feet!
 
 
 
-CHAPTER VI. GORCUM.--THE TOUR OF THE VIRTUES: A PHILOSOPHER’S TALE.
 
 IT was a bright and cheery morning as they glided by Gorcum. The boats
 pulling to the shore full of fishermen and peasants in their national
@@ -2648,9 +2489,7 @@ follows:--
 
 
 
-                      THE TOUR OF THE VIRTUES:
 
-                       A PHILOSOPHER’S TALE.
 
 ONCE upon a time, several of the Virtues, weary of living forever with
 the Bishop of Norwich, resolved to make a little excursion; accordingly,
@@ -2817,7 +2656,6 @@ waiting for her husband, who had not yet finished his toilet, a poor,
 wretched-looking object appeared at the window, tearing her hair and
 wringing her hands; her husband had that morning been dragged to prison,
 and her seven children had fought for the last mouldy crust. Prompted
-by me, Fanny, without inquiring further into the matter, drew from her
 silken purse a five-pound note, and gave it to the beggar, who departed
 more amazed than grateful. Soon after, the lieutenant appeared. ‘What
 the devil, another bill!’ muttered he, as he tore the yellow wafer from
@@ -3001,9 +2839,6 @@ moral. Here let us leave them.
 
 
 
-CHAPTER VII. COLOGNE.--THE TRACES OF THE ROMAN YOKE.--THE CHURCH OF ST.
-MARIA.--TREVYLYAN’S REFLECTIONS ON THE MONASTIC LIFE.--THE TOMB OF THE
-THREE KINGS.--AN EVENING EXCURSION ON THE RHINE.
 
 ROME--magnificent Rome! wherever the pilgrim wends, the traces of thy
 dominion greet his eyes. Still in the heart of the bold German race is
@@ -3117,7 +2952,7 @@ scarcely be heaven if memory were banished from its blessings.”
 
 “I recollect,” said Trevylyan, after a slight pause, “a short German
 legend, the simplicity of which touched me much when I heard it; but,”
- added he, with a slight smile, “so much more faithful appears in the
+added he, with a slight smile, “so much more faithful appears in the
 legend the love of the woman than that of the man, that _I_ at least
 ought scarcely to recite it.”
 
@@ -3126,7 +2961,6 @@ heightens our gratitude to the faithful.”
 
 
 
-CHAPTER VIII. THE SOUL IN PURGATORY; OR LOVE STRONGER THAN DEATH.
 
 THE angels strung their harps in heaven, and their music went up like
 a stream of odours to the pavilions of the Most High; but the harp
@@ -3199,7 +3033,7 @@ that the demons can inflict.”
 “And how knowest thou that he laments thee?” asked the angel.
 
 “Because I know with what agony I should have mourned for _him_,”
- replied the spirit, simply.
+replied the spirit, simply.
 
 The divine nature of the angel was touched; for love is the nature of
 the sons of heaven. “And how,” said he, “can I minister to thy sorrow?”
@@ -3274,12 +3108,10 @@ as the spirit of the wronged Ida returned to Purgatory.
 
 “Alas!” answered Ida, “after the single hour I have endured on Earth,
 there seems to be but little terrible in a thousand fresh years of
-Purgatory!”*
 
-  * This story is principally borrowed from a foreign soil.  It
-    seemed to the author worthy of being transferred to an English
-    one, although he fears that much of its singular beauty in the
-    original has been lost by the way.
+seemed to the author worthy of being transferred to an English
+one, although he fears that much of its singular beauty in the
+original has been lost by the way.
 
 
 
@@ -3300,8 +3132,6 @@ Gertrude.
 
 
 
-CHAPTER IX. THE SCENERY OF THE RHINE ANALOGOUS TO THE GERMAN LITERARY
-GENIUS.--THE DRACHENFELS.
 
 ON leaving Cologne, the stream winds round among banks that do not yet
 fulfil the promise of the Rhine; but they increase in interest as you
@@ -3349,9 +3179,7 @@ slowly away from the German mind; a spirit for the more active and the
 more material literature is springing up amongst them. The revolution
 of mind gathers on, preceding stormy events; and the memories that
 led their grandsires to contemplate will urge the youth of the next
-generation to dare and to act.” *
 
-  * Is not this prediction already fulfilled?--1849.
 
 Thus conversing, they continued their voyage, with a fair wave and
 beneath a lucid sky.
@@ -3369,9 +3197,6 @@ level of the herd condemned its owner!
 
 
 
-CHAPTER X. THE LEGEND OF ROLAND.--THE ADVENTURES OF NYMPHALIN ON THE
-ISLAND OF NONNEWERTH.--HER SONG.--THE DECAY OF THE FAIRY-FAITH IN
-ENGLAND.
 
 ON the shore opposite the Drachenfels stand the Ruins of
 Rolandseck,--they are the shattered crown of a lofty and perpendicular
@@ -3404,7 +3229,6 @@ trees from the house that contained our travellers. On one smooth spot
 where the islet shelves into the Rhine met the wandering fairies.
 
 “Oh, Pipalee! how beautiful!” cried Nymphalin, as she stood enraptured
-by the wave, a star-beam shining on her, with her yellow hair “dancing
 its ringlets in the whistling wind.” “For the first time since our
 departure I do not miss the green fields of England.”
 
@@ -3479,38 +3303,30 @@ Nymphalin circling round him, sang the following words:--
 
 
 
-THE FAIRY’S REPROACH.
 
 
-     I. By the glow-worm’s lamp in the dewy brake;
-       By the gossamer’s airy net;
-     By the shifting skin of the faithless snake,
-       Oh, teach me to forget:
-             For none, ah none
-     Can teach so well that human spell
-             As thou, false one!
+I. By the glow-worm’s lamp in the dewy brake;
+Oh, teach me to forget:
+For none, ah none
+Can teach so well that human spell
+As thou, false one!
 
 
-     II. By the fairy dance on the greensward smooth;
-       By the winds of the gentle west;
-     By the loving stars, when their soft looks soothe
-       The waves on their mother’s breast,
-             Teach me thy lore!
-         By which, like withered flowers,
-         The leaves of buried Hours
-           Blossom no more!
+II. By the fairy dance on the greensward smooth;
+The waves on their mother’s breast,
+Teach me thy lore!
+The leaves of buried Hours
+Blossom no more!
 
 
-     III. By the tent in the violet’s bell;
-       By the may on the scented bough;
-     By the lone green isle where my sisters dwell;
-       And thine own forgotten vow,
-             Teach me to live,
-           Nor feed on thoughts that pine
-           For love so false as thine!
-           Teach me thy lore,
-           And one thou lov’st no more
-             Will bless thee and forgive!
+III. By the tent in the violet’s bell;
+And thine own forgotten vow,
+Teach me to live,
+Nor feed on thoughts that pine
+For love so false as thine!
+Teach me thy lore,
+And one thou lov’st no more
+Will bless thee and forgive!
 
 
 
@@ -3585,8 +3401,6 @@ creations of the younger world!
 
 
 
-CHAPTER XI. WHEREIN THE READER IS MADE SPECTATOR WITH THE ENGLISH
-FAIRIES OF THE SCENES AND BEINGS THAT ARE BENEATH THE EARTH.
 
 DURING the heat of next day’s noon, Fayzenheim took the English visitors
 through the cool caverns that wind amidst the mountains of the Rhine.
@@ -3632,7 +3446,7 @@ The next place they came to was a vast Runic cavern, covered with dark
 inscriptions of a forgotten tongue; and sitting on a huge stone they
 found a dwarf with long yellow hair, his head leaning on his breast, and
 absorbed in meditation. “This is a spirit of a wise and powerful race,”
- whispered Fayzenheim, “that has often battled with the fairies; but he
+whispered Fayzenheim, “that has often battled with the fairies; but he
 is of the kindly tribe.”
 
 Then the dwarf lifted his head with a mournful air; and gazed upon the
@@ -3713,18 +3527,16 @@ Griffin, and the Fox.”
 
 
 
-CHAPTER XII. THE WOOING OF MASTER FOX.*
 
-  * In the excursions of the fairies, it is the object of the author
-    to bring before the reader a rapid phantasmagoria of the various
-    beings that belong to the German superstitions, so that the work
-    may thus describe the outer and the inner world of the land of
-    the Rhine.  The tale of the Fox’s Wooing has been composed to
-    give the English reader an idea of a species of novel not
-    naturalized amongst us, though frequent among the legends of our
-    Irish neighbours; in which the brutes are the only characters
-    drawn,--drawn too with shades of distinction as nice and subtle
-    as if they were the creatures of the civilized world.
+to bring before the reader a rapid phantasmagoria of the various
+beings that belong to the German superstitions, so that the work
+may thus describe the outer and the inner world of the land of
+the Rhine.  The tale of the Fox’s Wooing has been composed to
+give the English reader an idea of a species of novel not
+naturalized amongst us, though frequent among the legends of our
+Irish neighbours; in which the brutes are the only characters
+drawn,--drawn too with shades of distinction as nice and subtle
+as if they were the creatures of the civilized world.
 
 You are aware, my dear Nymphalin, that in the time of which I am about
 to speak there was no particular enmity between the various species of
@@ -3961,7 +3773,6 @@ you will make me, therefore stay with me and keep watch over my treasure
 when I sleep.”
 
 “Two words to that,” said the dog. “You have hurt my feelings very much
-by suspecting my honesty, and I would much sooner go back into the wood
 and be avenged on that scoundrel the fox, than serve a master who has so
 ill an opinion of me. I pray you, therefore, to dismiss me, and to put
 me in the right way to my cousin the cat.”
@@ -4517,7 +4328,7 @@ The good-natured dog was much moved at seeing his mortal enemy in such a
 state, and endeavoured as well as he could to console him.
 
 “Oh, oh!” said the fox; “I am so parched in the throat, I am burning;”
- and he hung his tongue out of his mouth, and rolled his eyes more
+and he hung his tongue out of his mouth, and rolled his eyes more
 fearfully than ever.
 
 “Is there no water here?” said the dog, looking round.
@@ -4670,11 +4481,10 @@ very happily ever afterwards? Indeed the nuptial felicity of a dog and
 cat is proverbial!”
 
 “I dare say they lived much the same as any other married couple,”
- answered the prince.
+answered the prince.
 
 
 
-CHAPTER XIII. THE TOMB OF A FATHER OF MANY CHILDREN.
 
 THE feast being now ended, as well as the story, the fairies wound their
 way homeward by a different path, till at length a red steady light
@@ -4712,14 +4522,12 @@ the heart with a leaden and death-like weight. Even the English fairy
 spoke not; she held her breath, and gazing on the tomb, she saw, in rude
 vast characters,--
 
-     THE TEUTON.
 
 “_We_ are all that remain of his religion!” said the prince, as they
 turned from the dread temple.
 
 
 
-CHAPTER XIV. THE FAIRY’S CAVE, AND THE FAIRY’S WISH.
 
 IT was evening; and the fairies were dancing beneath the twilight star.
 
@@ -4762,8 +4570,6 @@ The wish of the fairy was fulfilled.
 
 
 
-CHAPTER XV. THE BANKS OF THE RHINE.--FROM THE DRACHENFELS TO BROHL.--AN
-INCIDENT THAT SUFFICES IN THIS TALE FOR AN EPOCH.
 
 FROM the Drachenfels commences the true glory of the Rhine; and once
 more Gertrude’s eyes conquered the languor that crept gradually over
@@ -4905,7 +4711,6 @@ knowledge which might only, by impressing her imagination, expedite her
 doom, while it would embitter to her mind the unconscious enjoyment of
 the hour, nerved and manned him. He checked by those violent efforts
 which only men can make, the evidence of his emotions; and endeavoured,
-by a rapid torrent of words, to divert her attention from a weakness,
 the causes of which he could not explain. Fortunately Vane soon
 returned, and Trevylyan, consigning Gertrude to his care, hastily left
 the room.
@@ -4924,7 +4729,6 @@ not think so despondently of yourself.”
 
 
 
-CHAPTER XVI. GERTRUDE.--THE EXCURSION TO HAMMERSTEIN.--THOUGHTS.
 
 THE next day they visited the environs of Brohl. Gertrude was unusually
 silent; for her temper, naturally sunny and enthusiastic, was accustomed
@@ -4961,7 +4765,7 @@ the twin spires of Andernach, tranquil in the distance.
 we do not live enough in the night; one half the beauty of the world is
 slept away. What in the day can equal the holy calm, the loveliness,
 and the stillness which the moon now casts over the earth? These,”
- she continued, pressing Trevylyan’s hand, “are hours to remember; and
+she continued, pressing Trevylyan’s hand, “are hours to remember; and
 _you_--will you ever forget them?”
 
 Something there is in recollections of such times and scenes that seem
@@ -4990,10 +4794,8 @@ not for himself, but for the being that is no more.
 
 
 
-CHAPTER XVII. LETTER FROM TREVYLYAN TO -----.
 
 
-                         COBLENTZ.
 
 I AM obliged to you, my dear friend, for your letter; which, indeed, I
 have not, in the course of our rapid journey, had the leisure, perhaps
@@ -5066,7 +4868,6 @@ upon me! I wish you could have seen Gertrude before we left England; you
 might then have understood my love for her. Not that we have not, in
 the gay capitals of Europe, paid our brief vows to forms more richly
 beautiful; not that we have not been charmed by a more brilliant genius,
-by a more tutored grace. But there is that in Gertrude which I never
 saw before,--the union of the childish and the intellectual, an ethereal
 simplicity, a temper that is never dimmed, a tenderness--O God! let me
 not speak of her virtues, for they only tell me how little she is suited
@@ -5076,16 +4877,11 @@ You will direct to me at Mayence, whither our course now leads us, and
 your friendship will find indulgence for a letter that is so little a
 reply to yours.
 
-     Your sincere friend,
-
-          A. G. TREVYLYAN.
+Your sincere friend,
 
 
 
-CHAPTER XVIII. COBLENTZ.--EXCURSION TO THE MOUNTAINS OF TAUNUS; ROMAN
-TOWER IN THE VALLEY OF EHRENBREITSTEIN.--TRAVEL, ITS PLEASURES ESTIMATED
-DIFFERENTLY BY THE YOUNG AND THE OLD.--THE STUDENT OF HEIDELBERG; HIS
-CRITICISMS ON GERMAN LITERATURE.
+
 
 GERTRUDE had, indeed, apparently rallied during their stay at Coblentz;
 and a French physician established in the town (who adopted a peculiar
@@ -5191,7 +4987,7 @@ invention; to vindicate the All-merciful from the dread creeds of
 bloodshed and of fear: and, watching in the great Heaven of Truth the
 dawning of the True Star, follow it--like the Magi of the East--till
 it rested above the real God. Not indeed presuming to such a task,”
- continued the German, with a slight blush, “I have about me a humble
+continued the German, with a slight blush, “I have about me a humble
 essay, which treats only of one part of that august subject; which,
 leaving to a loftier genius the history of the true religion, may
 be considered as the history of a false one,--of such a creed as
@@ -5218,15 +5014,12 @@ But you, madam--doubtless you do not understand German?”
 of the tongue to understand you; so pray begin.”
 
 Without further preface, the German then commenced the story, which the
-reader will find translated* in the next chapter.
 
-  * Nevertheless I beg to state seriously, that the German student
-    is an impostor; and that he has no right to wrest the parentage
-    of the fiction from the true author.
+is an impostor; and that he has no right to wrest the parentage
+of the fiction from the true author.
 
 
 
-CHAPTER XIX. THE FALLEN STAR; OR THE HISTORY OF A FALSE RELIGION.
 
 AND the STARS sat, each on his ruby throne, and watched with sleepless
 eyes upon the world. It was the night ushering in the new year, a night
@@ -5377,7 +5170,6 @@ lore, have conceived to be among the earliest.
 
 .......
 
-By a rude and vast pile of stones, the masonry of arts forgotten, a
 lonely man sat at midnight, gazing upon the heavens. A storm had just
 passed from the earth; the clouds had rolled away, and the high stars
 looked down upon the rapid waters of the Rhine; and no sound save the
@@ -5423,7 +5215,6 @@ of his daring hope. While thus absorbed he heard a great noise in the
 forest, and, fearful lest the hostile tribe of the Alrich might pierce
 that way, he ascended one of the loftiest pine-trees, to whose perpetual
 verdure the winter had not denied the shelter he sought; and, concealed
-by its branches, he looked anxiously forth in the direction whence the
 noise had proceeded. And IT came,--it came with a tramp and a crash, and
 a crushing tread upon the crunched boughs and matted leaves that strewed
 the soil; it came, it came,--the monster that the world now holds
@@ -5441,11 +5232,9 @@ its jaws opened, and a low deep sound, as of gathering thunder, seemed
 to the son of Osslah as the knell of a dreadful grave. But after glaring
 on him for some moments, it again, and calmly, pursued its terrible
 way, crashing the boughs as it marched along, till the last sound of its
-heavy tread died away upon his ear.*
 
-  * _The Critic_ will perceive that this sketch of the beast, whose
-    race has perished, is mainly intended to designate the remote
-    period of the world in which the tale is cast.
+race has perished, is mainly intended to designate the remote
+period of the world in which the tale is cast.
 
 Ere yet, however, Morven summoned the courage to descend the tree,
 he saw the shining of arms through the bare branches of the wood, and
@@ -5475,7 +5264,6 @@ forest.
 When they were gone, Morven cautiously descended, and, striking into a
 broad path, hastened to a vale that lay between the forest and the river
 in which was the city where the chief of his country dwelt. As he passed
-by the warlike men, giants in that day, who thronged the streets (if
 streets they might be called), their half garments parting from their
 huge limbs, the quiver at their backs, and the hunting spear in their
 hand, they laughed and shouted out, and, pointing to him, cried, “Morven
@@ -5650,7 +5438,6 @@ yet gained the full strength of its wings. From his youth the solitary
 Morven had loved to watch, in the great forests and by the banks of the
 mighty stream, the habits of the things which nature has submitted to
 man; and looking now on the birds, he said to himself, “Thus is it ever;
-by cunning or by strength each thing wishes to master its kind.” While
 thus moralizing, the larger bird had stricken down the hawk, and it fell
 terrified and panting at his feet. Morven took the hawk in his hands,
 and the vulture shrieked above him, wheeling nearer and nearer to its
@@ -6022,7 +5809,6 @@ Then the friends of Voltoch murmured among themselves, and they said,
 “Shall this man dictate to us who shall be king?” But the people and
 the warriors shouted, “Listen to the star; do we not give or deny battle
 according as the bird flies,--shall we not by the same token choose him
-by whom the battle should be led?” And the thing seemed natural to them,
 for it was after the custom of the tribe. Then they took one of the
 doves that built in the roof of the palace, and they brought it to the
 spot where Morven stood, and he, looking up to the stars and muttering
@@ -6087,7 +5873,7 @@ And Morven answered, “Doubtless the stars will ordain the work to be
 done. Fear not.”
 
 “In truth thou art a wondrous man; thy words ever come to pass,”
- answered Darvan; “and I wish thou wouldest teach me, friend, the
+answered Darvan; “and I wish thou wouldest teach me, friend, the
 language of the stars.”
 
 “Assuredly if thou servest me, thou shalt know,” answered the proud
@@ -6142,7 +5928,7 @@ shalt be avenged; for I have learned from one of the elders that which
 convinceth me that the man hath lied to the people, and the base-born
 shall surely die. Yea, the first time that he goeth alone into the
 forest my brother and I will fall upon him and smite him to the death.”
- And with this comfort Siror dismissed Orna.
+And with this comfort Siror dismissed Orna.
 
 And Orna flung herself at the feet of her husband. “Fly now, O my
 beloved!--fly into the forests afar from my brethren, or surely the
@@ -6477,7 +6263,6 @@ And, lo! as the archangel spake, the stars beheld a young and
 all-lustrous stranger on the throne of the erring star; and his face
 was so soft to look upon that the dimmest of human eyes might have gazed
 upon its splendour unabashed: but the dark fiend alone was dazzled
-by its lustre, and, with a yell that shook the flaming pillars of the
 universe, he plunged backward into the gloom.
 
 Then, far and sweet from the arch unseen, came forth the voice of God,--
@@ -6491,9 +6276,6 @@ keeps vigil in heaven!
 
 
 
-CHAPTER XX. GLENHAUSEN.--THE POWER OF LOVE IN SANCTIFIED PLACES.--A
-PORTRAIT OF FREDERICK BARBAROSSA.--THE AMBITION OF MEN FINDS NO ADEQUATE
-SYMPATHY IN WOMEN.
 
 “YOU made me tremble for you more than once,” said Gertrude to the
 student; “I feared you were about to touch upon ground really sacred,
@@ -6573,8 +6355,6 @@ alone!
 
 
 
-CHAPTER XXI. VIEW OF EHRENBREITSTEIN.--A NEW ALARM IN GERTRUDE’S
-HEALTH.--TRARBACH.
 
 ANOTHER time our travellers proceeded from Coblentz to Treves, following
 the course of the Moselle. They stopped on the opposite bank below the
@@ -6644,8 +6424,6 @@ alarming increase.
 
 
 
-CHAPTER XXII. THE DOUBLE LIFE.--TREVYLYAN’S FATE.--SORROW THE PARENT OF
-FAME.--NIEDERLAHNSTEIN.--DREAMS.
 
 THERE are two lives to each of us, gliding on at the same time, scarcely
 connected with each other,--the life of our actions, the life of our
@@ -6752,14 +6530,12 @@ he meant, which he did somewhat in the following words.”
 
 
 
-CHAPTER XXIII. THE LIFE OF DREAMS.
 
 “I WAS born,” said he, “with many of the sentiments of the poet, but
 without the language to express them; my feelings were constantly
 chilled by the intercourse of the actual world. My family, mere Germans,
 dull and unimpassioned, had nothing in common with me; nor did I out of
 my family find those with whom I could better sympathize. I was revolted
-by friendships,--for they were susceptible to every change; I was
 disappointed in love,--for the truth never approached to my ideal.
 Nursed early in the lap of Romance, enamoured of the wild and the
 adventurous, the commonplaces of life were to me inexpressibly tame and
@@ -6927,7 +6703,6 @@ the Dreamer art thou to me!”
 
 
 
-CHAPTER XXIV. THE BROTHERS.
 
 THE banks of the Rhine now shelved away into sweeping plains, and on
 their right rose the once imperial city of Boppart. In no journey
@@ -6953,7 +6728,7 @@ cottages of the peasant, with a single spire rising above the quiet
 village.
 
 “Is there not, Albert, a celebrated legend attached to those castles?”
- said Gertrude. “I think I remember to have heard their names in
+said Gertrude. “I think I remember to have heard their names in
 connection with your profession of taleteller.”
 
 “Yes,” said Trevylyan, “the story relates to the last lords of those
@@ -6964,12 +6739,9 @@ her tone of childlike command. “Come.”
 
 
 
-                           THE BROTHERS.
 
-                              A TALE.*
 
-  * This tale is, in reality, founded on the beautiful tradition
-    which belongs to Liebenstein and Sternfels.
+which belongs to Liebenstein and Sternfels.
 
 You must imagine then, dear Gertrude (said Trevylyan), a beautiful
 summer day, and by the same faculty that none possess so richly as
@@ -7103,7 +6875,7 @@ moment’s pain? Out on the thought! away!”
 “Then wilt not thou seek our father?” said Otho, abashed.
 
 “Our father!--has our father the keeping of Leoline’s affection?”
- answered Warbeck; and shaking off his brother’s grasp, he sought the way
+answered Warbeck; and shaking off his brother’s grasp, he sought the way
 to the castle.
 
 As he entered the hall, he heard the voice of Leoline; she was singing
@@ -7215,7 +6987,6 @@ he braced on his helm and armour, and thrice kissing the hilt of his
 sword, said, with a flushed cheek,--
 
 “Henceforth be _thou_ my bride!” Then passing from the castle, he sped
-by the most solitary paths down the rock, gained the Rhine, and hailing
 one of the numerous fishermen of the river, won the opposite shore; and
 alone, but not sad, for his high heart supported him, and Leoline at
 least was happy, he hastened to Frankfort.
@@ -7293,7 +7064,6 @@ heroes who might win kingdoms for themselves.
 “To me,” said the Templar, “such hopes are eternally denied. But you,
 were you not already betrothed, what fortunes might await you!”
 
-By such discourses the ambition of Otho was perpetually aroused; they
 served to deepen his discontent at his present obscurity, and to convert
 to distaste the only solace it afforded in the innocence and affection
 of Leoline.
@@ -7501,7 +7271,6 @@ bore home his bride to the hall of Sternfels.
 That night there was a great banquet in Otho’s castle; the lights shone
 from every casement, and music swelled loud and ceaselessly within.
 
-By the side of Otho, glittering with the prodigal jewels of the East,
 sat the Greek. Her dark locks, her flashing eye, the false colours of
 her complexion, dazzled the eyes of her guests. On her left hand sat the
 Templar.
@@ -7874,7 +7643,6 @@ could he tear himself from a spot where morning and night he could see
 afar, amidst the valley, the roof that sheltered Leoline, and on which
 every copse, every turf, reminded him of former days? His solitary life,
 his midnight vigils, strange scrolls about his chamber, obtained him
-by degrees the repute of cultivating the darker arts; and shunning, he
 became shunned by all. But still it was sweet to hear from time to time
 of the increasing sanctity of her in whom he had treasured up his
 last thoughts of earth. She it was who healed the sick; she it was who
@@ -7911,8 +7679,6 @@ depths--until it is too late!”
 
 
 
-CHAPTER XXV. THE IMMORTALITY OF THE SOUL.--A COMMON INCIDENT NOT BEFORE
-DESCRIBED.--TREVYLYAN AND GERTRUDE.
 
 THE day now grew cool as it waned to its decline, and the breeze came
 sharp upon the delicate frame of the sufferer. They resolved to proceed
@@ -7947,8 +7713,8 @@ fond heart requires a Hereafter. The tranquil rest, the shadow, and the
 silence, the mere pause of the wheel of life, have no terror for the
 wise, who know the due value of the world.
 
-     “After the billows of a stormy sea,
-      Sweet is at last the haven of repose!”
+“After the billows of a stormy sea,
+Sweet is at last the haven of repose!”
 
 But not so when that stillness is to divide us eternally from others;
 when those we have loved with all the passion, the devotion, the
@@ -8020,9 +7786,6 @@ lovers were not to be divided--even by death itself.
 
 
 
-CHAPTER XXVI. IN WHICH THE READER WILL LEARN HOW THE FAIRIES WERE
-RECEIVED BY THE SOVEREIGNS OF THE MINES.--THE COMPLAINT OF THE LAST OF
-THE FAUNS.--THE RED HUNTSMAN.--THE STORM.--DEATH.
 
 IN the deep valley of Ehrenthal, the metal kings--the Prince of the
 Silver Palaces, the Gnome Monarch of the dull Lead Mine, the President
@@ -8048,7 +7811,6 @@ honoured by the beings of your dreams, as demigods and kings! Your
 graves are tended by invisible hands, and the places of your birth are
 hallowed by no perishable worship!
 
-Even as I write,* far away amidst the hills of Scotland, and by the
 forest thou hast clothed with immortal verdure, thou, the maker of “the
 Harp by lone Glenfillan’s spring,” art passing from the earth which thou
 hast “painted with delight.” And such are the chances of mortal fame,
@@ -8062,9 +7824,8 @@ of thine own,--ceasing from their revelries, to weep for the silence of
 that mighty lyre, which breathed alike a revelation of the mysteries of
 spirits and of men!
 
-  * It was just at the time the author was finishing this work
-    that the great master of his art was drawing to the close
-    of his career.
+that the great master of his art was drawing to the close
+of his career.
 
 The King of the Silver Mines sat in a cavern in the valley, through
 which the moonlight pierced its way and slept in shadow on the soil
@@ -8130,41 +7891,40 @@ the following song:--
 
 
 
-THE COMPLAINT OF THE LAST FAUN.
 
 
 I. The moon on the Latmos mountain  Her pining vigil keeps;
 And ever the silver fountain  In the Dorian valley weeps.
 But gone are Endymion’s dreams;  And the crystal lymph
-  Bewails the nymph
+Bewails the nymph
 Whose beauty sleeked the streams!
 
 
 II. Round Arcady’s oak its green  The Bromian ivy weaves;
 But no more is the satyr seen  Laughing out from the glossy leaves.
 Hushed is the Lycian lute,  Still grows the seed
-  Of the Moenale reed,
+Of the Moenale reed,
 But the pipe of Pan is mute!
 
 
 III. The leaves in the noon-day quiver;  The vines on the mountains wave;
 And Tiber rolls his river  As fresh by the Sylvan’s cave.
 But my brothers are dead and gone;  And far away
-  From their graves I stray,
+From their graves I stray,
 And dream of the past alone!
 
 
 IV. And the sun of the north is chill;  And keen is the northern gale;
 Alas for the Song of the Argive hill;  And the dance in the Cretan vale!
 The youth of the earth is o’er,  And its breast is rife
-  With the teeming life
+With the teeming life
 Of the golden Tribes no more!
 
 
 V. My race are more blest than I,  Asleep in their distant bed;
 ‘T were better, be sure, to die  Than to mourn for the buried Dead:
 To rove by the stranger streams,  At dusk and dawn
-  A lonely faun,
+A lonely faun,
 The last of the Grecian’s dreams.
 
 
@@ -8247,7 +8007,6 @@ oak wreathing above his head as a canopy, and his bow and spear lying
 idle at his feet. Fain would I tell of the reception which he deigned to
 the fairies, and how he told them of his ancient victories over man; how
 he chafed at the gathering invasions of his realm; and how joyously he
-gloated of some great convulsion* in the northern States, which, rapt
 into moody reveries in those solitary woods, the fierce demon broodingly
 foresaw. All these fain would I narrate, but they are not of the Rhine,
 and my story will not brook the delay. While thus conversing with the
@@ -8258,7 +8017,6 @@ stretched his mighty limbs, and seizing his spear, he strode rapidly
 into the forest to meet the things of his own tribe that the tempest
 wakes from their rugged lair.
 
-  * Which has come to pass.--1847.
 
 A sudden recollection broke upon Nymphalin. “Alas, alas!” she cried,
 wringing her hands; “what have I done! In journeying hither with thee,
@@ -8267,7 +8025,7 @@ and my human charge is at this hour, perhaps, exposed to all the fury of
 the storm.”
 
 “Cheer thee, my Nymphalin,” said the prince, “we will lay the tempest;”
- and he waved his sword and muttered the charms which curb the winds and
+and he waved his sword and muttered the charms which curb the winds and
 roll back the marching thunder: but for once the tempest ceased not at
 his spells. And now, as the fairies sped along the troubled air, a
 pale and beautiful form met them by the way, and the fairies paused and
@@ -8315,10 +8073,6 @@ the shoals.
 
 
 
-CHAPTER XXVII. THURMBERG.--A STORM UPON THE RHINE.--THE RUINS OF
-RHEINFELS.--PERIL UNFELT BY LOVE.--THE ECHO OF THE LURLEI-BERG.--ST.
-GOAR.--KAUB, GUTENFELS, AND PFALZGRAFENSTEIN.--A CERTAIN VASTNESS OF
-MIND IN THE FIRST HERMITS.--THE SCENERY OF THE RHINE TO BACHARACH.
 
 OUR party continued their voyage the next day, which was less bright
 than any they had yet experienced. The clouds swept on dull and heavy,
@@ -8367,7 +8121,6 @@ victorious freedom it may no longer resist!
 Clasped in Trevylyan’s guardian arms, and her head pillowed on his
 breast, Gertrude felt nothing of the storm save its grandeur; and
 Trevylyan’s voice whispered cheer and courage to her ear. She answered
-by a smile and a sigh, but not of pain. In the convulsions of nature we
 forget our own separate existence, our schemes, our projects, our fears;
 our dreams vanish back into their cells. One passion only the storm
 quells not, and the presence of Love mingles with the voice of the
@@ -8445,10 +8198,6 @@ of the peculiar liquor, “richly deserves the honour!”
 
 
 
-CHAPTER XXVIII. THE VOYAGE TO BINGEN.--THE SIMPLE INCIDENTS IN THIS TALE
-EXCUSED.--THE SITUATION AND CHARACTER OF GERTRUDE.--THE CONVERSATION OF
-THE LOVERS IN THE TEMPEST.--A FACT CONTRADICTED.--THOUGHTS OCCASIONED BY
-A MADHOUSE AMONGST THE MOST BEAUTIFUL LANDSCAPES OF THE RHINE.
 
 THE next day they again resumed their voyage, and Gertrude’s spirits
 were more cheerful than usual. The air seemed to her lighter, and she
@@ -8607,7 +8356,7 @@ Ellfeld, Gertrude said,--
 “There is a thought in your favourite poet which you have often
 repeated, and which I cannot think true,--
 
-  “‘In nature there is nothing melancholy.’
+“‘In nature there is nothing melancholy.’
 
 “To me, it seems as if a certain melancholy were inseparable from
 beauty; in the sunniest noon there is a sense of solitude and stillness
@@ -8665,9 +8414,6 @@ chambers of the heart with the glory that makes a sanctity of decay.
 
 
 
-CHAPTER XXIX. ELLFELD.--MAYENCE.--HEIDELBERG.--A CONVERSATION BETWEEN
-VANE AND THE GERMAN STUDENT.--THE RUINS OF THE CASTLE OF HEIDELBERG AND
-ITS SOLITARY HABITANT.
 
 IT was now the full noon; light clouds were bearing up towards the
 opposite banks of the Rhine, but over the Gothic towers of Ellfeld the
@@ -8777,12 +8523,11 @@ beggar.
 “In most cases I was threatened with the stocks, and twice I was
 consigned by the _juge de paix_ to the village police, to be passed
 to some mystic Mecca they were pleased to entitle ‘a parish.’ Ah”
- (continued the German with much _bonhomie_), “it was a pity to see in a
+(continued the German with much _bonhomie_), “it was a pity to see in a
 great nation so much value attached to such a trifle as money. But what
 surprised me greatly was the tone of your poetry. Madame de Stael, who
 knew perhaps as much of England as she did of Germany, tells us that its
 chief character is the _chivalresque_; and, excepting only Scott, who,
-by the way, is _not_ English, I did not find one chivalrous poet among
 you. Yet,” continued the student, “between ourselves, I fancy that in
 our present age of civilization, there is an unexamined mistake in the
 general mind as to the value of poetry. It delights still as ever, but
@@ -8849,7 +8594,6 @@ empire in all its epochs.
 
 “There is one singular habitant of these ruins,” said the student,--“a
 solitary painter, who has dwelt here some twenty years, companioned only
-by his Art. No other apartment but that which he tenants is occupied by
 a human being.”
 
 “What a poetical existence!” cried Gertrude, enchanted with a solitude
@@ -8883,9 +8627,6 @@ mighty tomb.
 
 
 
-CHAPTER XXX. NO PART OF THE EARTH REALLY SOLITARY.--THE SONG OF THE
-FAIRIES.--THE SACRED SPOT.--THE WITCH OF THE EVIL WINDS.--THE SPELL AND
-THE DUTY OF THE FAIRIES.
 
 BUT in what spot of the world is there ever utter solitude? The vanity
 of man supposes that loneliness is _his_ absence! Who shall say what
@@ -8901,31 +8642,30 @@ old, and the gloomy hollows in the mountain of Heidelberg.
 
 
 
-SONG OF THE FAIRIES IN THE RUINS OF HEIDELBERG.
 
-     From the woods and the glossy green,
-       With the wild thyme strewn;
-     From the rivers whose crisped sheen
-       Is kissed by the trembling moon;
-     While the dwarf looks out from his mountain cave,
-       And the erl king from his lair,
-     And the water-nymph from her moaning wave,
-       We skirr the limber air.
+From the woods and the glossy green,
+With the wild thyme strewn;
+From the rivers whose crisped sheen
+Is kissed by the trembling moon;
+While the dwarf looks out from his mountain cave,
+And the erl king from his lair,
+And the water-nymph from her moaning wave,
+We skirr the limber air.
 
-     There’s a smile on the vine-clad shore,
-       A smile on the castled heights;
-     They dream back the days of yore,
-       And they smile at our roundel rites!
-                    Our roundel rites!
+There’s a smile on the vine-clad shore,
+A smile on the castled heights;
+They dream back the days of yore,
+And they smile at our roundel rites!
+Our roundel rites!
 
-     Lightly we tread these halls around,
-       Lightly tread we;
-     Yet, hark! we have scared with a single sound
-       The moping owl on the breathless tree,
-                    And the goblin sprites!
-     Ha, ha! we have scared with a single sound
-       The old gray owl on the breathless tree,
-                    And the goblin sprites!
+Lightly we tread these halls around,
+Lightly tread we;
+Yet, hark! we have scared with a single sound
+The moping owl on the breathless tree,
+And the goblin sprites!
+Ha, ha! we have scared with a single sound
+The old gray owl on the breathless tree,
+And the goblin sprites!
 
 
 
@@ -9001,8 +8741,6 @@ the melancholy leaves along her path!
 
 
 
-CHAPTER XXXI. GERTRUDE AND TREVYLYAN, WHEN THE FORMER IS AWAKENED TO THE
-APPROACH OF DEATH.
 
 THE next day, Gertrude and her companions went along the banks of the
 haunted Neckar. She had passed a sleepless and painful night, and her
@@ -9019,7 +8757,6 @@ burst passionately into tears.
 Alarmed and anxious, he clasped her to his breast, and strove to lift
 her face, as it drooped on its resting-place, and kiss away its tears.
 “Oh,” said she, at length, “do not despise my weakness; I am overcome
-by my own thoughts: I look upon the world, and see that it is fair and
 good; I look upon you, and I see all that I can venerate and adore. Life
 seems to me so sweet, and the earth so lovely; can you wonder, then,
 that I should shrink at the thought of death? Nay, interrupt me not,
@@ -9087,7 +8824,6 @@ together.
 
 
 
-CHAPTER XXXII. A SPOT TO BE BURIED IN.
 
 ON their return homeward, Du-----e took the third seat in the carriage,
 and endeavoured, with his usual vivacity, to cheer the spirits of his
@@ -9152,7 +8888,6 @@ to be consigned to rest.”
 
 
 
-CHAPTER THE LAST. THE CONCLUSION OF THIS TALE.
 
 FROM that day Gertrude’s spirit resumed its wonted cheerfulness, and for
 the ensuing week she never reverted to her approaching fate; she seemed
@@ -9372,7 +9107,6 @@ and who, in her gentle and spotless virtue claimed kindred with the
 beautiful Ideal of the world. Is there one of us who has not known some
 being for whom it seemed not too wild a fantasy to indulge such dreams?
 
-THE END.
 
 
 

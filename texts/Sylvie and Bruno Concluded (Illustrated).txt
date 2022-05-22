@@ -1,50 +1,20 @@
-Online Distributed Proofreading Team at http://www.pgdp.net
-(This file was produced from images generously made
-available by The Internet Archive/American Libraries.)
+
+
+Dreams, that elude the Waker’s frenzied grasp—
+Hands, stark and still, on a dead Mother’s breast,
+Which nevermore shall render clasp for clasp,
+Or deftly soothe a weeping Child to rest—
+In suchlike forms me listeth to portray
+My Tale, here ended. Thou delicious Fay—
+The guardian of a Sprite that lives to tease thee—
+Loving in earnest, chiding but in play
+The merry mocking Bruno! Who, that sees thee,
+Can fail to love thee, Darling, even as I?—
+My sweetest Sylvie, we must say ‘Good-bye!’
 
 
 
 
-
-
-
-
-
-                            SYLVIE AND BRUNO
-                               CONCLUDED
-
-
-                                   BY
-                             LEWIS CARROLL
-
-                     _WITH FORTY-SIX ILLUSTRATIONS
-                                   BY
-                             HARRY FURNISS_
-
-
-                               _New York_
-                           MACMILLAN AND CO.
-                               AND LONDON
-                                  1894
-        _The Right of Translation and Reproduction is Reserved_
-
-
-  Dreams, that elude the Waker’s frenzied grasp—
-  Hands, stark and still, on a dead Mother’s breast,
-  Which nevermore shall render clasp for clasp,
-  Or deftly soothe a weeping Child to rest—
-  In suchlike forms me listeth to portray
-  My Tale, here ended. Thou delicious Fay—
-  The guardian of a Sprite that lives to tease thee—
-  Loving in earnest, chiding but in play
-  The merry mocking Bruno! Who, that sees thee,
-  Can fail to love thee, Darling, even as I?—
-  My sweetest Sylvie, we must say ‘Good-bye!’
-
-
-
-
-                                PREFACE.
 
 
 I must begin with the same announcement as in the previous Volume (which
@@ -105,9 +75,7 @@ In the Preface to Vol. I. were two puzzles, on which my readers might
 exercise their ingenuity. One was, to detect the 3 lines of “padding,”
 which I had found it necessary to supply in the passage extending from
 the top of p. 35 to the middle of p. 38. They are the 14th, 15th, and
-16th lines of p. 37. The other puzzle was, to determine which (if any)
 of the 8 stanzas of the Gardener’s Song (see pp. 65, 78, 83, 90, 106,
-116, 164, 168) were adapted to the context, and which (if any) had the
 context adapted to them. The last of them is the only one that was
 adapted to the context, the “Garden-Door that opened with a key” having
 been substituted for some creature (a Cormorant, I think) “that nestled
@@ -189,39 +157,35 @@ of the presence of the immaterial essences of Human beings.
 I will here tabulate the passages, in both Volumes, where abnormal
 states occur.
 
-  Historian’s Locality and State.                  Other characters.
-   Vol. I.
-  pp. 1-16 In train                         _c_    Chancellor (_b_) p. 2.
-     33-55 do.                              _c_
-     65-79 do.                              _c_
-     83-99 At lodgings                      _c_
-   105-117 On beach                         _c_
-   119-183 At lodgings                      _c_    S. and B. (_b_) pp. 158-163.
-                                                   Professor (_b_) p. 169.
-   190-221 In wood                    _b_          Bruno (_b_) pp. 198-220.
-   225-233 do. sleep-walking                _c_    S. and B. (_b_).
-   247-253 Among ruins                      _c_    do. (_b_).
-  262, 263 do. dreaming         _a_
-   263-269 do. sleep-walking                _c_    S. B. and Professor in Human
-                                                   form.
-       270 In street                  _b_
-   279-294 At station, &c.            _b_          S. and B. (_b_).
-   304-323 In garden                        _c_    S. B. and Professor (_b_).
-   329-344 On road, &c.         _a_                S. and B. in Human form.
-   345-356 In street, &c.       _a_
-   361-382 In wood                    _b_          S. and B. (_b_).
-  Vol. II.
-  pp. 4-18 In garden                  _b_          S. and B (_b_).
-     47-52 On road                    _b_          do. (_b_).
-     53-78 do.                        _b_          do. in Human form.
-     79-92 do                         _b_          do. (_b_).
-   152-211 In drawing-room      _a_                do. in Human form.
-   212-246 do.                              _c_    do. (_b_).
-   262-270 In smoking-room                  _c_    do. (_b_).
-   304-309 In wood                    _b_          do. (_a_); Lady Muriel (_b_).
-   311-345 At lodgings                      _c_
-   351-399 do.                              _c_
-  407-end. do.                        _b_
+Historian’s Locality and State.                  Other characters.
+Vol. I.
+pp. 1-16 In train                         _c_    Chancellor (_b_) p. 2.
+33-55 do.                              _c_
+65-79 do.                              _c_
+83-99 At lodgings                      _c_
+Professor (_b_) p. 169.
+225-233 do. sleep-walking                _c_    S. and B. (_b_).
+247-253 Among ruins                      _c_    do. (_b_).
+262, 263 do. dreaming         _a_
+263-269 do. sleep-walking                _c_    S. B. and Professor in Human
+form.
+270 In street                  _b_
+279-294 At station, &c.            _b_          S. and B. (_b_).
+304-323 In garden                        _c_    S. B. and Professor (_b_).
+329-344 On road, &c.         _a_                S. and B. in Human form.
+345-356 In street, &c.       _a_
+361-382 In wood                    _b_          S. and B. (_b_).
+Vol. II.
+pp. 4-18 In garden                  _b_          S. and B (_b_).
+47-52 On road                    _b_          do. (_b_).
+53-78 do.                        _b_          do. in Human form.
+79-92 do                         _b_          do. (_b_).
+212-246 do.                              _c_    do. (_b_).
+262-270 In smoking-room                  _c_    do. (_b_).
+304-309 In wood                    _b_          do. (_a_); Lady Muriel (_b_).
+311-345 At lodgings                      _c_
+351-399 do.                              _c_
+407-end. do.                        _b_
 
 In the Preface to Vol. I., at p. x., I gave an account of the
 _origination_ of some of the ideas embodied in the book. A few more such
@@ -250,7 +214,6 @@ And his remark (“I just twiddled my eyes, &c.”) I heard from the lips of
 a little girl, who had just solved a puzzle I had set her.
 
 II. p. 57. Bruno’s soliloquy (“For its father, &c.”) was actually spoken
-by a little girl, looking out of the window of a railway-carriage.
 
 II. p. 138. The remark, made by a guest at the dinner-party, when asking
 for a dish of fruit (“I’ve been wishing for them, &c.”) I heard made by
@@ -266,7 +229,6 @@ II. p. 203. The speech about ‘Obstruction’ is no mere creature of my
 imagination! It is copied _verbatim_ from the columns of the Standard,
 and was spoken by Sir William Harcourt, who was, at the time, a member
 of the ‘Opposition,’ at the ‘National Liberal Club,’ on July the 16th,
-1890.
 
 II. p. 329. The Professor’s remark, about a dog’s tail, that “it doesn’t
 bite at _that_ end,” was actually made by a child, when warned of the
@@ -297,17 +259,16 @@ perhaps like to exercise their ingenuity in discovering which (if any)
 of the following parallelisms were intentional, and which (if any)
 accidental.
 
-  “Little Birds.”  Events, and Persons.
-  Stanza       1.  Banquet.
-               2.  Chancellor.
-               3.  Empress and Spinach (II. 325).
-               4.  Warden’s Return.
-               5.  Professor’s Lecture (II. 339).
-               6.  Other Professor’s song (I. 138).
-               7.  Petting of Uggug.
-               8.  Baron Doppelgeist.
-               9.  Jester and Bear (I. 119). Little Foxes.
-              10.  Bruno’s Dinner-Bell; Little Foxes.
+“Little Birds.”  Events, and Persons.
+Stanza       1.  Banquet.
+2.  Chancellor.
+3.  Empress and Spinach (II. 325).
+4.  Warden’s Return.
+5.  Professor’s Lecture (II. 339).
+6.  Other Professor’s song (I. 138).
+7.  Petting of Uggug.
+8.  Baron Doppelgeist.
+9.  Jester and Bear (I. 119). Little Foxes.
 
 I will publish the answer to this puzzle in the Preface to a little book
 of “Original Games and Puzzles,” now in course of preparation.
@@ -463,164 +424,35 @@ found ready to sympathise with the views I have put forwards, and ready
 to help, with their prayers and their example, the revival, in Society,
 of the waning spirit of reverence.
 
-                                                      _Christmas_, 1893.
+_Christmas_, 1893.
 
 
 
 
-                               CONTENTS.
 
 
-  CHAPTER                                                            PAGE
-  I. BRUNO’S LESSONS                                                    1
-  II. LOVE’S CURFEW                                                    20
-  III. STREAKS OF DAWN                                                 36
-  IV. THE DOG-KING                                                     52
-  V. MATILDA JANE                                                      67
-  VI. WILLIE’S WIFE                                                    82
-  VII. FORTUNATUS’ PURSE                                               96
-  VIII. IN A SHADY PLACE                                              110
-  IX. THE FAREWELL-PARTY                                              128
-  X. JABBERING AND JAM                                                147
-  XI. THE MAN IN THE MOON                                             162
-  XII. FAIRY-MUSIC                                                    175
-  XIII. WHAT TOTTLES MEANT                                            194
-  XIV. BRUNO’S PICNIC                                                 212
-  XV. THE LITTLE FOXES                                                233
-  XVI. BEYOND THESE VOICES                                            247
-  XVII. TO THE RESCUE!                                                262
-  XVIII. A NEWSPAPER-CUTTING                                          282
-  XIX. A FAIRY-DUET                                                   287
-  XX. GAMMON AND SPINACH                                              310
-  XXI. THE PROFESSOR’S LECTURE                                        329
-  XXII. THE BANQUET                                                   346
-  XXIII. THE PIG-TALE                                                 363
-  XXIV. THE BEGGAR’S RETURN                                           381
-  XXV. LIFE OUT OF DEATH                                              400
-  General Index                                                       413
-  List of Works                                                       426
+General Index                                                       413
+List of Works                                                       426
 
 
 
 
-                        ILLUSTRATIONS TO VOL. I.
-
-
-                                                                     PAGE
-  THE MARCH-UP                                                          3
-  VISITING THE PROFESSOR                                               11
-  BOOTS FOR HORIZONTAL WEATHER                                         15
-  A PORTABLE PLUNGE-BATH                                               24
-  REMOVAL OF UGGUG                                                     41
-  ‘WHAT A GAME!’                                                       48
-  ‘DRINK THIS!’                                                        53
-  ‘COME, YOU BE OFF!’                                                  62
-  THE GARDENER                                                         66
-  A BEGGAR’S PALACE                                                    72
-  THE CRIMSON LOCKET                                                   77
-  ‘HE THOUGHT HE SAW A BUFFALO’                                        79
-  ‘IT WAS A HIPPOPOTAMUS’                                              91
-  THE MAP OF FAIRYLAND                                                 96
-  ‘HE THOUGHT HE SAW A KANGAROO’                                      106
-  THE MOUSE-LION                                                      108
-  ‘HAMMER IT IN!’                                                     115
-  A BEAR WITHOUT A HEAD                                               117
-  ‘COME UP, BRUIN!’                                                   123
-  THE OTHER PROFESSOR                                                 135
-  ‘HOW CHEERFULLY THE BOND HE SIGNED!’                                144
-  ‘POOR PETER SHUDDERED IN DESPAIR’                                   147
-  ‘SUCH BOOTS AS THESE YOU SELDOM SEE’                                150
-  ‘I WILL LEND YOU FIFTY MORE!’                                       154
-  ‘HE THOUGHT HE SAW AN ALBATROSS’                                    165
-  THE MASTIFF-SENTINEL                                                172
-  THE DOG-KING                                                        176
-  FAIRY-SYLVIE                                                        193
-  BRUNO’S REVENGE                                                     213
-  FAIRIES RESTING                                                     226
-  A CHANGED CROCODILE                                                 229
-  A LECTURE ON ART                                                    240
-  ‘THREE BADGERS ON A MOSSY STONE’                                    247
-  ‘THE FATHER-BADGER, WRITHING IN A CAVE’                             249
-  ‘THOSE AGED ONES WAXED GAY’                                         252
-  ‘HOW PERFECTLY ISOCHRONOUS!’                                        268
-  THE LAME CHILD                                                      280
-  ‘IT WENT IN TWO HALVES’                                             285
-  FIVE O’CLOCK TEA                                                    296
-  ‘WHAT’S THE MATTER, DARLING?’                                       307
-  THE DEAD HARE                                                       321
-  CROSSING THE LINE                                                   341
-  ‘THE PUG-DOG SAT UP’                                                351
-  THE QUEEN’S BABY                                                    363
-  THE FROGS’ BIRTHDAY-TREAT                                           373
-  ‘HE WRENCHED OUT THAT CROCODILE’S TOOF!’                            380
-  ‘LOOK EASTWARD!’                                                    395
 
 
 
 
-                       ILLUSTRATIONS TO VOL. II.
-
-
-                                                                     PAGE
-  SYLVIE’S TRUANT-PUPIL                                                 8
-  KING FISHER’S WOOING                                                 15
-  ‘SPEND IT ALL FOR MINNIE’                                            22
-  ‘ARE NOT THOSE ORCHISES?’                                            50
-  A ROYAL THIEF-TAKER                                                  62
-  ‘SUMMAT WRONG WI’ MY SPECTACLES!’                                    64
-  BESSIE’S SONG                                                        75
-  THE RESCUE OF WILLIE                                                 83
-  WILLIE’S WIFE                                                        88
-  FORTUNATUS’ PURSE                                                   103
-  ‘I AM SITTING AT YOUR FEET’                                         119
-  MEIN HERR’S FAIRY-FRIENDS                                           163
-  ‘HOW CALL YOU THE OPERA?’                                           178
-  SCHOLAR-HUNTING: THE PURSUED                                        188
-  SCHOLAR-HUNTING: THE PURSUERS                                       189
-  THE EGG-MERCHANT                                                    197
-  STARTING FOR BRUNO’S PICNIC                                         230
-  ‘ENTER THE LION’                                                    236
-  ‘WHIHUAUCH! WHIHUAUCH!’                                             242
-  ‘NEVER!’ YELLED TOTTLES                                             248
-  BRUNO’S BED-TIME                                                    265
-  ‘LONG CEREMONIOUS CALLS’                                            266
-  THE VOICES                                                          267
-  ‘HIS SOUL SHALL BE SAD FOR THE SPIDER’                              268
-  LORDS OF THE CREATION                                               271
-  ‘WILL YOU NOT SPARE ME?’                                            277
-  IN THE CHURCH-YARD                                                  291
-  A FAIRY-DUET                                                        304
-  THE OTHER PROFESSOR FOUND                                           317
-  ‘HER IMPERIAL HIGHNESS IS SURPRISED!’                               326
-  ‘HE THOUGHT HE SAW AN ELEPHANT’                                     335
-  AN EXPLOSION                                                        345
-  ‘A CANNOT SHAK’ HANDS WI’ THEE!’                                    350
-  THE OTHER PROFESSOR’S FALL                                          352
-  ‘TEACHING TIGRESSES TO SMILE’                                       365
-  ‘HORRID WAS THAT PIG’S DESPAIR!’                                    367
-  THE FATAL JUMP                                                      369
-  ‘BATHING CROCODILES IN CREAM’                                       371
-  ‘THAT PIG LAY STILL AS ANY STONE’                                   372
-  ‘STILL HE SITS IN MISERIE’                                          373
-  ‘BLESSED BY HAPPY STAGS’                                            377
-  THE OLD BEGGAR’S RETURN                                             382
-  ‘PORCUPINE!’                                                        388
-  ‘GOOD-NIGHT, PROFESSOR!’                                            398
-  ‘HIS WIFE KNELT DOWN AT HIS SIDE’                                   404
-  THE BLUE LOCKET                                                     409
-  ‘IT IS LOVE!’                                                       411
 
 
 
 
-                            SYLVIE AND BRUNO
-                               CONCLUDED.
 
 
 
 
-                               CHAPTER I.
-                            BRUNO’S LESSONS.
+
+
+
+
 
 
 During the next month or two my solitary town-life seemed, by contrast,
@@ -767,7 +599,6 @@ time, in vain; but at last Sylvie’s sharp eyes detected him, swinging on
 a tendril of ivy, and Sylvie’s stern voice commanded his instant return
 to _terra firma_ and to the business of Life.
 
-[Illustration: SYLVIE’S TRUANT-PUPIL]
 
 “Pleasure first and business afterwards” seemed to be the motto of these
 tiny folk, so many hugs and kisses had to be interchanged before
@@ -908,35 +739,34 @@ the chorus as well, perhaps, as it is possible for _one_ person to
 manage such a thing. It was in vain that I signed to Sylvie to help me:
 she only smiled sweetly and shook her head.
 
-  “King Fisher courted Lady Bird—
-  _Sing Beans, sing Bones, sing Butterflies!_
-    ‘Find me my match,’ he said,
-    ‘With such a noble head—
-  With such a beard, as white as curd—
-    With such expressive eyes!’
+“King Fisher courted Lady Bird—
+_Sing Beans, sing Bones, sing Butterflies!_
+‘Find me my match,’ he said,
+‘With such a noble head—
+With such a beard, as white as curd—
+With such expressive eyes!’
 
-  “‘Yet pins have heads,’ said Lady Bird—
-  _Sing Prunes, sing Prawns, sing Primrose-Hill!_
-    ‘And, where you stick them in,
-    They stay, and thus a pin
-  Is very much to be preferred
-    To one that’s never still!’
+“‘Yet pins have heads,’ said Lady Bird—
+_Sing Prunes, sing Prawns, sing Primrose-Hill!_
+‘And, where you stick them in,
+They stay, and thus a pin
+Is very much to be preferred
+To one that’s never still!’
 
-  “‘Oysters have beards,’ said Lady Bird—
-  _Sing Flies, sing Frogs, sing Fiddle-strings!_
-    ‘I love them, for I know
-    _They_ never chatter so:
-  They would not say one single word—
-    Not if you crowned them Kings!’
+“‘Oysters have beards,’ said Lady Bird—
+_Sing Flies, sing Frogs, sing Fiddle-strings!_
+‘I love them, for I know
+_They_ never chatter so:
+They would not say one single word—
+Not if you crowned them Kings!’
 
-  “‘Needles have eyes,’ said Lady Bird—
-  _Sing Cats, sing Corks, sing Cowslip-tea!_
-      ‘And they are sharp—just what
-      Your Majesty is _not:_
-  So get you gone—’tis too absurd
-      To come a-courting _me_!’”
+“‘Needles have eyes,’ said Lady Bird—
+_Sing Cats, sing Corks, sing Cowslip-tea!_
+‘And they are sharp—just what
+Your Majesty is _not:_
+So get you gone—’tis too absurd
+To come a-courting _me_!’”
 
-[Illustration: KING FISHER’S WOOING]
 
 “So he went away,” Bruno added as a kind of postscript, when the last
 note of the song had died away. “Just like he always did.”
@@ -1020,8 +850,6 @@ once began the preparations needed for the journey.
 
 
 
-                              CHAPTER II.
-                             LOVE’S CURFEW.
 
 
 “Fayfield Junction! Change for Elveston!”
@@ -1051,7 +879,6 @@ was careful, in passing the spot, to look the other way, in order to
 prolong the pleasant illusion, it was inevitable that, when I turned to
 walk back again, I should see who it was. It was Lady Muriel herself!
 
-[Illustration: ‘SPEND IT ALL FOR MINNIE’]
 
 The whole scene now returned vividly to my memory; and, to make this
 repetition of it stranger still, there was the same old man, whom I
@@ -1328,8 +1155,6 @@ business-engagement.
 
 
 
-                              CHAPTER III.
-                            STREAKS OF DAWN.
 
 
 Next day proved warm and sunny, and we started early, to enjoy the
@@ -1360,7 +1185,6 @@ the form of food, clothes, and so on—without contributing its equivalent
 in the form of productive _labour_) is a complicated one, no doubt. I’ve
 tried to think it out. And it seemed to me that the simplest form of the
 problem, to start with, is a community without _money_, who buy and sell
-by _barter_ only; and it makes it yet simpler to suppose the food and
 other things to be capable of _keeping_ for many years without
 spoiling.”
 
@@ -1559,10 +1383,10 @@ under my chin! I _are_ glad I aren’t a thistle!”
 afraid I’ve been talking too much, for _your_ patience and for my
 strength. I must be turning soon. This is about the end of my tether.”
 
-  “Take, O boatman, thrice thy fee;
-  Take, I give it willingly;
-  For, invisible to thee,
-  Spirits twain have crossed with me!”
+“Take, O boatman, thrice thy fee;
+Take, I give it willingly;
+For, invisible to thee,
+Spirits twain have crossed with me!”
 
 I quoted, involuntarily.
 
@@ -1604,7 +1428,6 @@ because he was pointing with it. “Are not those _orchises_ under the
 hedge there?” he said. “I think that decides me. I’ll gather some as I
 go along.”
 
-[Illustration: ‘ARE NOT THOSE ORCHISES?’]
 
 Meanwhile Bruno had run on beyond Lady Muriel, and, with much jumping
 about and shouting (shouts audible to no one but Sylvie and myself),
@@ -1622,8 +1445,6 @@ good angel.
 
 
 
-                              CHAPTER IV.
-                             THE DOG-KING.
 
 
 “They shooked hands,” said Bruno, who was trotting at my side, in answer
@@ -1839,7 +1660,6 @@ worth anything. Then he glanced at Sylvie: _she_ clearly didn’t count
 for very much, either. Then he took courage. “It’ll take a better man
 than any of _yer_ to get ’em!” he retorted defiantly.
 
-[Illustration: A ROYAL THIEF-TAKER]
 
 Sylvie stooped and patted the invisible Nero. “A _little_ tighter!” she
 whispered. And a sharp yell from the ragged boy showed how promptly the
@@ -1867,7 +1687,6 @@ surrendered.
 a great pace, stooping now and then to rub the ailing ankle, in fear,
 seemingly, that the ‘crahmp’ might attack it again.
 
-[Illustration: ‘SUMMAT WRONG WI’ MY SPECTACLES!’]
 
 Bruno ran back, with his booty, to the orchard wall, and pitched the
 apples over it one by one. “I’s welly afraid _some_ of them’s gone under
@@ -1906,8 +1725,6 @@ be kissed, as representative of _both_, and we all went in together.
 
 
 
-                               CHAPTER V.
-                             MATILDA JANE.
 
 
 “Come to me, my little gentleman,” said our hostess, lifting Bruno into
@@ -2079,7 +1896,6 @@ respectfully in the back-ground, with her hands on the shoulders of her
 little mistress, so as to be ready to act as Prompter, if required, and
 to supply ‘_each gap in faithless memory void_.’
 
-[Illustration: BESSIE’S SONG]
 
 The shout, with which she began, proved to be only a momentary effort.
 After a very few notes, Bessie toned down, and sang on in a small but
@@ -2089,25 +1905,25 @@ seemed to have quite forgotten that she had any other audience than her
 Baby, and her Head-Nurse, who once or twice supplied, almost inaudibly,
 the right note, when the singer was getting a little ‘flat.’
 
-  “Matilda Jane, you never look
-  At any toy or picture-book:
-  I show you pretty things in vain—
-  You must be blind, Matilda Jane!
+“Matilda Jane, you never look
+At any toy or picture-book:
+I show you pretty things in vain—
+You must be blind, Matilda Jane!
 
-  “I ask you riddles, tell you tales,
-  But _all_ our conversation fails:
-  You _never_ answer me again—
-  I fear you’re dumb, Matilda Jane!
+“I ask you riddles, tell you tales,
+But _all_ our conversation fails:
+You _never_ answer me again—
+I fear you’re dumb, Matilda Jane!
 
-  “Matilda, darling, when I call,
-  You never seem to hear at all:
-  I shout with all my might and main—
-  But you’re _so_ deaf, Matilda Jane!
+“Matilda, darling, when I call,
+You never seem to hear at all:
+I shout with all my might and main—
+But you’re _so_ deaf, Matilda Jane!
 
-  “Matilda Jane, you needn’t mind;
-  For, though you’re deaf, and dumb, and blind,
-  There’s _some one_ loves you, it is plain—
-  And that is _me,_ Matilda Jane!”
+“Matilda Jane, you needn’t mind;
+For, though you’re deaf, and dumb, and blind,
+There’s _some one_ loves you, it is plain—
+And that is _me,_ Matilda Jane!”
 
 She sang three of the verses in a rather perfunctory style, but the last
 stanza evidently excited the little maiden. Her voice rose, ever clearer
@@ -2210,12 +2026,12 @@ over Bruno’s head, and pointing with his pipe.
 window: and forthwith a dozen voices yelled, to a harsh discordant
 melody, the refrain:—
 
-  “There’s him, an’ yo’ an’ me,
-            Roarin’ laddies!
-  We loves a bit o spree,
-  Roarin’ laddies we,
-            Roarin’ laddies
-            Roarin’ laddies!”
+“There’s him, an’ yo’ an’ me,
+Roarin’ laddies!
+We loves a bit o spree,
+Roarin’ laddies we,
+Roarin’ laddies
+Roarin’ laddies!”
 
 The man lounged back again to the house, joining lustily in the chorus
 as he went: so that only the children and I were in the road when
@@ -2224,8 +2040,6 @@ as he went: so that only the children and I were in the road when
 
 
 
-                              CHAPTER VI.
-                             WILLIE’S WIFE.
 
 
 He made for the door of the public-house, but the children intercepted
@@ -2238,7 +2052,6 @@ waggoners.
 _something_ had checked him: and, for want of any other way of
 accounting for it, he seemed to regard it as his own act.
 
-[Illustration: THE RESCUE OF WILLIE]
 
 “I wunnut coom in,” he said: “not to-day.”
 
@@ -2325,7 +2138,6 @@ drink—till I die—so help me God my Maker!” His voice, which had suddenly
 risen to a hoarse shout, dropped again as suddenly: and once more he
 bowed his head, and buried his face in his folded arms.
 
-[Illustration: WILLIE’S WIFE]
 
 The woman had dropped upon her knees by the cradle, while he was
 speaking. She neither looked at him nor seemed to hear him. With hands
@@ -2463,8 +2275,6 @@ I had not heard from him for many a year.
 
 
 
-                              CHAPTER VII.
-                               MEIN HERR.
 
 
 So I went on my lonely way, and, on reaching the Hall, I found Lady
@@ -2606,7 +2416,6 @@ edge of the _one_, and up the right edge of the _other_!”
 hand, and earnestly watching the old man. “And that _proves_ it to be
 only _one_ opening!”
 
-[Illustration: FORTUNATUS’ PURSE]
 
 She looked so strangely like a child, puzzling over a difficult lesson,
 and Mein Herr had become, for the moment, so strangely like the old
@@ -2639,7 +2448,7 @@ could not help glancing round, half-expecting to see _Bruno_ also!
 
 Mein Herr began thoughtfully balancing his spoon on the edge of his
 teacup, while he pondered over this request. “Something wonderful—like
- Fortunatus’s Purse? _That_ will give you—when it is made—wealth beyond
+Fortunatus’s Purse? _That_ will give you—when it is made—wealth beyond
 your wildest dreams: but it will not give you _Time_!”
 
 A pause of silence ensued—utilised by Lady Muriel for the very practical
@@ -2661,7 +2470,6 @@ How do _you_ behave then?”
 about the room!”
 
 “When that happens to—to the people I have visited, they never act _so_.
-By a short and simple process—which I cannot explain to you—they store
 up the useless hours: and, on some _other_ occasion, when they happen to
 _need_ extra time, they get them out again!”
 
@@ -2803,8 +2611,6 @@ problem entirely beyond my skill!
 
 
 
-                             CHAPTER VIII.
-                           IN A SHADY PLACE.
 
 
 The ten days glided swiftly away: and, the day before the great party
@@ -2934,7 +2740,6 @@ specially sensational murder in a thieves’ den in the East of London.)
 learned the lesson they should teach us—though we are very apt to read
 it backwards!”
 
-[Illustration: ‘I AM SITTING AT YOUR FEET’]
 
 “You speak in riddles,” said Lady Muriel. “Please explain yourself. See
 now,” suiting the action to the word, “I am sitting at your feet, just
@@ -3097,8 +2902,6 @@ malady of whose arrival we had just heard.
 
 
 
-                              CHAPTER IX.
-                          THE FAREWELL-PARTY.
 
 
 On the following day, Arthur and I reached the Hall in good time, as
@@ -3211,7 +3014,6 @@ The pompous man frowned darkly, and bit his lip, and folded his arms,
 vainly trying to think it out. “He is _jesting_!” he muttered to himself
 at last, in a tone of withering contempt, as he stalked away.
 
-By this time the other guests had arrived; and dinner was announced.
 Arthur of course took down Lady Muriel: and _I_ was pleased to find
 myself seated at her other side, with a severe-looking old lady (whom I
 had not met before, and whose name I had, as is usual in introductions,
@@ -3233,7 +3035,6 @@ _yours_.”
 “No doubt,” said Arthur: “but _when_ did I begin to own it? Up to the
 moment of its being put into the plate, it was the property of our host:
 while being offered round the table, it was, let us say, held in trust
-by the waiter: did it become mine when I accepted it? Or when it was
 placed before me? Or when I took the first spoonful?”
 
 “He is a _very_ argumentative young man!” was all the old lady would
@@ -3427,7 +3228,6 @@ Revolving-Humorist. But this last is only adapted to _small_ parties.”
 
 “Let us have it in four separate Chapters, please!” said Lady Muriel,
 who was evidently deeply interested—as, indeed, most of the party were,
-by this time: and, all down the table, talk had ceased, and heads were
 leaning forwards, eager to catch fragments of Mein Herr’s oration.
 
 “Chapter One! Moving-Pictures!” was proclaimed in the silvery voice of
@@ -3495,8 +3295,6 @@ Lady Muriel gave the signal, and the ladies left the room.
 
 
 
-                               CHAPTER X.
-                           JABBERING AND JAM.
 
 
 When the last lady had disappeared, and the Earl, taking his place at
@@ -3782,11 +3580,9 @@ mean) if you ever presume to address her as ‘Mrs. Mills.’ She is ‘Mrs.
 Ernest—Atkinson—Mills’!”
 
 “She is one of those would-be grandees,” said Arthur, “who think that,
-by tacking on to their surname all their spare Christian-names, with
 hyphens between, they can give it an aristocratic flavour. As if it
 wasn’t trouble enough to remember _one_ surname!”
 
-By this time the room was getting crowded, as the guests, invited for
 the evening-party, were beginning to arrive, and Lady Muriel had to
 devote herself to the task of welcoming them, which she did with the
 sweetest grace imaginable. Sylvie and Bruno stood by her, deeply
@@ -3824,8 +3620,6 @@ that nice old gentleman as we came back.”
 
 
 
-                              CHAPTER XI.
-                          THE MAN IN THE MOON.
 
 
 The children came willingly. With one of them on each side of me, I
@@ -3842,7 +3636,6 @@ came to look into the wonderful depth of those large dreamy eyes, I
 felt, with a strange sense of awe, that he was incalculably _older_: he
 seemed to gaze at us out of some by-gone age, centuries away.
 
-[Illustration: MEIN HERR’S FAIRY-FRIENDS]
 
 “I don’t know if oo’re an _old_ man,” Bruno answered, as the children,
 won over by the gentle voice, crept a little closer to him. “I thinks
@@ -4104,8 +3897,6 @@ if he had grown fifty years younger in a moment of time.
 
 
 
-                              CHAPTER XII.
-                              FAIRY-MUSIC.
 
 
 The silence that ensued was broken by the voice of the musical young
@@ -4158,7 +3949,6 @@ remember myself,” he exclaimed, “of the name of this so charming an air!
 It is of an opera, most surely. Yet not even will the _opera_ remind his
 name to me! What you call him, dear child?”
 
-[Illustration: ‘HOW CALL YOU THE OPERA?’]
 
 Sylvie looked round at him with a rapt expression of face. She had
 ceased playing, but her fingers still wandered fitfully over the keys.
@@ -4364,12 +4154,10 @@ large dreamy eyes of his. “It seems like yesterday; and yet it
 happened——” He checked himself hastily, and the remaining words died
 away into a whisper.
 
-[Illustration: SCHOLAR-HUNTING: THE PURSUED]
 
 “_How_ many years ago did you say?” I asked, much interested in the
 prospect of at last learning _some_ definite fact in his history.
 
-[Illustration: SCHOLAR-HUNTING: THE PURSUERS]
 
 “_Many_ years ago,” he replied. “The scene at the Railway-Station had
 been (so they told me) one of wild excitement. Eight or nine Heads of
@@ -4448,7 +4236,6 @@ knowing which had touched him first. The dispute got into print, and did
 us no credit, and, in short, Cub-Hunts came to an end. Now I’ll tell you
 what cured us of that wild craze of ours, the bidding against each
 other, for the clever scholars, just as if they were articles to be sold
-by auction! Just when the craze had reached its highest point, and when
 one of the Colleges had actually advertised a Scholarship of one
 thousand pounds _per annum_, one of our tourists brought us the
 manuscript of an old African legend—I happen to have a copy of it in my
@@ -4459,49 +4246,47 @@ pocket. Shall I translate it for you?”
 
 
 
-                             CHAPTER XIII.
-                          WHAT TOTTLES MEANT.
 
 
 Mein Herr unrolled the manuscript, but, to my great surprise, instead of
 _reading_ it, he began to _sing_ it, in a rich mellow voice that seemed
 to ring through the room.
 
-  “One thousand pounds per annuum
-  Is not so bad a figure, come!”
-  Cried Tottles. “And I tell you, flat,
-  A man may marry well on that!
-  To say ‘the Husband needs the Wife’
-  Is not the way to represent it.
-  The crowning joy of Woman’s life
-  Is _Man_!” said Tottles (and he meant it).
+“One thousand pounds per annuum
+Is not so bad a figure, come!”
+Cried Tottles. “And I tell you, flat,
+A man may marry well on that!
+To say ‘the Husband needs the Wife’
+Is not the way to represent it.
+The crowning joy of Woman’s life
+Is _Man_!” said Tottles (and he meant it).
 
-  The blissful Honey-moon is past:
-  The Pair have settled down at last:
-  Mamma-in-law their home will share,
-  And make their happiness her care.
-  “Your income is an ample one;
-  Go it, my children!” (And they went it).
-  “I rayther think this kind of fun
-  Won’t last!” said Tottles (and he meant it).
+The blissful Honey-moon is past:
+The Pair have settled down at last:
+Mamma-in-law their home will share,
+And make their happiness her care.
+“Your income is an ample one;
+Go it, my children!” (And they went it).
+“I rayther think this kind of fun
+Won’t last!” said Tottles (and he meant it).
 
-  They took a little country-box—
-  A box at Covent Garden also:
-  They lived a life of double-knocks,
-  Acquaintances began to call so:
-  Their London house was much the same
-  (It took three hundred, clear, to rent it):
-  “Life is a very jolly game!”
-  Cried happy Tottles (and he meant it).
+They took a little country-box—
+A box at Covent Garden also:
+They lived a life of double-knocks,
+Acquaintances began to call so:
+Their London house was much the same
+(It took three hundred, clear, to rent it):
+“Life is a very jolly game!”
+Cried happy Tottles (and he meant it).
 
-  ‘Contented with a frugal lot’
-  (He always used that phrase at Gunter’s),
-  He bought a handy little yacht—
-  A dozen serviceable hunters—
-  The fishing of a Highland Loch—
-  A sailing-boat to circumvent it—
-  “The sounding of that Gaelic ‘och’
-  Beats _me_!” said Tottles (and he meant it).
+‘Contented with a frugal lot’
+(He always used that phrase at Gunter’s),
+He bought a handy little yacht—
+A dozen serviceable hunters—
+The fishing of a Highland Loch—
+A sailing-boat to circumvent it—
+“The sounding of that Gaelic ‘och’
+Beats _me_!” said Tottles (and he meant it).
 
 Here, with one of those convulsive starts that wake one up in the very
 act of dropping off to sleep, I became conscious that the deep musical
@@ -4522,7 +4307,6 @@ two or three camels, or thereabouts. And eggs got dearer every week. And
 still they drank their egg-flip, and wondered where all their money went
 to.
 
-[Illustration: THE EGG-MERCHANT]
 
 “And there came a day when they put their heads together. And they
 understood what donkeys they had been.
@@ -4598,41 +4382,41 @@ had with our tourist, and, if you will allow me, I’ll just refresh my
 memory—although I quite agree with you—it is, as you say, one of the
 worst of human ills—” And, here Mein Herr began singing again:—
 
-  But oh, the worst of human ills
-  (Poor Tottles found) are ‘little bills’!
-  And, with no balance in the Bank,
-  What wonder that his spirits sank?
-  Still, as the money flowed away,
-  He wondered how on earth she spent it.
-  “You cost me twenty pounds a day,
-  _At least_!” cried Tottles (and he meant it).
+But oh, the worst of human ills
+(Poor Tottles found) are ‘little bills’!
+And, with no balance in the Bank,
+What wonder that his spirits sank?
+Still, as the money flowed away,
+He wondered how on earth she spent it.
+“You cost me twenty pounds a day,
+_At least_!” cried Tottles (and he meant it).
 
-  She sighed. “Those Drawing Rooms, you know!
-  I really never thought about it:
-  Mamma declared we ought to go—
-  We should be Nobodies without it.
-  That diamond-circlet for my brow—
-  I quite believed that _she_ had sent it,
-  Until the Bill came in just now——”
-  “_Viper_!” cried Tottles (and he meant it).
+She sighed. “Those Drawing Rooms, you know!
+I really never thought about it:
+Mamma declared we ought to go—
+We should be Nobodies without it.
+That diamond-circlet for my brow—
+I quite believed that _she_ had sent it,
+Until the Bill came in just now——”
+“_Viper_!” cried Tottles (and he meant it).
 
-  Poor Mrs. T. could bear no more,
-  But fainted flat upon the floor.
-  Mamma-in-law, with anguish wild,
-  Seeks, all in vain, to rouse her child.
-  “Quick! Take this box of smelling-salts!
-  Don’t scold her, James, or you’ll repent it,
-  She’s a _dear_ girl, with all her faults——”
-  “She _is_!” groaned Tottles (and he meant it).
+Poor Mrs. T. could bear no more,
+But fainted flat upon the floor.
+Mamma-in-law, with anguish wild,
+Seeks, all in vain, to rouse her child.
+“Quick! Take this box of smelling-salts!
+Don’t scold her, James, or you’ll repent it,
+She’s a _dear_ girl, with all her faults——”
+“She _is_!” groaned Tottles (and he meant it).
 
-  “I was a donkey,” Tottles cried,
-  “To choose your daughter for my bride!
-  ’Twas _you_ that bid us cut a dash!
-  ’Tis _you_ have brought us to this smash!
-  You don’t suggest one single thing
-  That can in any way prevent it——
-  Then what’s the use of arguing?
-  _Shut up!_” cried Tottles (and he meant it).
+“I was a donkey,” Tottles cried,
+“To choose your daughter for my bride!
+’Twas _you_ that bid us cut a dash!
+’Tis _you_ have brought us to this smash!
+You don’t suggest one single thing
+That can in any way prevent it——
+Then what’s the use of arguing?
+_Shut up!_” cried Tottles (and he meant it).
 
 Once more I started into wakefulness, and realised that Mein Herr was
 not the singer. He was still consulting his memoranda.
@@ -4642,13 +4426,13 @@ various papers. “‘_Unpatriotic_’ is the very word I had used, in writing
 to him, and ‘_hinder_’ is the very word he used in his reply! Allow me
 to read you a portion of his letter:——
 
-  “‘_I can assure you_,’ he writes, ‘_that, unpatriotic as you may think
-  it, the recognised function of the ‘Opposition’ is to hinder, in every
-  manner not forbidden by the Law, the action of the Government. This
-  process is called ‘Legitimate Obstruction’: and the greatest triumph
-  the ‘Opposition’ can ever enjoy, is when they are able to point out
-  that, owing to their ‘Obstruction’, the Government have failed in
-  everything they have tried to do for the good of the Nation!_’”
+“‘_I can assure you_,’ he writes, ‘_that, unpatriotic as you may think
+it, the recognised function of the ‘Opposition’ is to hinder, in every
+manner not forbidden by the Law, the action of the Government. This
+process is called ‘Legitimate Obstruction’: and the greatest triumph
+the ‘Opposition’ can ever enjoy, is when they are able to point out
+that, owing to their ‘Obstruction’, the Government have failed in
+everything they have tried to do for the good of the Nation!_’”
 
 “Your friend has not put it _quite_ correctly,” I said. “The Opposition
 would no doubt be glad to point out that the Government had failed
@@ -4660,10 +4444,10 @@ newspaper-cutting, which my friend enclosed in his letter. It is part of
 the report of a public speech, made by a Statesman who was at the time a
 member of the ‘Opposition’:—
 
-  “‘_At the close of the Session, he thought they had no reason to be
-  discontented with the fortunes of the campaign. They had routed the
-  enemy at every point. But the pursuit must be continued. They had only
-  to follow up a disordered and dispirited foe._’”
+“‘_At the close of the Session, he thought they had no reason to be
+discontented with the fortunes of the campaign. They had routed the
+enemy at every point. But the pursuit must be continued. They had only
+to follow up a disordered and dispirited foe._’”
 
 “Now to what portion of your national history would you guess that the
 speaker was referring?”
@@ -4758,14 +4542,14 @@ The melancholy tone became a wail: the wail became a chant: the chant
 became a song—though whether it was _Mein Herr_ that was singing, this
 time, or somebody else, I could not feel certain.
 
-  “And, now the mischief’s done, perhaps
-  You’ll kindly go and pack your traps?
-  Since _two_ (your daughter and your son)
-  Are Company, but _three_ are none.
-  A course of saving we’ll begin:
-  When change is needed, _I’ll_ invent it:
-  Don’t think to put _your_ finger in
-  _This_ pie!” cried Tottles (and he meant it).
+“And, now the mischief’s done, perhaps
+You’ll kindly go and pack your traps?
+Since _two_ (your daughter and your son)
+Are Company, but _three_ are none.
+A course of saving we’ll begin:
+When change is needed, _I’ll_ invent it:
+Don’t think to put _your_ finger in
+_This_ pie!” cried Tottles (and he meant it).
 
 The music seemed to die away. Mein Herr was again speaking in his
 ordinary voice. “Now tell me one thing more,” he said. “Am I right in
@@ -4825,8 +4609,6 @@ I was getting foolish.
 
 
 
-                              CHAPTER XIV.
-                            BRUNO’S PICNIC.
 
 
 “As bald as bald,” was the bewildering reply. “Now, Bruno, I’ll tell you
@@ -5250,7 +5032,6 @@ good, my child! And have you learnt C?’ ‘Oh yes, Ma! I went to the
 C-side, and I saw the ships sailing on the C!’ ‘Very good, my child! You
 may go to Bruno’s Picnic.’
 
-[Illustration: STARTING FOR BRUNO’S PICNIC]
 
 “So they set off. And Bruno walked in the middle, so that the Lamb
 mightn’t see the Lion——”
@@ -5304,8 +5085,6 @@ talk about eating Lambs! It makes me so _shivery_!’ And the Lion said
 
 
 
-                              CHAPTER XV.
-                           THE LITTLE FOXES.
 
 
 “So, when they got to the top of the hill, Bruno opened the hamper: and
@@ -5360,7 +5139,6 @@ clean pinafores on, and spoons in their hands——”
 Lamb——” (“Oo needn’t be flightened, Mister Sir!” Bruno put in, in a
 hasty whisper.)
 
-[Illustration: ‘ENTER THE LION’]
 
 “And just as he was going to do it, Bruno heard a great ROAR——” (The
 real Bruno put his hand into mine, and held tight), “and the Lion came
@@ -5463,7 +5241,6 @@ a noble offer, but I wouldn’t rob him of the treat. “Go on, Bruno,” I
 said, “you say it much the best.” “Only—but—_one_—Fox!” Bruno said with
 great solemnity.
 
-[Illustration: ‘WHIHUAUCH! WHIHUAUCH!’]
 
 “‘Eldest little Fox,’” Sylvie said, dropping the narrative-form in her
 eagerness, “‘you’ve been _so_ good that I can hardly believe _you’ve_
@@ -5547,8 +5324,6 @@ very—very—very much so, I’m sure!” I seemed to hear myself say.
 
 
 
-                              CHAPTER XVI.
-                          BEYOND THESE VOICES.
 
 
 “I didn’t quite catch what you said!” were the next words that reached
@@ -5562,16 +5337,15 @@ not in the gentle voice of Mein Herr, but in the deep bass of the French
 Count. And, in the silence that followed, the final stanza of ‘Tottles’
 rang through the room.
 
-[Illustration: ‘NEVER!’ YELLED TOTTLES]
 
-  See now this couple settled down
-  In quiet lodgings, out of town:
-  Submissively the tearful wife
-  Accepts a plain and humble life:
-  Yet begs one boon on bended knee:
-  ‘My ducky-darling, don’t resent it!
-  Mamma might come for two or three——’
-  ‘NEVER!’ yelled Tottles. And he meant it.
+See now this couple settled down
+In quiet lodgings, out of town:
+Submissively the tearful wife
+Accepts a plain and humble life:
+Yet begs one boon on bended knee:
+‘My ducky-darling, don’t resent it!
+Mamma might come for two or three——’
+‘NEVER!’ yelled Tottles. And he meant it.
 
 The conclusion of the song was followed by quite a chorus of thanks and
 compliments from all parts of the room, which the gratified singer
@@ -5756,10 +5530,10 @@ this life any keen interest, not in _itself_ sinful, will surely find
 itself _some_ congenial line of work hereafter. Wellington may have no
 more _battles_ to fight—and yet—
 
-  ‘We doubt not that, for one so true,
-  There must be other, nobler work to do,
-  Than when he fought at Waterloo,
-        And Victor he must ever be!’”
+‘We doubt not that, for one so true,
+There must be other, nobler work to do,
+Than when he fought at Waterloo,
+And Victor he must ever be!’”
 
 He lingered over the beautiful words, as if he loved them: and his
 voice, like distant music, died away into silence.
@@ -5834,10 +5608,10 @@ Muriel, my child, sing us something before we go to bed!”
 lately banished from the drawing-room to make room for a ‘semi-grand.’
 “There is a song here, that I have never heard you sing.
 
-  ‘Hail to thee, blithe spirit!
-    Bird thou never wert,
-  That from Heaven, or near it,
-    Pourest thy full heart!’”
+‘Hail to thee, blithe spirit!
+Bird thou never wert,
+That from Heaven, or near it,
+Pourest thy full heart!’”
 
 he read from the page he had spread open before her.
 
@@ -5849,8 +5623,6 @@ those welcome words ‘Come, child, ’tis bed-time!’”
 
 
 
-                             CHAPTER XVII.
-                             TO THE RESCUE!
 
 
 “It _isn’t_ bed-time!” said a sleepy little voice. “The owls hasn’t gone
@@ -5908,94 +5680,90 @@ was sitting at the other side of his leaf-bed, and who instantly began
 to sing, accompanying himself on his Outlandish guitar, while the snail,
 on which he sat, waved its horns in time to the music.
 
-[Illustration: BRUNO’S BED-TIME]
 
-  In stature the Manlet was dwarfish——
-    No burly big Blunderbore he:
-  And he wearily gazed on the crawfish
-    His Wifelet had dressed for his tea.
-  “Now reach me, sweet Atom, my gunlet,
-    And hurl the old shoelet for luck:
-  Let me hie to the bank of the runlet,
-              And shoot thee a Duck!”
+In stature the Manlet was dwarfish——
+No burly big Blunderbore he:
+And he wearily gazed on the crawfish
+His Wifelet had dressed for his tea.
+“Now reach me, sweet Atom, my gunlet,
+And hurl the old shoelet for luck:
+Let me hie to the bank of the runlet,
+And shoot thee a Duck!”
 
-  She has reached him his minikin gunlet:
-    She has hurled the old shoelet for luck:
-  She is busily baking a bunlet,
-    To welcome him home with his Duck.
-  On he speeds, never wasting a wordlet,
-    Though thoughtlets cling, closely as wax,
-  To the spot where the beautiful birdlet
-                So quietly quacks.
+She has reached him his minikin gunlet:
+She has hurled the old shoelet for luck:
+She is busily baking a bunlet,
+To welcome him home with his Duck.
+On he speeds, never wasting a wordlet,
+Though thoughtlets cling, closely as wax,
+To the spot where the beautiful birdlet
+So quietly quacks.
 
-[Illustration: ‘LONG CEREMONIOUS CALLS’]
 
-  Where the Lobsterlet lurks, and the Crablet
-    So slowly and sleepily crawls:
-  Where the Dolphin’s at home, and the Dablet
-    Pays long ceremonious calls:
-  Where the Grublet is sought by the Froglet:
-    Where the Frog is pursued by the Duck:
-  Where the Ducklet is chased by the Doglet——
-              So runs the world’s luck!
+Where the Lobsterlet lurks, and the Crablet
+So slowly and sleepily crawls:
+Where the Dolphin’s at home, and the Dablet
+Pays long ceremonious calls:
+Where the Grublet is sought by the Froglet:
+Where the Frog is pursued by the Duck:
+Where the Ducklet is chased by the Doglet——
+So runs the world’s luck!
 
-[Illustration: THE VOICES]
 
-  He has loaded with bullet and powder:
-    His footfall is noiseless as air:
-  But the Voices grow louder and louder,
-    And bellow, and bluster, and blare.
-  They bristle before him and after,
-    They flutter above and below,
-  Shrill shriekings of lubberly laughter,
-                Weird wailings of woe!
+He has loaded with bullet and powder:
+His footfall is noiseless as air:
+But the Voices grow louder and louder,
+And bellow, and bluster, and blare.
+They bristle before him and after,
+They flutter above and below,
+Shrill shriekings of lubberly laughter,
+Weird wailings of woe!
 
-  They echo without him, within him:
-    They thrill through his whiskers and beard:
-  Like a teetotum seeming to spin him,
-    With sneers never hitherto sneered.
-  “Avengement,” they cry, “on our Foelet!
-    Let the Manikin weep for our wrongs!
-  Let us drench him, from toplet to toelet,
-              With Nursery-Songs!
+They echo without him, within him:
+They thrill through his whiskers and beard:
+Like a teetotum seeming to spin him,
+With sneers never hitherto sneered.
+“Avengement,” they cry, “on our Foelet!
+Let the Manikin weep for our wrongs!
+Let us drench him, from toplet to toelet,
+With Nursery-Songs!
 
-[Illustration: ‘HIS SOUL SHALL BE SAD FOR THE SPIDER’]
 
-  “He shall muse upon ‘Hey! Diddle! Diddle!’
-    On the Cow that surmounted the Moon:
-  He shall rave of the Cat and the Fiddle,
-    And the Dish that eloped with the Spoon:
-  And his soul shall be sad for the Spider,
-    When Miss Muffet was sipping her whey,
-  That so tenderly sat down beside her,
-                And scared her away!
+“He shall muse upon ‘Hey! Diddle! Diddle!’
+On the Cow that surmounted the Moon:
+He shall rave of the Cat and the Fiddle,
+And the Dish that eloped with the Spoon:
+And his soul shall be sad for the Spider,
+When Miss Muffet was sipping her whey,
+That so tenderly sat down beside her,
+And scared her away!
 
-  “The music of Midsummer-madness
-    Shall sting him with many a bite,
-  Till, in rapture of rollicking sadness,
-    He shall groan with a gloomy delight:
-  He shall swathe him, like mists of the morning,
-    In platitudes luscious and limp,
-  Such as deck, with a deathless adorning,
-              The Song of the Shrimp!
+“The music of Midsummer-madness
+Shall sting him with many a bite,
+Till, in rapture of rollicking sadness,
+He shall groan with a gloomy delight:
+He shall swathe him, like mists of the morning,
+In platitudes luscious and limp,
+Such as deck, with a deathless adorning,
+The Song of the Shrimp!
 
-  “When the Ducklet’s dark doom is decided,
-    We will trundle him home in a trice:
-  And the banquet, so plainly provided,
-    Shall round into rose-buds and rice:
-  In a blaze of pragmatic invention
-    He shall wrestle with Fate, and shall reign:
-  But he has not a friend fit to mention,
-              So hit him again!”
+“When the Ducklet’s dark doom is decided,
+We will trundle him home in a trice:
+And the banquet, so plainly provided,
+Shall round into rose-buds and rice:
+In a blaze of pragmatic invention
+He shall wrestle with Fate, and shall reign:
+But he has not a friend fit to mention,
+So hit him again!”
 
-  He has shot it, the delicate darling!
-    And the Voices have ceased from their strife:
-  Not a whisper of sneering or snarling;
-    As he carries it home to his wife:
-  Then, cheerily champing the bunlet
-    His spouse was so skilful to bake,
-  He hies him once more to the runlet,
-              To fetch her the Drake!
+He has shot it, the delicate darling!
+And the Voices have ceased from their strife:
+Not a whisper of sneering or snarling;
+As he carries it home to his wife:
+Then, cheerily champing the bunlet
+His spouse was so skilful to bake,
+He hies him once more to the runlet,
+To fetch her the Drake!
 
 “He’s sound asleep now,” said Sylvie, carefully tucking in the edge of a
 violet-leaf, which she had been spreading over him as a sort of blanket:
@@ -6018,7 +5786,6 @@ that’s the way he speaks of Shelley’s Sky-Lark, is it? When the Poet
 particularly says ‘_Hail to thee, blithe spirit!_ Bird _thou never
 wert_!’”
 
-[Illustration: LORDS OF THE CREATION]
 
 She led the way to the smoking-room, where, ignoring all the usages of
 Society and all the instincts of Chivalry, the three Lords of the
@@ -6029,8 +5796,8 @@ was only _one_ of the three who had the chivalry to go beyond the
 common-place “thank you,” and to quote the Poet’s exquisite description
 of how Geraint, when waited on by Enid, was moved
 
-  “To stoop and kiss the tender little thumb
-  That crossed the platter as she laid it down,”
+“To stoop and kiss the tender little thumb
+That crossed the platter as she laid it down,”
 
 and to suit the action to the word—an audacious liberty for which, I
 feel bound to report, he was _not_ duly reprimanded.
@@ -6133,7 +5900,6 @@ God.”
 
 “And to God’s poor,” she added. “When must it be, sweet love?”
 
-[Illustration: ‘WILL YOU NOT SPARE ME?’]
 
 “To-morrow morning,” he replied. “And I have much to do before then.”
 
@@ -6216,11 +5982,8 @@ No!”
 
 
 
-                             CHAPTER XVIII.
-                          A NEWSPAPER-CUTTING.
 
 
-                _EXTRACT FROM THE “FAYFIELD CHRONICLE.”_
 
 _Our readers will have followed with painful interest, the accounts we
 have from time to time published of the terrible epidemic which has,
@@ -6305,8 +6068,6 @@ possible._
 
 
 
-                              CHAPTER XIX.
-                             A FAIRY-DUET.
 
 
 The year—what an eventful year it had been for me!—was drawing to a
@@ -6342,13 +6103,12 @@ The cross stood on a piece of level turf, unbroken by any mound, and I
 knew that it was simply a memorial-cross, for one whose dust reposed
 elsewhere, even before reading the simple inscription:—
 
-                         _In loving Memory of_
-                         ARTHUR FORESTER, M.D.
-              _whose mortal remains lie buried by the sea:
-             whose spirit has returned to God who gave it_.
+_In loving Memory of_
+_whose mortal remains lie buried by the sea:
+whose spirit has returned to God who gave it_.
 
-               _“Greater love hath no man than this, that
-               a man lay down his life for his friends.”_
+_“Greater love hath no man than this, that
+a man lay down his life for his friends.”_
 
 She threw back her veil on seeing me approach, and came forwards to meet
 me, with a quiet smile, and far more self-possessed than I could have
@@ -6387,7 +6147,6 @@ she flung herself down on the turf, burying her face in the grass, and
 with her hands clasped round the little marble cross, “Oh, my darling,
 my darling!” she sobbed. “And God meant your life to be so beautiful!”
 
-[Illustration: IN THE CHURCH-YARD]
 
 I was startled to hear, thus repeated by Lady Muriel, the very words of
 the darling child whom I had seen weeping so bitterly over the dead
@@ -6661,7 +6420,6 @@ soon made out that Lady Muriel had for once passed into a condition
 familiar to _me_, that we were both of us ‘eerie,’ and that, though we
 could see the children so plainly, we were quite invisible to _them_.
 
-[Illustration: A FAIRY-DUET]
 
 The song ceased just as they came into sight: but, to my delight, Bruno
 instantly said “Let’s sing it all again, Sylvie! It _did_ sound so
@@ -6669,12 +6427,12 @@ pretty!” And Sylvie replied “Very well. It’s _you_ to begin, you know.”
 
 So Bruno began, in the sweet childish treble I knew so well:—
 
-  “Say, what is the spell, when her fledgelings are cheeping,
-    That lures the bird home to her nest?
-  Or wakes the tired mother, whose infant is weeping,
-    To cuddle and croon it to rest?
-  What’s the magic that charms the glad babe in her arms,
-    Till it cooes with the voice of the dove?”
+“Say, what is the spell, when her fledgelings are cheeping,
+That lures the bird home to her nest?
+Or wakes the tired mother, whose infant is weeping,
+To cuddle and croon it to rest?
+What’s the magic that charms the glad babe in her arms,
+Till it cooes with the voice of the dove?”
 
 And now ensued quite the strangest of all the strange experiences that
 marked the wonderful year whose history I am writing—the experience of
@@ -6683,8 +6441,8 @@ one—only a few words—and she sang it timidly, and very low indeed,
 scarcely audibly, but the _sweetness_ of her voice was simply
 indescribable; I have never heard any earthly music like it.
 
-  “’Tis a secret, and so let us whisper it low—
-    And the name of the secret is Love!”
+“’Tis a secret, and so let us whisper it low—
+And the name of the secret is Love!”
 
 On me the first effect of her voice was a sudden sharp pang that seemed
 to pierce through one’s very heart. (I had felt such a pang only once
@@ -6700,52 +6458,51 @@ ground_.” The figures of the children became vague and shadowy, like
 glimmering meteors: while their voices rang together in exquisite
 harmony as they sang:—
 
-      “For I think it is Love,
-      For I feel it is Love,
-  For I’m sure it is nothing but Love!”
+“For I think it is Love,
+For I feel it is Love,
+For I’m sure it is nothing but Love!”
 
-By this time I could see them clearly once more. Bruno again sang by
 himself:—
 
-  “Say, whence is the voice that, when anger is burning,
-    Bids the whirl of the tempest to cease?
-  That stirs the vexed soul with an aching—a yearning
-    For the brotherly hand-grip of peace?
-  Whence the music that fills all our being—that thrills
-    Around us, beneath, and above?”
+“Say, whence is the voice that, when anger is burning,
+Bids the whirl of the tempest to cease?
+That stirs the vexed soul with an aching—a yearning
+For the brotherly hand-grip of peace?
+Whence the music that fills all our being—that thrills
+Around us, beneath, and above?”
 
 Sylvie sang more courageously, this time: the words seemed to carry her
 away, out of herself:—
 
-  “’Tis a secret: none knows how it comes, how it goes:
-    But the name of the secret is Love!”
+“’Tis a secret: none knows how it comes, how it goes:
+But the name of the secret is Love!”
 
 And clear and strong the chorus rang out:—
 
-      “For I think it is Love,
-      For I feel it is Love,
-  For I’m sure it is nothing but Love!”
+“For I think it is Love,
+For I feel it is Love,
+For I’m sure it is nothing but Love!”
 
 Once more we heard Bruno’s delicate little voice alone:—
 
-  “Say whose is the skill that paints valley and hill,
-    Like a picture so fair to the sight?
-  That flecks the green meadow with sunshine and shadow,
-    Till the little lambs leap with delight?”
+“Say whose is the skill that paints valley and hill,
+Like a picture so fair to the sight?
+That flecks the green meadow with sunshine and shadow,
+Till the little lambs leap with delight?”
 
 And again uprose that silvery voice, whose angelic sweetness I could
 hardly bear:—
 
-  “’Tis a secret untold to hearts cruel and cold,
-    Though ’tis sung, by the angels above,
-  In notes that ring clear for the ears that can hear—
-    And the name of the secret is Love!”
+“’Tis a secret untold to hearts cruel and cold,
+Though ’tis sung, by the angels above,
+In notes that ring clear for the ears that can hear—
+And the name of the secret is Love!”
 
 And then Bruno joined in again with
 
-      “For I think it is Love,
-      For I feel it is Love,
-  For I’m sure it is nothing but Love!”
+“For I think it is Love,
+For I feel it is Love,
+For I’m sure it is nothing but Love!”
 
 “That _are_ pretty!” the little fellow exclaimed, as the children passed
 us—so closely that we drew back a little to make room for them, and it
@@ -6776,8 +6533,6 @@ with a touch of her old childish gaiety; and we parted.
 
 
 
-                              CHAPTER XX.
-                          GAMMON AND SPINACH.
 
 
 My landlady’s welcome had an extra heartiness about it: and though, with
@@ -6916,7 +6671,6 @@ a tortoise—and a dish of nuts—and an old man.”
 excitement. “Why, it must be the Other Professor, that’s been lost for
 ever so long!”
 
-[Illustration: THE OTHER PROFESSOR FOUND]
 
 He opened the door of the cupboard wide: and there he was, the Other
 Professor, sitting in a chair, with a book on his knee, and in the act
@@ -6965,10 +6719,10 @@ back, you see!”
 The Gardener looked round at them with a grin. Then he led the way to
 the Pavilion; and as he went he sang:—
 
-  “He looked again, and found it was
-    A Double Rule of Three:
-  ‘And all its Mystery,’ he said,
-    ‘Is clear as day to me!’”
+“He looked again, and found it was
+A Double Rule of Three:
+‘And all its Mystery,’ he said,
+‘Is clear as day to me!’”
 
 “You’ve been _months_ over that song,” said the Professor. “Isn’t it
 finished yet?”
@@ -6976,12 +6730,12 @@ finished yet?”
 “There be only one verse more,” the Gardener sadly replied. And, with
 tears streaming down his cheeks, he sang the last verse:—
 
-  “He thought he saw an Argument
-    That proved he was the Pope:
-  He looked again, and found it was
-    A Bar of Mottled Soap.
-  ‘A fact so dread,’ he faintly said,
-    ‘Extinguishes all hope!’”
+“He thought he saw an Argument
+That proved he was the Pope:
+He looked again, and found it was
+A Bar of Mottled Soap.
+‘A fact so dread,’ he faintly said,
+‘Extinguishes all hope!’”
 
 Choking with sobs, the Gardener hastily stepped on a few yards ahead of
 the party, to conceal his emotion.
@@ -7127,7 +6881,6 @@ but flags!” he kept repeating, as he set it before her. Then all the
 flags were dropped in a moment, as the Head-Cook raised the cover from
 an enormous dish.
 
-[Illustration: ‘HER IMPERIAL HIGHNESS IS SURPRISED!’]
 
 “What is it?” the Empress said faintly, as she put her spy-glass to her
 eye. “Why, it’s _Spinach_, I declare!”
@@ -7163,8 +6916,6 @@ Lecture.
 
 
 
-                              CHAPTER XXI.
-                        THE PROFESSOR’S LECTURE.
 
 
 “In Science—in fact, in most things—it is usually best _to begin at the
@@ -7289,7 +7040,6 @@ heard again in the distance. “_He looked again_—come up, then! _He
 looked again, and found it was_—woa back! _and, found it was A letter
 from his_—make way there! He’s a-coming!”
 
-[Illustration: ‘HE THOUGHT HE SAW AN ELEPHANT’]
 
 And in marched, or waddled—it is hard to say which is the right word—an
 Elephant, on its hind-legs, and playing on an enormous fife which it
@@ -7507,13 +7257,10 @@ had knocked over the tongs and the shovel, and had upset the kettle,
 filling the air with clouds of steam. With a weary sigh, I betook myself
 to bed.
 
-[Illustration: AN EXPLOSION]
 
 
 
 
-                             CHAPTER XXII.
-                              THE BANQUET.
 
 
 “_Heaviness may endure for a night: but joy cometh in the morning._” The
@@ -7592,7 +7339,6 @@ _I’m_ your Minnie now,’ she says. An’ she just puts her dear arms about
 my neck—and she kisses me on t’ cheek—an’ may God in Heaven bless her!”
 And here the poor old man broke down entirely, and could say no more.
 
-[Illustration: ‘A CANNOT SHAK’ HANDS WI’ THEE!’]
 
 “God bless her!” I echoed. “And good night to you!” I pressed his hand,
 and left him. “Lady Muriel,” I said softly to myself as I went
@@ -7619,7 +7365,6 @@ is a good rule to take some food—occasionally. The great advantage of
 dinner-parties——” he broke off suddenly. “Why, actually here’s the Other
 Professor!” he cried. “And there’s no place left for him!”
 
-[Illustration: THE OTHER PROFESSOR’S FALL]
 
 The Other Professor came in reading a large book, which he held close to
 his eyes. One result of his not looking where he was going was that he
@@ -7667,7 +7412,6 @@ in the morning, ‘How many pennies is there in two shillings?’ And
 another was——” “Oh, Bruno!” Sylvie interrupted. “_That_ wasn’t a
 riddle!” “It _were_!” Bruno fiercely replied.)
 
-By this time a waiter had supplied Bruno with a plateful of _something_,
 which drove the plum-pudding out of his head.
 
 “Another advantage of dinner-parties,” the Professor cheerfully
@@ -7835,11 +7579,8 @@ speaks _welly_ quick!”
 
 
 
-                             CHAPTER XXIII.
-                             THE PIG-TALE.
 
 
-By this time the appetites of the guests seemed to be nearly satisfied,
 and even _Bruno_ had the resolution to say, when the Professor offered
 him a fourth slice of plum-pudding, “I thinks three helpings is enough!”
 
@@ -7866,116 +7607,111 @@ other.)
 
 Then the Other Professor got up, and began:—
 
-  Little Birds are dining
-      Warily and well,
-      Hid in mossy cell:
-  Hid, I say, by waiters
-  Gorgeous in their gaiters—
-      I’ve a Tale to tell.
+Little Birds are dining
+Warily and well,
+Hid in mossy cell:
+Hid, I say, by waiters
+Gorgeous in their gaiters—
+I’ve a Tale to tell.
 
-[Illustration: ‘TEACHING TIGRESSES TO SMILE’]
 
-  Little Birds are feeding
-      Justices with jam,
-      Rich in frizzled ham:
-  Rich, I say, in oysters
-  Haunting shady cloisters—
-      That is what I am.
+Little Birds are feeding
+Justices with jam,
+Rich in frizzled ham:
+Rich, I say, in oysters
+Haunting shady cloisters—
+That is what I am.
 
-  Little Birds are teaching
-      Tigresses to smile,
-      Innocent of guile:
-  Smile, I say, not smirkle—
-  Mouth a semicircle,
-      That’s the proper style.
+Little Birds are teaching
+Tigresses to smile,
+Innocent of guile:
+Smile, I say, not smirkle—
+Mouth a semicircle,
+That’s the proper style.
 
-  Little Birds are sleeping
-      All among the pins,
-      Where the loser wins:
-  Where, I say, he sneezes
-  When and how he pleases—
-      So the Tale begins.
+Little Birds are sleeping
+All among the pins,
+Where the loser wins:
+Where, I say, he sneezes
+When and how he pleases—
+So the Tale begins.
 
-  There was a Pig that sat alone
-    Beside a ruined Pump:
-  By day and night he made his moan—
-  It would have stirred a heart of stone
-  To see him wring his hoofs and groan,
-    Because he could not jump.
+There was a Pig that sat alone
+Beside a ruined Pump:
+It would have stirred a heart of stone
+To see him wring his hoofs and groan,
+Because he could not jump.
 
-  A certain Camel heard him shout—
-    A Camel with a hump.
-  “Oh, is it Grief, or is it Gout?
-  What is this bellowing about?”
-  That Pig replied, with quivering snout,
-    “Because I cannot jump!”
+A certain Camel heard him shout—
+A Camel with a hump.
+“Oh, is it Grief, or is it Gout?
+What is this bellowing about?”
+That Pig replied, with quivering snout,
+“Because I cannot jump!”
 
-  That Camel scanned him, dreamy-eyed.
-    “Methinks you are too plump.
-  I never knew a Pig so wide—
-  That wobbled so from side to side—
-  Who could, however much he tried,
-    Do such a thing as _jump_!
+That Camel scanned him, dreamy-eyed.
+“Methinks you are too plump.
+I never knew a Pig so wide—
+That wobbled so from side to side—
+Who could, however much he tried,
+Do such a thing as _jump_!
 
-  “Yet mark those trees, two miles away,
-    All clustered in a clump:
-  If you could trot there twice a day,
-  Nor ever pause for rest or play,
-  In the far future—Who can say?—
-    You may be fit to jump.”
+“Yet mark those trees, two miles away,
+All clustered in a clump:
+If you could trot there twice a day,
+Nor ever pause for rest or play,
+In the far future—Who can say?—
+You may be fit to jump.”
 
-[Illustration: ‘HORRID WAS THAT PIG’S DESPAIR!’]
 
-  That Camel passed, and left him there,
-    Beside the ruined Pump.
-  Oh, horrid was that Pig’s despair!
-  His shrieks of anguish filled the air.
-  He wrung his hoofs, he rent his hair,
-    Because he could not jump.
+That Camel passed, and left him there,
+Beside the ruined Pump.
+Oh, horrid was that Pig’s despair!
+His shrieks of anguish filled the air.
+He wrung his hoofs, he rent his hair,
+Because he could not jump.
 
-  There was a Frog that wandered by—
-    A sleek and shining lump:
-  Inspected him with fishy eye,
-  And said “O Pig, what makes you cry?”
-  And bitter was that Pig’s reply,
-    “Because I cannot jump!”
+There was a Frog that wandered by—
+A sleek and shining lump:
+Inspected him with fishy eye,
+And said “O Pig, what makes you cry?”
+And bitter was that Pig’s reply,
+“Because I cannot jump!”
 
-  That Frog he grinned a grin of glee,
-    And hit his chest a thump
-  “O Pig,” said, “be ruled by me,
-  And you shall see what you shall see.
-  This minute, for a trifling fee,
-    I’ll teach you how to jump!
+That Frog he grinned a grin of glee,
+And hit his chest a thump
+“O Pig,” said, “be ruled by me,
+And you shall see what you shall see.
+This minute, for a trifling fee,
+I’ll teach you how to jump!
 
-  “You may be faint from many a fall,
-    And bruised by many a bump:
-  But, if you persevere through all,
-  And practise first on something small,
-  Concluding with a ten-foot wall,
-    You’ll find that you can jump!”
+“You may be faint from many a fall,
+And bruised by many a bump:
+But, if you persevere through all,
+And practise first on something small,
+Concluding with a ten-foot wall,
+You’ll find that you can jump!”
 
-  That Pig looked up with joyful start:
-    “Oh Frog, you _are_ a trump!
-  Your words have healed my inward smart—
-  Come, name your fee and do your part:
-  Bring comfort to a broken heart,
-    By teaching me to jump!”
+That Pig looked up with joyful start:
+“Oh Frog, you _are_ a trump!
+Your words have healed my inward smart—
+Come, name your fee and do your part:
+Bring comfort to a broken heart,
 
-  “My fee shall be a mutton-chop,
-    My goal this ruined Pump.
-  Observe with what an airy flop
-  I plant myself upon the top!
-  Now bend your knees and take a hop,
-    For that’s the way to jump!”
+“My fee shall be a mutton-chop,
+My goal this ruined Pump.
+Observe with what an airy flop
+I plant myself upon the top!
+Now bend your knees and take a hop,
+For that’s the way to jump!”
 
-[Illustration: THE FATAL JUMP]
 
-  Uprose that Pig, and rushed, full whack,
-    Against the ruined Pump:
-  Rolled over like an empty sack,
-  And settled down upon his back,
-  While all his bones at once went ‘Crack!’
-    It was a fatal jump.
+Uprose that Pig, and rushed, full whack,
+Against the ruined Pump:
+Rolled over like an empty sack,
+And settled down upon his back,
+While all his bones at once went ‘Crack!’
+It was a fatal jump.
 
 When the Other Professor had recited this Verse, he went across to the
 fire-place, and put his head up the chimney. In doing this, he lost his
@@ -8001,53 +7737,50 @@ without water.”
 Keeping his back well turned away from the audience, he went on with the
 Introductory Verses:—
 
-[Illustration: ‘BATHING CROCODILES IN CREAM’]
 
-  Little Birds are writing
-      Interesting books,
-      To be read by cooks:
-  Read, I say, not roasted—
-  Letterpress, when toasted,
-      Loses its good looks.
+Little Birds are writing
+Interesting books,
+To be read by cooks:
+Read, I say, not roasted—
+Letterpress, when toasted,
+Loses its good looks.
 
-  Little Birds are playing
-      Bagpipes on the shore,
-      Where the tourists snore:
-  “Thanks!” they cry. “’Tis thrilling!
-  Take, oh take this shilling!
-      Let us have no more!”
+Little Birds are playing
+Bagpipes on the shore,
+Where the tourists snore:
+“Thanks!” they cry. “’Tis thrilling!
+Take, oh take this shilling!
+Let us have no more!”
 
-  Little Birds are bathing
-      Crocodiles in cream,
-      Like a happy dream:
-  Like, but not so lasting—
-  Crocodiles, when fasting,
-      Are not all they seem!
+Little Birds are bathing
+Crocodiles in cream,
+Like a happy dream:
+Like, but not so lasting—
+Crocodiles, when fasting,
+Are not all they seem!
 
-[Illustration: ‘THAT PIG LAY STILL AS ANY STONE’]
 
-  That Camel passed, as Day grew dim
-    Around the ruined Pump.
-  “O broken heart! O broken limb!
-  It needs,” that Camel said to him,
-  “Something more fairy-like and slim,
-    To execute a jump!”
+That Camel passed, as Day grew dim
+Around the ruined Pump.
+“O broken heart! O broken limb!
+It needs,” that Camel said to him,
+“Something more fairy-like and slim,
+To execute a jump!”
 
-  That Pig lay still as any stone,
-    And could not stir a stump:
-  Nor ever, if the truth were known,
-  Was he again observed to moan,
-  Nor ever wring his hoofs and groan,
-    Because he could not jump.
+That Pig lay still as any stone,
+And could not stir a stump:
+Nor ever, if the truth were known,
+Was he again observed to moan,
+Nor ever wring his hoofs and groan,
+Because he could not jump.
 
-  That Frog made no remark, for he
-    Was dismal as a dump:
-  He knew the consequence must be
-  That he would never get his fee—
-  And still he sits, in miserie,
-    Upon that ruined Pump!
+That Frog made no remark, for he
+Was dismal as a dump:
+He knew the consequence must be
+That he would never get his fee—
+And still he sits, in miserie,
+Upon that ruined Pump!
 
-[Illustration: ‘STILL HE SITS IN MISERIE’]
 
 “It’s a miserable story!” said Bruno. “It begins miserably, and it ends
 miserablier. I think I shall cry. Sylvie, please lend me your
@@ -8131,28 +7864,27 @@ those Jars of Orange-marmalade, Sylvie!” he whispered anxiously.
 “I will now recite the other Introductory Verses,” said the Other
 Professor.
 
-[Illustration: ‘BLESSED BY HAPPY STAGS’]
 
-  Little Birds are choking
-      Baronets with bun,
-      Taught to fire a gun:
-  Taught, I say, to splinter
-  Salmon in the winter—
-      Merely for the fun.
+Little Birds are choking
+Baronets with bun,
+Taught to fire a gun:
+Taught, I say, to splinter
+Salmon in the winter—
+Merely for the fun.
 
-  Little Birds are hiding
-      Crimes in carpet-bags,
-      Blessed by happy stags:
-  Blessed, I say, though beaten—
-  Since our friends are eaten
-      When the memory flags.
+Little Birds are hiding
+Crimes in carpet-bags,
+Blessed by happy stags:
+Blessed, I say, though beaten—
+Since our friends are eaten
+When the memory flags.
 
-  Little Birds are tasting
-      Gratitude and gold,
-      Pale with sudden cold
-  Pale, I say, and wrinkled—
-  When the bells have tinkled
-      And the Tale is told.
+Little Birds are tasting
+Gratitude and gold,
+Pale with sudden cold
+Pale, I say, and wrinkled—
+When the bells have tinkled
+And the Tale is told.
 
 “The next thing to be done,” the Professor cheerfully remarked to the
 Lord Chancellor, as soon as the applause, caused by the recital of the
@@ -8205,8 +7937,6 @@ minute returned, pale and gasping for breath.
 
 
 
-                             CHAPTER XXIV.
-                          THE BEGGAR’S RETURN.
 
 
 “Your Imperial Highnesses!” he began. “It’s the old Beggar again! Shall
@@ -8221,7 +7951,6 @@ Highness? Did I rightly understand——.”
 tottered down the hall—and in another minute the crowd divided, and the
 poor old Beggar was seen entering the Banqueting-Hall.
 
-[Illustration: THE OLD BEGGAR’S RETURN]
 
 He was indeed a pitiable object: the rags, that hung about him, were all
 splashed with mud: his white hair and his long beard were tossed about
@@ -8350,7 +8079,6 @@ hard word.” And he looked to Sylvie for assistance.
 
 “No, no!” the Professor corrected her. “‘_Pre-occupied_,’ you mean.”
 
-[Illustration: ‘PORCUPINE!’]
 
 “No, it’s _porcupine_,” persisted Sylvie. “Not that other word at all.
 And please will you come? The house is all in an uproar.” (“And oo’d
@@ -8564,7 +8292,6 @@ change the subject.
 leading them away, but at the door they let go his hands, and ran back
 again to wish the Professor good night.
 
-[Illustration: ‘GOOD-NIGHT, PROFESSOR!’]
 
 “Good night, Professor, good night!” And Bruno solemnly shook hands with
 the old man, who gazed at him with a loving smile, while Sylvie bent
@@ -8592,8 +8319,6 @@ know!“
 
 
 
-                              CHAPTER XXV
-                           LIFE OUT OF DEATH.
 
 
 The sound of kicking, or knocking, grew louder every moment: and at last
@@ -8666,7 +8391,6 @@ one who is relating the commonplace acts of some chance acquaintance!
 “And this was his _rival_!” I thought. “The man who had won from him the
 heart of the woman he loved!”
 
-[Illustration: ‘HIS WIFE KNELT DOWN AT HIS SIDE’]
 
 “The sun is setting,” said Lady Muriel, rising and leading the way to
 the open window. “Just look at the western sky! What lovely crimson
@@ -8752,7 +8476,6 @@ Sylvie was quite excited, too, by this time; and the two children
 eagerly held up the Jewel to the light, and spelled out the legend
 between them, “ALL WILL LOVE SYLVIE.”
 
-[Illustration: THE BLUE LOCKET]
 
 “Why, this is the _other_ Jewel!” cried Bruno. “Don’t you remember,
 Sylvie? The one you _didn’t_ choose!”
@@ -8787,391 +8510,364 @@ gaze: but it seemed to me, in that last bewildering moment, that not
 Sylvie but an angel was looking out through those trustful brown eyes,
 and that not Sylvie’s but an angel’s voice was whispering
 
-                             “It is love.”
-
-[Illustration: ‘IT IS LOVE!’]
-
-
-                                THE END.
+“It is love.”
 
 
 
 
-                             GENERAL INDEX.
 
 
-[N.B. ‘I’ refers to “Sylvie and Bruno,” ‘II’ to “Sylvie and Bruno
+
+
+
 Concluded.”]
 
-                                   A
-  Accelerated Velocity, causes of; II. 190
-  Air, Cotton-wool lighter than, how to obtain; II. 166
-  Animal-Suffering, mystery of; II. 296
-  Anti-Teetotal Card; II. 139
-  Artistic effect said to require Indistinctness; I. 241
-  Asylums, Lunatic-, future use for; II. 132
-  Axioms of Science; II. 330
+Accelerated Velocity, causes of; II. 190
+Air, Cotton-wool lighter than, how to obtain; II. 166
+Animal-Suffering, mystery of; II. 296
+Anti-Teetotal Card; II. 139
+Artistic effect said to require Indistinctness; I. 241
+Asylums, Lunatic-, future use for; II. 132
+Axioms of Science; II. 330
 
-                                   B
-  Badgers, the Three (Poem); I. 247
-  Barometer, sideways motion of; I. 13
-  Baron Doppelgeist; I. 85
-  Bath, Portable, for Tourists; I. 25
-  Bazaars, Charity-; II. 44
-  Beauty, Pain of realising; II. 337
-  Bed, reason for never going to; II. 141
-  Bees, Mind of; II. 29
-  Bessie’s Song; II. 76
-  Bible-Selections for Children; I. xiii
-      ”    ”    learning by heart; I. xiv
-  Black Light, how to produce; II. 341
-  Boat, motion of, how to imitate on land; II. 108
-  Books, or Minds. Which contain most Science? I. 21
-  Boots for Horizontal Weather; I. 14
-  Brain, inverted position of; I. 243
-  Bread-sauce appropriate for Weltering; I. 58
-  Breaking promises. Why is it wrong? II. 27
-  Bruno’s Song: I. 215
-  Burden of Proof misplaced by Crocodiles; I. 230
-      ”    ”    ”    Ladies; I. 235
-      ”    ”    ”    Watts, Dr.; do.
+Badgers, the Three (Poem); I. 247
+Barometer, sideways motion of; I. 13
+Baron Doppelgeist; I. 85
+Bath, Portable, for Tourists; I. 25
+Bazaars, Charity-; II. 44
+Beauty, Pain of realising; II. 337
+Bed, reason for never going to; II. 141
+Bees, Mind of; II. 29
+Bessie’s Song; II. 76
+Bible-Selections for Children; I. xiii
+”    ”    learning by heart; I. xiv
+Black Light, how to produce; II. 341
+Boat, motion of, how to imitate on land; II. 108
+Books, or Minds. Which contain most Science? I. 21
+Boots for Horizontal Weather; I. 14
+Brain, inverted position of; I. 243
+Bread-sauce appropriate for Weltering; I. 58
+Breaking promises. Why is it wrong? II. 27
+Bruno’s Song: I. 215
+Burden of Proof misplaced by Crocodiles; I. 230
+”    ”    ”    Ladies; I. 235
+”    ”    ”    Watts, Dr.; do.
 
-                                   C
-  ‘Care’ and ‘Don’t-Care,’ history of; II. 385
-  Carrying one’s self. Why is it not fatiguing? I. 169
-  Charity-Bazaars; II. 44
-      ”    fallacies as to; II. 43
-      ”    Pseudo-; II. 42
-  Child’s Bible; I. xiii
-      ”    Sunday, in last generation; I. 387
-      ”    view of Adult Life; II. 260
-      ”    ”    Present Life; I. 330
-  Choral Services, effect of; I. 273. II. xix
-  Chorister’s life, dangers of; I. 274. II. xix
-  Church-going, true principle of; I. 272
-  Competition for Scholars; II. 187
-  Competitive Examination; II. 184
-  Conceited Critic always depreciates; I. 237
-  Content, opportunity for cultivating; I. 152
-  ‘Convenient’ and ‘Inconvenient,’ difference in meaning; I. 140
-  Conversation at Dinner-parties, how to promote: (_see_
-          “Dinner-parties”)
-  Cotton-wool lighter than air, how to obtain; II. 166
-  Critic, conceited, always depreciates; I. 237
-      ”    how to gain character of; I. 238
-  Crocodiles, Logic of; I. 230
-  Croquet. Why is it demoralising? II. 135
+‘Care’ and ‘Don’t-Care,’ history of; II. 385
+Carrying one’s self. Why is it not fatiguing? I. 169
+Charity-Bazaars; II. 44
+”    fallacies as to; II. 43
+”    Pseudo-; II. 42
+Child’s Bible; I. xiii
+”    Sunday, in last generation; I. 387
+”    view of Adult Life; II. 260
+”    ”    Present Life; I. 330
+Choral Services, effect of; I. 273. II. xix
+Chorister’s life, dangers of; I. 274. II. xix
+Church-going, true principle of; I. 272
+Competition for Scholars; II. 187
+Competitive Examination; II. 184
+Conceited Critic always depreciates; I. 237
+Content, opportunity for cultivating; I. 152
+‘Convenient’ and ‘Inconvenient,’ difference in meaning; I. 140
+Conversation at Dinner-parties, how to promote: (_see_
+“Dinner-parties”)
+Cotton-wool lighter than air, how to obtain; II. 166
+Critic, conceited, always depreciates; I. 237
+”    how to gain character of; I. 238
+Crocodiles, Logic of; I. 230
+Croquet. Why is it demoralising? II. 135
 
-                                   D
-  Darwinism reversed; I. 64
-  Day, length and shortness of, compared; I. 159
-      ”    true length of; I. 159
-  Death, certainty of, effect of realising; I. xix
-  Debts, how to avoid Payment of; I. 131
-  Deserts, use for; II. 158
-  Dichotomy, Political, in common life; II. 198, 205, 207
-  Dinner-parties, how to promote Conversation at:—
-      Moving-Guests; II. 145
-          ”    Pictures; II. 143
-      Revolving-Humorist; II. 145
-      Wild-Creatures; II. 144
-  Dog-King, the, (‘Nero’); I. 175. II. 58
-  Dog, Man’s advantage over; II. 293
-      ”    reasoning power of; II. 294
-  ‘Doing good,’ ambiguity of phrase; II. 43
-  Doppelgeist, Baron; I. 85
-  Dramatization of Life; I. 333
-  Dreaminess, certain cure for; I. 136
-  Drunkenness, how to prevent; II. 71
+Darwinism reversed; I. 64
+Day, length and shortness of, compared; I. 159
+”    true length of; I. 159
+Death, certainty of, effect of realising; I. xix
+Debts, how to avoid Payment of; I. 131
+Deserts, use for; II. 158
+Dichotomy, Political, in common life; II. 198, 205, 207
+Dinner-parties, how to promote Conversation at:—
+Moving-Guests; II. 145
+”    Pictures; II. 143
+Revolving-Humorist; II. 145
+Wild-Creatures; II. 144
+Dog-King, the, (‘Nero’); I. 175. II. 58
+Dog, Man’s advantage over; II. 293
+”    reasoning power of; II. 294
+‘Doing good,’ ambiguity of phrase; II. 43
+Doppelgeist, Baron; I. 85
+Dramatization of Life; I. 333
+Dreaminess, certain cure for; I. 136
+Drunkenness, how to prevent; II. 71
 
-                                   E
-  Eggs, how to purchase; II. 196
-  Electricity, influence of, on Literature; I. 64
-  Enjoyment of Life; I. 335
-      ”    Novel-reading; I. 336
-  Eternity, contemplation of. Why is it wearisome? II. 258
-  Events in reverse order; I. 350
-  Examination, Competitive; II. 184
-  Experimental Honeymoons; II. 136
-  Eye, images inverted in the; I. 242
+Eggs, how to purchase; II. 196
+Electricity, influence of, on Literature; I. 64
+Enjoyment of Life; I. 335
+”    Novel-reading; I. 336
+Eternity, contemplation of. Why is it wearisome? II. 258
+Events in reverse order; I. 350
+Examination, Competitive; II. 184
+Experimental Honeymoons; II. 136
+Eye, images inverted in the; I. 242
 
-                                   F
-  Fairies, captured, how to treat; II. 5
-      ”    character of, how to improve; I. 190
-      ”    existence of, possible; II. 300
-      ”    presence of, how to recognise; I. 191. II. 264
-      ”    moral responsibility of; II. 301
-  Falling Houses, Life in; I. 100
-  Final Causes, problem in; I. 297
-  Fires in Theatres, how to prevent; II. 165
-  Fortunatus’ Purse, how to make; II. 100
-  Free-Will and Nerve-Force; I. 390
-  Frog, young, how to amuse; I. 364
-  Future Life. What interests will survive in it? II. 256
+Fairies, captured, how to treat; II. 5
+”    character of, how to improve; I. 190
+”    existence of, possible; II. 300
+”    presence of, how to recognise; I. 191. II. 264
+”    moral responsibility of; II. 301
+Falling Houses, Life in; I. 100
+Final Causes, problem in; I. 297
+Fires in Theatres, how to prevent; II. 165
+Fortunatus’ Purse, how to make; II. 100
+Free-Will and Nerve-Force; I. 390
+Frog, young, how to amuse; I. 364
+Future Life. What interests will survive in it? II. 256
 
-                                   G
-  Gardener’s Song:—
-      Albatross; I. 164
-      Argument; II. 319.
-      Banker’s Clerk; I. 90.
-      Bar of Mottled Soap; II. 319.
-      Bear without a head; I. 116.
-      Buffalo; I. 78.
-      Coach-and-Four; I. 116.
-      Double Rule of Three; I. 168.
-      Elephant; I. 65; II. 334.
-      Garden-Door; I. 168.
-      Hippopotamus; I. 90.
-      Kangaroo; I. 106.
-      Letter from his Wife; I. 65.
-      Middle of Next Week; I. 83.
-      Penny-Postage-Stamp; I. 164.
-      Rattlesnake; I. 83.
-      Sister’s Husband’s Niece; I. 78.
-      Vegetable-Pill; I. 106
-  Ghosts, treatment of, by Shakespeare; I. 60
-      ”    ”    in Railway-Literature; I. 58
-      ”    Weltering, Bread-sauce appropriate for; I. 58
-  Girls’ Shakespeare; I. xv
-  Government with many Kings and one Subject; II. 172
-  Graduated races of Man; I. 299
-  Guests, Moving-; II. 145
+Gardener’s Song:—
+Albatross; I. 164
+Argument; II. 319.
+Banker’s Clerk; I. 90.
+Bar of Mottled Soap; II. 319.
+Bear without a head; I. 116.
+Buffalo; I. 78.
+Coach-and-Four; I. 116.
+Double Rule of Three; I. 168.
+Elephant; I. 65; II. 334.
+Garden-Door; I. 168.
+Hippopotamus; I. 90.
+Kangaroo; I. 106.
+Letter from his Wife; I. 65.
+Middle of Next Week; I. 83.
+Penny-Postage-Stamp; I. 164.
+Rattlesnake; I. 83.
+Sister’s Husband’s Niece; I. 78.
+Vegetable-Pill; I. 106
+Ghosts, treatment of, by Shakespeare; I. 60
+”    ”    in Railway-Literature; I. 58
+”    Weltering, Bread-sauce appropriate for; I. 58
+Girls’ Shakespeare; I. xv
+Government with many Kings and one Subject; II. 172
+Graduated races of Man; I. 299
+Guests, Moving-; II. 145
 
-                                   H
-  Happiness, excessive, how to moderate; I. 159
-  Heaven inconceivable to those on Earth; II. 260
-  Honesty, Dr. Watts’ argument for; I. 235
-  Honeymoons, Experimental; II. 136
-  Horizontal Weather, Boots for; I. 14
-  Horses, Runaway, how to control; II. 108
-  Hot Ink, use of; II. 357
-  Houses, Falling, Life in; I. 100
-  Humorist, Revolving; II. 145
-  Hunting, Morality of; I. xx, 318; II. xviii
-  Hymns appealing to Selfishness; I. 276
+Happiness, excessive, how to moderate; I. 159
+Heaven inconceivable to those on Earth; II. 260
+Honesty, Dr. Watts’ argument for; I. 235
+Honeymoons, Experimental; II. 136
+Horizontal Weather, Boots for; I. 14
+Horses, Runaway, how to control; II. 108
+Hot Ink, use of; II. 357
+Houses, Falling, Life in; I. 100
+Humorist, Revolving; II. 145
+Hunting, Morality of; I. xx, 318; II. xviii
+Hymns appealing to Selfishness; I. 276
 
-                                   I
-  ‘Idle Mouths’; II. 37
-  ‘Imponderal’; II. 166
-  ‘Inconvenient’ and ‘Convenient,’ difference in meaning of; I. 140
-  Indistinctness said to be necessary for Artistic effect; I. 241
-  Ink, Hot, use of; II. 357
-  Instinct and Reason; II. 295
-  Inversion of Brain; I. 243
-      “    images on Retina; I. 242
+‘Idle Mouths’; II. 37
+‘Imponderal’; II. 166
+‘Inconvenient’ and ‘Convenient,’ difference in meaning of; I. 140
+Indistinctness said to be necessary for Artistic effect; I. 241
+Ink, Hot, use of; II. 357
+Instinct and Reason; II. 295
+Inversion of Brain; I. 243
+“    images on Retina; I. 242
 
-                                   J
-  Jam-tasting; II. 150
-  Jesting in Letter-writing, how to indicate; II. 117
+Jam-tasting; II. 150
+Jesting in Letter-writing, how to indicate; II. 117
 
-                                   K
-  ‘King Fisher’ Song; II. 14
-  Knocking-down, some persons not liable to; II. 54
+‘King Fisher’ Song; II. 14
+Knocking-down, some persons not liable to; II. 54
 
-                                   L
-  Ladies, Logic of; I. 235
-  Least Common Multiple, rule of, applied to Literature; I. 22
-  Letter-writing, how to indicate Jesting in; II. 117
-      ”    ”    ”    Shyness in; II. 115
-  Life, adult, Child’s view of; II. 260
-      ”    Dramatization of; I. 133
-      ”    Future, What interests will survive in it? II. 256
-      ”    how to enjoy; I. 335
-      ”    in Falling Houses; I. 100
-      ”    ”    reverse order; I. 350
-      ”    Present, Child’s view of; I. 330
-  Light, Black, how to produce; II. 341
-  Literature as influenced by Electricity; I. 64
-      ”    ”    Steam; I. 64
-      ”    for Railway; I. 58
-      ”    treated by rule of Least Common Multiple; I. 22
-  ‘Little Birds’ (Poem); II. 364, 371, 377
-  ‘Little Man’ (Poem); II. 265
-      ”    privilege of being; I. 299
-  Liturgy, Choral, effect of; I. 273
-  Logic of Crocodiles; I. 230
-      ”    of Ladies; I. 235
-      ”    of Dr. Watts; do.
-      ”    requisites for complete Argument in; I. 259
-  Loving or being loved. Which is best? I. 77
-  Lunatic-Asylums, future use for; II. 132
-  Lunatics out-numbering the Sane, result of; II. 133
+Ladies, Logic of; I. 235
+Least Common Multiple, rule of, applied to Literature; I. 22
+Letter-writing, how to indicate Jesting in; II. 117
+”    ”    ”    Shyness in; II. 115
+Life, adult, Child’s view of; II. 260
+”    Dramatization of; I. 133
+”    Future, What interests will survive in it? II. 256
+”    how to enjoy; I. 335
+”    in Falling Houses; I. 100
+”    ”    reverse order; I. 350
+”    Present, Child’s view of; I. 330
+Light, Black, how to produce; II. 341
+Literature as influenced by Electricity; I. 64
+”    ”    Steam; I. 64
+”    for Railway; I. 58
+”    treated by rule of Least Common Multiple; I. 22
+‘Little Birds’ (Poem); II. 364, 371, 377
+‘Little Man’ (Poem); II. 265
+”    privilege of being; I. 299
+Liturgy, Choral, effect of; I. 273
+Logic of Crocodiles; I. 230
+”    of Ladies; I. 235
+”    of Dr. Watts; do.
+”    requisites for complete Argument in; I. 259
+Loving or being loved. Which is best? I. 77
+Lunatic-Asylums, future use for; II. 132
+Lunatics out-numbering the Sane, result of; II. 133
 
-                                   M
-  Man, advantages of, over the Dog; II. 293
-      ”    graduated races of; I. 299
-      ”    Little, privilege of being; I. 299
-  Maps, best size for; II. 169
-  ‘Matilda Jane’ (Poem); II. 76
-  ‘Megaloscope’; II. 334
-  Minds, or Books. Which contain most Science? I. 21
-  Money, effect of increasing value of; I. 312
-      ”    playing for, a moral act; II. 135
-  Morality of Sport; I. xx, 318. II. xviii
-  Moral Philosophy, teachers of. Which are most esteemed? II. 181
-  Moving-Guests; II. 145
-      ”    Pictures; II. 143
-  Music, how to get largest amount of in given time; I. 338
-      “    Why is it sometimes not pleasing? II. 156
+Man, advantages of, over the Dog; II. 293
+”    graduated races of; I. 299
+”    Little, privilege of being; I. 299
+Maps, best size for; II. 169
+‘Matilda Jane’ (Poem); II. 76
+‘Megaloscope’; II. 334
+Minds, or Books. Which contain most Science? I. 21
+Money, effect of increasing value of; I. 312
+”    playing for, a moral act; II. 135
+Morality of Sport; I. xx, 318. II. xviii
+Moral Philosophy, teachers of. Which are most esteemed? II. 181
+Moving-Guests; II. 145
+”    Pictures; II. 143
+Music, how to get largest amount of in given time; I. 338
+“    Why is it sometimes not pleasing? II. 156
 
-                                   N
-  ‘Nero’ the Dog-King; I. 175. II. 58
-  Nerve-Force and Free-Will; I. 390
-  Nerves, slow action of; I. 158
-  Novel-reading, how to enjoy; I. 336
+‘Nero’ the Dog-King; I. 175. II. 58
+Nerve-Force and Free-Will; I. 390
+Nerves, slow action of; I. 158
+Novel-reading, how to enjoy; I. 336
 
-                                   O
-  ‘Obstruction,’ Political, in common life; II. 203
-  ‘Onus probandi’ misplaced by Crocodiles; I. 230
-      ”    ”    Ladies; I. 235
-      ”    ”    Dr. Watts; do.
-  ‘Opposition,’ Political, in common life; II. 200
+‘Obstruction,’ Political, in common life; II. 203
+‘Onus probandi’ misplaced by Crocodiles; I. 230
+”    ”    Ladies; I. 235
+”    ”    Dr. Watts; do.
+‘Opposition,’ Political, in common life; II. 200
 
-                                   P
-  Pain, how to minimise; I. 337
-  Paley’s definition of Virtue; I. 273
-  Parentheses in Conversation, how to indicate; I. 251
-  Passages, Selected, for learning by heart; I. xv
-  Payment of Debts, how to avoid; I. 131
-  ‘Peter and Paul’ (Poem); I. 143
-  Philosophy, Moral. What kind is most esteemed? II. 181
-  Phlizz, a visionary flower; I. 282
-      ”    ”    fruit; I. 75
-      ”    ”    nurse-maid; I. 283
-  Pictures, how to criticize; I. 238
-      ”    Moving; II. 143
-  ‘Pig Tale’ (Poem); I. 138; II. 366, 372
-  Planets, small; II. 170
-  Playing for money, a moral act; II. 135
-  Pleasure, how to maximise; I. 335
-  Plunge-Bath, portable, for Tourists; I. 25
-  Poems, first lines of:—
-      ‘He stept so lightly to the land’; I. 291
-      ‘He thought he saw an Albatross’; I. 164
-      ”    ”    an Argument’; II. 319
-      ”    ”    a Banker’s Clerk’; I. 90
-      ”    ”    a Buffalo’; I. 78
-      ”    ”    a Coach-and-Four’; I. 116
-      ”    ”    an Elephant’; I. 65; II. 334
-      ”    ”    a Garden-Door’; I. 168
-      ”    ”    a Kangaroo’; I. 106
-      ”    ”    a Rattlesnake’; I. 83
-      ‘In Stature the Manlet was dwarfish’; II. 265
-      ‘King Fisher courted Lady Bird’; II. 14
-      ‘Little Birds are &c.’; II. 364, 371, 377
-      ‘Matilda Jane, you never look’; II. 76
-      ‘One thousand pounds per annuum’; II. 194
-      ‘Peter is poor, said noble Paul’; I. 143
-      ‘Rise, oh rise! The daylight dies’; I. 215
-      ‘Say, what is the spell, when her fledgelings are cheeping’;
-          II. 305
-      ‘There be three Badgers on a mossy stone’; I. 247
-      ‘There was a Pig, that sat alone’; I. 138; II. 366, 372
-  Political Dichotomy in common life; II. 198, 205, 207
-      ”    ‘Opposition’ in common life; II. 200
-  Poor people, method for enriching; I. 312
-  Poverty, blessings of; I. 152
-  Prayer for temporal blessings, efficacy of; I. 391
-  Preachers appealing to Selfishness; I. 276
-      ”    exceptional privileges of; I. 277
-  Promises. When are they binding? II. 26
-      ”    breaking of. Why is it wrong? II. 27
-  Proof, Burden of; (_see_ ‘Burden of Proof’)
-  Property, inherited, duties of owner of; II. 39
-  Pseudo-Charity; II. 43
-  Purse of Fortunatus, how to make; II. 100
+Pain, how to minimise; I. 337
+Paley’s definition of Virtue; I. 273
+Parentheses in Conversation, how to indicate; I. 251
+Passages, Selected, for learning by heart; I. xv
+Payment of Debts, how to avoid; I. 131
+‘Peter and Paul’ (Poem); I. 143
+Philosophy, Moral. What kind is most esteemed? II. 181
+Phlizz, a visionary flower; I. 282
+”    ”    fruit; I. 75
+”    ”    nurse-maid; I. 283
+Pictures, how to criticize; I. 238
+”    Moving; II. 143
+‘Pig Tale’ (Poem); I. 138; II. 366, 372
+Planets, small; II. 170
+Playing for money, a moral act; II. 135
+Pleasure, how to maximise; I. 335
+Plunge-Bath, portable, for Tourists; I. 25
+Poems, first lines of:—
+‘He stept so lightly to the land’; I. 291
+‘He thought he saw an Albatross’; I. 164
+”    ”    an Argument’; II. 319
+”    ”    a Banker’s Clerk’; I. 90
+”    ”    a Buffalo’; I. 78
+”    ”    a Coach-and-Four’; I. 116
+”    ”    an Elephant’; I. 65; II. 334
+”    ”    a Garden-Door’; I. 168
+”    ”    a Kangaroo’; I. 106
+”    ”    a Rattlesnake’; I. 83
+‘In Stature the Manlet was dwarfish’; II. 265
+‘King Fisher courted Lady Bird’; II. 14
+‘Little Birds are &c.’; II. 364, 371, 377
+‘Matilda Jane, you never look’; II. 76
+‘One thousand pounds per annuum’; II. 194
+‘Peter is poor, said noble Paul’; I. 143
+‘Rise, oh rise! The daylight dies’; I. 215
+‘Say, what is the spell, when her fledgelings are cheeping’;
+‘There be three Badgers on a mossy stone’; I. 247
+‘There was a Pig, that sat alone’; I. 138; II. 366, 372
+Political Dichotomy in common life; II. 198, 205, 207
+”    ‘Opposition’ in common life; II. 200
+Poor people, method for enriching; I. 312
+Poverty, blessings of; I. 152
+Prayer for temporal blessings, efficacy of; I. 391
+Preachers appealing to Selfishness; I. 276
+”    exceptional privileges of; I. 277
+Promises. When are they binding? II. 26
+”    breaking of. Why is it wrong? II. 27
+Proof, Burden of; (_see_ ‘Burden of Proof’)
+Property, inherited, duties of owner of; II. 39
+Pseudo-Charity; II. 43
+Purse of Fortunatus, how to make; II. 100
 
-                                   Q
-  Questions in Conversation, how to indicate; I. 251
+Questions in Conversation, how to indicate; I. 251
 
-                                   R
-  Railway Literature; I. 58
-      ”    Scenes, Dramatization of; I. 333
-  Rain, Horizontal, Boots for; I. 14
-  Reason and Instinct; II. 295
-      ”    power of, in Dog; II. 294
-  Retina, images inverted on; I. 242
-  Reversed order of Events; I. 350
-  Revolving-Humorist; II. 145
-  Runaway Horses, how to control; II. 108
+Railway Literature; I. 58
+”    Scenes, Dramatization of; I. 333
+Rain, Horizontal, Boots for; I. 14
+Reason and Instinct; II. 295
+”    power of, in Dog; II. 294
+Retina, images inverted on; I. 242
+Reversed order of Events; I. 350
+Revolving-Humorist; II. 145
+Runaway Horses, how to control; II. 108
 
-                                   S
-  Scenery enjoyed most by Little Men; I. 299
-  Scholars, Competition for; II. 187
-  Science, Axioms of; II. 330
-      “    Do Books, or Minds, contain most? I. 21
-  Selections from Bible, for Children; I. xiii
-      ”    ”    for learning by heart; I. xiv
-      ”    Prose and Verse,    ”    ”; I. xv
-      ”    from Shakespeare, for Girls; I. xv
-  Selfishness appealed to in Hymns; I. 276
-      ”    ”    religious teaching; do.
-      ”    ”    Sermons; do.
-  Sermons appealing to Selfishness; do.
-      ”    faults of; I. 277. II. xix
-  Services, Choral, effect of; I. 273
-  Shakespeare, passages of, discussed:—
-          ‘All the world’s a stage’; I. 335
-          ‘Aye, every inch a king!’; I. 373
-          ‘Is this a dagger that I see before me?’; I. 371
-          ‘Rest, rest, perturbed Spirit!’; I. 60
-          ‘To be, or not to be’; I. 370
-      ”    Selections from, for Girls; I. xv
-      ”    treatment of Ghosts by; I. 60
-  Shyness, how to indicate in Letter-writing; II. 115
-  ‘Sillygism,’ requisites for; I. 259
-  Sinfulness, amount of, in World; II. 125
-      ”    of an act differs with environment; II. 123
-  Sobriety, extreme, inconvenience of; I. 140
-  Spencer, Herbert, difficulties in; I. 258
-  Spherical, advantage of being; II. 190
-  Sport, Morality of; I. xx, 318. II. xviii
-  Steam, influence of, on Literature; I. 64
-  Sufferings of Animals, mystery of; II. 296
-  Sunday, as spent by children of last generation; I. 387
-      ”    observance of; I. 385
-  Sylvie and Bruno’s Song; II. 305
+Scenery enjoyed most by Little Men; I. 299
+Scholars, Competition for; II. 187
+Science, Axioms of; II. 330
+“    Do Books, or Minds, contain most? I. 21
+Selections from Bible, for Children; I. xiii
+”    ”    for learning by heart; I. xiv
+”    Prose and Verse,    ”    ”; I. xv
+”    from Shakespeare, for Girls; I. xv
+Selfishness appealed to in Hymns; I. 276
+”    ”    religious teaching; do.
+”    ”    Sermons; do.
+Sermons appealing to Selfishness; do.
+”    faults of; I. 277. II. xix
+Services, Choral, effect of; I. 273
+Shakespeare, passages of, discussed:—
+‘All the world’s a stage’; I. 335
+‘Aye, every inch a king!’; I. 373
+‘Is this a dagger that I see before me?’; I. 371
+‘Rest, rest, perturbed Spirit!’; I. 60
+‘To be, or not to be’; I. 370
+”    Selections from, for Girls; I. xv
+”    treatment of Ghosts by; I. 60
+Shyness, how to indicate in Letter-writing; II. 115
+‘Sillygism,’ requisites for; I. 259
+Sinfulness, amount of, in World; II. 125
+”    of an act differs with environment; II. 123
+Sobriety, extreme, inconvenience of; I. 140
+Spencer, Herbert, difficulties in; I. 258
+Spherical, advantage of being; II. 190
+Sport, Morality of; I. xx, 318. II. xviii
+Steam, influence of, on Literature; I. 64
+Sufferings of Animals, mystery of; II. 296
+Sunday, as spent by children of last generation; I. 387
+”    observance of; I. 385
+Sylvie and Bruno’s Song; II. 305
 
-                                   T
-  Teetotal-Card; II. 139
-  Theatres, Fires in, how to prevent; II. 165
-  ‘Three Badgers’ (Poem); I. 247
-  Time, how to put back; I. 314, 347
-      ”    ”    reverse; I. 350
-      ”    storage of; II. 105
-  ‘Tottles’ (Poem); II. 194, 201, 209, 248
-  Tourists’ Portable Bath; I. 25
-  Trains running without engines; II. 106
+Teetotal-Card; II. 139
+Theatres, Fires in, how to prevent; II. 165
+‘Three Badgers’ (Poem); I. 247
+Time, how to put back; I. 314, 347
+”    ”    reverse; I. 350
+”    storage of; II. 105
+‘Tottles’ (Poem); II. 194, 201, 209, 248
+Tourists’ Portable Bath; I. 25
+Trains running without engines; II. 106
 
-                                   V
-  Velocity, Accelerated, causes of; II. 190
-  Virtue, Paley’s definition of; I. 274
-  Voyages on Land; II. 109
+Velocity, Accelerated, causes of; II. 190
+Virtue, Paley’s definition of; I. 274
+Voyages on Land; II. 109
 
-                                   W
-  Walking-sticks that walk alone, how to obtain; II. 166
-  Water, people lighter than, how to obtain; II. 165
-  Watts, Dr., Argument for Honesty; I. 235
-      ”    Logic of; do.
-  Weather, Horizontal, Boots for; I. 14
-  Weight, force of, how to exhaust; II. 343
-      ”    relative, conceivable non-existence of; I. 100
-  Weltering, Bread-sauce appropriate for; I. 58
-  ‘What Tottles meant’ (Poem); II. 194, 201, 209, 248
-  Wild-Creatures; II. 144
-  Wilderness, use for; II. 158
-  ‘Wilful waste, &c.,’ lesson to be learnt from; II. 69
+Walking-sticks that walk alone, how to obtain; II. 166
+Water, people lighter than, how to obtain; II. 165
+Watts, Dr., Argument for Honesty; I. 235
+”    Logic of; do.
+Weather, Horizontal, Boots for; I. 14
+Weight, force of, how to exhaust; II. 343
+”    relative, conceivable non-existence of; I. 100
+Weltering, Bread-sauce appropriate for; I. 58
+‘What Tottles meant’ (Poem); II. 194, 201, 209, 248
+Wild-Creatures; II. 144
+Wilderness, use for; II. 158
+‘Wilful waste, &c.,’ lesson to be learnt from; II. 69
 
 
 
 
-                        Works by Lewis Carroll.
+Works by Lewis Carroll.
 
 
-                     SYLVIE AND BRUNO. First Part.
+SYLVIE AND BRUNO. First Part.
 
 With forty-six Illustrations by Harry Furniss. 12mo, cloth extra, gilt,
-                                 $1.50.
+$1.50.
 
 “A charming book for children. The illustrations are very
 happy.”—_Boston Traveller._
@@ -9197,13 +8893,11 @@ of plot, characters, and incidents in his stories.... It is a charming
 piece of work.”—_New York Sun._
 
 
-                   ALICE’S ADVENTURES IN WONDERLAND.
 
-   _One Hundredth Thousand._ With forty-two Illustrations by Tenniel.
-                       12mo, cloth, gilt, $1.00.
-                Also a German Translation. 12mo, $2.00.
-                   A French Translation. 12mo, $2.00.
-                  An Italian Translation. 12mo, $2.00.
+_One Hundredth Thousand._ With forty-two Illustrations by Tenniel.
+Also a German Translation. 12mo, $2.00.
+A French Translation. 12mo, $2.00.
+An Italian Translation. 12mo, $2.00.
 
 “An excellent piece of nonsense.”—_Times._
 
@@ -9227,10 +8921,9 @@ primitive views they take of life is one of the distinctive
 characteristics of Lewis Carroll.”—_The Churchman._
 
 
-         THROUGH THE LOOKING-GLASS, AND WHAT ALICE FOUND THERE.
 
- _Sixtieth Thousand._ With fifty Illustrations by Tenniel. 12mo, cloth,
-                              gilt, $1.00.
+_Sixtieth Thousand._ With fifty Illustrations by Tenniel. 12mo, cloth,
+gilt, $1.00.
 
 “Will fairly rank with the tale of her previous experience.”—_Daily
 Telegraph._
@@ -9242,21 +8935,19 @@ absurdity.”—_Athenæum._
 to be found nowadays.”—_Echo._
 
 
-  ALICE’S ADVENTURES IN WONDERLAND, and THROUGH THE LOOKING-GLASS, AND
-                        WHAT ALICE FOUND THERE.
+ALICE’S ADVENTURES IN WONDERLAND, and THROUGH THE LOOKING-GLASS, AND
 
-  With all the Illustrations. Printed in one volume, on thinner paper,
-                             cloth, $1.25.
+With all the Illustrations. Printed in one volume, on thinner paper,
+cloth, $1.25.
 
 “We know of no books in the whole range of juvenile literature so full
 of genuine and boundless fun as these.”—_Boston Evening Transcript._
 
 
-                           THE NURSERY ALICE.
 
- Containing twenty colored enlargements from Tenniel’s Illustrations to
-    _Alice’s Adventures in Wonderland_, with text adapted to Nursery
-          Readers by Lewis Carroll. 4to, colored cover, $1.50.
+Containing twenty colored enlargements from Tenniel’s Illustrations to
+_Alice’s Adventures in Wonderland_, with text adapted to Nursery
+Readers by Lewis Carroll. 4to, colored cover, $1.50.
 
 “Let the little people rejoice!—the most charming book in the world has
 appeared for them. _The Nursery Alice_, with its wealth of colored
@@ -9270,17 +8961,14 @@ among the wee ones as the larger volume has among the older
 children.”—_Christian at Work._
 
 
-                    ALICE’S ADVENTURES UNDER GROUND.
 
-  Being a Fac-simile of the original MS. Book afterward developed into
-  _Alice’s Adventures in Wonderland_. With twenty-seven Illustrations.
-                              12mo, $1.50.
+Being a Fac-simile of the original MS. Book afterward developed into
+_Alice’s Adventures in Wonderland_. With twenty-seven Illustrations.
 
 
-                       THE HUNTING OF THE SNARK.
 
- An Agony in Eight Fits. With nine Illustrations by Henry Holiday. _New
-                     Edition._ Cloth, gilt, $1.00.
+An Agony in Eight Fits. With nine Illustrations by Henry Holiday. _New
+Edition._ Cloth, gilt, $1.00.
 
 “This is a very pretty edition of the verses which should have made
 their author famous, even if he had never written _Alice in Wonderland_.
@@ -9289,10 +8977,9 @@ in the natural histories, yet it is a very charming creature. The book
 contains nine quaint illustrations by Henry Holiday.”—_America._
 
 
-                           RHYME? AND REASON?
 
-   With sixty-five Illustrations by Arthur B. Frost and nine by Henry
-                         Holiday. 12mo, $1.50.
+With sixty-five Illustrations by Arthur B. Frost and nine by Henry
+Holiday. 12mo, $1.50.
 
 This book is a reprint, with additions, of the comic portions of
 _Phantasmagoria, and other Poems_, and of _The Hunting of the Snark_.
@@ -9306,10 +8993,9 @@ the rhyming exceedingly ingenious.”—_Boston Saturday Evening Gazette._
 great popularity.”—_Philadelphia Press._
 
 
-                            A TANGLED TALE.
 
- Reprinted from the _Monthly Packet_. With Illustrations. 12mo, cloth,
-                                 $1.50.
+Reprinted from the _Monthly Packet_. With Illustrations. 12mo, cloth,
+$1.50.
 
 “To people mathematically inclined, who are fond of odd style and odd
 illustrations, and who like to travel so many (Gordian) knots an hour,
@@ -9317,36 +9003,28 @@ Mr. Lewis Carroll’s new ‘wonderland’—_A Tangled Tale_—will prove a
 delightful treat.”—_The Critic._
 
 
-                           THE GAME OF LOGIC.
 
-   With an Envelope containing a Card Diagram and Nine Counters—four
-                 red and five gray. 12mo, cloth, $1.00.
-
+With an Envelope containing a Card Diagram and Nine Counters—four
+red and five gray. 12mo, cloth, $1.00.
 
 
 
-                         A NEW UNIFORM EDITION
-                                   OF
-                           MRS. MOLESWORTH’S
-                          STORIES FOR CHILDREN
-                                  WITH
-            ILLUSTRATIONS BY WALTER CRANE AND LESLIE BROOKE.
 
 
-           In Ten Volumes. 12mo. Cloth. One Dollar a Volume.
 
-  Tell Me a Story, and Herr Baby.
-    “Carrots,” and A Christmas Child.
-      Grandmother Dear, and Two Little Waifs.
-    The Cuckoo Clock, and The Tapestry Room.
-    Christmas-Tree Land, and A Christmas Posy.
-  The Children of the Castle, and Four Winds Farm.
-    Little Miss Peggy, and Nurse Heatherdale’s Story.
-      “Us,” and The Rectory Children.
-    Rosy, and The Girls and I.
-    Mary.
+In Ten Volumes. 12mo. Cloth. One Dollar a Volume.
 
-                 THE SET, TEN VOLUMES, IN BOX, $10.00.
+Tell Me a Story, and Herr Baby.
+“Carrots,” and A Christmas Child.
+Grandmother Dear, and Two Little Waifs.
+The Cuckoo Clock, and The Tapestry Room.
+Christmas-Tree Land, and A Christmas Posy.
+The Children of the Castle, and Four Winds Farm.
+Little Miss Peggy, and Nurse Heatherdale’s Story.
+“Us,” and The Rectory Children.
+Rosy, and The Girls and I.
+Mary.
+
 
 “It seems to me not at all easier to draw a lifelike child than to draw
 a lifelike man or woman: Shakespeare and Webster were the only two men
@@ -9364,8 +9042,7 @@ novels dealing with the characters and fortunes of mere adults.”—Mrs. A.
 C. Swinburne, in _The Nineteenth Century_.
 
 
-                           MRS. MOLESWORTH’S
-                         Stories for Children.
+Stories for Children.
 
 “There is hardly a better author to put into the hands of children than
 Mrs. Molesworth. I cannot easily speak too highly of her work. It is a
@@ -9414,16 +9091,15 @@ more escape their charm than younger ones.”—_Christian Union._
 of children’s stories that possess real literary merit.”—_Milwaukee
 Sentinel._
 
-                 THE SET, TEN VOLUMES, IN BOX, $10.00.
 
 
-                    TELL ME A STORY, and HERR BABY.
+TELL ME A STORY, and HERR BABY.
 
 “So delightful that we are inclined to join in the petition, and we hope
 she may soon tell us more stories.”—_Athenæum._
 
 
-                     “CARROTS”; Just a Little Boy.
+“CARROTS”; Just a Little Boy.
 
 “One of the cleverest and most pleasing stories it has been our good
 fortune to meet with for some time. Carrots and his sister are
@@ -9431,7 +9107,7 @@ delightful little beings, whom to read about is at once to become very
 fond of.”—_Examiner._
 
 
-              A CHRISTMAS CHILD; A Sketch of a Boy’s Life.
+A CHRISTMAS CHILD; A Sketch of a Boy’s Life.
 
 “A very sweet and tenderly drawn sketch, with life and reality manifest
 throughout.”—_Pall Mall Gazette._
@@ -9452,20 +9128,17 @@ creature, if not a portrait, whom it is a privilege to meet even in
 fiction.”—_The Academy._
 
 
-                           THE CUCKOO CLOCK.
 
 “A beautiful little story.... It will be read with delight by every
 child into whose hands it is placed.”—_Pall Mall Gazette._
 
 
-                           GRANDMOTHER DEAR.
 
 “The author’s concern is with the development of character, and seldom
 does one meet with the wisdom, tact, and good breeding which pervade
 this little book.”—_Nation._
 
 
-                           TWO LITTLE WAIFS.
 
 “Mrs. Molesworth’s delightful story of _Two Little Waifs_ will charm all
 the small people who find it in their stockings. It relates the
@@ -9484,7 +9157,6 @@ children in searching for their father, whom they had missed in Paris,
 where they had gone to meet him.”—_Montreal Star._
 
 
-                           THE TAPESTRY ROOM.
 
 “Mrs. Molesworth is the queen of children’s fairy-land. She knows how to
 make use of the vague, fresh, wondering instincts of childhood, and to
@@ -9496,7 +9168,6 @@ children, whether we consider its capacity to awaken interest or its
 wholesomeness.”—_Evening Post._
 
 
-                          CHRISTMAS-TREE LAND.
 
 “It is conceived after a happy fancy, as it relates the supposititious
 journey of a party of little ones through that part of fairy-land where
@@ -9516,7 +9187,6 @@ adventures and enough of the fairylike and wonderful to puzzle and
 enchant all the little ones.”—_Boston Home Journal._
 
 
-                           A CHRISTMAS POSY.
 
 “This is a collection of eight of those inimitable stories for children
 which none could write better than Mrs. Molesworth. Her books are prime
@@ -9531,7 +9201,6 @@ present volume is a cluster of delightful short stories. Mr. Crane’s
 illustrations are in harmony with the text.”—_Christian Intelligencer._
 
 
-                      THE CHILDREN OF THE CASTLE.
 
 “_The Children of the Castle_, by Mrs. Molesworth, is another of those
 delightful juvenile stories of which this author has written so many. It
@@ -9548,7 +9217,6 @@ is so artistically managed that it does not seem like a lesson, but only
 a part of the story.”—_Milwaukee Sentinel._
 
 
-                            FOUR WINDS FARM.
 
 “Mrs. Molesworth’s books are always delightful, but of all none is more
 charming than the volume with which she greets the holidays this season.
@@ -9569,7 +9237,6 @@ truly, with a tender heart and firm mind. The idea of this little book
 is essentially poetical.”—_Literary World._
 
 
-                       NURSE HEATHERDALE’S STORY.
 
 “_Nurse Heatherdale’s Story_ is all about a small boy, who was good
 enough, yet was always getting into some trouble through complications
@@ -9582,7 +9249,6 @@ child’s book will find nothing to harm and something to interest in this
 simple story.”—_Commercial Advertiser._
 
 
-                                 “US.”
 
 “Mrs. Molesworth’s _Us, an Old-Fashioned Story_, is very charming. A
 dear little six-year-old ‘bruvver’ and sister constitute the ‘us,’ whose
@@ -9602,7 +9268,6 @@ delicacy, and the exquisiteness and purity of the English in which it is
 written.”—_Boston Advertiser._
 
 
-                         THE RECTORY CHILDREN.
 
 “In _The Rectory Children_ Mrs. Molesworth has written one of those
 delightful volumes which we always look for at Christmas
@@ -9627,7 +9292,6 @@ life, always natural and attractive, and her stories are wholesome and
 interesting.”—_Indianapolis Journal._
 
 
-                                 ROSY.
 
 “_Rosy_, like all the rest of her stories, is bright and pure and
 utterly free from cant,—a book that children will read with pleasure and
@@ -9650,7 +9314,6 @@ sentiment, and points with great delicacy and genuine feeling a charming
 moral.”—_Boston Gazette._
 
 
-                            THE GIRLS AND I.
 
 “Perhaps the most striking feature of this pleasant story is the natural
 manner in which it is written. It is just like the conversation of a
@@ -9665,50 +9328,12 @@ readers.”—_Gettysburg Monthly._
 being benefited.”—_New York Observer._
 
 
-                                 MARY.
 
-              Mrs. Molesworth’s last story. _Just Ready._
+Mrs. Molesworth’s last story. _Just Ready._
 
 “Mrs. Molesworth’s reputation as a writer of story-books is so well
 established that any new book of hers scarce needs a word of
 introduction.”—_Home Journal._
-
-                            MACMILLAN & CO.,
-                       66 FIFTH AVENUE, NEW YORK.
-
-[Illustration: Book back cover.]
-
-
-
-
-                          Transcriber’s Notes
-
-
---Copyright notice provided as in the original—this e-text is public
-  domain in the country of publication.
-
---Silently corrected palpable typos; left non-standard spellings and
-  dialect unchanged.
-
---Moved the frontispiece illustration to the corresponding place in the
-  text, and adjusted the table of illustration accordingly.
-
---Collated table of illustrations, checked page numbers, and added its
-  captions to the illustrations.
-
---Only in the text versions, delimited italicized text (or
-  non-italicized text within poetry) in _underscores_ (the HTML version
-  reproduces the font form of the printed book.)
-
---The HTML version contains relative links to pages and illustrations in
-  the companion volume: Gutenberg #48630: Sylvie and Bruno, Illustrated
-
---Removed the note (N.B. “stagy-entrances” is a misprint for
-  “stage-entrances”) because the typo was corrected in the companion
-  volume
-
-
-
 
 
 

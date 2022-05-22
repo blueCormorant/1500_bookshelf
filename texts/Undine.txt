@@ -1,22 +1,5 @@
 
 
-
-
-
-UNDINE
-
-By Friedrich de la Motte Fouque
-
-With foreword by Charlotte M Yonge
-
-
-
-
-Introduction
-
-
-
-
 Four tales are, it is said, intended by the Author to be appropriate to
 the Four Seasons: the stern, grave “Sintram”, to winter; the tearful,
 smiling, fresh “Undine”, to Spring; the torrid deserts of the “Two
@@ -56,8 +39,8 @@ in their elevation of sentiment and the earnest faith pervading all. His
 knights might be Sir Galahad--
 
 
-            “My strength is as the strength of ten,
-             Because my heart is pure.”
+“My strength is as the strength of ten,
+Because my heart is pure.”
 
 
 Evil comes to them as something to be conquered, generally as a form of
@@ -120,7 +103,6 @@ either end of the scale. Cardinal Newman, in his younger days, was
 so much overcome by it that he hurried out into the garden to read it
 alone, and returned with traces of emotion in his face. And when Charles
 Lowder read it to his East End boys, their whole minds seemed engrossed
-by it, and they even called certain spots after the places mentioned.
 Imagine the Rocks of the Moon in Ratcliff Highway!
 
 May we mention that Miss Christabel Coleridge’s “Waynflete” brings
@@ -159,19 +141,15 @@ this tale there is far less of spiritual meaning than in Sintram, we
 cannot but see that Fouque’s thought was that the grosser human nature
 is unable to appreciate what is absolutely pure and unearthly.
 
-C. M. YONGE.
 
 
 
 
-UNDINE
-
-by Friedrich de la Motte Fouque
 
 
 
 
-TO UNDINE
+
 
 
 Undine! thou fair and lovely sprite, Since first from out an ancient lay
@@ -197,7 +175,6 @@ each lady fair!”
 
 
 
-CHAPTER 1
 
 
 
@@ -430,7 +407,6 @@ reproved Undine for her disobedience and her unbecoming carriage towards
 the stranger, and his good old wife joined him in harping on the same
 string.
 
-By these rebukes Undine was only excited the more. “If you want to
 quarrel with me,” she cried, “and will not let me hear what I so much
 desire, then sleep alone in your smoky old hut!” And swift as an arrow
 she shot from the door, and vanished amid the darkness of the night.
@@ -491,7 +467,7 @@ her couch; and they relished their beverage and enjoyed their chat as
 two such good men and true ever ought to do. To be sure, whenever the
 slightest thing moved before the windows, or at times when even nothing
 was moving, one of them would look up and exclaim, “Here she comes!”
- Then would they continue silent a few moments, and afterward, when
+Then would they continue silent a few moments, and afterward, when
 nothing appeared, would shake their heads, breathe out a sigh, and go on
 with their talk.
 
@@ -646,7 +622,6 @@ searching and calling.
 
 
 
-CHAPTER 2
 
 
 
@@ -740,10 +715,10 @@ wishes, and from which the knight would soon or late go away. Then,
 throwing her arms round Huldbrand, she sang the following verse with the
 warbling sweetness of a bird:
 
-     “A rill would leave its misty vale,
-     And fortunes wild explore,
-     Weary at length it reached the main,
-     And sought its vale no more.”
+“A rill would leave its misty vale,
+And fortunes wild explore,
+Weary at length it reached the main,
+And sought its vale no more.”
 
 The old fisherman wept bitterly at her song, but his emotion seemed to
 awaken little or no sympathy in her. She kissed and caressed her new
@@ -1014,7 +989,6 @@ Bertalda?”
 
 
 
-CHAPTER 3
 
 
 
@@ -1207,7 +1181,6 @@ without:
 You that are within the cottage there, if you fear God and would afford
 me assistance, open your door to me.”
 
-By the time these words were spoken, Undine had already opened it; and
 the lamp throwing a strong light upon the stormy night, they perceived
 an aged priest without, who stepped back in terror, when his eye fell on
 the unexpected sight of a little damsel of such exquisite beauty. Well
@@ -1392,7 +1365,6 @@ bright and comfortable hearth.
 
 
 
-CHAPTER 4
 
 
 
@@ -1689,7 +1661,6 @@ father.
 
 
 
-CHAPTER 5
 
 
 
@@ -1783,7 +1754,7 @@ when a sweet sunbeam glances down upon me at times unexpectedly.”
 have a more intimate acquaintance with you.”
 
 “And who, then, may you be yourself, to pass from one thing to another?”
- inquired the stranger.
+inquired the stranger.
 
 “I am called Father Heilmann,” answered the holy man; “and I am from the
 cloister of Our Lady of the Salutation, beyond the lake.”
@@ -1979,7 +1950,6 @@ of the fountain has told me!--dear, dear Bertalda!”
 
 
 
-CHAPTER 6
 
 
 
@@ -2009,52 +1979,52 @@ seemed pleased at; and ordering her lute to be brought, she sang the
 following words:--
 
 
-                   “Morning so bright,
-                    Wild-flowers so gay,
-                    Where high grass so dewy
-                    Crowns the wavy lake’s border.
+“Morning so bright,
+Wild-flowers so gay,
+Where high grass so dewy
+Crowns the wavy lake’s border.
 
-                    On the meadow’s verdant bosom
-                    What glimmers there so white?
-                    Have wreaths of snowy blossoms,
-                    Soft-floating, fallen from heaven?
+On the meadow’s verdant bosom
+What glimmers there so white?
+Have wreaths of snowy blossoms,
+Soft-floating, fallen from heaven?
 
-                    Ah, see! a tender infant!--
-                    It plays with flowers, unwittingly;
-                    It strives to grasp morn’s golden beams.
-                    O where, sweet stranger, where’s your home?
-                    Afar from unknown shores
-                    The waves have wafted hither
-                    This helpless little one.
+Ah, see! a tender infant!--
+It plays with flowers, unwittingly;
+It strives to grasp morn’s golden beams.
+O where, sweet stranger, where’s your home?
+Afar from unknown shores
+The waves have wafted hither
+This helpless little one.
 
-                    Nay, clasp not, tender darling,
-                    With tiny hand the flowers!
-                    No hand returns the pressure,
-                    The flowers are strange and mute.
+Nay, clasp not, tender darling,
+With tiny hand the flowers!
+No hand returns the pressure,
+The flowers are strange and mute.
 
-                    They clothe themselves in beauty,
-                    They breathe a rich perfume:
-                    But cannot fold around you
-                    A mother’s loving arms;--
-                    Far, far away that mother’s fond embrace.
+They clothe themselves in beauty,
+They breathe a rich perfume:
+But cannot fold around you
+A mother’s loving arms;--
+Far, far away that mother’s fond embrace.
 
-                    Life’s early dawn just opening faint,
-                    Your eye yet beaming heaven’s own smile,
-                    So soon your tenderest guardians gone;
-                    Severe, poor child, your fate,--
-                    All, all to you unknown.
+Life’s early dawn just opening faint,
+Your eye yet beaming heaven’s own smile,
+So soon your tenderest guardians gone;
+Severe, poor child, your fate,--
+All, all to you unknown.
 
-                    A noble duke has crossed the mead,
-                    And near you checked his steed’s career:
-                    Wonder and pity touch his heart;
-                    With knowledge high, and manners pure,
-                    He rears you,--makes his castle home your own.
+A noble duke has crossed the mead,
+And near you checked his steed’s career:
+Wonder and pity touch his heart;
+With knowledge high, and manners pure,
+He rears you,--makes his castle home your own.
 
-                    How great, how infinite your gain!
-                    Of all the land you bloom the loveliest;
-                    Yet, ah! the priceless blessing,
-                    The bliss of parents’ fondness,
-                    You left on strands unknown!”
+How great, how infinite your gain!
+Of all the land you bloom the loveliest;
+Yet, ah! the priceless blessing,
+The bliss of parents’ fondness,
+You left on strands unknown!”
 
 
 Undine let fall her lute with a melancholy smile. The eyes of Bertalda’s
@@ -2065,8 +2035,8 @@ orphan!” cried the duke, with deep emotion; “the beautiful singer is
 certainly right: still
 
 
-                        ‘The priceless blessing,
-                    The bliss of parents’ fondness,’
+‘The priceless blessing,
+The bliss of parents’ fondness,’
 
 
 it was beyond our power to give you.”
@@ -2075,30 +2045,30 @@ it was beyond our power to give you.”
 Undine, as she struck the chords, and sung:--
 
 
-                  “Through her chambers roams the mother
-                     Searching, searching everywhere;
-                   Seeks, and knows not what, with yearning,
-                     Childless house still finding there.
+“Through her chambers roams the mother
+Searching, searching everywhere;
+Seeks, and knows not what, with yearning,
+Childless house still finding there.
 
-                   Childless house!--O sound of anguish!
-                     She alone the anguish knows,
-                   There by day who led her dear one,
-                     There who rocked its night-repose.
+Childless house!--O sound of anguish!
+She alone the anguish knows,
+There by day who led her dear one,
+There who rocked its night-repose.
 
-                   Beechen buds again are swelling,
-                     Sunshine warms again the shore;
-                   Ah, fond mother, cease your searching!
-                     Comes the loved and lost no more.
+Beechen buds again are swelling,
+Sunshine warms again the shore;
+Ah, fond mother, cease your searching!
+Comes the loved and lost no more.
 
-                   Then when airs of eve are fresh’ning,
-                     Home the father wends his way,
-                   While with smiles his woe he’s veiling,
-                     Gushing tears his heart betray.
+Then when airs of eve are fresh’ning,
+Home the father wends his way,
+While with smiles his woe he’s veiling,
+Gushing tears his heart betray.
 
-                   Well he knows, within his dwelling,
-                     Still as death he’ll find the gloom,
-                   Only hear the mother moaning,--
-                     No sweet babe to SMILE him home.”
+Well he knows, within his dwelling,
+Still as death he’ll find the gloom,
+Only hear the mother moaning,--
+No sweet babe to SMILE him home.”
 
 
 “O, tell me, in the name of Heaven tell me, Undine, where are my
@@ -2196,7 +2166,7 @@ same kind on the instep of her left foot. If she will only consent to go
 out of the hall with me--”
 
 “I will not consent to uncover myself before the peasant woman,”
- interrupted Bertalda, haughtily turning her back upon her.
+interrupted Bertalda, haughtily turning her back upon her.
 
 “But before me you certainly will,” replied the duchess gravely. “You
 will follow me into that room, maiden; and the old woman shall go with
@@ -2343,7 +2313,6 @@ spirit-world than one of the human race.
 
 
 
-CHAPTER 7
 
 
 
@@ -2593,7 +2562,6 @@ without permitting a single servant to accompany her.
 The Black Valley lies secluded far among the mountains. What its present
 name may be I am unable to say. At the time of which I am speaking, the
 country-people gave it this appellation from the deep obscurity produced
-by the shadows of lofty trees, more especially by a crowded growth of
 firs that covered this region of moorland. Even the brook, which bubbled
 between the rocks, assumed the same dark hue, and showed nothing of that
 cheerful aspect which streams are wont to wear that have the blue sky
@@ -2770,7 +2738,7 @@ like mill-wheels; and the waggoner had got on before, to avoid the swell
 of the flood.
 
 “What sort of a road is this? It leads into the middle of the stream!”
- cried Huldbrand to his guide.
+cried Huldbrand to his guide.
 
 “Not at all, sir,” returned he, with a laugh; “it is just the contrary.
 The stream is running in the middle of our road. Only look about you,
@@ -2780,7 +2748,7 @@ The whole valley, in fact, was in commotion, as the waters, suddenly
 raised and visibly rising, swept over it.
 
 “It is Kuhleborn, that evil water-spirit, who wishes to drown us!”
- exclaimed the knight. “Have you no charm of protection against him,
+exclaimed the knight. “Have you no charm of protection against him,
 friend?”
 
 “I have one,” answered the waggoner; “but I cannot and must not make use
@@ -2814,7 +2782,6 @@ valley; and thus all three returned homeward to Castle Ringstetten.
 
 
 
-CHAPTER 8
 
 
 
@@ -2901,7 +2868,6 @@ that she was a maid of the sea. It is my misfortune that my steps are
 haunted and disturbed by the wild humours of her kindred, but it is not
 my crime.”
 
-By reflections like these, he felt himself in some measure strengthened;
 but, on the other hand, he felt the more ill-humour, almost dislike,
 towards Undine. He would look angrily at her, and the unhappy wife but
 too well understood his meaning. One day, grieved by this unkindness, as
@@ -3057,7 +3023,6 @@ old man had loved Undine with exceeding tenderness, and it was doubtful
 to his mind that the mere disappearance of his beloved child could be
 properly viewed as her death. But were it even granted that her corpse
 were lying stiff and cold at the bottom of the Danube, or swept away
-by the current to the ocean, still Bertalda had had some share in her
 death; and it was unfitting for her to step into the place of the poor
 injured wife. The fisherman, however, had felt a strong regard also for
 the knight: this and the entreaties of his daughter, who had become much
@@ -3123,7 +3088,6 @@ the ceremony in a few days.
 
 
 
-CHAPTER 9
 
 
 
@@ -3132,7 +3096,6 @@ couch, half waking and half sleeping. Whenever he attempted to compose
 himself to sleep, a terror came upon him and scared him, as if his
 slumbers were haunted with spectres. But he made an effort to rouse
 himself fully. He felt fanned as by the wings of a swan, and lulled as
-by the murmuring of waters, till in sweet confusion of the senses he
 sank back into his state of half-consciousness.
 
 At last, however, he must have fallen perfectly asleep; for he seemed to
@@ -3200,7 +3163,6 @@ Upon his couch he actually did awake; and his attendant entering at the
 same moment, informed him that Father Heilmann was still lingering in
 the neighbourhood; that he had the evening before met with him in the
 forest, where he was sheltering himself under a hut, which he had formed
-by interweaving the branches of trees, and covering them with moss and
 fine brushwood; and that to the question “What he was doing there, since
 he would not give the marriage blessing?” his answer was--
 
@@ -3363,7 +3325,6 @@ slowly out, and disappeared in the fountain.
 
 
 
-CHAPTER 10
 
 
 
