@@ -1,101 +1,3 @@
-
-
-
- [image: img_000.jpg
- caption: Maya]
-
-
-
- HEART OF THE WORLD
-
- BY
- H. RIDER HAGGARD
-
-
- _WITH ILLUSTRATIONS BY AMY SAWYER_
-
-
- LONGMANS, GREEN, AND CO.
- LONDON, NEW YORK, AND BOMBAY
- 1896
- _All rights reserved_
-
-
-
-
- DEDICATION.
-
- I INSCRIBE THIS STORY OF THE GOLDEN CITY
- ‘_HEART OF THE WORLD_’
- TO MY NAMESAKE AND GODCHILD
- HENRY RIDER HAGGARD
- OF BUTLER, U. S. A.
-
- _Ditchingham_,
- _Christmas Day, 1894_
-
-
-
-
- CONTENTS.
-
- Prologue--Don Ignatio
- Chapter I. How the Plot Failed
- Chapter II. The Señor Strickland
- Chapter III. The Summons
- Chapter IV. The Legend of the Heart
- Chapter V. The Beginning of the Quest
- Chapter VI. “El Norte”
- Chapter VII. “The Hacienda”
- Chapter VIII. The Supper and After
- Chapter IX. The Duel
- Chapter X. How Molas Died
- Chapter XI. Zibalbay Tells His Mission
- Chapter XII. Maya Descends the Cueva
- Chapter XIII. Ignatio’s Oath
- Chapter XIV. The City of the Heart
- Chapter XV. How Zibalbay Came Home
- Chapter XVI. On the Pyramid
- Chapter XVII. The Curse of Zibalbay
- Chapter XVIII. The Plot
- Chapter XIX. The Sacrilege
- Chapter XX. The Council of the Heart
- Chapter XXI. The Marriage of Maya
- Chapter XXII. Mattai Prophesies Evil
- Chapter XXIII. Our Flight and How it Ended
- Chapter XXIV. Nahua Bears Witness
- Chapter XXV. Farewell
- ENVOI
-
-
-
-
- LIST OF ILLUSTRATIONS.
-
- Maya
- ‘Can you read this writing?’
- ‘This is your doing, woman! Are you not afraid?’
- ‘You shall pay for that, Englishman.’
- I did not so much as suffer my eyelids to tremble.
- ‘Oh! that I were free to avenge you!’
- The mass of stonework fell, ... taking Molas with it.
- So beautiful was this bubble... that for some minutes Maya watched it.
- Presently the curtain was drawn, and the Lady Maya joined us.
- ‘It is I, Zibalbay, your lord, come home.’
- It was... Zibalbay, ... come back from the boundaries of death.
- ‘You--false Lady of the Heart.’
- Out of the mouth of the pit... sprang a vast column of water.
- She was mad.
- Presently the great pile was alight.
-
-
-
-
- HEART OF THE WORLD
-
- PROLOGUE.
- DON IGNATIO
-
 The circumstances under which the following pages come to be printed
 are somewhat curious and worthy of record. Within the last few years a
 certain English gentleman, whom we will call Jones, because it was not
@@ -606,8 +508,7 @@ Here follows a translation of the manuscript.
 
 
 
- CHAPTER I.
- HOW THE PLOT FAILED
+
 
 I, Ignatio, the writer of this history, being now a man in my
 sixty-second year, was born in a village among the mountains that lie
@@ -1077,8 +978,7 @@ to the city, Heart of the World.
 
 
 
- CHAPTER II.
- THE SEÑOR STRICKLAND
+
 
 Two-and-twenty years ago, I, Ignatio, visited a village in the State
 of Tamaulipas, named Cumarvo, a beautiful place, half-hidden in pine
@@ -1544,8 +1444,7 @@ little knowing what I should hear before I entered it again.
 
 
 
- CHAPTER III.
- THE SUMMONS
+
 
 As I walked down the street of the village I met my friend, with
 whom I had stayed when first I came to Cumarvo.
@@ -2037,8 +1936,7 @@ candles, and bring the leather bag for samples, and we will enter.”
 
 
 
- CHAPTER IV.
- THE LEGEND OF THE HEART
+
 
 When I had gone a few paces down the hole, it widened suddenly, so
 that we were able to stand upright and light our candles. Now there
@@ -2616,8 +2514,7 @@ reward.”
 
 
 
- CHAPTER V.
- THE BEGINNING OF THE QUEST
+
 
 Something more than a month from the day when the Señor Strickland
 and I made our compact to search for the secret city of the Indians,
@@ -3066,8 +2963,7 @@ he brings death for many of us on board this ship.”
 
 
 
- CHAPTER VI.
- “EL NORTE”
+
 
 Another moment and _el Norte_ had come in strength. First a sudden
 rush of wind struck the vessel, causing her to shiver, and with a
@@ -3549,8 +3445,7 @@ than those which await us at Santa Cruz.”
 
 
 
- CHAPTER VII.
- “THE HACIENDA”
+
 
 Returning to the place where we had eaten, we found the _alcalde_
 talking with the sailors as to their plans. On seeing us the boatswain
@@ -4002,8 +3897,7 @@ tell you the story.”
 
 
 
- CHAPTER VIII.
- THE SUPPER AND AFTER
+
 
 “Listen, señor; if you are interested in old ruins and the Indians,
 you must have heard tales of races living away in the forest country,
@@ -4463,8 +4357,7 @@ room.”
 
 
 
- CHAPTER IX.
- THE DUEL
+
 
 Now we placed our ears against the panelling and listened. First we
 heard creaks that were loud in the stillness, then soft heavy noises
@@ -4967,8 +4860,7 @@ broke in the east, and the shoutings of our pursuers died away.
 
 
 
- CHAPTER X.
- HOW MOLAS DIED
+
 
 For some few minutes we rested to recover our breath, then we
 started forward again. In front went the girl, Maya, our guide, whom
@@ -5465,8 +5357,7 @@ cease till sunset, when the devil came to claim his own.
 
 
 
- CHAPTER XI.
- ZIBALBAY TELLS HIS MISSION
+
 
 When we reached the ruins of the temple we ate and drank, then,
 knowing that we could travel no farther that night, I spoke, saying:
@@ -5941,8 +5832,7 @@ bold.
 
 
 
- CHAPTER XII.
- MAYA DESCENDS THE CUEVA
+
 
 One evening--it was after we had left the forest country, and with
 much toil climbed the _sierra_ till we reached the desert beyond, a
@@ -6431,8 +6321,7 @@ from?”
 
 
 
- CHAPTER XIII.
- IGNATIO’S OATH
+
 
 At sunrise on the following day I lit a fire by which to prepare
 soup for the señor, who still slept, and as I was engaged thus I saw
@@ -7030,8 +6919,7 @@ dies, or I die, I mean to marry Maya.”
 
 
 
- CHAPTER XIV.
- THE CITY OF THE HEART
+
 
 While it was yet dark on the following morning we were awakened by
 the voice of Zibalbay calling us.
@@ -7601,8 +7489,7 @@ bride and bridegroom on the throne.
 
 
 
- CHAPTER XV.
- HOW ZIBALBAY CAME HOME
+
 
 For a while we stood unnoticed in the shadow of the doorway,
 observing this strange and beautiful scene, till, as Zibalbay was
@@ -8068,8 +7955,7 @@ asleep.
 
 
 
- CHAPTER XVI.
- ON THE PYRAMID
+
 
 “Does not the city lie very low?” I asked of Maya, when we had
 studied the prospect on every side. “To my eye its houses seem almost
@@ -8575,8 +8461,7 @@ place, and to you I leave it to take vengeance for our blood.”
 
 
 
- CHAPTER XVII.
- THE CURSE OF ZIBALBAY
+
 
 Thankful enough was I to rise from the ground feeling my life whole
 in me.
@@ -9083,8 +8968,7 @@ out his arms and fell heavily to the floor.
 
 
 
- CHAPTER XVIII.
- THE PLOT
+
 
 Springing forward, but too late to save him, the señor and I lifted
 Zibalbay from the ground and laid him on a couch. Peeping over our
@@ -9529,8 +9413,7 @@ where is the talisman? That will be necessary to us.”
 
 
 
- CHAPTER XIX.
- THE SACRILEGE
+
 
 Now Maya bent over the form of her father and took the talisman from
 his neck.
@@ -9984,8 +9867,7 @@ more.”
 
 
 
- CHAPTER XX.
- THE COUNCIL OF THE HEART
+
 
 Now, when Tikal was gone I sat silent, for although it might be
 necessary to save our lives, and to bring about the fulfilment of
@@ -10488,8 +10370,7 @@ Mattai.
 
 
 
- CHAPTER XXI.
- THE MARRIAGE OF MAYA
+
 
 Presently the door opened and the señor was led into the Sanctuary,
 as he thought to his death, for I saw that his teeth were set and that
@@ -10915,8 +10796,7 @@ service, then sank down again, saying:
 
 
 
- CHAPTER XXII.
- MATTAI PROPHESIES EVIL
+
 
 At Tikal’s words the company murmured in astonishment, and Mattai,
 bending forward, began to whisper in his ear. Tikal listened for a
@@ -11335,8 +11215,7 @@ door, there to be met by the señor, who seized her and held her fast.
 
 
 
- CHAPTER XXIII.
- OUR FLIGHT, AND HOW IT ENDED
+
 
 “How came this lady here, Maya, and what does she seek!” the señor
 asked.
@@ -11798,8 +11677,7 @@ another husband.”
 
 
 
- CHAPTER XXIV.
- NAHUA BEARS WITNESS
+
 
 Some hours passed, and again the gates were opened, and through them
 came Tikal and a guard of five men. The guard he left by the gates,
@@ -12255,8 +12133,7 @@ you to deal with those who planned the fraud.”
 
 
 
- CHAPTER XXV.
- FAREWELL
+
 
 Nahua ceased and sat down, and so great was the astonishment--or
 rather the awe--of the Council at the tale that she had told, that for
@@ -12739,39 +12616,6 @@ soul of the old Indian--
                                                       Ignatio.
 
  THE END.
-
-
-
-
- TRANSCRIBER’S NOTES.
-
-
-Errors/inconsistencies of the author that have been preserved:
-
-The Usumacinta River is referred to as the _Usumacinto_ River.
-
-_Tabasco_ and _Tobasco_ are used interchangeably.
-
-Minor spelling and hyphenization inconsistencies (e.g. corn-field/corn
-field, lamplight/lamp-light, etc.).
-
-Alterations to the text:
-
-[Title Page]
-
-Add illustrator’s credit.
-
-[Chapter III]
-
-Change “_Zilbalbay_ spoke to me in the presence” to _Zibalbay_.
-
-[Chapter VI]
-
-“tore along her deck from stem to _stem_” to _stern_.
-
-“the mouth of the _Usamacinto_ river” to _Usumacinto_.
-
-[End of Text]
 
 
 

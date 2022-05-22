@@ -1,17 +1,5 @@
 
 
-
-
-
-WHEN THE SLEEPER WAKES
-
-By Herbert George Wells
-
-
-
-
-CHAPTER I. INSOMNIA
-
 One afternoon, at low water, Mr. Isbister, a young artist lodging at
 Boscastle, walked from that place to the picturesque cove of Pentargen,
 desiring to examine the caves there. Halfway down the precipitous
@@ -338,7 +326,7 @@ a doctor to be found?”
 
 
 
-CHAPTER II. THE TRANCE
+
 
 The state of cataleptic rigour into which this man had fallen, lasted
 for an unprecedented length of time, and then he passed slowly to the
@@ -601,7 +589,7 @@ He stood looking thoughtfully at the waxen figure. “He will never wake,”
 
 
 
-CHAPTER III. THE AWAKENING
+
 
 But Warming was wrong in that. An awakening came.
 
@@ -753,7 +741,7 @@ collapsed limply, he staggered forward and fell upon his face.
 
 
 
-CHAPTER IV. THE SOUND OF A TUMULT
+
 
 Graham’s last impression before he fainted was of a clamorous ringing of
 bells. He learnt afterwards that he was insensible, hanging between life
@@ -1300,7 +1288,7 @@ upon the balcony upon which the three men had been standing.
 
 
 
-CHAPTER V. THE MOVING WAYS
+
 
 He went to the railings of the balcony and stared upward. An exclamation
 of surprise at his appearance, and the movements of a number of people
@@ -1448,7 +1436,7 @@ with Howard in a lift and moving swiftly upward.
 
 
 
-CHAPTER VI. THE HALL OF THE ATLAS
+
 
 From the moment when the tailor had bowed his farewell to the moment
 when Graham found himself in the lift, was altogether barely five
@@ -1822,7 +1810,7 @@ pitifully conspicuous. And all about him, the world was--strange.
 
 
 
-CHAPTER VII. IN THE SILENT ROOMS
+
 
 Presently Graham resumed his examination of his apartments. Curiosity
 kept him moving in spite of his fatigue. The inner room, he perceived,
@@ -2243,7 +2231,7 @@ a Council had said:
 
 
 
-CHAPTER VIII. THE ROOF SPACES
+
 
 As the fans in the circular aperture of the inner room rotated and
 permitted glimpses of the night, dim sounds drifted in thereby. And
@@ -2731,7 +2719,7 @@ shouting of innumerable men.
 
 
 
-CHAPTER IX. THE PEOPLE MARCH
+
 
 He became aware of someone urging a glass of clear fluid upon his
 attention, looked up and discovered this was a dark young man in a
@@ -2957,7 +2945,7 @@ flaming spaciousness of hall. Tramp, tramp, tramp, tramp.
 
 
 
-CHAPTER X. THE BATTLE OF THE DARKNESS
+
 
 He was no longer in the hall. He was marching along a gallery
 overhanging one of the great streets of the moving platforms that
@@ -3351,7 +3339,7 @@ hands.
 
 
 
-CHAPTER XI. THE OLD MAN WHO KNEW EVERYTHING
+
 
 He was startled by a cough close at hand.
 
@@ -3825,7 +3813,7 @@ more.
 
 
 
-CHAPTER XII. OSTROG
+
 
 Graham could now take a clearer view of his position. For a long time
 yet he wandered, but after the talk of the old man his discovery of this
@@ -4369,7 +4357,7 @@ It seemed as though every individual of those myriads was watching him.
 
 
 
-CHAPTER XIII. THE END OF THE OLD ORDER
+
 
 
 So far as Graham was able to judge, it was near midday when the white
@@ -4506,7 +4494,7 @@ gone by--and this as well?
 
 
 
-CHAPTER XIV. FROM THE CROW’S NEST
+
 
 And so after strange delays and through an avenue of doubt and battle,
 this man from the nineteenth century came at last to his position at the
@@ -5022,7 +5010,7 @@ sleeping, dear eyes--just sleeping. It’s a wonderful world.”
 
 
 
-CHAPTER XV. PROMINENT PEOPLE
+
 
 The state apartments of the Wind Vane Keeper would have seemed
 astonishingly intricate to Graham had he entered them fresh from his
@@ -5475,7 +5463,7 @@ warning in her expression, bowed to her and turned to accompany Lincoln.
 
 
 
-CHAPTER XVI. THE AEROPHILE
+
 
 For a while, as Graham went through the passages of the Wind-Vane
 offices with Lincoln, he was preoccupied. But, by an effort, he attended
@@ -5961,7 +5949,7 @@ hands.
 
 
 
-CHAPTER XVII. THREE DAYS
+
 
 Lincoln awaited Graham in an apartment beneath the flying stages. He
 seemed curious to learn all that had happened, pleased to hear of the
@@ -6161,7 +6149,7 @@ did not see her again until three full days were past.
 
 
 
-CHAPTER XVIII. GRAHAM REMEMBERS
+
 
 She came upon him at last in a little gallery that ran from the Wind
 Vane Offices toward his state apartments. The gallery was long and
@@ -6550,7 +6538,7 @@ questioningly, and then he turned from her towards the Wind Vane office.
 
 
 
-CHAPTER XIX. OSTROG’S POINT OF VIEW
+
 
 Graham found Ostrog waiting to give a formal account of his day’s
 stewardship. On previous occasions he had passed over this ceremony as
@@ -6824,7 +6812,7 @@ Ostrog, after a pause, decided not to speak, and bowed deferentially.
 
 
 
-CHAPTER XX. IN THE CITY WAYS
+
 
 And that night, unknown and unsuspected, Graham, dressed in the costume
 of an inferior wind-vane official keeping holiday, and accompanied by
@@ -7573,7 +7561,7 @@ sentence went unfinished.
 
 
 
-CHAPTER XXI. THE UNDER SIDE
+
 
 From the Business Quarter they presently passed by the running ways into
 a remote quarter of the city, where the bulk of the manufactures was
@@ -7823,7 +7811,7 @@ Ward!”
 
 
 
-CHAPTER XXII. THE STRUGGLE IN THE COUNCIL HOUSE
+
 
 As Asano and Graham hurried along to the ruins about the Council House,
 they saw everywhere the excitement of the people rising. “To your Wards
@@ -8281,7 +8269,7 @@ for the world.
 
 
 
-CHAPTER XXIII. WHILE THE AEROPLANES WERE COMING
+
 
 For a time the Master of the Earth was not even master of his own mind.
 Even his will seemed a will not his own, his own acts surprised him
@@ -8910,7 +8898,7 @@ turned his head with curt swift directions upon his bloodless lips.
 
 
 
-CHAPTER XXIV. THE COMING OF THE AEROPLANES
+
 
 Two men in pale blue were lying in the irregular line that stretched
 along the edge of the captured Roehampton stage from end to end,

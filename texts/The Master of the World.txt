@@ -1,40 +1,4 @@
 
-[Illustration]
-
-
-
-
-The Master of the World
-
-by Jules Verne
-
-
-Contents
-
- I. What Happened in the Mountains
- II. I Reach Morganton
- III. The Great Eyrie
- IV. A Meeting of the Automobile Club
- V. Along the Shores of New England
- VI. The First Letter
- VII. A Third Machine
- VIII. At Any Cost
- IX. The Second Letter
- X. Outside the Law
- XI. The Campaign
- XII. Black Rock Creek
- XIII. On Board the Terror
- XIV. Niagara
- XV. The Eagle’s Nest
- XVI. Robur, the Conqueror
- XVII. In the Name of the Law
- XVIII. The Old Housekeeper’s Last Comment
-
-
-
-
-I.
-WHAT HAPPENED IN THE MOUNTAINS
 
 
 If I speak of myself in this story, it is because I have been deeply
@@ -269,8 +233,6 @@ east.
 
 
 
-II.
-I REACH MORGANTON
 
 
 The twenty-seventh of April, having left Washington the night before, I
@@ -569,8 +531,6 @@ and perhaps it has left a practicable path or entrance.”
 
 
 
-III.
-THE GREAT EYRIE
 
 
 The next day at dawn, Elias Smith and I left Morganton by a road which,
@@ -948,8 +908,6 @@ Smith at Morganton, and that same evening left by train for Washington.
 
 
 
-IV.
-A MEETING OF THE AUTOMOBILE CLUB
 
 
 Was the mystery of the Great Eyrie to be solved some day by chances
@@ -1236,8 +1194,6 @@ was to be found of its passage.
 
 
 
-V.
-ALONG THE SHORES OF NEW ENGLAND
 
 
 At the time when the newspapers were filled with these reports, I was
@@ -1535,8 +1491,6 @@ this automobile?”
 
 
 
-VI.
-THE FIRST LETTER
 
 
 After leaving Mr. Ward I returned to my home in Long Street. There I
@@ -1751,8 +1705,6 @@ Sir,
 
 
 
-VII.
-A THIRD MACHINE
 
 
 I confess that at first this letter dumfounded me. “Ohs!” and “Ahs!”
@@ -2052,8 +2004,6 @@ same inventor, and that the three vehicles are in truth but one?”
 
 
 
-VIII.
-AT ANY COST
 
 
 The suggestion of the Star came like a revelation. It was accepted
@@ -2375,8 +2325,6 @@ follows:
 
 
 
-IX.
-THE SECOND LETTER
 
 
 On Board the Terror
@@ -2427,8 +2375,6 @@ The Master of the World.
 
 
 
-X.
-OUTSIDE THE LAW
 
 
 Such was the letter addressed to the government of the United States.
@@ -2703,8 +2649,6 @@ cabinet.
 
 
 
-XI.
-THE CAMPAIGN
 
 
 So the undiscoverable commander had reappeared upon the territory of
@@ -3036,8 +2980,6 @@ empty. The “Master of the World” was no longer at Black Rock Creek.
 
 
 
-XII.
-BLACK ROCK CREEK
 
 
 Human nature is prone to illusions. Of course, there had been all along
@@ -3390,8 +3332,6 @@ bound and darted out across Black Rock Creek.
 
 
 
-XIII.
-ON BOARD THE TERROR
 
 
 When I came to my senses it was daylight. A half light pierced the
@@ -3697,8 +3637,6 @@ northeast.
 
 
 
-XIV.
-NIAGARA
 
 
 The hours passed, and the situation did not change. The steersman
@@ -4084,8 +4022,6 @@ the thundering cataract in the center of a lunar rainbow.
 
 
 
-XV.
-THE EAGLE’S NEST
 
 
 On the morrow, when I awoke after a sound sleep, our vehicle seemed
@@ -4389,8 +4325,6 @@ Robur—Robur, the Conqueror!”
 
 
 
-XVI.
-ROBUR, THE CONQUEROR
 
 
 Robur, the Conqueror! This then was the likeness I had vaguely
@@ -4572,7 +4506,6 @@ risen through the air carrying me a prisoner on board.
 
 
 
-XVII.
 IN THE NAME OF THE LAW
 
 
@@ -4988,8 +4921,6 @@ more than a thousand feet into the ocean beneath.
 
 
 
-XVIII.
-THE OLD HOUSEKEEPER’S LAST COMMENT
 
 
 When I came to myself after having been unconscious for many hours, a
