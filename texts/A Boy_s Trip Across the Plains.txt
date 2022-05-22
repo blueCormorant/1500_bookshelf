@@ -2,80 +2,11 @@
 
 
 
-Note: Project Gutenberg also has an HTML version of this
-      file which includes the original illustration.
-      See 63205-h.htm or 63205-h.zip:
-      (http://www.gutenberg.org/files/63205/63205-h/63205-h.htm)
-      or
-      (http://www.gutenberg.org/files/63205/63205-h.zip)
-
-
-
-
-[Illustration]
-
-
-A BOY'S TRIP ACROSS THE PLAINS.
-
-by
-
-LAURA PRESTON,
-
-Author of "Youth's History of California."
 
 
 
 
 
-
-New York:
-A. Roman & Company, Publishers.
-San Francisco:
-417 and 419 Montgomery Street.
-1868.
-
-Entered according to Act of Congress in the year 1868,
-by A. Roman & Company,
-in the Clerk's Office of the District Court of the United States
-For the Southern District of New York.
-
-
-
-TO
-
-LOUIS AND MARY,
-
-THE ELDEST
-
-OF A BEVY OF NEPHEWS AND NIECES,
-
-THIS LITTLE WORK
-
-IS AFFECTIONATELY DEDICATED,
-
-WITH THE HOPE
-
-THAT AS IT HAS ALREADY RECEIVED THEIR FAVORABLE CRITICISM,
-
-IT MAY MEET THAT OF ALL YOUTHFUL LOVERS
-
-OF ADVENTURE.
-
-San Francisco, _June, 1868_.
-
-
-
-
-A BOY'S TRIP
-
-ACROSS THE PLAINS.
-
-BY LAURA PRESTON.
-
-
-
-
-CHAPTER I.
 
 
 In the village of W----, in western Missouri, lived Mrs. Loring and her
@@ -344,12 +275,10 @@ train."
 Guy promised most earnestly to be as alert and industrious as could be
 desired, and full of good intentions and delightful hopes, went back
 to his mother to talk of what might happen during their TRIP ACROSS THE
-PLAINS.
 
 
 
 
-CHAPTER II.
 
 
 How quickly the next two weeks of Guy Loring's life flew by. He was
@@ -624,7 +553,6 @@ peaceful sleep, the golden land of California.
 
 
 
-CHAPTER III.
 
 
 It seemed to Guy but a few short moments before he was aroused from
@@ -783,7 +711,6 @@ it again to-morrow."
 
 
 
-CHAPTER IV.
 
 
 But on the morrow neither the story of the fire-flies or any other was
@@ -940,7 +867,6 @@ around poor Guy, as he stood alone in the awful solitude.
 
 
 
-CHAPTER V.
 
 
 For a time poor Guy sat upon the ground helpless, and hopeless,
@@ -1055,7 +981,6 @@ lay fainting, but saved, in the arms of James Graham!
 
 
 
-CHAPTER VI.
 
 
 Guy knew no more for many hours. When he regained his senses, he found
@@ -1118,7 +1043,6 @@ level surface. George and Gus thought the country most dreary and
 wretched, and would scarcely believe Guy, when he told them of a desert
 called Sahara, that had not even a blade of grass upon it, save an
 occasional oasis, many miles apart, and which were often sought for,
-by the weary traveler, as he had himself sought the camp, during his
 terrible night on the prairie.
 
 "It can't be worse than this," they eagerly contended, "I don't believe
@@ -1279,7 +1203,6 @@ of the white man.
 
 
 
-CHAPTER VII.
 
 
 For some time after the encounter with the Indians, which happily ended
@@ -1666,7 +1589,6 @@ chapter.
 
 
 
-CHAPTER VIII.
 
 
 "I say," said George, slapping Guy on the shoulder, the moment after
@@ -1953,7 +1875,6 @@ And scarcely a week passed before Guy fulfilled his promise.
 
 
 
-CHAPTER IX.
 
 
 "I believe it is snowing over yonder," cried Aggie to Guy one day,
@@ -2195,37 +2116,36 @@ between them."
 listen to me a few minutes and you shall know what is to me
 
 
-                 FAIREST AND BEST:"
 
-     "There came a child to my side one day,
-       And lightly she said with a laugh of mirth,
-     'Tell me of all things, now I pray,
-       Which is the fairest to you upon earth?
+"There came a child to my side one day,
+And lightly she said with a laugh of mirth,
+'Tell me of all things, now I pray,
+Which is the fairest to you upon earth?
 
-     "'Is it the rose, with its breath of balm?
-       Is it the gem of the diamond mine?
-     Is it the shell, with its sea-song calm?
-       Or the pearl, that low in the deep doth shine?'
+"'Is it the rose, with its breath of balm?
+Is it the gem of the diamond mine?
+Is it the shell, with its sea-song calm?
+Or the pearl, that low in the deep doth shine?'
 
-     "I answered her, 'Though the rose is fair,
-       Though the diamond gleams like a lesser sun;
-     Oh, ne'er can _they_, e'en in thought compare,
-       With my chosen beauty, my purest one.
+"I answered her, 'Though the rose is fair,
+Though the diamond gleams like a lesser sun;
+Oh, ne'er can _they_, e'en in thought compare,
+With my chosen beauty, my purest one.
 
-     "'For mine, far sweeter than rose doth bloom,
-       In our world of sorrow, of woe, and care;
-     E'en light of the diamond seemeth gloom,
-       To that halo divine that shineth where;
+"'For mine, far sweeter than rose doth bloom,
+In our world of sorrow, of woe, and care;
+E'en light of the diamond seemeth gloom,
+To that halo divine that shineth where;
 
-     "'My fairest thing upon all the earth,
-       _A little child_ kneeleth down to pray,
-     And sweeter than sound of ocean's mirth
-       Are the heav'nly words, she doth meekly say.
+"'My fairest thing upon all the earth,
+_A little child_ kneeleth down to pray,
+And sweeter than sound of ocean's mirth
+Are the heav'nly words, she doth meekly say.
 
-     "'Yes, as I look on a kneeling child,
-       Of those I think, whom our Saviour blest,
-     And I know of all things fair and mild,
-       The pure, young heart of a child is best.'"
+"'Yes, as I look on a kneeling child,
+Of those I think, whom our Saviour blest,
+And I know of all things fair and mild,
+The pure, young heart of a child is best.'"
 
 
 Little Aggie remained perfectly still for some moments after Miss Amy
@@ -2273,7 +2193,6 @@ your life."
 
 
 
-CHAPTER X.
 
 
 "Well now, George," said Aggie the next morning, as they stood near
@@ -2538,7 +2457,6 @@ do."
 
 
 
-CHAPTER XI.
 
 
 Two weeks after the fight with the Indians, Guy was galloping across
@@ -2672,7 +2590,6 @@ them.
 
 
 
-CHAPTER XII.
 
 
 Guy was surprised and delighted to find that his fool-hardy escapade
@@ -2696,7 +2613,6 @@ As only a slight sketch of Guy's wonderful escape had been given by
 Harwood upon his return to camp, the children were anxious to hear a
 full account of it, and as soon as the dishes were washed, the fuel
 for the night brought in and Guy was at liberty to take his usual seat
-by the fire, they called upon him to tell them all about it. He did
 so in as few words as possible, for he felt as much ashamed of his
 discomfiture as an old hunter might have been likely to do.
 
@@ -2786,57 +2702,56 @@ yours about Aggie?"
 "Listen! They are about
 
 
-         'THE CHILDREN IN THE SKY.'
 
-     "Little Allie, tired with roaming,
-       Fell asleep one summer day;
-     In the soft, and mellow gloaming,
-       That the fairies haunt, they say.
-     And, into her dream, there came then
-       Fays, or Angels pure and fair,
-     Filling all the lonesome glen
-       With sweet music, rich and rare.
+"Little Allie, tired with roaming,
+Fell asleep one summer day;
+In the soft, and mellow gloaming,
+That the fairies haunt, they say.
+And, into her dream, there came then
+Fays, or Angels pure and fair,
+Filling all the lonesome glen
+With sweet music, rich and rare.
 
-     "'Child!' they said, as slow around her
-       One by one they floated on,
-     'Look into the clearer ether,
-       Close beside the setting sun!'
-     Then she looked, and lo! the cloudlets
-       Parted back and showed her there,
-     Myriad angels, sinless spirits
-       Sporting in a garden fair.
+"'Child!' they said, as slow around her
+One by one they floated on,
+'Look into the clearer ether,
+Close beside the setting sun!'
+Then she looked, and lo! the cloudlets
+Parted back and showed her there,
+Myriad angels, sinless spirits
+Sporting in a garden fair.
 
-     "Sporting, smiling, fondly twining,
-       Round each other snow white arms;
-     While a halo o'er them shining,
-       Saved them from the night's alarms.
-     Loud they sung in notes of gladness,
-       Ever o'er the sweet refrain;
-     'Jesus loves us! we shall never
-       Lose His tender care again."
+"Sporting, smiling, fondly twining,
+Round each other snow white arms;
+While a halo o'er them shining,
+Saved them from the night's alarms.
+Loud they sung in notes of gladness,
+Ever o'er the sweet refrain;
+'Jesus loves us! we shall never
+Lose His tender care again."
 
-     "'Here the flow'rets bloom forever;
-       Here the sun of God doth shine;
-     Here doth flow the crystal river,
-       Giving all a life divine!'
-     Then the peerless vision faded,
-       And the fairies stole away;
-     All the dell with gloom was shaded,
-       Darkness 'round sweet Allie lay.
+"'Here the flow'rets bloom forever;
+Here the sun of God doth shine;
+Here doth flow the crystal river,
+Giving all a life divine!'
+Then the peerless vision faded,
+And the fairies stole away;
+All the dell with gloom was shaded,
+Darkness 'round sweet Allie lay.
 
-     "Then she woke from out her slumber,
-       And she said--within her heart--
-     'Shall I join that happy number?
-       In their joyous song take part?'
-     Then she prayed that God would lead her
-       In the path to heaven above,
-     And that she might dwell forever
-       Blessed by Christ's redeeming love.
+"Then she woke from out her slumber,
+And she said--within her heart--
+'Shall I join that happy number?
+In their joyous song take part?'
+Then she prayed that God would lead her
+In the path to heaven above,
+And that she might dwell forever
+Blessed by Christ's redeeming love.
 
-     "And before the year was over,
-       God in love gave back reply,--
-     For He led the little rover,
-       To the children in the sky."
+"And before the year was over,
+God in love gave back reply,--
+For He led the little rover,
+To the children in the sky."
 
 
 "That is a sweet little tale," said Guy, when Aggie had finished, "But
@@ -2857,7 +2772,6 @@ in derision of the calm night, and its heavy-eyed attendant--Sleep.
 
 
 
-CHAPTER XIV.
 
 
 The following Saturday night found the party encamped in the very bosom
@@ -2967,8 +2881,8 @@ course aware of their silent devotion, but she laughed in the solitude
 of her wigwam, and sang:
 
 
-     'Alstarnah must no passion own,
-     That mortal e'er before hath known.'
+'Alstarnah must no passion own,
+That mortal e'er before hath known.'
 
 
 "And this she would sing over and over to herself, that she might keep
@@ -3083,7 +2997,6 @@ these mountains or see snow again without thinking of your story."
 
 
 
-CHAPTER XV.
 
 
 For some time Aggie found no difficulty in keeping her word, for the
@@ -3194,7 +3107,6 @@ were safe though greatly frightened.
 
 
 
-CHAPTER XVI.
 
 
 As George said, the great rain storm seemed to have come expressly
@@ -3378,7 +3290,6 @@ Frazer and Mr. Harwood to take their way alone into California.
 
 
 
-CHAPTER XVII.
 
 
 A month later they were there, and not only there but settled upon
@@ -3396,7 +3307,6 @@ their satisfaction, that they should do very well indeed.
 "Yes, very well," said Mrs. Loring, for although she called herself a
 servant, and was paid as such, she did not feel degraded by it, for she
 knew she was earning an honest living, and was respected as a friend
-by her employers, while Guy was looked upon almost as a son. He took
 the same place with the children as that held in their trip across the
 plains. He worked for their father, and for them, and very hard too,
 sometimes, but he was still their playfellow, George's guide, Gus'
@@ -3552,16 +3462,5 @@ added, glancing back, "a bird has followed us out of the woods. I do
 believe it is the one that told us the pretty story,--and, listen, to
 what he is singing, 'Good bye!' why, I even can interpret that, 'Good
 boy! good bye! Guy Loring! Guy, Good bye!'"
-
-
-
-
-+-------------------------------------------------+
-|Transcriber's note:                              |
-|                                                 |
-|Obvious typographic errors have been corrected.  |
-|                                                 |
-+-------------------------------------------------+
-
 
 

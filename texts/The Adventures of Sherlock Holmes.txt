@@ -1,38 +1,9 @@
 
-cover
 
 
 
 
-The Adventures of Sherlock Holmes
-
-by Arthur Conan Doyle
-
-
-Contents
-
-   I.     A Scandal in Bohemia
-   II.    The Red-Headed League
-   III.   A Case of Identity
-   IV.    The Boscombe Valley Mystery
-   V.     The Five Orange Pips
-   VI.    The Man with the Twisted Lip
-   VII.   The Adventure of the Blue Carbuncle
-   VIII.  The Adventure of the Speckled Band
-   IX.    The Adventure of the Engineer’s Thumb
-   X.     The Adventure of the Noble Bachelor
-   XI.    The Adventure of the Beryl Coronet
-   XII.   The Adventure of the Copper Beeches
-
-
-
-
-I. A SCANDAL IN BOHEMIA
-
-
-I.
-
-To Sherlock Holmes she is always _the_ woman. I have seldom heard him
+To Sherlock Holmes she is always the woman. I have seldom heard him
 mention her under any other name. In his eyes she eclipses and
 predominates the whole of her sex. It was not that he felt any emotion
 akin to love for Irene Adler. All emotions, and that one particularly,
@@ -326,7 +297,7 @@ Bohemia.”
 more and passing his hand over his high white forehead, “you can
 understand that I am not accustomed to doing such business in my own
 person. Yet the matter was so delicate that I could not confide it to
-an agent without putting myself in his power. I have come _incognito_
+an agent without putting myself in his power. I have come incognito
 from Prague for the purpose of consulting you.”
 
 “Then, pray consult,” said Holmes, shutting his eyes once more.
@@ -459,7 +430,7 @@ Von Kramm.”
 
 “Then, as to money?”
 
-“You have _carte blanche_.”
+“You have carte blanche.”
 
 “Absolutely?”
 
@@ -493,7 +464,6 @@ good enough to call to-morrow afternoon at three o’clock I should like
 to chat this little matter over with you.”
 
 
-II.
 
 At three o’clock precisely I was at Baker Street, but Holmes had not
 yet returned. The landlady informed me that he had left the house
@@ -536,7 +506,7 @@ perhaps the house, of Miss Irene Adler.”
 I left the house a little after eight o’clock this morning in the
 character of a groom out of work. There is a wonderful sympathy and
 freemasonry among horsey men. Be one of them, and you will know all
-that there is to know. I soon found Briony Lodge. It is a _bijou_
+that there is to know. I soon found Briony Lodge. It is a bijou
 villa, with a garden at the back, but built out in front right up to
 the road, two stories. Chubb lock to the door. Large sitting-room on
 the right side, well furnished, with long windows almost to the floor,
@@ -720,7 +690,6 @@ quite follow me?”
 roll from his pocket. “It is an ordinary plumber’s smoke-rocket, fitted
 with a cap at either end to make it self-lighting. Your task is
 confined to that. When you raise your cry of fire, it will be taken up
-by quite a number of people. You may then walk to the end of the
 street, and I will rejoin you in ten minutes. I hope that I have made
 myself clear?”
 
@@ -946,7 +915,6 @@ appeared to come from a slim youth in an ulster who had hurried by.
 street. “Now, I wonder who the deuce that could have been.”
 
 
-III.
 
 I slept at Baker Street that night, and we were engaged upon our toast
 and coffee in the morning when the King of Bohemia rushed into the
@@ -1026,39 +994,39 @@ superscribed to “Sherlock Holmes, Esq. To be left till called for.” My
 friend tore it open, and we all three read it together. It was dated at
 midnight of the preceding night and ran in this way:
 
-    “MY DEAR MR. SHERLOCK HOLMES,—You really did it very well. You took
-    me in completely. Until after the alarm of fire, I had not a
-    suspicion. But then, when I found how I had betrayed myself, I
-    began to think. I had been warned against you months ago. I had
-    been told that, if the King employed an agent, it would certainly
-    be you. And your address had been given me. Yet, with all this, you
-    made me reveal what you wanted to know. Even after I became
-    suspicious, I found it hard to think evil of such a dear, kind old
-    clergyman. But, you know, I have been trained as an actress myself.
-    Male costume is nothing new to me. I often take advantage of the
-    freedom which it gives. I sent John, the coachman, to watch you,
-    ran upstairs, got into my walking clothes, as I call them, and came
-    down just as you departed.
+“MY DEAR MR. SHERLOCK HOLMES,—You really did it very well. You took
+me in completely. Until after the alarm of fire, I had not a
+suspicion. But then, when I found how I had betrayed myself, I
+began to think. I had been warned against you months ago. I had
+been told that, if the King employed an agent, it would certainly
+be you. And your address had been given me. Yet, with all this, you
+made me reveal what you wanted to know. Even after I became
+suspicious, I found it hard to think evil of such a dear, kind old
+clergyman. But, you know, I have been trained as an actress myself.
+Male costume is nothing new to me. I often take advantage of the
+freedom which it gives. I sent John, the coachman, to watch you,
+ran upstairs, got into my walking clothes, as I call them, and came
+down just as you departed.
 
-    “Well, I followed you to your door, and so made sure that I was
-    really an object of interest to the celebrated Mr. Sherlock Holmes.
-    Then I, rather imprudently, wished you good-night, and started for
-    the Temple to see my husband.
+“Well, I followed you to your door, and so made sure that I was
+really an object of interest to the celebrated Mr. Sherlock Holmes.
+Then I, rather imprudently, wished you good-night, and started for
+the Temple to see my husband.
 
-    “We both thought the best resource was flight, when pursued by so
-    formidable an antagonist; so you will find the nest empty when you
-    call to-morrow. As to the photograph, your client may rest in
-    peace. I love and am loved by a better man than he. The King may do
-    what he will without hindrance from one whom he has cruelly
-    wronged. I keep it only to safeguard myself, and to preserve a
-    weapon which will always secure me from any steps which he might
-    take in the future. I leave a photograph which he might care to
-    possess; and I remain, dear Mr. Sherlock Holmes,
+“We both thought the best resource was flight, when pursued by so
+formidable an antagonist; so you will find the nest empty when you
+call to-morrow. As to the photograph, your client may rest in
+peace. I love and am loved by a better man than he. The King may do
+what he will without hindrance from one whom he has cruelly
+wronged. I keep it only to safeguard myself, and to preserve a
+weapon which will always secure me from any steps which he might
+take in the future. I leave a photograph which he might care to
+possess; and I remain, dear Mr. Sherlock Holmes,
 
 
-    “Very truly yours,
+“Very truly yours,
 
-    “IRENE NORTON, _née_ ADLER.”
+“IRENE NORTON, née ADLER.”
 
 
 “What a woman—oh, what a woman!” cried the King of Bohemia, when we had
@@ -1102,19 +1070,18 @@ Bohemia, and how the best plans of Mr. Sherlock Holmes were beaten by a
 woman’s wit. He used to make merry over the cleverness of women, but I
 have not heard him do it of late. And when he speaks of Irene Adler, or
 when he refers to her photograph, it is always under the honourable
-title of _the_ woman.
+title of the woman.
 
 
 
 
-II. THE RED-HEADED LEAGUE
 
 
- I had called upon my friend, Mr. Sherlock Holmes, one day in the
- autumn of last year and found him in deep conversation with a very
- stout, florid-faced, elderly gentleman with fiery red hair. With an
- apology for my intrusion, I was about to withdraw when Holmes pulled
- me abruptly into the room and closed the door behind me.
+I had called upon my friend, Mr. Sherlock Holmes, one day in the
+autumn of last year and found him in deep conversation with a very
+stout, florid-faced, elderly gentleman with fiery red hair. With an
+apology for my intrusion, I was about to withdraw when Holmes pulled
+me abruptly into the room and closed the door behind me.
 
 “You could not possibly have come at a better time, my dear Watson,” he
 said cordially.
@@ -1235,7 +1202,7 @@ at first that you had done something clever, but I see that there was
 nothing in it after all.”
 
 “I begin to think, Watson,” said Holmes, “that I make a mistake in
-explaining. ‘_Omne ignotum pro magnifico_,’ you know, and my poor
+explaining. ‘Omne ignotum pro magnifico,’ you know, and my poor
 little reputation, such as it is, will suffer shipwreck if I am so
 candid. Can you not find the advertisement, Mr. Wilson?”
 
@@ -1264,7 +1231,7 @@ yourself, your household, and the effect which this advertisement had
 upon your fortunes. You will first make a note, Doctor, of the paper
 and the date.”
 
-“It is _The Morning Chronicle_ of April 27, 1890. Just two months ago.”
+“It is The Morning Chronicle of April 27, 1890. Just two months ago.”
 
 “Very good. Now, Mr. Wilson?”
 
@@ -1284,7 +1251,7 @@ and I know very well that he could better himself and earn twice what I
 am able to give him. But, after all, if he is satisfied, why should I
 put ideas in his head?”
 
-“Why, indeed? You seem most fortunate in having an _employé_ who comes
+“Why, indeed? You seem most fortunate in having an employé who comes
 under the full market price. It is not a common experience among
 employers in this age. I don’t know that your assistant is not as
 remarkable as your advertisement.”
@@ -1477,7 +1444,6 @@ will is very clear upon that point. You don’t comply with the
 conditions if you budge from the office during that time.’
 
 “‘It’s only four hours a day, and I should not think of leaving,’ said
-I.
 
 “‘No excuse will avail,’ said Mr. Duncan Ross; ‘neither sickness nor
 business nor anything else. There you must stay, or you lose your
@@ -1485,7 +1451,7 @@ billet.’
 
 “‘And the work?’
 
-“‘Is to copy out the _Encyclopædia Britannica_. There is the first
+“‘Is to copy out the Encyclopædia Britannica. There is the first
 volume of it in that press. You must find your own ink, pens, and
 blotting-paper, but we provide this table and chair. Will you be ready
 to-morrow?’
@@ -1503,7 +1469,7 @@ spirits again; for I had quite persuaded myself that the whole affair
 must be some great hoax or fraud, though what its object might be I
 could not imagine. It seemed altogether past belief that anyone could
 make such a will, or that they would pay such a sum for doing anything
-so simple as copying out the _Encyclopædia Britannica_. Vincent
+so simple as copying out the Encyclopædia Britannica. Vincent
 Spaulding did what he could to cheer me up, but by bedtime I had
 reasoned myself out of the whole thing. However, in the morning I
 determined to have a look at it anyhow, so I bought a penny bottle of
@@ -1823,7 +1789,7 @@ seen, and yet from his words it was evident that he saw clearly not
 only what had happened but what was about to happen, while to me the
 whole business was still confused and grotesque. As I drove home to my
 house in Kensington I thought over it all, from the extraordinary story
-of the red-headed copier of the _Encyclopædia_ down to the visit to
+of the red-headed copier of the Encyclopædia down to the visit to
 Saxe-Coburg Square, and the ominous words with which he had parted from
 me. What was this nocturnal expedition, and why should I go armed?
 Where were we going, and what were we to do? I had the hint from Holmes
@@ -1962,7 +1928,7 @@ screen over that dark lantern.”
 “And sit in the dark?”
 
 “I am afraid so. I had brought a pack of cards in my pocket, and I
-thought that, as we were a _partie carrée_, you might have your rubber
+thought that, as we were a partie carrée, you might have your rubber
 after all. But I see that the enemy’s preparations have gone so far
 that we cannot risk the presence of a light. And, first of all, we must
 choose our positions. These are daring men, and though we shall take
@@ -2073,7 +2039,7 @@ and by hearing the very remarkable narrative of the Red-headed League.”
 sat over a glass of whisky and soda in Baker Street, “it was perfectly
 obvious from the first that the only possible object of this rather
 fantastic business of the advertisement of the League, and the copying
-of the _Encyclopædia_, must be to get this not over-bright pawnbroker
+of the Encyclopædia, must be to get this not over-bright pawnbroker
 out of the way for a number of hours every day. It was a curious way of
 managing it, but, really, it would be difficult to suggest a better.
 The method was no doubt suggested to Clay’s ingenious mind by the
@@ -2137,13 +2103,12 @@ so.”
 “And you are a benefactor of the race,” said I.
 
 He shrugged his shoulders. “Well, perhaps, after all, it is of some
-little use,” he remarked. “‘_L’homme c’est rien—l’œuvre c’est tout_,’
+little use,” he remarked. “‘L’homme c’est rien—l’œuvre c’est tout,’
 as Gustave Flaubert wrote to George Sand.”
 
 
 
 
-III. A CASE OF IDENTITY
 
 
 “My dear fellow,” said Sherlock Holmes as we sat on either side of the
@@ -2154,7 +2119,7 @@ we could fly out of that window hand in hand, hover over this great
 city, gently remove the roofs, and peep in at the queer things which
 are going on, the strange coincidences, the plannings, the
 cross-purposes, the wonderful chains of events, working through
-generations, and leading to the most _outré_ results, it would make all
+generations, and leading to the most outré results, it would make all
 fiction with its conventionalities and foreseen conclusions most stale
 and unprofitable.”
 
@@ -2238,7 +2203,7 @@ the bell.
 
 “I have seen those symptoms before,” said Holmes, throwing his
 cigarette into the fire. “Oscillation upon the pavement always means an
-_affaire de cœur_. She would like advice, but is not sure that the
+affaire de cœur. She would like advice, but is not sure that the
 matter is not too delicate for communication. And yet even here we may
 discriminate. When a woman has been seriously wronged by a man she no
 longer oscillates, and the usual symptom is a broken bell wire. Here we
@@ -2509,7 +2474,7 @@ memory, as he has done from your life.”
 “You will leave that question in my hands. I should like an accurate
 description of him and any letters of his which you can spare.”
 
-“I advertised for him in last Saturday’s _Chronicle_,” said she. “Here
+“I advertised for him in last Saturday’s Chronicle,” said she. “Here
 is the slip and here are four letters from him.”
 
 “Thank you. And your address?”
@@ -2667,7 +2632,7 @@ A professional case of great gravity was engaging my own attention at
 the time, and the whole of next day I was busy at the bedside of the
 sufferer. It was not until close upon six o’clock that I found myself
 free and was able to spring into a hansom and drive to Baker Street,
-half afraid that I might be too late to assist at the _dénouement_ of
+half afraid that I might be too late to assist at the dénouement of
 the little mystery. I found Sherlock Holmes alone, however, half
 asleep, with his long, thin form curled up in the recesses of his
 armchair. A formidable array of bottles and test-tubes, with the
@@ -2882,7 +2847,7 @@ his reply was typewritten and revealed the same trivial but
 characteristic defects. The same post brought me a letter from
 Westhouse & Marbank, of Fenchurch Street, to say that the description
 tallied in every respect with that of their employé, James Windibank.
-_Voilà tout_!”
+Voilà tout!”
 
 “And Miss Sutherland?”
 
@@ -2894,7 +2859,6 @@ much sense in Hafiz as in Horace, and as much knowledge of the world.”
 
 
 
-IV. THE BOSCOMBE VALLEY MYSTERY
 
 
 We were seated at breakfast one morning, my wife and I, when the maid
@@ -3067,7 +3031,7 @@ slovenly as we get round the angle of the jaw, it is surely very clear
 that that side is less illuminated than the other. I could not imagine
 a man of your habits looking at himself in an equal light and being
 satisfied with such a result. I only quote this as a trivial example of
-observation and inference. Therein lies my _métier_, and it is just
+observation and inference. Therein lies my métier, and it is just
 possible that it may be of some service in the investigation which lies
 before us. There are one or two minor points which were brought out in
 the inquest, and which are worth considering.”
@@ -3242,7 +3206,7 @@ favour. Don’t you see that you alternately give him credit for having
 too much imagination and too little? Too little, if he could not invent
 a cause of quarrel which would give him the sympathy of the jury; too
 much, if he evolved from his own inner consciousness anything so
-_outré_ as a dying reference to a rat, and the incident of the
+outré as a dying reference to a rat, and the incident of the
 vanishing cloth. No, sir, I shall approach this case from the point of
 view that what this young man says is true, and we shall see whither
 that hypothesis will lead us. And now here is my pocket Petrarch, and
@@ -3641,7 +3605,7 @@ Lestrade laughed. “I am afraid that I am still a sceptic,” he said.
 “Theories are all very well, but we have to deal with a hard-headed
 British jury.”
 
-“_Nous verrons_,” answered Holmes calmly. “You work your own method,
+“Nous verrons,” answered Holmes calmly. “You work your own method,
 and I shall work mine. I shall be busy this afternoon, and shall
 probably return to London by the evening train.”
 
@@ -3680,7 +3644,7 @@ in this chair and let me preach to you for a little. I don’t know quite
 what to do, and I should value your advice. Light a cigar and let me
 expound.”
 
- “Pray do so.”
+“Pray do so.”
 
 “Well, now, in considering this case there are two points about young
 McCarthy’s narrative which struck us both instantly, although they
@@ -3712,7 +3676,6 @@ the map. “What do you read?”
 
 “And now?” He raised his hand.
 
-“BALLARAT.”
 
 “Quite so. That was the word the man uttered, and of which his son only
 caught the last two syllables. He was trying to utter the name of his
@@ -3948,7 +3911,6 @@ black cloud which rests upon their past.
 
 
 
-V. THE FIVE ORANGE PIPS
 
 
 When I glance over my notes and records of the Sherlock Holmes cases
@@ -3973,7 +3935,7 @@ less interest, of which I retain the records. Among my headings under
 this one twelve months I find an account of the adventure of the
 Paradol Chamber, of the Amateur Mendicant Society, who held a luxurious
 club in the lower vault of a furniture warehouse, of the facts
-connected with the loss of the British barque _Sophy Anderson_, of the
+connected with the loss of the British barque Sophy Anderson, of the
 singular adventures of the Grice Patersons in the island of Uffa, and
 finally of the Camberwell poisoning case. In the latter, as may be
 remembered, Sherlock Holmes was able, by winding up the dead man’s
@@ -4496,7 +4458,7 @@ the furniture that he is likely to use, and the rest he can put away in
 the lumber-room of his library, where he can get it if he wants it.
 Now, for such a case as the one which has been submitted to us
 to-night, we need certainly to muster all our resources. Kindly hand me
-down the letter K of the _American Encyclopædia_ which stands upon the
+down the letter K of the American Encyclopædia which stands upon the
 shelf beside you. Thank you. Now let us consider the situation and see
 what may be deduced from it. In the first place, we may start with a
 strong presumption that Colonel Openshaw had some very strong reason
@@ -4715,7 +4677,7 @@ He took an orange from the cupboard, and tearing it to pieces he
 squeezed out the pips upon the table. Of these he took five and thrust
 them into an envelope. On the inside of the flap he wrote “S. H. for J.
 O.” Then he sealed it and addressed it to “Captain James Calhoun,
-Barque _Lone Star_, Savannah, Georgia.”
+Barque Lone Star, Savannah, Georgia.”
 
 “That will await him when he enters port,” said he, chuckling. “It may
 give him a sleepless night. He will find it as sure a precursor of his
@@ -4734,7 +4696,7 @@ and names.
 files of the old papers, following the future career of every vessel
 which touched at Pondicherry in January and February in ’83. There were
 thirty-six ships of fair tonnage which were reported there during those
-months. Of these, one, the _Lone Star_, instantly attracted my
+months. Of these, one, the Lone Star, instantly attracted my
 attention, since, although it was reported as having cleared from
 London, the name is that which is given to one of the states of the
 Union.”
@@ -4746,14 +4708,14 @@ American origin.”
 
 “What then?”
 
-“I searched the Dundee records, and when I found that the barque _Lone
-Star_ was there in January, ’85, my suspicion became a certainty. I
+“I searched the Dundee records, and when I found that the barque Lone
+Star was there in January, ’85, my suspicion became a certainty. I
 then inquired as to the vessels which lay at present in the port of
 London.”
 
 “Yes?”
 
-“The _Lone Star_ had arrived here last week. I went down to the Albert
+“The Lone Star had arrived here last week. I went down to the Albert
 Dock and found that she had been taken down the river by the early tide
 this morning, homeward bound to Savannah. I wired to Gravesend and
 learned that she had passed some time ago, and as the wind is easterly
@@ -4775,17 +4737,16 @@ There is ever a flaw, however, in the best laid of human plans, and the
 murderers of John Openshaw were never to receive the orange pips which
 would show them that another, as cunning and as resolute as themselves,
 was upon their track. Very long and very severe were the equinoctial
-gales that year. We waited long for news of the _Lone Star_ of
+gales that year. We waited long for news of the Lone Star of
 Savannah, but none ever reached us. We did at last hear that somewhere
 far out in the Atlantic a shattered stern-post of a boat was seen
 swinging in the trough of a wave, with the letters “L. S.” carved upon
-it, and that is all which we shall ever know of the fate of the _Lone
-Star_.
+it, and that is all which we shall ever know of the fate of the Lone
+Star.
 
 
 
 
-VI. THE MAN WITH THE TWISTED LIP
 
 
 Isa Whitney, brother of the late Elias Whitney, D.D., Principal of the
@@ -5066,13 +5027,12 @@ gentleman, Neville St. Clair by name, who appeared to have plenty of
 money. He took a large villa, laid out the grounds very nicely, and
 lived generally in good style. By degrees he made friends in the
 neighbourhood, and in 1887 he married the daughter of a local brewer,
-by whom he now has two children. He had no occupation, but was
 interested in several companies and went into town as a rule in the
 morning, returning by the 5:14 from Cannon Street every night. Mr. St.
 Clair is now thirty-seven years of age, is a man of temperate habits, a
 good husband, a very affectionate father, and a man who is popular with
 all who know him. I may add that his whole debts at the present moment,
-as far as we have been able to ascertain, amount to £ 88 10_s_., while
+as far as we have been able to ascertain, amount to £ 88 10s., while
 he has £ 220 standing to his credit in the Capital and Counties Bank.
 There is no reason, therefore, to think that money troubles have been
 weighing upon his mind.
@@ -5730,8 +5690,8 @@ the aid of a small slip of flesh-coloured plaster. Then with a red head
 of hair, and an appropriate dress, I took my station in the business
 part of the city, ostensibly as a match-seller but really as a beggar.
 For seven hours I plied my trade, and when I returned home in the
-evening I found to my surprise that I had received no less than 26_s_.
-4_d_.
+evening I found to my surprise that I had received no less than 26s.
+4d.
 
 “I wrote my articles and thought little more of the matter until, some
 time later, I backed a bill for a friend and had a writ served upon me
@@ -5827,7 +5787,6 @@ Street we shall just be in time for breakfast.”
 
 
 
-VII. THE ADVENTURE OF THE BLUE CARBUNCLE
 
 
 I had called upon my friend Sherlock Holmes upon the second morning
@@ -6077,12 +6036,12 @@ Sherlock Holmes sat up with a whistle. “By Jove, Peterson!” said he,
 “A diamond, sir? A precious stone. It cuts into glass as though it were
 putty.”
 
-“It’s more than a precious stone. It is _the_ precious stone.”
+“It’s more than a precious stone. It is the precious stone.”
 
 “Not the Countess of Morcar’s blue carbuncle!” I ejaculated.
 
 “Precisely so. I ought to know its size and shape, seeing that I have
-read the advertisement about it in _The Times_ every day lately. It is
+read the advertisement about it in The Times every day lately. It is
 absolutely unique, and its value can only be conjectured, but the
 reward offered of £ 1000 is certainly not within a twentieth part of
 the market price.”
@@ -6166,8 +6125,8 @@ papers.”
 
 “In which, sir?”
 
-“Oh, in the _Globe_, _Star_, _Pall Mall_, _St. James’s Gazette_,
-_Evening News_, _Standard_, _Echo_, and any others that occur to you.”
+“Oh, in the Globe, Star, Pall Mall, St. James’s Gazette,
+Evening News, Standard, Echo, and any others that occur to you.”
 
 “Very well, sir. And this stone?”
 
@@ -6213,7 +6172,6 @@ back in the evening at the hour you have mentioned, for I should like
 to see the solution of so tangled a business.”
 
 “Very glad to see you. I dine at seven. There is a woodcock, I believe.
-By the way, in view of recent occurrences, perhaps I ought to ask Mrs.
 Hudson to examine its crop.”
 
 I had been delayed at a case, and it was a little after half-past six
@@ -6269,7 +6227,7 @@ own bird, so if you wish—”
 
 The man burst into a hearty laugh. “They might be useful to me as
 relics of my adventure,” said he, “but beyond that I can hardly see
-what use the _disjecta membra_ of my late acquaintance are going to be
+what use the disjecta membra of my late acquaintance are going to be
 to me. No, sir, I think that, with your permission, I will confine my
 attentions to the excellent bird which I perceive upon the sideboard.”
 
@@ -6322,7 +6280,7 @@ he.
 “Yes. I was speaking only half an hour ago to Mr. Henry Baker, who was
 a member of your goose club.”
 
-“Ah! yes, I see. But you see, sir, them’s not _our_ geese.”
+“Ah! yes, I see. But you see, sir, them’s not our geese.”
 
 “Indeed! Whose, then?”
 
@@ -6443,15 +6401,14 @@ suppliers. Now, look at that third name. Just read it out to me.”
 “Quite so. Now turn that up in the ledger.”
 
 Holmes turned to the page indicated. “Here you are, ‘Mrs. Oakshott,
-117, Brixton Road, egg and poultry supplier.’”
 
 “Now, then, what’s the last entry?”
 
-“‘December 22nd. Twenty-four geese at 7_s_. 6_d_.’”
+“‘December 22nd. Twenty-four geese at 7s. 6d.’”
 
 “Quite so. There you are. And underneath?”
 
-“‘Sold to Mr. Windigate of the Alpha, at 12_s_.’”
+“‘Sold to Mr. Windigate of the Alpha, at 12s.’”
 
 “What have you to say now?”
 
@@ -6465,7 +6422,6 @@ was peculiar to him.
 protruding out of his pocket, you can always draw him by a bet,” said
 he. “I daresay that if I had put £ 100 down in front of him, that man
 would not have given me such complete information as was drawn from him
-by the idea that he was doing me on a wager. Well, Watson, we are, I
 fancy, nearing the end of our quest, and the only point which remains
 to be determined is whether we should go on to this Mrs. Oakshott
 to-night, or whether we should reserve it for to-morrow. It is clear
@@ -6518,7 +6474,6 @@ people don’t know.”
 “Excuse me, I know everything of it. You are endeavouring to trace some
 geese which were sold by Mrs. Oakshott, of Brixton Road, to a salesman
 named Breckinridge, by him in turn to Mr. Windigate, of the Alpha, and
-by him to his club, of which Mr. Henry Baker is a member.”
 
 “Oh, sir, you are the very man whom I have longed to meet,” cried the
 little fellow with outstretched hands and quivering fingers. “I can
@@ -6755,7 +6710,6 @@ feature.”
 
 
 
-VIII. THE ADVENTURE OF THE SPECKLED BAND
 
 
 On glancing over my notes of the seventy odd cases in which I have
@@ -7894,7 +7848,6 @@ conscience.”
 
 
 
-IX. THE ADVENTURE OF THE ENGINEER’S THUMB
 
 
 Of all the problems which have been submitted to my friend, Mr.
@@ -7908,7 +7861,7 @@ upon record, even if it gave my friend fewer openings for those
 deductive methods of reasoning by which he achieved such remarkable
 results. The story has, I believe, been told more than once in the
 newspapers, but, like all such narratives, its effect is much less
-striking when set forth _en bloc_ in a single half-column of print than
+striking when set forth en bloc in a single half-column of print than
 when the facts slowly evolve before your own eyes, and the mystery
 clears gradually away as each new discovery furnishes a step which
 leads on to the complete truth. At the time the circumstances made a
@@ -8065,7 +8018,7 @@ and in five minutes was inside a hansom, driving with my new
 acquaintance to Baker Street.
 
 Sherlock Holmes was, as I expected, lounging about his sitting-room in
-his dressing-gown, reading the agony column of _The Times_ and smoking
+his dressing-gown, reading the agony column of The Times and smoking
 his before-breakfast pipe, which was composed of all the plugs and
 dottles left from his smokes of the day before, all carefully dried and
 collected on the corner of the mantelpiece. He received us in his
@@ -8102,7 +8055,7 @@ chambers in Victoria Street.
 a dreary experience. To me it has been exceptionally so. During two
 years I have had three consultations and one small job, and that is
 absolutely all that my profession has brought me. My gross takings
-amount to £ 27 10_s_. Every day, from nine in the morning until four in
+amount to £ 27 10s. Every day, from nine in the morning until four in
 the afternoon, I waited in my little den, until at last my heart began
 to sink, and I came to believe that I should never have any practice at
 all.
@@ -8803,7 +8756,6 @@ being excellent company for the remainder of your existence.”
 
 
 
-X. THE ADVENTURE OF THE NOBLE BACHELOR
 
 
 The Lord St. Simon marriage, and its curious termination, have long
@@ -8873,20 +8825,19 @@ Simon. I will read it to you, and in return you must turn over these
 papers and let me have whatever bears upon the matter. This is what he
 says:
 
-    “‘MY DEAR MR. SHERLOCK HOLMES,—Lord Backwater tells me that I may
-    place implicit reliance upon your judgment and discretion. I have
-    determined, therefore, to call upon you and to consult you in
-    reference to the very painful event which has occurred in
-    connection with my wedding. Mr. Lestrade, of Scotland Yard, is
-    acting already in the matter, but he assures me that he sees no
-    objection to your co-operation, and that he even thinks that it
-    might be of some assistance. I will call at four o’clock in the
-    afternoon, and, should you have any other engagement at that time,
-    I hope that you will postpone it, as this matter is of paramount
-    importance. Yours faithfully,
+“‘MY DEAR MR. SHERLOCK HOLMES,—Lord Backwater tells me that I may
+place implicit reliance upon your judgment and discretion. I have
+determined, therefore, to call upon you and to consult you in
+reference to the very painful event which has occurred in
+connection with my wedding. Mr. Lestrade, of Scotland Yard, is
+acting already in the matter, but he assures me that he sees no
+objection to your co-operation, and that he even thinks that it
+might be of some assistance. I will call at four o’clock in the
+afternoon, and, should you have any other engagement at that time,
+I hope that you will postpone it, as this matter is of paramount
+importance. Yours faithfully,
 
 
-    “‘ROBERT ST. SIMON.’
 
 
 “It is dated from Grosvenor Mansions, written with a quill pen, and the
@@ -8921,7 +8872,7 @@ That is quite cleared up now—though, indeed, it was obvious from the
 first. Pray give me the results of your newspaper selections.”
 
 “Here is the first notice which I can find. It is in the personal
-column of the _Morning Post_, and dates, as you see, some weeks back:
+column of the Morning Post, and dates, as you see, some weeks back:
 ‘A marriage has been arranged,’ it says, ‘and will, if rumour is
 correct, very shortly take place, between Lord Robert St. Simon, second
 son of the Duke of Balmoral, and Miss Hatty Doran, the only daughter of
@@ -8954,7 +8905,7 @@ from a Republican lady to a British peeress.’”
 
 “Anything else?” asked Holmes, yawning.
 
-“Oh, yes; plenty. Then there is another note in the _Morning Post_ to
+“Oh, yes; plenty. Then there is another note in the Morning Post to
 say that the marriage would be an absolutely quiet one, that it would
 be at St. George’s, Hanover Square, that only half a dozen intimate
 friends would be invited, and that the party would return to the
@@ -9038,7 +8989,7 @@ suggestive one.”
 “And it is—”
 
 “That Miss Flora Millar, the lady who had caused the disturbance, has
-actually been arrested. It appears that she was formerly a _danseuse_
+actually been arrested. It appears that she was formerly a danseuse
 at the Allegro, and that she has known the bridegroom for some years.
 There are no further particulars, and the whole case is in your hands
 now—so far as it has been set forth in the public press.”
@@ -9168,8 +9119,8 @@ her several times, became engaged to her, and have now married her.”
 
 “A fair dowry. Not more than is usual in my family.”
 
-“And this, of course, remains to you, since the marriage is a _fait
-accompli_?”
+“And this, of course, remains to you, since the marriage is a fait
+accompli?”
 
 “I really have made no inquiries on the subject.”
 
@@ -9264,7 +9215,7 @@ already made a disturbance at Mr. Doran’s house that morning.”
 your relations to her.”
 
 Lord St. Simon shrugged his shoulders and raised his eyebrows. “We have
-been on a friendly footing for some years—I may say on a _very_
+been on a friendly footing for some years—I may say on a very
 friendly footing. She used to be at the Allegro. I have not treated her
 ungenerously, and she had no just cause of complaint against me, but
 you know what women are, Mr. Holmes. Flora was a dear little thing, but
@@ -9467,8 +9418,8 @@ here.”
 which interests me deeply.”
 
 “There’s nothing in it. I looked at it before,” said Lestrade. “‘Oct.
-4th, rooms 8_s_., breakfast 2_s_. 6_d_., cocktail 1_s_., lunch 2_s_.
-6_d_., glass sherry, 8_d_.’ I see nothing in that.”
+4th, rooms 8s., breakfast 2s. 6d., cocktail 1s., lunch 2s.
+6d., glass sherry, 8d.’ I see nothing in that.”
 
 “Very likely not. It is most important, all the same. As to the note,
 it is important also, or at least the initials are, so I congratulate
@@ -9499,7 +9450,7 @@ man with a very large flat box. This he unpacked with the help of a
 youth whom he had brought with him, and presently, to my very great
 astonishment, a quite epicurean little cold supper began to be laid out
 upon our humble lodging-house mahogany. There were a couple of brace of
-cold woodcock, a pheasant, a _pâté de foie gras_ pie with a group of
+cold woodcock, a pheasant, a pâté de foie gras pie with a group of
 ancient and cobwebby bottles. Having laid out all these luxuries, my
 two visitors vanished away, like the genii of the Arabian Nights, with
 no explanation save that the things had been paid for and were ordered
@@ -9780,7 +9731,6 @@ to solve is how to while away these bleak autumnal evenings.”
 
 
 
-XI. THE ADVENTURE OF THE BERYL CORONET
 
 
 “Holmes,” said I as I stood one morning in our bow-window looking down
@@ -10500,7 +10450,7 @@ my house last night?”
 
 “If you can call upon me at my Baker Street rooms to-morrow morning
 between nine and ten I shall be happy to do what I can to make it
-clearer. I understand that you give me _carte blanche_ to act for you,
+clearer. I understand that you give me carte blanche to act for you,
 provided only that I get back the gems, and that you place no limit on
 the sum I may draw.”
 
@@ -10590,17 +10540,16 @@ night, in sorrow and not in anger, that if she had married my boy all
 might have been well with him. Perhaps it was thoughtless of me to say
 so. It is to that remark that she refers in this note:
 
-    “‘MY DEAREST UNCLE,—I feel that I have brought trouble upon you,
-    and that if I had acted differently this terrible misfortune might
-    never have occurred. I cannot, with this thought in my mind, ever
-    again be happy under your roof, and I feel that I must leave you
-    forever. Do not worry about my future, for that is provided for;
-    and, above all, do not search for me, for it will be fruitless
-    labour and an ill-service to me. In life or in death, I am ever
-    your loving,
+“‘MY DEAREST UNCLE,—I feel that I have brought trouble upon you,
+and that if I had acted differently this terrible misfortune might
+never have occurred. I cannot, with this thought in my mind, ever
+again be happy under your roof, and I feel that I must leave you
+forever. Do not worry about my future, for that is provided for;
+and, above all, do not search for me, for it will be fruitless
+labour and an ill-service to me. In life or in death, I am ever
+your loving,
 
 
-    “‘MARY.’
 
 
 “What could she mean by that note, Mr. Holmes? Do you think it points
@@ -10846,17 +10795,16 @@ punishment.”
 
 
 
-XII. THE ADVENTURE OF THE COPPER BEECHES
 
 
 “To the man who loves art for its own sake,” remarked Sherlock Holmes,
-tossing aside the advertisement sheet of _The Daily Telegraph_, “it is
+tossing aside the advertisement sheet of The Daily Telegraph, “it is
 frequently in its least important and lowliest manifestations that the
 keenest pleasure is to be derived. It is pleasant to me to observe,
 Watson, that you have so far grasped this truth that in these little
 records of our cases which you have been good enough to draw up, and, I
 am bound to say, occasionally to embellish, you have given prominence
-not so much to the many _causes célèbres_ and sensational trials in
+not so much to the many causes célèbres and sensational trials in
 which I have figured but rather to those incidents which may have been
 trivial in themselves, but which have given room for those faculties of
 deduction and of logical synthesis which I have made my special
@@ -10925,13 +10873,12 @@ across to me.
 It was dated from Montague Place upon the preceding evening, and ran
 thus:
 
-    “DEAR MR. HOLMES,—I am very anxious to consult you as to whether I
-    should or should not accept a situation which has been offered to
-    me as governess. I shall call at half-past ten to-morrow if I do
-    not inconvenience you. Yours faithfully,
+“DEAR MR. HOLMES,—I am very anxious to consult you as to whether I
+should or should not accept a situation which has been offered to
+me as governess. I shall call at half-past ten to-morrow if I do
+not inconvenience you. Yours faithfully,
 
 
-    “VIOLET HUNTER.”
 
 
 “Do you know the young lady?” I asked.
@@ -11134,29 +11081,28 @@ it to you:
 
 “‘The Copper Beeches, near Winchester.
 
-    “‘DEAR MISS HUNTER,—Miss Stoper has very kindly given me your
-    address, and I write from here to ask you whether you have
-    reconsidered your decision. My wife is very anxious that you should
-    come, for she has been much attracted by my description of you. We
-    are willing to give £ 30 a quarter, or £ 120 a year, so as to
-    recompense you for any little inconvenience which our fads may
-    cause you. They are not very exacting, after all. My wife is fond
-    of a particular shade of electric blue and would like you to wear
-    such a dress indoors in the morning. You need not, however, go to
-    the expense of purchasing one, as we have one belonging to my dear
-    daughter Alice (now in Philadelphia), which would, I should think,
-    fit you very well. Then, as to sitting here or there, or amusing
-    yourself in any manner indicated, that need cause you no
-    inconvenience. As regards your hair, it is no doubt a pity,
-    especially as I could not help remarking its beauty during our
-    short interview, but I am afraid that I must remain firm upon this
-    point, and I only hope that the increased salary may recompense you
-    for the loss. Your duties, as far as the child is concerned, are
-    very light. Now do try to come, and I shall meet you with the
-    dog-cart at Winchester. Let me know your train. Yours faithfully,
+“‘DEAR MISS HUNTER,—Miss Stoper has very kindly given me your
+address, and I write from here to ask you whether you have
+reconsidered your decision. My wife is very anxious that you should
+come, for she has been much attracted by my description of you. We
+are willing to give £ 30 a quarter, or £ 120 a year, so as to
+recompense you for any little inconvenience which our fads may
+cause you. They are not very exacting, after all. My wife is fond
+of a particular shade of electric blue and would like you to wear
+such a dress indoors in the morning. You need not, however, go to
+the expense of purchasing one, as we have one belonging to my dear
+daughter Alice (now in Philadelphia), which would, I should think,
+fit you very well. Then, as to sitting here or there, or amusing
+yourself in any manner indicated, that need cause you no
+inconvenience. As regards your hair, it is no doubt a pity,
+especially as I could not help remarking its beauty during our
+short interview, but I am afraid that I must remain firm upon this
+point, and I only hope that the increased salary may recompense you
+for the loss. Your duties, as far as the child is concerned, are
+very light. Now do try to come, and I shall meet you with the
+dog-cart at Winchester. Let me know your train. Yours faithfully,
 
 
-    “‘JEPHRO RUCASTLE.’
 
 
 “That is the letter which I have just received, Mr. Holmes, and my mind
@@ -11253,7 +11199,6 @@ The summons was a brief and urgent one.
 it said. “Do come! I am at my wit’s end.
 
 
-“HUNTER.”
 
 
 “Will you come with me?” asked Holmes, glancing up.
@@ -11269,7 +11214,6 @@ Bradshaw. “It is due at Winchester at 11:30.”
 analysis of the acetones, as we may need to be at our best in the
 morning.”
 
-By eleven o’clock the next day we were well upon our way to the old
 English capital. Holmes had been buried in the morning papers all the
 way down, but after we had passed the Hampshire border he threw them
 down and began to admire the scenery. It was an ideal spring day, a
@@ -11321,7 +11265,7 @@ threatened.”
 
 “Quite so. She has her freedom.”
 
-“What _can_ be the matter, then? Can you suggest no explanation?”
+“What can be the matter, then? Can you suggest no explanation?”
 
 “I have devised seven separate explanations, each of which would cover
 the facts as far as we know them. But which of these is correct can
@@ -11447,7 +11391,7 @@ little Edward in the nursery.
 “Two days later this same performance was gone through under exactly
 similar circumstances. Again I changed my dress, again I sat in the
 window, and again I laughed very heartily at the funny stories of which
-my employer had an immense _répertoire_, and which he told inimitably.
+my employer had an immense répertoire, and which he told inimitably.
 Then he handed me a yellow-backed novel, and moving my chair a little
 sideways, that my own shadow might not fall upon the page, he begged me
 to read aloud to him. I read for about ten minutes, beginning in the
@@ -11734,7 +11678,7 @@ height, figure, and the colour of your hair. Hers had been cut off,
 very possibly in some illness through which she has passed, and so, of
 course, yours had to be sacrificed also. By a curious chance you came
 upon her tresses. The man in the road was undoubtedly some friend of
-hers—possibly her _fiancé_—and no doubt, as you wore the girl’s dress
+hers—possibly her fiancé—and no doubt, as you wore the girl’s dress
 and were so like her, he was convinced from your laughter, whenever he
 saw you, and afterwards from your gesture, that Miss Rucastle was
 perfectly happy, and that she no longer desired his attentions. The dog
@@ -11912,7 +11856,7 @@ had gone out.”
 have certainly cleared up everything which puzzled us. And here comes
 the country surgeon and Mrs. Rucastle, so I think, Watson, that we had
 best escort Miss Hunter back to Winchester, as it seems to me that our
-_locus standi_ now is rather a questionable one.”
+locus standi now is rather a questionable one.”
 
 And thus was solved the mystery of the sinister house with the copper
 beeches in front of the door. Mr. Rucastle survived, but was always a
