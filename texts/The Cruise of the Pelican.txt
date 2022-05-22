@@ -1,59 +1,4 @@
-PELICAN ***
 
-
-
-
-
-
-
-  _The Cruise of the Pelican_
-
-  _By H. BEDFORD-JONES_
-
-
-  _Author of
-  "The Kasbah Gate," "Splendour of the Gods," etc._
-
-
-  _London: HURST & BLACKETT, LTD.,
-  PATERNOSTER HOUSE, E.C._
-
-  _1924_
-
-
-
-
-  Contents
-
-  Chapter
-
-  I. Boatswain Joe
-  II. News from Nowhere
-  III. Laying a Course
-  IV. The Square Suitcase
-  V. The "Pelican"
-  VI. Outward Bound
-  VII. Jerry Tells Something
-  VIII. Miles Hathaway Talks
-  IX. Unalaska Bay
-  X. The Wreck
-  XI. The Enemy Comes
-  XII. In the Depths
-  XIII. Pontifex Plans Revenge
-  XIV. They that Take the Sword--
-
-  THE CONCLUSION Outward Bound
-
-
-
-
-The Cruise of the "_Pelican_"
-
-
-
-CHAPTER I
-
-BOATSWAIN JOE
 
 Tom Dennis sat on a printer's stool beside a very dirty window which
 dimly illumined his figure, and stared at the gloom surrounding him.
@@ -126,10 +71,10 @@ Hathaway had inspired him to renewed efforts, but now the end had
 come.  He must either borrow on his personal credit, which was not
 extensive enough to carry him very long, or else go under.
 
-  "A smart Yankee packet lay out in the bay,
-    To me way hay, o-_hi_-o!
-  A-waiting for a fair wind to get under way,
-    A long time ago!"
+"A smart Yankee packet lay out in the bay,
+To me way hay, o-_hi_-o!
+A-waiting for a fair wind to get under way,
+A long time ago!"
 
 
 The voice--a musing rumbling voice--came from the outer office, and
@@ -193,10 +138,10 @@ freedom, and now it seemed to him that a reporter's was a dog's life.
 He would not go back to it.  He would not ask her to face it all,
 even though she might be willing--
 
-  "We didn't get a drink for seventeen days,
-    To me way hay, o-_hi_-o!
-  And nobody cared if she hung in stays,
-    A _long_ time ago!"
+"We didn't get a drink for seventeen days,
+To me way hay, o-_hi_-o!
+And nobody cared if she hung in stays,
+A _long_ time ago!"
 
 
 Dimly the words penetrated the consciousness of Tom Dennis, roused
@@ -350,9 +295,7 @@ eyes steadied him.
 
 
 
-CHAPTER II
 
-NEWS FROM NOWHERE
 
 Florence Hathaway was extremely astonished when, upon Sunday morning,
 she heard the voice of Tom Dennis on the telephone, and received a
@@ -727,9 +670,7 @@ Tom--we shall win!"
 
 
 
-CHAPTER III
 
-LAYING A COURSE
 
 When the dinner was over, Boatswain Joe was in no haste to leave the
 restaurant; but he returned to the table and ordered a drink, having
@@ -1072,9 +1013,7 @@ Dumont smiled.  "I shall attend to that--to-night."
 
 
 
-CHAPTER IV
 
-THE SQUARE SUITCASE
 
 Tom Dennis, in the meantime, was making some discoveries.
 
@@ -1474,9 +1413,7 @@ suspected you at first."
 
 
 
-CHAPTER V
 
-THE "PELICAN"
 
 The brigantine-rigged _Pelican_ was of but a hundred and fifty tons
 burden; yet her royal yard stood athwart the sky nearly ninety feet
@@ -1587,7 +1524,6 @@ about him gettin' left behind."
 
 "Never mind 'baout Dumont."  Mrs. Pontifex's lips set in a grim line.
 "He's got his orders, and I wired money to him.  He'll go to Unalaska
-by steamer and wait there until we put in."
 
 "And who'll do the cookin' meantime?"
 
@@ -1820,8 +1756,8 @@ mate's cabin which had been assigned him and Florence.  And as he
 retired, he could faintly hear the roaring bellow of Boatswain Joe,
 somewhere on deck:
 
-  "She was waiting for a fair wind to get under way,
-    A _long_ time ago!"
+"She was waiting for a fair wind to get under way,
+A _long_ time ago!"
 
 
 The last vague thought of Tom Dennis was a mental query as to why
@@ -1831,9 +1767,7 @@ was to remember it later, also.
 
 
 
-CHAPTER VI
 
-OUTWARD BOUND
 
 Upon the morning after the _Pelican_ stood out of the Lion's Gate and
 headed southward, she was outside Cape Flattery and standing off to
@@ -2181,9 +2115,7 @@ million and a half to be had for the picking up!
 
 
 
-CHAPTER VII
 
-JERRY TELLS SOMETHING
 
 As in a daze, Tom Dennis listened while Pontifex went on to explain
 that Miles Hathaway alone knew where the _Simpson_ lay; that thus far
@@ -2589,9 +2521,7 @@ Tom Dennis laughed suddenly and kissed her on the lips.
 
 
 
-CHAPTER VIII
 
-MILES HATHAWAY TALKS
 
 Close upon noon the following day, moon-faced Jerry was heading for
 the after cabins, broom in hand, with intent to sweep up the mess
@@ -2974,9 +2904,7 @@ fear!"
 
 
 
-CHAPTER IX
 
-UNALASKA BAY
 
 Unalaska--at last!
 
@@ -3129,7 +3057,6 @@ Had the cook, Frenchy, come aboard?  Florence did not know.  She knew
 that Tom Dennis was there, among men who indubitably meant him no
 good; whether his would-be assassin had reached Unalaska in time to
 join the ship, she knew not.  She waited, shivering a little, until
-by degrees the red side-light vanished.  Presently the lights showed
 green and white--and she knew that the tide was on the ebb, that the
 ship had swung about to her cable.  There was a light breeze, but
 strong enough to carry the brig to sea.
@@ -3141,15 +3068,15 @@ joined by the voices of other men and interjected by the guttural
 utterances of Kanakas trying to keep tune; while the clicking pawls
 and the slowly shifting lights betrayed that the anchor was coming up:
 
-  "We cracked it on, on a big skiute,
-    _To me hoodah, to me hoodah_!
-  We cracked it on, on a big skiute,
-    _Hurrah for the Black Ball line_!
-  Blow, my bullies, blow,
-  For California oh!
-  There's plenty of gold
-  As I've been told,
-  On the banks of the Sacramento-o!"
+"We cracked it on, on a big skiute,
+_To me hoodah, to me hoodah_!
+We cracked it on, on a big skiute,
+_Hurrah for the Black Ball line_!
+Blow, my bullies, blow,
+For California oh!
+There's plenty of gold
+As I've been told,
+On the banks of the Sacramento-o!"
 
 
 Meantime, the capstan chantey was being drowned by other voices--the
@@ -3174,10 +3101,10 @@ out that bowline!"
 "Aye, sir!  Haul out the bowline!"
 
 
-  Haul upon the bowline, Kitty lives at Liverpool,
-    _Haul on the bowline, the bowline haul_!
-  Haul upon the bowline, Kitty lives at Liverpool,
-    _Haul on the bowline, the bowline haul_!
+Haul upon the bowline, Kitty lives at Liverpool,
+_Haul on the bowline, the bowline haul_!
+Haul upon the bowline, Kitty lives at Liverpool,
+_Haul on the bowline, the bowline haul_!
 
 
 Breathless, Florence watched and listened.  Would Tom succeed without
@@ -3243,7 +3170,6 @@ me to give you this----"
 But Florence forced the money upon him, and, with a last handshake,
 urged Jerry away toward warmth and dry clothes.
 
-By this time the boy's teeth were chattering so that talk was
 impossible.  Upon reaching her own cottage, where Florence had
 already engaged a room for Jerry, she gave him a spare suit of old
 clothes which Dennis had left for him, and left him to change.
@@ -3358,9 +3284,7 @@ the only thing to do?"
 
 
 
-CHAPTER X
 
-THE WRECK
 
 From Unalaska to the position indicated upon the chart as the
 resting-place of the _John Simpson_ was, in the rough, six hundred
@@ -3461,7 +3385,6 @@ had come.
 An instant later, Dennis had turned the corner of the try-works.
 What had happened he could not tell; but he saw the huge figure of
 Manuel Mendez hanging to the mizzen-shrouds, groaning faintly.  Close
-by, the insignificant little cook was facing the glittering knife of
 Corny--facing it with bare hands.
 
 Corny, growling savage Cape Verde oaths, leaped.  Swift as light was
@@ -3661,12 +3584,10 @@ we'll set to work _pronto_.  We don't want a gale to catch us here,
 either.  More likely to catch fog, anyway."
 
 And the skipper made good his words.  Before seven bells were struck
-at 7.20 that morning* the _Pelican_ was berthed alongside the fore
 half of the _Simpson_ and all was made snug below and aloft.  Captain
 Pontifex called all hands and made an address.
 
 
-* Usually struck at this time so the relieving watch may breakfast
 first.
 
 
@@ -3702,9 +3623,7 @@ A complete double set of diving apparatus was already awaiting them.
 
 
 
-CHAPTER XI
 
-THE ENEMY COMES
 
 The water was cold--cold and clear and biting as ice.  To Dennis,
 inside the rubber suit, it seemed as though he had been plunged
@@ -4033,9 +3952,7 @@ Frenchy grinned, and unstrapped his sheath-knife.
 
 
 
-CHAPTER XII
 
-IN THE DEPTHS
 
 As the steward helped pull up the rubber dress about the body of
 Dennis, he spoke in a low voice.
@@ -4335,9 +4252,7 @@ He had won clear!
 
 
 
-CHAPTER XIII
 
-PONTIFEX PLANS REVENGE
 
 "Strike me blind," observed Bo's'n Joe gloomily, "if they ain't gone
 an' got poor Frenchy!"
@@ -4677,9 +4592,7 @@ sailors say, always comes after death.
 
 
 
-CHAPTER XIV
 
-THEY THAT TAKE THE SWORD--
 
 A glorious sunrise broke across the ocean, lifting the island peaks
 to the north into a sheen of purple-rose and gold.  Dennis wakened to
@@ -4823,7 +4736,6 @@ The Kanakas, frightened and trembling at the appearance of Dennis
 whom they had thought dead, came aboard aiding the Missus.  Their
 story was a ghastly one.  At the first flame of blazing oil, they had
 opened fire upon the Jap vessel, obeying orders previously given them
-by the Missus.  But their firing had ceased with the explosion; it
 had stunned them.  They had wakened to find two of their number
 dead--and the Missus blind.
 
@@ -4919,9 +4831,7 @@ won't we?  But you'll never leave me behind again."
 
 
 
-THE CONCLUSION
 
-OUTWARD BOUND
 
 Four months after Tom Dennis had vanished from Marshville, the dingy
 and shut-up office of _The Clarion_ was reopened.  Dennis had
@@ -5011,13 +4921,9 @@ perhaps Miles Hathaway understood also.
 
 
 
-THE END
 
 
 
-  PRINTED BY
-  FISHER, KNIGHT & CO.; LTD.
-  LONDON AND HARPENDEN
 
 
 

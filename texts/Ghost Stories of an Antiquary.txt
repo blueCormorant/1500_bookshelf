@@ -1,28 +1,4 @@
 
-[Illustration]
-
-
-
-
-Ghost Stories of an Antiquary
-
-by M. R. James
-
-_These stories are dedicated to all those who at various times have listened
-to them._
-
-
-Contents
-
- Canon Alberic’s Scrap-book
- Lost Hearts
- The Mezzotint
- The Ash-tree
- Number 13
- Count Magnus
- “Oh, Whistle, and I’ll Come to You, My Lad”
- The Treasure of Abbot Thomas
-
 
 
 If anyone is curious about my local settings, let it be recorded that
@@ -32,18 +8,16 @@ fragments of ostensible erudition which are scattered about my pages,
 hardly anything in them is not pure invention; there never was,
 naturally, any such book as that which I quote in “The Treasure of
 Abbot Thomas”. “Canon Alberic’s Scrap-book” was written in 1894 and
-printed soon after in the _National Review_, “Lost Hearts” appeared in
-the _Pall Mall Magazine_; of the next five stories, most of which were
+printed soon after in the National Review, “Lost Hearts” appeared in
+the Pall Mall Magazine; of the next five stories, most of which were
 read to friends at Christmas-time at King’s College, Cambridge, I only
 recollect that I wrote “Number 13” in 1899, while “The Treasure of
 Abbot Thomas” was composed in the summer of 1904.
 
-M. R. JAMES
 
 
 
 
-CANON ALBERIC’S SCRAP-BOOK
 
 
 St Bertrand de Comminges is a decayed town on the spurs of the
@@ -56,7 +30,7 @@ a thousand inhabitants. He was a Cambridge man, who had come specially
 from Toulouse to see St Bertrand’s Church, and had left two friends,
 who were less keen archaeologists than himself, in their hotel at
 Toulouse, under promise to join him on the following morning. Half an
-hour at the church would satisfy _them_, and all three could then
+hour at the church would satisfy them, and all three could then
 pursue their journey in the direction of Auch. But our Englishman had
 come early on the day in question, and proposed to himself to fill a
 note-book and to use several dozens of plates in the process of
@@ -86,7 +60,7 @@ occasional glance to the sacristan. Whenever he did look at him, he
 found him at no great distance, either huddling himself back against
 the wall or crouching in one of the gorgeous stalls. Dennistoun became
 rather fidgety after a time. Mingled suspicions that he was keeping the
-old man from his _déjeuner_, that he was regarded as likely to make
+old man from his déjeuner, that he was regarded as likely to make
 away with St Bertrand’s ivory crozier, or with the dusty stuffed
 crocodile that hangs over the font, began to torment him.
 
@@ -124,8 +98,8 @@ series illustrating the miracles of St Bertrand. The composition of the
 picture is well-nigh indecipherable, but there is a Latin legend below,
 which runs thus:
 
-_Qualiter S. Bertrandus liberavit hominem quem diabolus diu volebat
-strangulare_. (How St Bertrand delivered a man whom the Devil long
+Qualiter S. Bertrandus liberavit hominem quem diabolus diu volebat
+strangulare. (How St Bertrand delivered a man whom the Devil long
 sought to strangle.)
 
 Dennistoun was turning to the sacristan with a smile and a jocular
@@ -169,7 +143,7 @@ town.”
 “No, monsieur; perhaps there used to be one belonging to the Chapter,
 but it is now such a small place—” Here came a strange pause of
 irresolution, as it seemed; then, with a sort of plunge, he went on:
-“But if monsieur is _amateur des vieux livres_, I have at home
+“But if monsieur is amateur des vieux livres, I have at home
 something that might interest him. It is not a hundred yards.”
 
 At once all Dennistoun’s cherished dreams of finding priceless
@@ -251,15 +225,14 @@ all, there were twenty leaves of uncial writing in Latin, which, as a
 few words seen here and there told him at once, must belong to some
 very early unknown patristic treatise. Could it possibly be a fragment
 of the copy of Papias “On the Words of Our Lord”, which was known to
-have existed as late as the twelfth century at Nîmes?[1] In any case,
+have existed as late as the twelfth century at Nîmes In any case,
 his mind was made up; that book must return to Cambridge with him, even
 if he had to draw the whole of his balance from the bank and stay at
 St. Bertrand till the money came. He glanced up at the sacristan to see
 if his face yielded any hint that the book was for sale. The sacristan
 was pale, and his lips were working.
 
- [1] We now know that these leaves did contain a considerable fragment
- of that work, if not of that actual copy of it.
+of that work, if not of that actual copy of it.
 
 “If monsieur will turn on to the end,” he said.
 
@@ -284,7 +257,7 @@ Shall I live an object of envy? Thou wilt. Shall I die in my bed? Thou
 wilt.)
 
 “A good specimen of the treasure-hunter’s record—quite reminds one of
-Mr Minor-Canon Quatremain in _Old St Paul’s_,” was Dennistoun’s
+Mr Minor-Canon Quatremain in Old St Paul’s,” was Dennistoun’s
 comment, and he turned the leaf.
 
 What he then saw impressed him, as he has often told me, more than he
@@ -400,7 +373,7 @@ his acquisition. The landlady had manifested a particular interest in
 him since he had told her that he had paid a visit to the sacristan and
 bought an old book from him. He thought, too, that he had heard a
 hurried dialogue between her and the said sacristan in the passage
-outside the _salle à manger_; some words to the effect that “Pierre and
+outside the salle à manger; some words to the effect that “Pierre and
 Bertrand would be sleeping in the house” had closed the conversation.
 
 All this time a growing feeling of discomfort had been creeping over
@@ -474,33 +447,26 @@ to all questionings but one reply was vouchsafed: “Deux fois je l’ai
 vu; mille fois je l’ai senti.” He would tell them nothing of the
 provenance of the book, nor any details of his experiences. “I shall
 soon sleep, and my rest will be sweet. Why should you trouble me?” he
-said.[2]
+said.
 
- [2] He died that summer; his daughter married, and settled at St
- Papoul. She never understood the circumstances of her father’s
- “obsession”.
+Papoul. She never understood the circumstances of her father’s
+“obsession”.
 
 We shall never know what he or Canon Alberic de Mauléon suffered. At
 the back of that fateful drawing were some lines of writing which may
 be supposed to throw light on the situation:
 
-Contradictio Salomonis cum demonio nocturno.
-Albericus de Mauléone delineavit.
-V. Deus in adiutorium. Ps. Qui habitat.
-Sancte Bertrande, demoniorum effugator, intercede pro me miserrimo.
-Primum uidi nocte 12(mi) Dec. 1694: uidebo mox ultimum. Peccaui et
-passus sum, plura adhuc passurus. Dec. 29, 1701.[3]
 
- [3] _i.e._, The Dispute of Solomon with a demon of the night. Drawn by
- Alberic de Mauléon. _Versicle_. O Lord, make haste to help me.
- _Psalm_. Whoso dwelleth xci.
-    Saint Bertrand, who puttest devils to flight, pray for me most
-    unhappy. I saw it first on the night of Dec. 12, 1694: soon I shall
-    see it for the last time. I have sinned and suffered, and have more
-    to suffer yet. Dec. 29, 1701.
-    The “Gallia Christiana” gives the date of the Canon’s death as
-    December 31, 1701, “in bed, of a sudden seizure”. Details of this
-    kind are not common in the great work of the Sammarthani.
+
+Alberic de Mauléon. Versicle. O Lord, make haste to help me.
+Psalm. Whoso dwelleth xci.
+Saint Bertrand, who puttest devils to flight, pray for me most
+unhappy. I saw it first on the night of Dec. 12, 1694: soon I shall
+see it for the last time. I have sinned and suffered, and have more
+to suffer yet. Dec. 29, 1701.
+The “Gallia Christiana” gives the date of the Canon’s death as
+December 31, 1701, “in bed, of a sudden seizure”. Details of this
+kind are not common in the great work of the Sammarthani.
 
 I have never quite understood what was Dennistoun’s view of the events
 I have narrated. He quoted to me once a text from Ecclesiasticus: “Some
@@ -527,7 +493,6 @@ Comminges on the occasion of his first visit.
 
 
 
-LOST HEARTS
 
 
 It was, as far as I can ascertain, in September of the year 1811 that a
@@ -570,8 +535,8 @@ contained all the then available books bearing on the Mysteries, the
 Orphic poems, the worship of Mithras, and the Neo-Platonists. In the
 marble-paved hall stood a fine group of Mithras slaying a bull, which
 had been imported from the Levant at great expense by the owner. He had
-contributed a description of it to the _Gentleman’s Magazine_, and he
-had written a remarkable series of articles in the _Critical Museum_ on
+contributed a description of it to the Gentleman’s Magazine, and he
+had written a remarkable series of articles in the Critical Museum on
 the superstitions of the Romans of the Lower Empire. He was looked
 upon, in fine, as a man wrapped up in his books, and it was a matter of
 great surprise among his neighbours that he should ever have heard of
@@ -738,7 +703,7 @@ the night before.
 
 “But,” he said, “Mrs Bunch, they are just the same as the scratches on
 the outside of my bedroom door; and I’m sure I never had anything to do
-with making _them_.”
+with making them.”
 
 Mrs Bunch gazed at him open-mouthed, then snatched up a candle,
 departed hastily from the room, and was heard making her way upstairs.
@@ -763,7 +728,7 @@ night in March, 1812.
 
 On the following evening the usual duet of Stephen and Mrs Bunch was
 augmented by the sudden arrival of Mr Parkes, the butler, who as a rule
-kept himself rather _to_ himself in his own pantry. He did not see that
+kept himself rather to himself in his own pantry. He did not see that
 Stephen was there: he was, moreover, flustered and less slow of speech
 than was his wont.
 
@@ -838,7 +803,7 @@ or water-birds, yet they did not quite resemble either sound. Were not
 they coming nearer? Now they sounded from the nearer side of the water,
 and in a few moments they seemed to be floating about among the
 shrubberies. Then they ceased; but just as Stephen was thinking of
-shutting the window and resuming his reading of _Robinson Crusoe_, he
+shutting the window and resuming his reading of Robinson Crusoe, he
 caught sight of two figures standing on the gravelled terrace that ran
 along the garden side of the Hall—the figures of a boy and girl, as it
 seemed; they stood side by side, looking up at the windows. Something
@@ -888,23 +853,22 @@ the elemental forces of our universe.
 “It is recorded of Simon Magus that he was able to fly in the air, to
 become invisible, or to assume any form he pleased, by the agency of
 the soul of a boy whom, to use the libellous phrase employed by the
-author of the _Clementine Recognitions_, he had ‘murdered’. I find it
+author of the Clementine Recognitions, he had ‘murdered’. I find it
 set down, moreover, with considerable detail in the writings of Hermes
 Trismegistus, that similar happy results may be produced by the
 absorption of the hearts of not less than three human beings below the
 age of twenty-one years. To the testing of the truth of this receipt I
 have devoted the greater part of the last twenty years, selecting as
-the _corpora vilia_ of my experiment such persons as could conveniently
+the corpora vilia of my experiment such persons as could conveniently
 be removed without occasioning a sensible gap in society. The first
 step I effected by the removal of one Phoebe Stanley, a girl of gipsy
 extraction, on March 24, 1792. The second, by the removal of a
 wandering Italian lad, named Giovanni Paoli, on the night of March 23,
-1805. The final ‘victim’—to employ a word repugnant in the highest
 degree to my feelings—must be my cousin, Stephen Elliott. His day must
 be this March 24, 1812.
 
 “The best means of effecting the required absorption is to remove the
-heart from the _living_ subject, to reduce it to ashes, and to mingle
+heart from the living subject, to reduce it to ashes, and to mingle
 them with about a pint of some red wine, preferably port. The remains
 of the first two subjects, at least, it will be well to conceal: a
 disused bathroom or wine-cellar will be found convenient for such a
@@ -931,7 +895,6 @@ different conclusion.
 
 
 
-THE MEZZOTINT
 
 
 Some time ago I believe I had the pleasure of telling you the story of
@@ -975,18 +938,16 @@ the museum a catalogue from Mr Britnell’s emporium, and accompanying it
 was a typewritten communication from the dealer himself. This latter
 ran as follows:
 
-DEAR SIR,
-    We beg to call your attention to No. 978 in our accompanying
-    catalogue, which we shall be glad to send on approval.
+We beg to call your attention to No. 978 in our accompanying
+catalogue, which we shall be glad to send on approval.
 
 Yours faithfully,
-J. W. BRITNELL.
 
 To turn to No. 978 in the accompanying catalogue was with Mr. Williams
 (as he observed to himself) the work of a moment, and in the place
 indicated he found the following entry:
 
-978.—_Unknown._ Interesting mezzotint: View of a manor-house, early
+978.—Unknown. Interesting mezzotint: View of a manor-house, early
 part of the century. 15 by 10 inches; black frame. £2 2s.
 
 It was not specially exciting, and the price seemed high. However, as
@@ -1018,15 +979,15 @@ a full-face view of a not very large manor-house of the last century,
 with three rows of plain sashed windows with rusticated masonry about
 them, a parapet with balls or vases at the angles, and a small portico
 in the centre. On either side were trees, and in front a considerable
-expanse of lawn. The legend _A. W. F. sculpsit_ was engraved on the
+expanse of lawn. The legend A. W. F. sculpsit was engraved on the
 narrow margin; and there was no further inscription. The whole thing
 gave the impression that it was the work of an amateur. What in the
 world Mr Britnell could mean by affixing the price of £2 2s. to such an
 object was more than Mr Williams could imagine. He turned it over with
 a good deal of contempt; upon the back was a paper label, the left-hand
 half of which had been torn off. All that remained were the ends of two
-lines of writing: the first had the letters—_ngley Hall_; the
-second,—_ssex_.
+lines of writing: the first had the letters—ngley Hall; the
+second,—ssex.
 
 It would, perhaps, be just worth while to identify the place
 represented, which he could easily do with the help of a gazetteer, and
@@ -1064,7 +1025,7 @@ any figures to give it life.”
 
 “It’s not worth two guineas, I should think,” said Binks; “but I don’t
 think it’s so badly done. The moonlight seems rather good to me; and I
-should have thought there _were_ figures, or at least a figure, just on
+should have thought there were figures, or at least a figure, just on
 the edge in front.”
 
 “Let’s look,” said Williams. “Well, it’s true the light is rather
@@ -1083,7 +1044,7 @@ know.”
 
 Professor Binks had his work to do, and soon went; and very nearly up
 to Hall time Williams was engaged in a vain attempt to identify the
-subject of his picture. “If the vowel before the _ng_ had only been
+subject of his picture. “If the vowel before the ng had only been
 left, it would have been easy enough,” he thought; “but as it is, the
 name may be anything from Guestingley to Langley, and there are many
 more names ending like this than I thought; and this rotten book has no
@@ -1340,10 +1301,9 @@ When they assembled again, at the earliest possible moment, the
 engraving was there, but the figure was gone, and the house was quiet
 under the moonbeams. There was nothing for it but to spend the evening
 over gazetteers and guide-books. Williams was the lucky one at last,
-and perhaps he deserved it. At 11.30 p.m. he read from Murray’s _Guide
-to Essex_ the following lines:
+and perhaps he deserved it. At 11.30 p.m. he read from Murray’s Guide
+to Essex the following lines:
 
-16½ miles, _Anningley_. The church has been an interesting building of
 Norman date, but was extensively classicized in the last century. It
 contains the tomb of the family of Francis, whose mansion, Anningley
 Hall, a solid Queen Anne house, stands immediately beyond the
@@ -1373,7 +1333,7 @@ country—the last remains of a very old family. I believe they were
 Lords of the Manor at one time. I recollect just the same thing in my
 own parish.”
 
-“What, like the man in _Tess o’ the Durbervilles_?” Williams put in.
+“What, like the man in Tess o’ the Durbervilles?” Williams put in.
 
 “Yes, I dare say; it’s not a book I could ever read myself. But this
 fellow could show a row of tombs in the church there that belonged to
@@ -1391,8 +1351,8 @@ buried in, on the north side of the church—you know the way in that
 part of the world: anyone that’s been hanged or made away with
 themselves, they bury them that side. And the idea was that some friend
 of Gawdy’s—not a relation, because he had none, poor devil! he was the
-last of his line: kind of _spes ultima gentis_—must have planned to get
-hold of Francis’s boy and put an end to _his_ line, too. I don’t
+last of his line: kind of spes ultima gentis—must have planned to get
+hold of Francis’s boy and put an end to his line, too. I don’t
 know—it’s rather an out-of-the-way thing for an Essex poacher to think
 of—but, you know, I should say now it looks more as if old Gawdy had
 managed the job himself. Booh! I hate to think of it! have some whisky,
@@ -1413,7 +1373,6 @@ watched, it has never been known to change again.
 
 
 
-THE ASH-TREE
 
 
 Everyone who has travelled over Eastern England knows the smaller
@@ -1457,12 +1416,11 @@ the persons accused of this offence really did imagine that they were
 possessed of unusual power of any kind; or whether they had the will at
 least, if not the power, of doing mischief to their neighbours; or
 whether all the confessions, of which there are so many, were extorted
-by the mere cruelty of the witch-finders—these are questions which are
 not, I fancy, yet solved. And the present narrative gives me pause. I
 cannot altogether sweep it away as mere invention. The reader must
 judge for himself.
 
-Castringham contributed a victim to the _auto-da-fé_. Mrs Mothersole
+Castringham contributed a victim to the auto-da-fé. Mrs Mothersole
 was her name, and she differed from the ordinary run of village witches
 only in being rather better off and in a more influential position.
 Efforts were made to save her by several reputable farmers of the
@@ -1498,7 +1456,6 @@ rough grass hill outside Northgate, where the gallows stood. The other
 victims were apathetic or broken down with misery; but Mrs Mothersole
 was, as in life so in death, of a very different temper. Her “poysonous
 Rage”, as a reporter of the time puts it, “did so work upon the
-Bystanders—yea, even upon the Hangman—that it was constantly affirmed
 of all that saw her that she presented the living Aspect of a mad
 Divell. Yet she offer’d no Resistance to the Officers of the Law; onely
 she looked upon those that laid Hands upon her with so direfull and
@@ -1601,7 +1558,7 @@ small Magnifying Lens of Crystal of the condition of the Skinn on this
 Part of the Body: but could not detect with the Instrument we had any
 Matter of Importance beyond a couple of small Punctures or Pricks,
 which we then concluded were the Spotts by which the Poyson might be
-introduced, remembering that Ring of _Pope Borgia_, with other known
+introduced, remembering that Ring of Pope Borgia, with other known
 Specimens of the Horrid Art of the Italian Poysoners of the last age.
 
 “So much is to be said of the Symptoms seen on the Corpse. As to what I
@@ -1615,9 +1572,9 @@ Study of this poorer Adumbration was now pass’d to the contemplation of
 its great Originall—it came into my Thoughts, as at such moments of
 Helplessness we are prone to catch at any the least Glimmer that makes
 promise of Light, to make trial of that old and by many accounted
-Superstitious Practice of drawing the _Sortes;_ of which a Principall
+Superstitious Practice of drawing the Sortes; of which a Principall
 Instance, in the case of his late Sacred Majesty the Blessed Martyr
-King _Charles_ and my Lord _Falkland_, was now much talked of. I must
+King Charles and my Lord Falkland, was now much talked of. I must
 needs admit that by my Trial not much Assistance was afforded me: yet,
 as the Cause and Origin of these Dreadfull Events may hereafter be
 search’d out, I set down the Results, in the case it may be found that
@@ -1626,9 +1583,9 @@ than my own.
 
 “I made, then, three trials, opening the Book and placing my Finger
 upon certain Words: which gave in the first these words, from Luke
-xiii. 7, _Cut it down_; in the second, Isaiah xiii. 20, _It shall never
-be inhabited_; and upon the third Experiment, Job xxxix. 30, _Her young
-ones also suck up blood_.”
+xiii. 7, Cut it down; in the second, Isaiah xiii. 20, It shall never
+be inhabited; and upon the third Experiment, Job xxxix. 30, Her young
+ones also suck up blood.”
 
 This is all that need be quoted from Mr Crome’s papers. Sir Matthew
 Fell was duly coffined and laid into the earth, and his funeral sermon,
@@ -1649,7 +1606,7 @@ and live-stock in general, which showed a tendency to increase slightly
 as time went on.
 
 Those who are interested in the details will find a statistical account
-in a letter to the _Gentleman’s Magazine_ of 1772, which draws the
+in a letter to the Gentleman’s Magazine of 1772, which draws the
 facts from the Baronet’s own papers. He put an end to it at last by a
 very simple expedient, that of shutting up all his beasts in sheds at
 night, and keeping no sheep in his park. For he had noticed that
@@ -1660,7 +1617,6 @@ quite unproductive of any clue, I do not dwell on what the Suffolk
 farmers called the “Castringham sickness”.
 
 The second Sir Matthew died in 1735, as I said, and was duly succeeded
-by his son, Sir Richard. It was in his time that the great family pew
 was built out on the north side of the parish church. So large were the
 Squire’s ideas that several of the graves on that unhallowed side of
 the building had to be disturbed to satisfy his requirements. Among
@@ -1776,11 +1732,11 @@ was then just become a Fellow of Clare Hall in Cambridge, I may say,
 and subsequently brought out a respectable edition of
 Polyaenus—contained among other things the notes which the old Vicar
 had made upon the occasion of Sir Matthew Fell’s death. And for the
-first time Sir Richard was confronted with the enigmatical _Sortes
-Biblicæ_ which you have heard. They amused him a good deal.
+first time Sir Richard was confronted with the enigmatical Sortes
+Biblicæ which you have heard. They amused him a good deal.
 
 “Well,” he said, “my grandfather’s Bible gave one prudent piece of
-advice—_Cut it down_. If that stands for the ash-tree, he may rest
+advice—Cut it down. If that stands for the ash-tree, he may rest
 assured I shall not neglect it. Such a nest of catarrhs and agues was
 never seen.”
 
@@ -1871,7 +1827,7 @@ chest. It is a horrible illusion. Is it nothing more? There! something
 drops off the bed with a soft plump, like a kitten, and is out of the
 window in a flash; another—four—and after that there is quiet again.
 
-_“Thou shalt seek me in the morning, and I shall not be.”_
+“Thou shalt seek me in the morning, and I shall not be.”
 
 As with Sir Matthew, so with Sir Richard—dead and black in his bed!
 
@@ -1919,7 +1875,6 @@ inside the tree.
 He was in a dead faint, and it was some time before any word could be
 got from him.
 
-By then they had something else to look at. The lantern must have
 broken at the bottom, and the light in it caught upon dry leaves and
 rubbish that lay there, for in a few minutes a dense smoke began to
 come up, and then flame; and, to be short, the tree was in a blaze.
@@ -1956,7 +1911,6 @@ dead for a period of fifty years.”
 
 
 
-NUMBER 13
 
 
 Among the towns of Jutland, Viborg justly holds a high place. It is the
@@ -2010,7 +1964,6 @@ or three rooms which would, so far as size went, suit admirably.
 The landlord was strongly in favour of Number 17, but Mr Anderson
 pointed out that its windows commanded only the blank wall of the next
 house, and that it would be very dark in the afternoon. Either Number
-12 or Number 14 would be better, for both of them looked on the street,
 and the bright evening light and the pretty view would more than
 compensate him for the additional amount of noise.
 
@@ -2090,7 +2043,7 @@ apparently somewhat of a scandal and a stumbling-block to the reforming
 party. He was a disgrace, they wrote, to the city; he practised secret
 and wicked arts, and had sold his soul to the enemy. It was of a piece
 with the gross corruption and superstition of the Babylonish Church
-that such a viper and blood-sucking _Troldmand_ should be patronized
+that such a viper and blood-sucking Troldmand should be patronized
 and harboured by the Bishop. The Bishop met these reproaches boldly; he
 protested his own abhorrence of all such things as secret arts, and
 required his antagonists to bring the matter before the proper court—of
@@ -2119,7 +2072,6 @@ spoke of embodying their contents. “This house of the Bishop Friis,” he
 added, “it is a great puzzle to me where it can have stood. I have
 studied carefully the topography of old Viborg, but it is most
 unlucky—of the old terrier of the Bishop’s property which was made in
-1560, and of which we have the greater part in the Arkiv, just the
 piece which had the list of the town property is missing. Never mind.
 Perhaps I shall some day succeed to find him.”
 
@@ -2149,7 +2101,7 @@ moved by officious servants; doubtless the contents had been put in the
 wardrobe. No, none of them were there. This was vexatious. The idea of
 a theft he dismissed at once. Such things rarely happen in Denmark, but
 some piece of stupidity had certainly been performed (which is not so
-uncommon), and the _stuepige_ must be severely spoken to. Whatever it
+uncommon), and the stuepige must be severely spoken to. Whatever it
 was that he wanted, it was not so necessary to his comfort that he
 could not wait till the morning for it, and he therefore settled not to
 ring the bell and disturb the servants. He went to the window—the
@@ -2178,7 +2130,7 @@ and suddenly he swept aside from the window, and his red light went
 out. Anderson, who had been smoking a cigarette, laid the end of it on
 the window-sill and went to bed.
 
-Next morning he was woken by the _stuepige_ with hot water, etc. He
+Next morning he was woken by the stuepige with hot water, etc. He
 roused himself, and after thinking out the correct Danish words, said
 as distinctly as he could:
 
@@ -2240,7 +2192,7 @@ Church under the guise and symbol of the Scarlet Woman, be it known to
 you,” etc.
 
 Search as he might, Anderson could find no sequel to this letter nor
-any clue to the cause or manner of the “removal” of the _casus belli_.
+any clue to the cause or manner of the “removal” of the casus belli.
 He could only suppose that Francken had died suddenly; and as there
 were only two days between the date of Nielsen’s last letter—when
 Francken was evidently still in being—and that of the Bishop’s letter,
@@ -2273,7 +2225,6 @@ Here he plunged into reminiscence.
 Number 13?” said Anderson.
 
 “Ah! to be sure. Well, you understand, I was brought up to the business
-by my poor old father. He kept an hotel in Aarhuus first, and then,
 when we were born, he moved to Viborg here, which was his native place,
 and had the Phœnix here until he died. That was in 1876. Then I started
 business in Silkeborg, and only the year before last I moved into this
@@ -2359,11 +2310,11 @@ thoughts, like those of Emily in the “Mysteries of Udolpho”, began to
 “arrange themselves in the following lines”:
 
 “When I return to my hotel,
-    At ten o’clock p.m.,
+At ten o’clock p.m.,
 The waiters think I am unwell;
-    I do not care for them.
+I do not care for them.
 But when I’ve locked my chamber door,
-    And put my boots outside,
+And put my boots outside,
 I dance all night upon the floor.
 And even if my neighbours swore,
 I’d go on dancing all the more,
@@ -2401,7 +2352,7 @@ successful in his business, by what I hear, and a young family to bring
 up.”
 
 Just then came an impatient knock at the door, and the knocker entered,
-without waiting to be asked. It was the lawyer, in _déshabille_ and
+without waiting to be asked. It was the lawyer, in déshabille and
 very rough-haired; and very angry he looked.
 
 “I beg pardon, sir,” he said, “but I should be much obliged if you
@@ -2448,8 +2399,8 @@ does this mean?”
 you, gentlemen. I pray I may never hear such a noise again.”
 
 “So do I,” said Herr Jensen, and he added something under his breath.
-Anderson thought it sounded like the last words of the Psalter, “_omnis
-spiritus laudet Dominum_,” but he could not be sure.
+Anderson thought it sounded like the last words of the Psalter, “omnis
+spiritus laudet Dominum,” but he could not be sure.
 
 “But we must do something,” said Anderson—“the three of us. Shall we go
 and investigate in the next room?”
@@ -2473,7 +2424,7 @@ servant you have in the place? We must see this through.”
 The landlord nodded, and hurried off, glad to be away from the scene of
 action. Jensen and Anderson remained outside looking at the door.
 
-“It _is_ Number 13, you see,” said the latter.
+“It is Number 13, you see,” said the latter.
 
 “Yes; there is your door, and there is mine,” said Jensen.
 
@@ -2539,7 +2490,7 @@ Neither Jensen nor Anderson was averse to the suggestion. They felt
 inclined to hunt in couples after their late experience. It was found
 convenient, when each of them went to his room to collect the articles
 he wanted for the night, that the other should go with him and hold the
-candle. They noticed that both Number 12 and Number 14 had _three_
+candle. They noticed that both Number 12 and Number 14 had three
 windows.
 
 Next morning the same party reassembled in Number 12. The landlord was
@@ -2594,18 +2545,16 @@ any inferences from it, and to assent to any that I drew for him.
 
 
 
-COUNT MAGNUS
 
 
-By what means the papers out of which I have made a connected story
 came into my hands is the last point which the reader will learn from
 these pages. But it is necessary to prefix to my extracts from them a
 statement of the form in which I possess them.
 
 They consist, then, partly of a series of collections for a book of
 travels, such a volume as was a common product of the forties and
-fifties. Horace Marryat’s _Journal of a Residence in Jutland and the
-Danish Isles_ is a fair specimen of the class to which I allude. These
+fifties. Horace Marryat’s Journal of a Residence in Jutland and the
+Danish Isles is a fair specimen of the class to which I allude. These
 books usually treated of some unknown district on the Continent. They
 were illustrated with woodcuts or steel plates. They gave details of
 hotel accommodation, and of means of communication, such as we now
@@ -2655,15 +2604,14 @@ summer of 1863.
 
 Of his travels in the North there is no need to speak, nor of his
 residence of some weeks in Stockholm. I need only mention that some
-_savant_ resident there put him on the track of an important collection
+savant resident there put him on the track of an important collection
 of family papers belonging to the proprietors of an ancient manor-house
 in Vestergothland, and obtained for him permission to examine them.
 
-The manor-house, or _herrgård_, in question is to be called Råbäck
+The manor-house, or herrgård, in question is to be called Råbäck
 (pronounced something like Roebeck), though that is not its name. It is
 one of the best buildings of its kind in all the country, and the
-picture of it in Dahlenberg’s _Suecia antiqua et moderna_, engraved in
-1694, shows it very much as the tourist may see it today. It was built
+picture of it in Dahlenberg’s Suecia antiqua et moderna, engraved in
 soon after 1600, and is, roughly speaking, very much like an English
 house of that period in respect of material—red-brick with stone
 facings—and style. The man who built it was a scion of the great house
@@ -2787,7 +2735,6 @@ in which they were kept to their places on the shelf, he proceeded,
 very naturally, to take down some of the volumes nearest to them, in
 order to determine which of them had best be his principal subject of
 investigation next day. The shelf he had hit upon was occupied mostly
-by a collection of account-books in the writing of the first Count
 Magnus. But one among them was not an account-book, but a book of
 alchemical and other tracts in another sixteenth-century hand. Not
 being very familiar with alchemical literature, Mr Wraxall spends much
@@ -2808,13 +2755,12 @@ faithful messenger and see the blood of his enemies, it is necessary
 that he should first go into the city of Chorazin, and there salute the
 prince….” Here there was an erasure of one word, not very thoroughly
 done, so that Mr Wraxall felt pretty sure that he was right in reading
-it as _aëris_ (“of the air”). But there was no more of the text copied,
-only a line in Latin: _Quære reliqua hujus materiei inter secretiora_.
+it as aëris (“of the air”). But there was no more of the text copied,
+only a line in Latin: Quære reliqua hujus materiei inter secretiora.
 (See the rest of this matter among the more private things.)
 
 It could not be denied that this threw a rather lurid light upon the
 tastes and beliefs of the Count; but to Mr Wraxall, separated from him
-by nearly three centuries, the thought that he might have added to his
 general forcefulness alchemy, and to alchemy something like magic, only
 made him a more picturesque figure; and when, after a rather prolonged
 contemplation of his picture in the hall, Mr Wraxall set out on his
@@ -3057,7 +3003,6 @@ cloak, brown hat.
 26. Man in long black cloak, broad-leafed hat, very old-fashioned.
 
 This entry is lined out, and a note added: “Perhaps identical with No.
-13. Have not yet seen his face.” On referring to No. 13, I find that he
 is a Roman priest in a cassock.
 
 The net result of the reckoning is always the same. Twenty-eight people
@@ -3109,7 +3054,6 @@ window in the best bedroom.
 
 
 
-“OH, WHISTLE, AND I’LL COME TO YOU, MY LAD”
 
 
 “I suppose you will be getting away pretty soon, now Full Term is over,
@@ -3153,7 +3097,7 @@ as you know, all along that bit of coast. I should think, from the map,
 that it must be about three-quarters of a mile from the Globe Inn, at
 the north end of the town. Where are you going to stay?”
 
-“Well, _at_ the Globe Inn, as a matter of fact,” said Parkins; “I have
+“Well, at the Globe Inn, as a matter of fact,” said Parkins; “I have
 engaged a room there. I couldn’t get in anywhere else; most of the
 lodging-houses are shut up in winter, it seems; and, as it is, they
 tell me that the only room of any size I can have is really a
@@ -3205,24 +3149,23 @@ beg pardon, Parkins,” Rogers continued; “I oughtn’t to have said that.
 I forgot you didn’t like levity on these topics.”
 
 “Well,” Parkins said, “as you have mentioned the matter, I freely own
-that I do _not_ like careless talk about what you call ghosts. A man in
+that I do not like careless talk about what you call ghosts. A man in
 my position,” he went on, raising his voice a little, “cannot, I find,
 be too careful about appearing to sanction the current beliefs on such
 subjects. As you know, Rogers, or as you ought to know; for I think I
 have never concealed my views—”
 
-“No, you certainly have not, old man,” put in Rogers _sotto voce._
+“No, you certainly have not, old man,” put in Rogers sotto voce.
 
 “—I hold that any semblance, any appearance of concession to the view
 that such things might exist is equivalent to a renunciation of all
 that I hold most sacred. But I’m afraid I have not succeeded in
 securing your attention.”
 
-“Your _undivided_ attention, was what Dr Blimber actually _said_,”[4]
+“Your undivided attention, was what Dr Blimber actually said,"
 Rogers interrupted, with every appearance of an earnest desire for
 accuracy. “But I beg your pardon, Parkins: I’m stopping you.”
 
- [4] Mr Rogers was wrong, _vide Dombey and Son_, chapter xii.
 
 “No, not at all,” said Parkins. “I don’t remember Blimber; perhaps he
 was before my time. But I needn’t go on. I’m sure you know what I
@@ -3245,7 +3188,6 @@ at the Globe Inn, was safely installed in the large double-bedded room
 of which we have heard, and was able before retiring to rest to arrange
 his materials for work in apple-pie order upon a commodious table which
 occupied the outer end of the room, and was surrounded on three sides
-by windows looking out seaward; that is to say, the central window
 looked straight out to sea, and those on the left and right commanded
 prospects along the shore to the north and south respectively. On the
 south you saw the village of Burnstow. On the north no houses were to
@@ -3257,7 +3199,7 @@ the sea, not more than sixty yards now separated them.
 
 The rest of the population of the inn was, of course, a golfing one,
 and included few elements that call for a special description. The most
-conspicuous figure was, perhaps, that of an _ancien militaire_,
+conspicuous figure was, perhaps, that of an ancien militaire,
 secretary of a London club, and possessed of a voice of incredible
 strength, and of views of a pronouncedly Protestant type. These were
 apt to find utterance after his attendance upon the ministrations of
@@ -3306,7 +3248,7 @@ wrote down its rough dimensions in his pocket-book. Then he proceeded
 to examine an oblong eminence which lay east of the centre of the
 circle, and seemed to his thinking likely to be the base of a platform
 or altar. At one end of it, the northern, a patch of the turf was
-gone—removed by some boy or other creature _feraæ naturæ_. It might, he
+gone—removed by some boy or other creature feraæ naturæ. It might, he
 thought, be as well to probe the soil here for evidences of masonry,
 and he took out his knife and began scraping away the earth. And now
 followed another little discovery: a portion of soil fell inward as he
@@ -3323,7 +3265,6 @@ he brought it into the light, now fast fading, he could see that it,
 too, was of man’s making—a metal tube about four inches long, and
 evidently of some considerable age.
 
-By the time Parkins had made sure that there was nothing else in this
 odd receptacle, it was too late and too dark for him to think of
 undertaking any further search. What he had done had proved so
 unexpectedly interesting that he determined to sacrifice a little more
@@ -3405,11 +3346,9 @@ of it was as obscure to him as the writing on the wall to Belshazzar.
 There were legends both on the front and on the back of the whistle.
 The one read thus:
 
-FLA FUR BIS FLE
 
 The other:
 
-QUIS EST ISTE QUI VENIT
 
 “I ought to be able to make it out,” he thought; “but I suppose I am a
 little rusty in my Latin. When I come to think of it, I don’t believe I
@@ -3468,7 +3407,7 @@ tossing and rustling in his bed, too.
 
 The next stage was that Parkins shut his eyes and determined to give
 sleep every chance. Here again over-excitement asserted itself in
-another form—that of making pictures. _Experto crede_, pictures do come
+another form—that of making pictures. Experto crede, pictures do come
 to the closed eyes of one trying to sleep, and are often so little to
 his taste that he must open his eyes and disperse them.
 
@@ -3670,7 +3609,7 @@ speechless with fright. Inquiries were useless at first. When the boy
 got his breath he began to howl, and still clung to the Colonel’s legs.
 He was at last detached, but continued to howl.
 
-“What in the world _is_ the matter with you? What have you been up to?
+“What in the world is the matter with you? What have you been up to?
 What have you seen?” said the two men.
 
 “Ow, I seen it wive at me out of the winder,” wailed the boy, “and I
@@ -3689,7 +3628,7 @@ for it in some way. And by a series of questions he made out this
 story: The boy had been playing about on the grass in front of the
 Globe with some others; then they had gone home to their teas, and he
 was just going, when he happened to look up at the front winder and see
-it a-wiving at him. _It_ seemed to be a figure of some sort, in white
+it a-wiving at him. It seemed to be a figure of some sort, in white
 as far as he knew—couldn’t see its face; but it wived at him, and it
 warn’t a right thing—not to say not a right person. Was there a light
 in the room? No, he didn’t think to look if there was a light. Which
@@ -3794,7 +3733,6 @@ and learn. I hope so, I’m sure, and I wish you a good night.”
 He turned away, leaving Parkins in act to speak at the bottom of the
 stair, and soon each was in his own bedroom.
 
-By some unfortunate accident, there were neither blinds nor curtains to
 the windows of the Professor’s room. The previous night he had thought
 little of this, but tonight there seemed every prospect of a bright
 moon rising to shine directly on his bed, and probably wake him later
@@ -3851,7 +3789,7 @@ what manner of thing it was.
 Parkins, who very much dislikes being questioned about it, did once
 describe something of it in my hearing, and I gathered that what he
 chiefly remembers about it is a horrible, an intensely horrible, face
-_of crumpled linen._ What expression he read upon it he could not or
+of crumpled linen. What expression he read upon it he could not or
 would not tell, but that the fear of it went nigh to maddening him is
 certain.
 
@@ -3906,38 +3844,16 @@ one sleepless night.
 
 
 
-THE TREASURE OF ABBOT THOMAS
-
-
-I
-
-Verum usque in præsentem diem multa garriunt inter se Canonici de
-abscondito quodam istius Abbatis Thomæ thesauro, quem sæpe, quanquam
-adhuc incassum, quæsiverunt Steinfeldenses. Ipsum enim Thomam adhuc
-florida in ætate existentem ingentem auri massam circa monasterium
-defodisse perhibent; de quo multoties interrogatus ubi esset, cum risu
-respondere solitus erat: “Job, Johannes, et Zacharias vel vobis vel
-posteris indicabunt”; idemque aliquando adiicere se inventuris minime
-invisurum. Inter alia huius Abbatis opera, hoc memoria præcipue dignum
-iudico quod fenestram magnam in orientali parte alæ australis in
-ecclesia sua imaginibus optime in vitro depictis impleverit: id quod et
-ipsius effigies et insignia ibidem posita demonstrant. Domum quoque
-Abbatialem fere totam restauravit: puteo in atrio ipsius effosso et
-lapidibus marmoreis pulchre cælatis exornato. Decessit autem, morte
-aliquantulum subitanea perculsus, ætatis suæ anno lxxiido,
-incarnationis vero Dominiæ mdxxixo.
-
 “I suppose I shall have to translate this,” said the antiquary to
 himself, as he finished copying the above lines from that rather rare
-and exceedingly diffuse book, the _Sertum Steinfeldense
-Norbertinum._[5] “Well, it may as well be done first as last,” and
+and exceedingly diffuse book, the Sertum Steinfeldense
+Norbertinum. “Well, it may as well be done first as last,” and
 accordingly the following rendering was very quickly produced:
 
- [5] An account of the Premonstratensian abbey of Steinfeld, in the
- Eiffel, with lives of the Abbots, published at Cologne in 1712 by
- Christian Albert Erhard, a resident in the district. The epithet
- _Norbertinum_ is due to the fact that St Norbert was founder of the
- Premonstratensian Order.
+Eiffel, with lives of the Abbots, published at Cologne in 1712 by
+Christian Albert Erhard, a resident in the district. The epithet
+Norbertinum is due to the fact that St Norbert was founder of the
+Premonstratensian Order.
 
 Up to the present day there is much gossip among the Canons about a
 certain hidden treasure of this Abbot Thomas, for which those of
@@ -3981,17 +3897,10 @@ scroll, inscribed with a sentence from his writings. These, as a matter
 of course, the antiquary had noted, and had been struck by the curious
 way in which they differed from any text of the Vulgate that he had
 been able to examine. Thus the scroll in Job’s hand was inscribed:
-_Auro est locus in quo absconditur_ (for _conflatur_);[6] on the book
-of John was: _Habent in vestimentis suis scripturam quam nemo novit_[7]
-(for in _vestimento scriptum_, the following words being taken from
-another verse); and Zacharias had: _Super lapidem unum septem oculi
-sunt_[8] (which alone of the three presents an unaltered text).
 
- [6] There is a place for gold where it is hidden.
 
- [7] They have on their raiment a writing which no man knoweth.
 
- [8] Upon one stone are seven eyes.
+
 
 A sad perplexity it had been to our investigator to think why these
 three personages should have been placed together in one window. There
@@ -3999,7 +3908,7 @@ was no bond of connexion between them, either historic, symbolic, or
 doctrinal, and he could only suppose that they must have formed part of
 a very large series of Prophets and Apostles, which might have filled,
 say, all the clerestory windows of some capacious church. But the
-passage from the _Sertum_ had altered the situation by showing that the
+passage from the Sertum had altered the situation by showing that the
 names of the actual personages represented in the glass now in Lord
 D——’s chapel had been constantly on the lips of Abbot Thomas von
 Eschenhausen of Steinfeld, and that this Abbot had put up a painted
@@ -4035,7 +3944,6 @@ master’s things for a short journey abroad, whither for the moment we
 will not follow him.
 
 
-II
 
 Mr Gregory, the Rector of Parsbury, had strolled out before breakfast,
 it being a fine autumn morning, as far as the gate of his
@@ -4053,16 +3961,15 @@ When the Rector opened it, and turned to the signature, he realized
 that it came from the confidential valet of his friend and squire, Mr.
 Somerton. Thus it ran:
 
-HONOURED SIR,
-    Has I am in a great anxiety about Master I write at is Wish to beg
-    you Sir if you could be so good as Step over. Master Has add a
-    Nastey Shock and keeps His Bedd. I never Have known Him like this
-    but No wonder and Nothing will serve but you Sir. Master says would
-    I mintion the Short Way Here is Drive to Cobblince and take a Trap.
-    Hopeing I Have maid all Plain, but am much Confused in Myself what
-    with Anxiatey and Weakfulness at Night. If I might be so Bold Sir
-    it will be a Pleasure to see a Honnest Brish Face among all These
-    Forig ones.
+Has I am in a great anxiety about Master I write at is Wish to beg
+you Sir if you could be so good as Step over. Master Has add a
+Nastey Shock and keeps His Bedd. I never Have known Him like this
+but No wonder and Nothing will serve but you Sir. Master says would
+I mintion the Short Way Here is Drive to Cobblince and take a Trap.
+Hopeing I Have maid all Plain, but am much Confused in Myself what
+with Anxiatey and Weakfulness at Night. If I might be so Bold Sir
+it will be a Pleasure to see a Honnest Brish Face among all These
+Forig ones.
 
 I am Sir
 Your obedt Servt
@@ -4086,7 +3993,6 @@ I gather that it is a small place, with a large church despoiled of its
 ancient fittings; a number of rather ruinous great buildings, mostly of
 the seventeenth century, surround this church; for the abbey, in common
 with most of those on the Continent, was rebuilt in a luxurious fashion
-by its inhabitants at that period. It has not seemed to me worth while
 to lavish money on a visit to the place, for though it is probably far
 more attractive than either Mr Somerton or Mr Gregory thought it, there
 is evidently little, if anything, of first-rate interest to be
@@ -4105,7 +4011,7 @@ describe it were denied him. He could only say:
 “Well, I ham pleased, I’m sure, sir, to see you. And so I’m sure, sir,
 will master.”
 
-“How _is_ your master, Brown?” Mr Gregory eagerly put in.
+“How is your master, Brown?” Mr Gregory eagerly put in.
 
 “I think he’s better, sir, thank you; but he’s had a dreadful time of
 it. I ’ope he’s gettin’ some sleep now, but—”
@@ -4166,12 +4072,12 @@ Brown. Brown, one word with you.”
 
 “Not at all. Dear me, no. Brown, the first thing tomorrow morning—(you
 don’t mind early hours, I know, Gregory)—you must take the Rector
-to—_there_, you know” (a nod from Brown, who looked grave and anxious),
+to—there, you know” (a nod from Brown, who looked grave and anxious),
 “and he and you will put that back. You needn’t be in the least
-alarmed; it’s _perfectly_ safe in the daytime. You know what I mean. It
+alarmed; it’s perfectly safe in the daytime. You know what I mean. It
 lies on the step, you know, where—where we put it.” (Brown swallowed
 dryly once or twice, and, failing to speak, bowed.) “And—yes, that’s
-all. Only this one other word, my dear Gregory. If you _can_ manage to
+all. Only this one other word, my dear Gregory. If you can manage to
 keep from questioning Brown about this matter, I shall be still more
 bound to you. Tomorrow evening, at latest, if all goes well, I shall be
 able, I believe, to tell you the whole story from start to finish. And
@@ -4201,7 +4107,6 @@ much of the matter was ever really made plain to his comprehension he
 would never say, and I am unable to conjecture.
 
 
-III
 
 This was Mr Somerton’s story:
 
@@ -4263,9 +4168,9 @@ that was done, my dear Gregory, I assure you I could almost have cried
 from sheer disappointment. What I read was only the most hopeless
 jumble of letters that was ever shaken up in a hat. Here it is:
 
-_Job_.	DREVICIOPEDMOOMSMVIVLISLCAVIBASBATAOVT _St
-John_.	RDIIEAMRLESIPVSPODSEEIRSETTAAESGIAVNNR
-_Zechariah_.	DREVICIOPEDMOOMSMVIVLISLCAVIBASBATAOVT
+Job.	DREVICIOPEDMOOMSMVIVLISLCAVIBASBATAOVT St
+John.	RDIIEAMRLESIPVSPODSEEIRSETTAAESGIAVNNR
+Zechariah.	DREVICIOPEDMOOMSMVIVLISLCAVIBASBATAOVT
 
 “Blank as I felt and must have looked for the first few minutes, my
 disappointment didn’t last long. I realized almost at once that I was
@@ -4286,15 +4191,15 @@ Thomas about the inscription, and had taken pains to get it correct.
 the whole surface of the glass in search of further light. Of course, I
 did not neglect the inscription on the scroll of Zechariah—‘Upon one
 stone are seven eyes,’ but I very quickly concluded that this must
-refer to some mark on a stone which could only be found _in situ_,
+refer to some mark on a stone which could only be found in situ,
 where the treasure was concealed. To be short, I made all possible
 notes and sketches and tracings, and then came back to Parsbury to work
 out the cipher at leisure. Oh, the agonies I went through! I thought
 myself very clever at first, for I made sure that the key would be
-found in some of the old books on secret writing. The _Steganographia_
+found in some of the old books on secret writing. The Steganographia
 of Joachim Trithemius, who was an earlier contemporary of Abbot Thomas,
 seemed particularly promising; so I got that and Selenius’s
-_Cryptographia_ and Bacon’s _de Augmentis Scientiarum_ and some more.
+Cryptographia and Bacon’s de Augmentis Scientiarum and some more.
 But I could hit upon nothing. Then I tried the principle of the ‘most
 frequent letter’, taking first Latin and then German as a basis. That
 didn’t help, either; whether it ought to have done so, I am not clear.
@@ -4308,50 +4213,44 @@ I read: ‘scroll in left hand, forefinger of right hand extended
 upwards. John: holds inscribed book in left hand; with right hand
 blesses, with two fingers. Zechariah: scroll in left hand; right hand
 extended upwards, as Job, but with three fingers pointing up.’ In other
-words, I reflected, Job has _one_ finger extended, John has _two_,
-Zechariah has _three_. May not there be a numeral key concealed in
+words, I reflected, Job has one finger extended, John has two,
+Zechariah has three. May not there be a numeral key concealed in
 that? My dear Gregory,” said Mr Somerton, laying his hand on his
-friend’s knee, “that _was_ the key. I didn’t get it to fit at first,
+friend’s knee, “that was the key. I didn’t get it to fit at first,
 but after two or three trials I saw what was meant. After the first
-letter of the inscription you skip _one_ letter, after the next you
-skip _two_, and after that skip _three_. Now look at the result I got.
+letter of the inscription you skip one letter, after the next you
+skip two, and after that skip three. Now look at the result I got.
 I’ve underlined the letters which form words:
 
-[D]R[E]VI[C]IOP[E]D[M]OO[M]SMV[I]V[L]IS[L]CAV[I]B[A]SB[A]TAO[V]T
-[R]DI[I]EAM[R]L[E]SI[P]VSP[O]D[S]EE[I]RSE[T]T[A]AE[S]GIA[V]N[N]R
-F[T]EEA[I]L[N]QD[P]VAI[V]M[T]LE[E]ATT[O]H[I]OO[N]VMC[A]A[T].H.Q.E.
 
-“Do you see it? ‘_Decem millia auri reposita sunt in puteo in at_. . .’
-(Ten thousand [pieces] of gold are laid up in a well in …), followed by
-an incomplete word beginning _at_. So far so good. I tried the same
+“Do you see it? ‘Decem millia auri reposita sunt in puteo in at. . .’
+(Ten thousand pieces] of gold are laid up in a well in …), followed by
+an incomplete word beginning at. So far so good. I tried the same
 plan with the remaining letters; but it wouldn’t work, and I fancied
 that perhaps the placing of dots after the three last letters might
 indicate some difference of procedure. Then I thought to myself,
 ‘Wasn’t there some allusion to a well in the account of Abbot Thomas in
-that book the “_Sertum_”?’ Yes, there was: he built a _puteus in atrio_
-(a well in the court). There, of course, was my word _atrio_. The next
+that book the “Sertum”?’ Yes, there was: he built a puteus in atrio
+(a well in the court). There, of course, was my word atrio. The next
 step was to copy out the remaining letters of the inscription, omitting
 those I had already used. That gave what you will see on this slip:
 
-RVIIOPDOOSMVVISCAVBSBTAOTDIEAMLSIVSPDEERSETAEGIANRFEEALQDVAIMLEATTHOOVM
-CA.H.Q.E.
 
 “Now, I knew what the three first letters I wanted were—namely,
-_rio_—to complete the word _atrio_; and, as you will see, these are all
+rio—to complete the word atrio; and, as you will see, these are all
 to be found in the first five letters. I was a little confused at first
-by the occurrence of two _i’s_, but very soon I saw that every
 alternate letter must be taken in the remainder of the inscription. You
 can work it out for yourself; the result, continuing where the first
 ‘round’ left off, is this:
 
-‘_rio domus abbatialis de Steinfeld a me, Thoma, qui posui custodem
-super ea. Gare à qui la touche_’.
+‘rio domus abbatialis de Steinfeld a me, Thoma, qui posui custodem
+super ea. Gare à qui la touche’.
 
 “So the whole secret was out:
 
 ‘Ten thousand pieces of gold are laid up in the well in the court of
 the Abbot’s house of Steinfeld by me, Thomas, who have set a guardian
-over them. _Gare à qui la touche_.’
+over them. Gare à qui la touche.’
 
 “The last words, I ought to say, are a device which Abbot Thomas had
 adopted. I found it with his arms in another piece of glass at Lord
@@ -4382,7 +4281,7 @@ to see the windows where the glass had been, and especially that at the
 east end of the south aisle. In the tracery lights of that I was
 startled to see some fragments and coats-of-arms remaining—Abbot
 Thomas’s shield was there, and a small figure with a scroll inscribed
-_Oculos habent, et non videbunt_ (They have eyes, and shall not see),
+Oculos habent, et non videbunt (They have eyes, and shall not see),
 which, I take it, was a hit of the Abbot at his Canons.
 
 “But, of course, the principal object was to find the Abbot’s house.
@@ -4486,7 +4385,7 @@ You said, if I remember right:
 “‘It’s a funny cross: looks like a lot of eyes.’
 
 “I snatched the lantern out of your hand, and saw with inexpressible
-pleasure that the cross _was_ composed of seven eyes, four in a
+pleasure that the cross was composed of seven eyes, four in a
 vertical line, three horizontal. The last of the scrolls in the window
 was explained in the way I had anticipated. Here was my ‘stone with the
 seven eyes’. So far the Abbot’s data had been exact, and, as I thought
@@ -4503,7 +4402,7 @@ Then I waited for several minutes on the step just above. I don’t know
 why, but I think to see if any dreadful thing would rush out. Nothing
 happened. Next I lit a candle, and very cautiously I placed it inside
 the cavity, with some idea of seeing whether there were foul air, and
-of getting a glimpse of what was inside. There _was_ some foulness of
+of getting a glimpse of what was inside. There was some foulness of
 air which nearly extinguished the flame, but in no long time it burned
 quite steadily. The hole went some little way back, and also on the
 right and left of the entrance, and I could see some rounded
@@ -4528,8 +4427,8 @@ will tell you why in a moment. Startled as I was, I looked round after
 him, and saw him stand for a minute at the top and then walk away a few
 yards. Then I heard him call softly, ‘All right, sir,’ and went on
 pulling out the great bag, in complete darkness. It hung for an instant
-on the edge of the hole, then slipped forward on to my chest, and _put
-its arms round my neck_.
+on the edge of the hole, then slipped forward on to my chest, and put
+its arms round my neck.
 
 “My dear Gregory, I am telling you the exact truth. I believe I am now
 acquainted with the extremity of terror and repulsion which a man can
@@ -4575,7 +4474,7 @@ quite off my balance; but the thought did occur to me that possibly
 the—well, the person who set the trap might have come to see the
 success of his plan.”
 
-“Just so, Gregory, just so. I can think of nothing else so—_likely_, I
+“Just so, Gregory, just so. I can think of nothing else so—likely, I
 should say, if such a word had a place anywhere in my story. I think it
 must have been the Abbot…. Well, I haven’t much more to tell you. I
 spent a miserable night, Brown sitting up with me. Next day I was no
@@ -4602,7 +4501,7 @@ could I tell anyone who belonged to the place.
 “Well, there is my story; and, if you don’t believe it, I can’t help
 it. But I think you do.”
 
-“Indeed,” said Mr Gregory, “I can find no alternative. I _must_ believe
+“Indeed,” said Mr Gregory, “I can find no alternative. I must believe
 it! I saw the well and the stone myself, and had a glimpse, I thought,
 of the bags or something else in the hole. And, to be plain with you,
 Somerton, I believe my door was watched last night, too.”
@@ -4618,9 +4517,8 @@ surface with mud so that it looks just like the rest of the wall. One
 thing I did notice in the carving on the well-head, which I think must
 have escaped you. It was a horrid, grotesque shape—perhaps more like a
 toad than anything else, and there was a label by it inscribed with the
-two words, ‘Depositum custodi’.”[9]
+two words, ‘Depositum custodi’.”
 
- [9] “Keep that which is committed to thee.”
 
 
 

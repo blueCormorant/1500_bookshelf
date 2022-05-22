@@ -3,14 +3,11 @@
 
 
 
-LIFE AND ADVENTURES OF MARTIN CHUZZLEWIT
-
-by Charles Dickens
 
 
 
 
-PREFACE
+
 
 What is exaggeration to one class of minds and perceptions, is plain
 truth to another. That which is commonly called a long-sight, perceives
@@ -89,7 +86,6 @@ through the agency of good women.
 
 
 
-POSTSCRIPT
 
 At a Public Dinner given to me on Saturday the 18th of April, 1868, in
 the city of New York, by two hundred representatives of the Press of
@@ -103,7 +99,6 @@ myself, not only here but on every suitable occasion, whatsoever
 and wheresoever, to express my high and grateful sense of my second
 reception in America, and to bear my honest testimony to the national
 generosity and magnanimity. Also, to declare how astounded I have been
-by the amazing changes I have seen around me on every side--changes
 moral, changes physical, changes in the amount of land subdued and
 peopled, changes in the rise of vast new cities, changes in the growth
 of older cities almost out of recognition, changes in the graces and
@@ -147,7 +142,6 @@ this book shall last, I hope that they will form a part of it, and will
 be fairly read as inseparable from my experiences and impressions of
 America.
 
-CHARLES DICKENS.
 
 May, 1868.
 
@@ -155,9 +149,7 @@ May, 1868.
 
 
 
-CHAPTER ONE
 
-INTRODUCTORY, CONCERNING THE PEDIGREE OF THE CHUZZLEWIT FAMILY
 
 
 As no lady or gentleman, with any claims to polite breeding, can
@@ -295,7 +287,6 @@ the same base quarters, that a certain male Chuzzlewit, whose birth must
 be admitted to be involved in some obscurity, was of very mean and low
 descent. How stands the proof? When the son of that individual, to whom
 the secret of his father’s birth was supposed to have been communicated
-by his father in his lifetime, lay upon his deathbed, this question was
 put to him in a distinct, solemn, and formal way: ‘Toby Chuzzlewit,
 who was your grandfather?’ To which he, with his last breath, no less
 distinctly, solemnly, and formally replied: and his words were taken
@@ -392,10 +383,7 @@ are remarkable for taking uncommon good care of themselves.
 
 
 
-CHAPTER TWO
 
-WHEREIN CERTAIN PERSONS ARE PRESENTED TO THE READER, WITH WHOM HE MAY,
-IF HE PLEASE, BECOME BETTER ACQUAINTED
 
 
 It was pretty late in the autumn of the year, when the declining sun
@@ -1178,10 +1166,7 @@ cruelly unjust to Pecksniff!’
 
 
 
-CHAPTER THREE
 
-IN WHICH CERTAIN OTHER PERSONS ARE INTRODUCED; ON THE SAME TERMS AS IN
-THE LAST CHAPTER
 
 
 Mention has been already made more than once, of a certain Dragon who
@@ -1465,7 +1450,6 @@ name is unknown here.’
 ‘Unless,’ he said, ‘you--’ He was evidently tempted to express a
 suspicion of her having broken his confidence in favour of the landlady,
 but either remembering her tender nursing, or being moved in some sort
-by her face, he checked himself, and changing his uneasy posture in the
 bed, was silent.
 
 ‘There!’ said Mrs Lupin; for in that name the Blue Dragon was licensed
@@ -1699,7 +1683,6 @@ knowing your humour, and being quite certain beforehand that I could not
 have a worse letter of recommendation.’
 
 Martin made not any verbal answer; but he as clearly implied though only
-by a motion of his legs beneath the bed-clothes, that there was reason
 in this, and that he could not dispute it, as if he had said as much in
 good set terms.
 
@@ -1888,7 +1871,6 @@ sir, I shall not shrink.’
 It is a lamentable fact, that as Mr Pecksniff stood erect beside the
 bed, in all the dignity of Goodness, and addressed him thus, the old man
 cast an angry glance towards the candlestick, as if he were possessed
-by a strong inclination to launch it at his cousin’s head. But he
 constrained himself, and pointing with his finger to the door, informed
 him that his road lay there.
 
@@ -1962,11 +1944,7 @@ and in the history of Martin Chuzzlewit, on his own showing?
 
 
 
-CHAPTER FOUR
 
-FROM WHICH IT WILL APPEAR THAT IF UNION BE STRENGTH, AND FAMILY
-AFFECTION BE PLEASANT TO CONTEMPLATE, THE CHUZZLEWITS WERE THE STRONGEST
-AND MOST AGREEABLE FAMILY IN THE WORLD
 
 
 That worthy man Mr Pecksniff having taken leave of his cousin in the
@@ -2843,11 +2821,7 @@ failure and disappointment.
 
 
 
-CHAPTER FIVE
 
-CONTAINING A FULL ACCOUNT OF THE INSTALLATION OF MR PECKSNIFF’S NEW
-PUPIL INTO THE BOSOM OF MR PECKSNIFF’S FAMILY. WITH ALL THE FESTIVITIES
-HELD ON THAT OCCASION, AND THE GREAT ENJOYMENT OF MR PINCH
 
 
 The best of architects and land surveyors kept a horse, in whom the
@@ -2907,7 +2881,6 @@ of leaves or blossoms, shed upon the ground a frosty rime that sparkled
 as it fell, and might have been the dust of diamonds. So it was to Tom.
 From cottage chimneys, smoke went streaming up high, high, as if the
 earth had lost its grossness, being so fair, and must not be oppressed
-by heavy vapour. The crust of ice on the else rippling brook was so
 transparent, and so thin in texture, that the lively water might of its
 own free will have stopped--in Tom’s glad mind it had--to look upon the
 lovely morning. And lest the sun should break this charm too eagerly,
@@ -3247,7 +3220,6 @@ good thing, for he too was a very quiet gentle soul, and had been, like
 Tom, a kind of old-fashioned boy at school, though well liked by the
 noisy fellow too. As good luck would have it (Tom always said he had
 great good luck) the assistant chanced that very afternoon to be on duty
-by himself, with no one in the dusty organ loft but Tom; so while he
 played, Tom helped him with the stops; and finally, the service being
 just over, Tom took the organ himself. It was then turning dark, and the
 yellow light that streamed in through the ancient windows in the choir
@@ -3629,7 +3601,6 @@ him; glad to lay down his life for such a man!
 the little room of state, I mentioned to you. My girls have pride in it,
 Martin! This,’ opening another door, ‘is the little chamber in which my
 works (slight things at best) have been concocted. Portrait of myself
-by Spiller. Bust by Spoker. The latter is considered a good likeness.
 I seem to recognize something about the left-hand corner of the nose,
 myself.’
 
@@ -3715,7 +3686,6 @@ as one may say, particularly in the wine department, which had so many
 stages of declension, that sometimes a young gentleman was a whole
 fortnight in getting to the pump; still this was a banquet; a sort of
 Lord Mayor’s feast in private life; a something to think of, and hold on
-by, afterwards.
 
 To this entertainment, which apart from its own intrinsic merits, had
 the additional choice quality, that it was in strict keeping with the
@@ -3765,7 +3735,6 @@ intolerable to be serious about.
 At length it became high time to remember the first clause of that great
 discovery made by the ancient philosopher, for securing health, riches,
 and wisdom; the infallibility of which has been for generations verified
-by the enormous fortunes constantly amassed by chimney-sweepers and
 other persons who get up early and go to bed betimes. The young ladies
 accordingly rose, and having taken leave of Mr Chuzzlewit with much
 sweetness, and of their father with much duty and of Mr Pinch with
@@ -3799,7 +3768,6 @@ Worthy soul! You will find him easy to manage. Good night!’
 
 ‘Good night, sir.’
 
-By this time Mr Pinch had returned with the snuffers.
 
 ‘And good night to YOU, Mr Pinch,’ said Pecksniff. ‘And sound sleep to
 you both. Bless you! Bless you!’
@@ -3818,11 +3786,7 @@ head.
 
 
 
-CHAPTER SIX
 
-COMPRISES, AMONG OTHER IMPORTANT MATTERS, PECKSNIFFIAN AND
-ARCHITECTURAL, AND EXACT RELATION OF THE PROGRESS MADE BY MR PINCH IN
-THE CONFIDENCE AND FRIENDSHIP OF THE NEW PUPIL
 
 
 It was morning; and the beautiful Aurora, of whom so much hath been
@@ -4501,10 +4465,7 @@ Do call for some coals. What a fellow you are, Pinch!’
 
 
 
-CHAPTER SEVEN
 
-IN WHICH MR CHEVY SLYME ASSERTS THE INDEPENDENCE OF HIS SPIRIT, AND THE
-BLUE DRAGON LOSES A LIMB
 
 
 Martin began to work at the grammar-school next morning, with so much
@@ -4609,7 +4570,6 @@ having any reference to Mr Tigg or to his friend, either. Mr Tigg
 received this declaration with a grave request that Mr Pinch would have
 the goodness to make it again; and on Tom’s repeating it in a still more
 emphatic and unmistakable manner, checked it off, sentence for sentence,
-by nodding his head solemnly at the end of each. When it had come to
 a close for the second time, Mr Tigg sat himself down in a chair and
 addressed the young men as follows:
 
@@ -5234,10 +5194,7 @@ wish to be, but very near. Good-b’ye! good-b’ye!’
 
 
 
-CHAPTER EIGHT
 
-ACCOMPANIES MR PECKSNIFF AND HIS CHARMING DAUGHTERS TO THE CITY OF
-LONDON; AND RELATES WHAT FELL OUT UPON THEIR WAY THITHER
 
 
 When Mr Pecksniff and the two young ladies got into the heavy coach at
@@ -5681,7 +5638,6 @@ comfortable there, without appearing at the general table.’
 Mrs Todgers meant by this that she must embrace them once more, which
 she accordingly did with great ardour. But the truth was that the house
 being full with the exception of one bed, which would now be occupied
-by Mr Pecksniff, she wanted time for consideration; and so much time too
 (for it was a knotty point how to dispose of them), that even when
 this second embrace was over, she stood for some moments gazing at the
 sisters, with affection beaming in one eye, and calculation shining out
@@ -5734,9 +5690,7 @@ worthy man’s phraseology, ‘all in good time.’
 
 
 
-CHAPTER NINE
 
-TOWN AND TODGER’S
 
 
 Surely there never was, in any other borough, city, or hamlet in the
@@ -5750,7 +5704,6 @@ to which Todgers’s belonged.
 
 You couldn’t walk about Todgers’s neighbourhood, as you could in any
 other neighbourhood. You groped your way for an hour through lanes and
-byways, and court-yards, and passages; and you never once emerged upon
 anything that might be reasonably called a street. A kind of resigned
 distraction came over the stranger as he trod those devious mazes, and,
 giving himself up for lost, went in and out and round about and quietly
@@ -6303,7 +6256,6 @@ consigned to the footman; which outrage, taken in conjunction with Mr
 Pecksniff’s unobtrusive remarks on the establishment, might possibly
 have had some share in their dismissal. Poor Miss Pinch, however, had to
 bear the brunt of it with both parties; being so severely taken to task
-by the Seraph’s mother for having such vulgar acquaintances, that
 she was fain to retire to her own room in tears, which her natural
 cheerfulness and submission, and the delight of having seen Mr
 Pecksniff, and having received a letter from her brother, were at first
@@ -6359,14 +6311,12 @@ Presently he called through the key-hole:
 ‘There’s a fish to-morrow. Just come. Don’t eat none of him!’ And, with
 this special warning, vanished again.
 
-By-and-bye, he returned to lay the cloth for supper; it having been
 arranged between Mrs Todgers and the young ladies, that they should
 partake of an exclusive veal-cutlet together in the privacy of that
 apartment. He entertained them on this occasion by thrusting the
 lighted candle into his mouth, and exhibiting his face in a state of
 transparency; after the performance of which feat, he went on with his
 professional duties; brightening every knife as he laid it on the table,
-by breathing on the blade and afterwards polishing the same on the apron
 already mentioned. When he had completed his preparations, he grinned
 at the sisters, and expressed his belief that the approaching collation
 would be of ‘rather a spicy sort.’
@@ -6885,10 +6835,7 @@ letters to his friends from Todgers’s for nothing.’
 
 
 
-CHAPTER TEN
 
-CONTAINING STRANGE MATTER, ON WHICH MANY EVENTS IN THIS HISTORY MAY, FOR
-THEIR GOOD OR EVIL INFLUENCE, CHIEFLY DEPEND
 
 
 But Mr Pecksniff came to town on business. Had he forgotten that? Was he
@@ -7605,10 +7552,7 @@ the golden calf for eighteen shillings a week! oh pitiful, pitiful!
 
 
 
-CHAPTER ELEVEN
 
-WHEREIN A CERTAIN GENTLEMAN BECOMES PARTICULAR IN HIS ATTENTIONS TO A
-CERTAIN LADY; AND MORE COMING EVENTS THAN ONE, CAST THEIR SHADOWS BEFORE
 
 
 The family were within two or three days of their departure from Mrs
@@ -7639,7 +7583,6 @@ neither, not if I wos him!’
 
 The remark was rendered somewhat obscure in itself, by reason (as the
 reader may have observed) of a redundancy of negatives; but accompanied
-by action expressive of a faithful couple walking arm-in-arm towards
 a parochial church, mutually exchanging looks of love, it clearly
 signified this youth’s conviction that the caller’s purpose was of an
 amorous tendency. Miss Charity affected to reprove so great a liberty;
@@ -7697,7 +7640,6 @@ feigning to wring a vast amount of water from that garment, held the
 door open while Miss Charity passed out; and so that damsel went in
 state upstairs to receive her mysterious adorer.
 
-By some strange occurrence of favourable circumstances he had found out
 the drawing-room, and was sitting there alone.
 
 ‘Ah, cousin!’ he said. ‘Here I am, you see. You thought I was lost, I’ll
@@ -7911,7 +7853,6 @@ upon young shoulders; to which it may be added that we seldom meet with
 that unnatural combination, but we feel a strong desire to knock them
 off; merely from an inherent love we have of seeing things in their
 right places. It is not improbable that many men, in no wise choleric
-by nature, felt this impulse rising up within them, when they first made
 the acquaintance of Mr Jonas; but if they had known him more intimately
 in his own house, and had sat with him at his own board, it would
 assuredly have been paramount to all other considerations.
@@ -8205,7 +8146,6 @@ sometimes neutralise another, when wholesome remedies would not avail,
 so he was restrained by a bad passion from quaffing his full measure of
 evil, when virtue might have sought to hold him back in vain.
 
-By the time he had unfolded all the peddling schemes he knew upon the
 cards, it was growing late in the evening; and Mr Pecksniff not making
 his appearance, the young ladies expressed a wish to return home. But
 this, Mr Jonas, in his gallantry, would by no means allow, until they
@@ -8298,7 +8238,6 @@ charmed to be awakened some time afterwards by certain dulcet strains
 breaking in upon the silent watches of the night.
 
 It was very affecting--very. Nothing more dismal could have been desired
-by the most fastidious taste. The gentleman of a vocal turn was head
 mute, or chief mourner; Jinkins took the bass; and the rest took
 anything they could get. The youngest gentleman blew his melancholy into
 a flute. He didn’t blow much out of it, but that was all the better.
@@ -8310,7 +8249,6 @@ a moan, a howl, a wail, a lament, an abstract of everything that is
 sorrowful and hideous in sound. The flute of the youngest gentleman was
 wild and fitful. It came and went in gusts, like the wind. For a long
 time together he seemed to have left off, and when it was quite settled
-by Mrs Todgers and the young ladies that, overcome by his feelings, he
 had retired in tears, he unexpectedly turned up again at the very top of
 the tune, gasping for breath. He was a tremendous performer. There was
 no knowing where to have him; and exactly when you thought he was doing
@@ -8344,10 +8282,10 @@ nearly related to Rule Britannia, and that if Great Britain hadn’t been
 an island, there could have been no Miss Pecksniffs. And being now on a
 nautical tack, it closed with this verse:
 
-     ‘All hail to the vessel of Pecksniff the sire!
-            And favouring breezes to fan;
-     While Tritons flock round it, and proudly admire
-            The architect, artist, and man!’
+‘All hail to the vessel of Pecksniff the sire!
+And favouring breezes to fan;
+While Tritons flock round it, and proudly admire
+The architect, artist, and man!’
 
 As they presented this beautiful picture to the imagination, the
 gentlemen gradually withdrew to bed to give the music the effect of
@@ -8546,11 +8484,7 @@ hearth, and was a sacrilege upon the altars of his household gods.
 
 
 
-CHAPTER TWELVE
 
-WILL BE SEEN IN THE LONG RUN, IF NOT IN THE SHORT ONE, TO CONCERN MR
-PINCH AND OTHERS, NEARLY. MR PECKSNIFF ASSERTS THE DIGNITY OF OUTRAGED
-VIRTUE. YOUNG MARTIN CHUZZLEWIT FORMS A DESPERATE RESOLUTION
 
 
 Mr Pinch and Martin, little dreaming of the stormy weather that
@@ -8683,7 +8617,6 @@ seat on which he sat, and shake his friend by both hands, with nothing
 but serenity and grateful feeling painted on his face; it may have
 required a stronger effort to perform this simple act with a pure heart,
 than to achieve many and many a deed to which the doubtful trumpet blown
-by Fame has lustily resounded. Doubtful, because from its long hovering
 over scenes of violence, the smoke and steam of death have clogged the
 keys of that brave instrument; and it is not always that its notes are
 either true or tuneful.
@@ -9506,11 +9439,7 @@ cheeks; and they parted hurriedly upon their separate ways.
 
 
 
-CHAPTER THIRTEEN
 
-SHOWING WHAT BECAME OF MARTIN AND HIS DESPARATE RESOLVE, AFTER HE LEFT
-MR PECKSNIFF’S HOUSE; WHAT PERSONS HE ENCOUNTERED; WHAT ANXIETIES HE
-SUFFERED; AND WHAT NEWS HE HEARD
 
 
 Carrying Tom Pinch’s book quite unconsciously under his arm, and not
@@ -9616,7 +9545,6 @@ Martin sat.
 He was a red-faced burly young fellow; smart in his way, and with a
 good-humoured countenance. As he advanced towards the fire he touched
 his shining forehead with the forefinger of his stiff leather glove,
-by way of salutation; and said (rather unnecessarily) that it was an
 uncommon wet day.
 
 ‘Very wet,’ said Martin.
@@ -10481,11 +10409,7 @@ too strong, sir!’
 
 
 
-CHAPTER FOURTEEN
 
-IN WHICH MARTIN BIDS ADIEU TO THE LADY OF HIS LOVE; AND HONOURS AN
-OBSCURE INDIVIDUAL WHOSE FORTUNE HE INTENDS TO MAKE BY COMMENDING HER TO
-HIS PROTECTION
 
 
 The letter being duly signed, sealed, and delivered, was handed to Mark
@@ -10544,7 +10468,6 @@ either by tears or words, or a mixture of both, have furnished him with
 some other information to that effect, and made him as miserable as
 possible. But she had been reared up in a sterner school than the minds
 of most young girls are formed in; she had had her nature strengthened
-by the hands of hard endurance and necessity; had come out from her
 young trials constant, self-denying, earnest, and devoted; had acquired
 in her maidenhood--whether happily in the end, for herself or him, is
 foreign to our present purpose to inquire--something of that nobler
@@ -10981,9 +10904,7 @@ lips, to release himself of this word:
 
 
 
-CHAPTER FIFTEEN
 
-THE BURDEN WHEREOF, IS HAIL COLUMBIA!
 
 
 A dark and dreary night; people nestling in their beds or circling
@@ -11140,7 +11061,6 @@ crying child.
 
 ‘Now, then,’ said Mark, nodding to a woman who was dressing her three
 children at no great distance from him--and the grin upon his face had
-by this time spread from ear to ear--‘Hand over one of them young ‘uns
 according to custom.’
 
 ‘I wish you’d get breakfast, Mark, instead of worrying with people who
@@ -11386,12 +11306,7 @@ water!’
 
 
 
-CHAPTER SIXTEEN
 
-MARTIN DISEMBARKS FROM THAT NOBLE AND FAST-SAILING LINE-OF-PACKET SHIP,
-‘THE SCREW’, AT THE PORT OF NEW YORK, IN THE UNITED STATES OF AMERICA.
-HE MAKES SOME ACQUAINTANCES, AND DINES AT A BOARDING-HOUSE. THE
-PARTICULARS OF THOSE TRANSACTIONS
 
 
 Some trifling excitement prevailed upon the very brink and margin of the
@@ -11654,7 +11569,6 @@ letters, and more white boards and black letters, than Martin had ever
 seen before, in fifty times the space. Presently they turned up a narrow
 street, and presently into other narrow streets, until at last they
 stopped before a house whereon was painted in great characters, ‘ROWDY
-JOURNAL.’
 
 The colonel, who had walked the whole way with one hand in his breast,
 his head occasionally wagging from side to side, and his hat thrown back
@@ -12344,7 +12258,6 @@ quietly. ‘He is one of a class of men, in whom our own Franklin, so
 long ago as ten years before the close of the last century, foresaw
 our danger and disgrace. Perhaps you don’t know that Franklin, in very
 severe terms, published his opinion that those who were slandered
-by such fellows as this colonel, having no sufficient remedy in the
 administration of this country’s laws or in the decent and right-minded
 feeling of its people, were justified in retorting on such public
 nuisances by means of a stout cudgel?’
@@ -12398,19 +12311,14 @@ woke upon that soil, as many have done since, to blots and stains upon
 its high pretensions, which in the brightness of his distant dreams were
 lost to view, appealed in these words--
 
-     ‘Oh, but for such, Columbia’s days were done;
-     Rank without ripeness, quickened without sun,
-     Crude at the surface, rotten at the core,
-     Her fruits would fall before her spring were o’er!’
+‘Oh, but for such, Columbia’s days were done;
+Rank without ripeness, quickened without sun,
+Crude at the surface, rotten at the core,
+Her fruits would fall before her spring were o’er!’
 
 
 
-CHAPTER SEVENTEEN
 
-MARTIN ENLARGES HIS CIRCLE OF AQUAINTANCE; INCREASES HIS STOCK
-OF WISDOM; AND HAS AN EXCELLENT OPPORTUNITY OF COMPARING HIS OWN
-EXPERIENCES WITH THOSE OF LUMMY NED OF THE LIGHT SALISBURY, AS RELATED
-BY HIS FRIEND MR WILLIAM SIMMONS
 
 
 It was characteristic of Martin, that all this while he had either
@@ -12715,7 +12623,6 @@ on apace, Martin proposed that they should adjourn to Mrs Pawkins’s
 establishment for coffee; but in this he was overruled by his new
 acquaintance, who seemed to have set his heart on carrying him, though
 it were only for an hour, to the house of a friend of his who lived hard
-by. Feeling (however disinclined he was, being weary) that it would be
 in bad taste, and not very gracious, to object that he was unintroduced,
 when this open-hearted gentleman was so ready to be his sponsor,
 Martin--for once in his life, at all events--sacrificed his own will and
@@ -12764,7 +12671,6 @@ experience of the Screw, and of Mrs Pawkins’s boarding-house. The
 consequence was that he made himself very agreeable indeed; and by
 the time the tea and coffee arrived (with sweet preserves, and cunning
 tea-cakes in its train), was in a highly genial state, and much esteemed
-by the whole family.
 
 Another delightful circumstance turned up before the first cup of tea
 was drunk. The whole family had been in England. There was a pleasant
@@ -13299,10 +13205,7 @@ ocean to the English shore.
 
 
 
-CHAPTER EIGHTEEN
 
-DOES BUSINESS WITH THE HOUSE OF ANTHONY CHUZZLEWIT AND SON, FROM WHICH
-ONE OF THE PARTNERS RETIRES UNEXPECTEDLY
 
 
 Change begets change. Nothing propagates so fast. If a man habituated to
@@ -13819,7 +13722,6 @@ recoiled in horror.
 Old Anthony, dressed in his usual clothes, was in the room--beside the
 table. He leaned upon the shoulder of his solitary friend; and on his
 livid face, and on his horny hands, and in his glassy eyes, and traced
-by an eternal finger in the very drops of sweat upon his brow, was one
 word--Death.
 
 He spoke to them--in something of his own voice too, but sharpened and
@@ -13842,10 +13744,7 @@ shall not close on one!
 
 
 
-CHAPTER NINETEEN
 
-THE READER IS BROUGHT INTO COMMUNICATION WITH SOME PROFESSIONAL PERSONS,
-AND SHEDS A TEAR OVER THE FILIAL PIETY OF GOOD MR JONAS
 
 
 Mr Pecksniff was in a hackney cabriolet, for Jonas Chuzzlewit had said
@@ -14022,10 +13921,10 @@ lasting custom. If it wasn’t for the nerve a little sip of liquor gives
 me (I never was able to do more than taste it), I never could go through
 with what I sometimes has to do. “Mrs Harris,” I says, at the very last
 case as ever I acted in, which it was but a young person, “Mrs Harris,”
- I says, “leave the bottle on the chimley-piece, and don’t ask me to take
+I says, “leave the bottle on the chimley-piece, and don’t ask me to take
 none, but let me put my lips to it when I am so dispoged, and then I
 will do what I’m engaged to do, according to the best of my ability.”
- “Mrs Gamp,” she says, in answer, “if ever there was a sober creetur to
+“Mrs Gamp,” she says, in answer, “if ever there was a sober creetur to
 be got at eighteen pence a day for working people, and three and six for
 gentlefolks--night watching,”’ said Mrs Gamp with emphasis, ‘“being a
 extra charge--you are that inwallable person.” “Mrs Harris,” I says to
@@ -14333,7 +14232,6 @@ not when people are born. Look at this gentleman to-day; look at him.’
 ‘An open-handed gentleman?’ cried Mrs Gamp, with enthusiasm.
 
 ‘No, no,’ said the undertaker; ‘not an open-handed gentleman in general,
-by any means. There you mistake him; but an afflicted gentleman, an
 affectionate gentleman, who knows what it is in the power of money to
 do, in giving him relief, and in testifying his love and veneration for
 the departed. It can give him,’ said Mr Mould, waving his watch-chain
@@ -14357,7 +14255,6 @@ cried Mr Mould, ‘have diffused among my fellow-creatures by means of my
 four long-tailed prancers, never harnessed under ten pund ten!’
 
 Mrs Gamp had begun to make a suitable reply, when she was interrupted
-by the appearance of one of Mr Mould’s assistants--his chief mourner in
 fact--an obese person, with his waistcoat in closer connection with his
 legs than is quite reconcilable with the established ideas of grace;
 with that cast of feature which is figuratively called a bottle nose;
@@ -14431,7 +14328,6 @@ my glass fell yesterday. We may congratulate ourselves upon our good
 fortune.’ But seeing by this time that Mr Jonas and Chuffey were going
 out at the door, he put a white pocket-handkerchief to his face as if a
 violent burst of grief had suddenly come upon him, and walked down side
-by side with Mr Pecksniff.
 
 Mr Mould and his men had not exaggerated the grandeur of the
 arrangements. They were splendid. The four hearse-horses, especially,
@@ -14534,9 +14430,7 @@ throwing up another heap of earth. And that was all.
 
 
 
-CHAPTER TWENTY
 
-IS A CHAPTER OF LOVE
 
 
 ‘Pecksniff,’ said Jonas, taking off his hat, to see that the black
@@ -14733,7 +14627,6 @@ came out from the tavern with a smiling face, and even went so far as
 to repeat the performance, on a less expensive scale, at the next
 ale-house. There was a certain wildness in the spirits of Mr Jonas (not
 usually a part of his character) which was far from being subdued
-by these means, and, for the rest of the journey, he was so very
 buoyant--it may be said, boisterous--that Mr Pecksniff had some
 difficulty in keeping pace with him.
 
@@ -15211,12 +15104,7 @@ But at that moment a loud knocking was heard at the hall door.
 
 
 
-CHAPTER TWENTY-ONE
 
-MORE AMERICAN EXPERIENCES, MARTIN TAKES A PARTNER, AND MAKES A PURCHASE.
-SOME ACCOUNT OF EDEN, AS IT APPEARED ON PAPER. ALSO OF THE BRITISH LION.
-ALSO OF THE KIND OF SYMPATHY PROFESSED AND ENTERTAINED BY THE WATERTOAST
-ASSOCIATION OF UNITED SYMPATHISERS
 
 
 The knocking at Mr Pecksniff’s door, though loud enough, bore no
@@ -15316,10 +15204,10 @@ being jolly. Why it was one of them inwading conquerors at Pawkins’s, as
 told me. “Am I rightly informed,” he says--not exactly through his nose,
 but as if he’d got a stoppage in it, very high up--“that you’re a-going
 to the Walley of Eden?” “I heard some talk on it,” I told him. “Oh!”
- says he, “if you should ever happen to go to bed there--you MAY, you
+says he, “if you should ever happen to go to bed there--you MAY, you
 know,” he says, “in course of time as civilisation progresses--don’t
 forget to take a axe with you.” I looks at him tolerable hard. “Fleas?”
- says I. “And more,” says he. “Wampires?” says I. “And more,” says he.
+says I. “And more,” says he. “Wampires?” says I. “And more,” says he.
 “Musquitoes, perhaps?” says I. “And more,” says he. “What more?” says
 I. “Snakes more,” says he; “rattle-snakes. You’re right to a certain
 extent, stranger. There air some catawampous chawers in the small way
@@ -15515,7 +15403,6 @@ their tendency to suppress that popular inquiry and information which
 air so widely diffused even in the trackless forests of this vast
 Continent of the Western Ocean; that the knowledge of Britishers
 themselves on such points is not to be compared with that possessed
-by our intelligent and locomotive citizens. This is interesting, and
 confirms my observation. When you say, sir,’ he continued, addressing
 Martin, ‘that your Queen does not reside in the Tower of London, you
 fall into an error, not uncommon to your countrymen, even when their
@@ -15802,7 +15689,6 @@ whose foot was deeply printed in the corners had pecked and torn them in
 a savage recognition of his kindred nature as a bird of prey.
 
 Such was the man whom they now approached, and whom the General saluted
-by the name of Scadder.
 
 ‘Well, Gen’ral,’ he returned, ‘and how are you?’
 
@@ -16146,7 +16032,6 @@ shall be roasted whole.
 
 ‘“Your affectionate friend and faithful Sympathiser,
 
-‘“CYRUS CHOKE,
 
 ‘“General, U.S.M.”’
 
@@ -16155,7 +16040,6 @@ It happened that just as the General began to read this letter, the
 railroad train arrived, bringing a new mail from England; and a packet
 had been handed in to the Secretary, which during its perusal and
 the frequent cheerings in homage to freedom, he had opened. Now, its
-contents disturbed him very much, and the moment the General sat down,
 he hurried to his side, and placed in his hand a letter and several
 printed extracts from English newspapers; to which, in a state of
 infinite excitement, he called his immediate attention.
@@ -16218,10 +16102,7 @@ and you are but sorry fustian!’
 
 
 
-CHAPTER TWENTY-TWO
 
-FROM WHICH IT WILL BE SEEN THAT MARTIN BECAME A LION OF HIS OWN ACCOUNT.
-TOGETHER WITH THE REASON WHY
 
 
 As soon as it was generally known in the National Hotel, that the young
@@ -16230,7 +16111,6 @@ of Eden, and intended to betake himself to that earthly Paradise by the
 next steamboat, he became a popular character. Why this should be, or
 how it had come to pass, Martin no more knew than Mrs Gamp, of Kingsgate
 Street, High Holborn, did; but that he was for the time being the lion,
-by popular election, of the Watertoast community, and that his society
 was in rather inconvenient request there could be no kind of doubt.
 
 The first notification he received of this change in his position, was
@@ -16239,9 +16119,7 @@ there a fat letter or two, to make the general effect more striking--on
 a sheet of paper, ruled with blue lines.
 
 
-‘NATIONAL HOTEL,
 
-‘MONDAY MORNING.
 
 ‘Dear Sir--‘When I had the privillidge of being your fellow-traveller
 in the cars, the day before yesterday, you offered some remarks upon the
@@ -16259,7 +16137,6 @@ considered obliging.
 
 ‘Yours truly,
 
-‘LA FAYETTE KETTLE.
 
 ‘The Honourable M. Chuzzlewit.
 
@@ -16306,7 +16183,6 @@ Lord Byron?
 
 ‘Yours (forgive me if I add, soaringly),
 
-‘PUTNAM SMIF
 
 ‘P.S.--Address your answer to America Junior, Messrs. Hancock & Floby,
 Dry Goods Store, as above.’
@@ -16645,7 +16521,6 @@ The purchase of these things, and the settlement of their bill at the
 National, reduced their finances to so low an ebb, that if the captain
 had delayed his departure any longer, they would have been in almost as
 bad a plight as the unfortunate poorer emigrants, who (seduced on board
-by solemn advertisement) had been living on the lower deck a whole week,
 and exhausting their miserable stock of provisions before the voyage
 commenced. There they were, all huddled together with the engine and the
 fires. Farmers who had never seen a plough; woodmen who had never used
@@ -16715,10 +16590,7 @@ upon the dark water.
 
 
 
-CHAPTER TWENTY-THREE
 
-MARTIN AND HIS PARTNER TAKE POSSESSION OF THEIR ESTATE. THE JOYFUL
-OCCASION INVOLVES SOME FURTHER ACCOUNT OF EDEN
 
 
 There happened to be on board the steamboat several gentlemen
@@ -16921,7 +16793,6 @@ he has his chill upon him, and is lying wrapped up in the blankets. My
 youngest died last week.’
 
 ‘I’m sorry for it, governor, with all my heart,’ said Mark, shaking him
-by the hand. ‘Don’t mind us. Come along with me, and I’ll give you an
 arm back. The goods is safe enough, sir’--to Martin--‘there ain’t many
 people about, to make away with ‘em. What a comfort that is!’
 
@@ -17157,10 +17028,7 @@ to come out strong; or Never!’
 
 
 
-CHAPTER TWENTY-FOUR
 
-REPORTS PROGRESS IN CERTAIN HOMELY MATTERS OF LOVE, HATRED, JEALOUSY,
-AND REVENGE
 
 
 ‘Hallo, Pecksniff!’ cried Mr Jonas from the parlour. ‘Isn’t somebody
@@ -17205,7 +17073,6 @@ were not cheerful without an effort--‘but I do a little bit of Adam
 still.’
 
 He had by this time got them into the best parlour, where the portrait
-by Spiller, and the bust by Spoker, were.
 
 ‘My daughters,’ said Mr Pecksniff, ‘will be overjoyed. If I could feel
 weary upon such a theme, I should have been worn out long ago, my dear
@@ -17299,7 +17166,6 @@ I not? I, who have lived within it all these years!’
 bereaved young man is now in this house, sir, seeking in change of scene
 the peace of mind he has lost. Shall I be backward in doing justice to
 that young man, when even undertakers and coffin-makers have been moved
-by the conduct he has exhibited; when even mutes have spoken in his
 praise, and the medical man hasn’t known what to do with himself in
 the excitement of his feelings! There is a person of the name of Gamp,
 sir--Mrs Gamp--ask her. She saw Mr Jonas in a trying time. Ask HER, sir.
@@ -17944,10 +17810,7 @@ sun shines. Take your own way as long as it’s in your power, my lady!’
 
 
 
-CHAPTER TWENTY-FIVE
 
-IS IN PART PROFESSIONAL, AND FURNISHES THE READER WITH SOME VALUABLE
-HINTS IN RELATION TO THE MANAGEMENT OF A SICK CHAMBER
 
 
 Mr Mould was surrounded by his household gods. He was enjoying the
@@ -18169,7 +18032,7 @@ Gamp,” she says, “you raly do amaze me!” “Mrs Harris,” I says to her,
 Mrs Harris, “and shaming him as shall be nameless betwixt you and me,
 never did I think till I know’d you, as any woman could sick-nurse and
 monthly likeways, on the little that you takes to drink.” “Mrs Harris,”
- I says to her, “none on us knows what we can do till we tries; and
+I says to her, “none on us knows what we can do till we tries; and
 wunst, when me and Gamp kept ‘ouse, I thought so too. But now,” I says,
 “my half a pint of porter fully satisfies; perwisin’, Mrs Harris, that
 it is brought reg’lar, and draw’d mild. Whether I sicks or monthlies,
@@ -18206,7 +18069,7 @@ reposed the greatest friendliness in me for twenty year, “The soberest
 person going, and the best of blessings in a sick room, is Mrs Gamp.
 Send a boy to Kingsgate Street,” she says, “and snap her up at any
 price, for Mrs Gamp is worth her weight and more in goldian guineas.”
- My landlord brings the message down to me, and says, “bein’ in a light
+My landlord brings the message down to me, and says, “bein’ in a light
 place where you are, and this job promising so well, why not unite the
 two?” “No, sir,” I says, “not unbeknown to Mr Mould, and therefore do
 not think it. But I will go to Mr Mould,” I says, “and ast him, if you
@@ -18687,9 +18550,7 @@ laying her hand upon her arm--‘try the cowcumbers, God bless you!’
 
 
 
-CHAPTER TWENTY-SIX
 
-AN UNEXPECTED MEETING, AND A PROMISING PROSPECT
 
 
 The laws of sympathy between beards and birds, and the secret source
@@ -18899,7 +18760,6 @@ self-possession, and his patronizing manner, as well as by his boots,
 cockade, and livery, that a mist swam before his eyes, and he saw--not
 the Bailey of acknowledged juvenility from Todgers’s Commercial
 Boarding House, who had made his acquaintance within a twelvemonth,
-by purchasing, at sundry times, small birds at twopence each--but a
 highly-condensed embodiment of all the sporting grooms in London; an
 abstract of all the stable-knowledge of the time; a something at a
 high-pressure that must have had existence many years, and was fraught
@@ -19090,11 +18950,7 @@ It was her welcome--HOME.
 
 
 
-CHAPTER TWENTY-SEVEN
 
-SHOWING THAT OLD FRIENDS MAY NOT ONLY APPEAR WITH NEW FACES, BUT IN
-FALSE COLOURS. THAT PEOPLE ARE PRONE TO BITE, AND THAT BITERS MAY
-SOMETIMES BE BITTEN.
 
 
 Mr Bailey, Junior--for the sporting character, whilom of general utility
@@ -20099,9 +19955,7 @@ up, for they flowed in gayly.
 
 
 
-CHAPTER TWENTY-EIGHT
 
-MR MONTAGUE AT HOME. AND MR JONAS CHUZZLEWIT AT HOME
 
 
 There were many powerful reasons for Jonas Chuzzlewit being strongly
@@ -20209,7 +20063,7 @@ wouldn’t have made a parson of you!”’
 up, dead, sir--but after a minute he said to the Duke, “Here’s Pip.
 Ask Pip. Pip’s our mutual friend. Ask Pip. He knows.” “Damme!” said the
 Duke, “I appeal to Pip then. Come, Pip. Bandy or not bandy? Speak out!”
- “Bandy, your Grace, by the Lord Harry!” said I. “Ha, ha!” laughed the
+“Bandy, your Grace, by the Lord Harry!” said I. “Ha, ha!” laughed the
 Duke. “To be sure she is. Bravo, Pip. Well said Pip. I wish I may die
 if you’re not a trump, Pip. Pop me down among your fashionable visitors
 whenever I’m in town, Pip.” And so I do, to this day.’
@@ -20306,7 +20160,6 @@ It is so pleasant to find real merit appreciated, whatever its
 particular walk in life may be, that the general harmony of the company
 was doubtless much promoted by their knowing that the two men of the
 world were held in great esteem by the upper classes of society, and
-by the gallant defenders of their country in the army and navy, but
 particularly the former. The least of their stories had a colonel in it;
 lords were as plentiful as oaths; and even the Blood Royal ran in the
 muddy channel of their personal recollections.
@@ -20607,10 +20460,7 @@ endure, in bearing heavy evidence against us, on the Day of Judgment!
 
 
 
-CHAPTER TWENTY-NINE
 
-IN WHICH SOME PEOPLE ARE PRECOCIOUS, OTHERS PROFESSIONAL, AND OTHERS
-MYSTERIOUS; ALL IN THEIR SEVERAL WAYS
 
 
 It may have been the restless remembrance of what he had seen and heard
@@ -21079,10 +20929,7 @@ a little behind his time.
 
 
 
-CHAPTER THIRTY
 
-PROVES THAT CHANGES MAY BE RUNG IN THE BEST-REGULATED FAMILIES, AND THAT
-MR PECKNIFF WAS A SPECIAL HAND AT A TRIPLE-BOB-MAJOR
 
 
 As the surgeon’s first care after amputating a limb, is to take up the
@@ -21314,7 +21161,6 @@ upon the night when he made such an ill-timed arrival at Mr Pecksniff’s
 house, he was comparatively subdued and easy to deal with. This Mr
 Pecksniff attributed, at the time, to the effect his brother’s death had
 had upon him. But from that hour his character seemed to have modified
-by regular degrees, and to have softened down into a dull indifference
 for almost every one but Mr Pecksniff. His looks were much the same as
 ever, but his mind was singularly altered. It was not that this or that
 passion stood out in brighter or in dimmer hues; but that the colour of
@@ -21382,7 +21228,6 @@ case, it formed no part of Mr Pecksniff’s moral code; for he knew what a
 good man he was, and what a blessing he must be to anybody. His daughter
 having broken the ice, and the murder being out between them, Mr
 Pecksniff had now only to pursue his design as cleverly as he could, and
-by the craftiest approaches.
 
 ‘Well, my good sir,’ said Mr Pecksniff, meeting old Martin in the
 garden, for it was his habit to walk in and out by that way, as the
@@ -21831,10 +21676,7 @@ thanksgiving at church next Sunday.
 
 
 
-CHAPTER THIRTY-ONE
 
-MR PINCH IS DISCHARGED OF A DUTY WHICH HE NEVER OWED TO ANYBODY, AND MR
-PECKSNIFF DISCHARGES A DUTY WHICH HE OWES TO SOCIETY
 
 
 The closing words of the last chapter lead naturally to the commencement
@@ -21876,7 +21718,6 @@ porch, saw Tom, with the curtains in the loft drawn back, playing away
 with great expression and tenderness.
 
 The church had an inviting air of coolness. The old oak roof supported
-by cross-beams, the hoary walls, the marble tablets, and the cracked
 stone pavement, were refreshing to look at. There were leaves of ivy
 tapping gently at the opposite windows; and the sun poured in through
 only one; leaving the body of the church in tempting shade. But the
@@ -22146,8 +21987,8 @@ doing anything and everything except the right thing, all through his
 career. From the lofty height on which poor Tom had placed his idol it
 was tumbled down headlong, and
 
-     Not all the king’s horses, nor all the king’s men,
-     Could have set Mr Pecksniff up again.
+Not all the king’s horses, nor all the king’s men,
+Could have set Mr Pecksniff up again.
 
 Legions of Titans couldn’t have got him out of the mud; and serve him
 right! But it was not he who suffered; it was Tom. His compass was
@@ -22673,10 +22514,7 @@ afterwards, and went to sleep, and dreamed about him as he Never Was.
 
 
 
-CHAPTER THIRTY-TWO
 
-TREATS OF TODGER’S AGAIN; AND OF ANOTHER BLIGHTED PLANT BESIDES THE
-PLANTS UPON THE LEADS
 
 
 Early on the day next after that on which she bade adieu to the halls
@@ -22976,10 +22814,7 @@ afternoon. Oh, what a trying day this has been! Good Gracious!’
 
 
 
-CHAPTER THIRTY-THREE
 
-FURTHER PROCEEDINGS IN EDEN, AND A PROCEEDING OUT OF IT. MARTIN MAKES A
-DISCOVERY OF SOME IMPORTANCE
 
 
 From Mr Moddle to Eden is an easy and natural transition. Mr Moddle,
@@ -22996,7 +22831,6 @@ tumbles down with draggled wings into the mud.
 
 When Mark Tapley, leaving Martin in the architectural and surveying
 offices, had effectually strengthened and encouraged his own spirits
-by the contemplation of their joint misfortunes, he proceeded, with
 new cheerfulness, in search of help; congratulating himself, as he went
 along, on the enviable position to which he had at last attained.
 
@@ -23188,7 +23022,6 @@ a reg’lar little United States in itself. There’s two or three American
 settlers left; and they coolly comes over one, even here, sir, as if it
 was the wholesomest and loveliest spot in the world. But they’re like
 the cock that went and hid himself to save his life, and was found out
-by the noise he made. They can’t help crowing. They was born to do it,
 and do it they must, whatever comes of it.’
 
 Glancing from his work out at the door as he said these words, Mark’s
@@ -23781,10 +23614,7 @@ wake and find them Shadows that had vanished!
 
 
 
-CHAPTER THIRTY-FOUR
 
-IN WHICH THE TRAVELLERS MOVE HOMEWARD, AND ENCOUNTER SOME DISTINGUISHED
-CHARACTERS UPON THE WAY
 
 
 Among the passengers on board the steamboat, there was a faint gentleman
@@ -24300,7 +24130,6 @@ Hominy felt her position, and knew what was expected of her.
 Mrs H. was hard upon him at first; and put him through a rigid catechism
 in reference to a certain vote he had given, which she had found it
 necessary, as the mother of the modern Gracchi, to deprecate in a line
-by itself, set up expressly for the purpose in German text. But Mr
 Pogram evading it by a well-timed allusion to the star-spangled banner,
 which, it appeared, had the remarkable peculiarity of flouting the
 breeze whenever it was hoisted where the wind blew, she forgave him.
@@ -24513,7 +24342,7 @@ Martin looked at him for farther explanation.
 Mark, ‘the mate he comes and asks me whether I’d engage to take this
 said cook’s place upon the passage home. “For you’re used to it,” he
 says; “you were always a-cooking for everybody on your passage out.”
- And so I was,’ said Mark, ‘although I never cooked before, I’ll take my
+And so I was,’ said Mark, ‘although I never cooked before, I’ll take my
 oath.’
 
 ‘What did you say?’ demanded Martin.
@@ -24573,10 +24402,7 @@ Mark. Let us hope so.’
 
 
 
-CHAPTER THIRTY-FIVE
 
-ARRIVING IN ENGLAND, MARTIN WITNESSES A CEREMONY, FROM WHICH HE DERIVES
-THE CHEERING INFORMATION THAT HE HAS NOT BEEN FORGOTTEN IN HIS ABSENCE
 
 
 It was mid-day, and high water in the English port for which the Screw
@@ -24906,9 +24732,7 @@ foremost, old fellow!’
 
 
 
-CHAPTER THIRTY-SIX
 
-TOM PINCH DEPARTS TO SEEK HIS FORTUNE. WHAT HE FINDS AT STARTING
 
 
 Oh! What a different town Salisbury was in Tom Pinch’s eyes to be sure,
@@ -25157,7 +24981,6 @@ they chatted so pleasantly together, that although Tom knew infinitely
 more of unicorns than horses, the coachman informed his friend the guard
 at the end of the next stage, ‘that rum as the box-seat looked, he was
 as good a one to go, in pint of conversation, as ever he’d wish to sit
-by.’
 
 Yoho, among the gathering shades; making of no account the deep
 reflections of the trees, but scampering on through light and darkness,
@@ -25893,10 +25716,7 @@ made meat pies of, or some such horrible thing.’
 
 
 
-CHAPTER THIRTY-SEVEN
 
-TOM PINCH, GOING ASTRAY, FINDS THAT HE IS NOT THE ONLY PERSON IN THAT
-PREDICAMENT. HE RETALIATES UPON A FALLEN FOE
 
 
 Tom’s evil genius did not lead him into the dens of any of those
@@ -25908,7 +25728,6 @@ who are, perhaps, a little better known to the Police. He fell into
 conversation with no gentleman who took him into a public-house, where
 there happened to be another gentleman who swore he had more money than
 any gentleman, and very soon proved he had more money than one gentleman
-by taking his away from him; neither did he fall into any other of
 the numerous man-traps which are set up without notice, in the public
 grounds of this city. But he lost his way. He very soon did that; and in
 trying to find it again he lost it more and more.
@@ -25920,7 +25739,6 @@ should happen to find himself near the Mint, or the Bank of England; in
 which case he would step in, and ask a civil question or two, confiding
 in the perfect respectability of the concern. So on he went, looking up
 all the streets he came near, and going up half of them; and thus,
-by dint of not being true to Goswell Street, and filing off into
 Aldermanbury, and bewildering himself in Barbican, and being constant to
 the wrong point of the compass in London Wall, and then getting himself
 crosswise into Thames Street, by an instinct that would have been
@@ -26379,9 +26197,7 @@ happy in his life.
 
 
 
-CHAPTER THIRTY-EIGHT
 
-SECRET SERVICE
 
 
 In walking from the city with his sentimental friend, Tom Pinch had
@@ -26457,7 +26273,6 @@ speculated too much and was keeping out of the way.
 
 He must have appointed the man who never kept his word, to meet him at
 another new place too; for one day he was found, for the first time,
-by the waiter at the Mourning Coach-Horse, the House-of-call for
 Undertakers, down in the City there, making figures with a pipe-stem in
 the sawdust of a clean spittoon; and declining to call for anything, on
 the ground of expecting a gentleman presently. As the gentleman was not
@@ -26674,7 +26489,6 @@ he?’
 furniture. He has been making his report, and is waiting for further
 orders. He has been told,’ said Tigg, raising his voice, ‘not to lose
 sight of certain friends of ours, or to think that he has done with them
-by any means. He understands his business.’
 
 ‘He need,’ replied Jonas; ‘for of all the precious old dummies in
 appearance that I ever saw, he’s about the worst. He’s afraid of me, I
@@ -26844,10 +26658,7 @@ Angel.
 
 
 
-CHAPTER THIRTY-NINE
 
-CONTAINING SOME FURTHER PARTICULARS OF THE DOMESTIC ECONOMY OF THE
-PINCHES; WITH STRANGE NEWS FROM THE CITY, NARROWLY CONCERNING TOM
 
 
 Pleasant little Ruth! Cheerful, tidy, bustling, quiet little Ruth! No
@@ -27169,7 +26980,7 @@ man, aged thirty-five, from the country, came in when he was invited,
 instead of standing gaping and staring about him on the landing. Well!
 When he came in, I found he was a stranger; a grave, business-like,
 sedate-looking, stranger. “Mr Westlock?” said he. “That is my name,”
- said I. “The favour of a few words with you?” said he. “Pray be seated,
+said I. “The favour of a few words with you?” said he. “Pray be seated,
 sir,” said I.’
 
 Here John stopped for an instant, to glance towards the table, where
@@ -27702,10 +27513,7 @@ contemptible, Tom Pinch!
 
 
 
-CHAPTER FORTY
 
-THE PINCHES MAKE A NEW ACQUAINTANCE, AND HAVE FRESH OCCASION FOR
-SURPRISE AND WONDER
 
 
 There was a ghostly air about these uninhabited chambers in the Temple,
@@ -27985,7 +27793,6 @@ Sairey may be trusted not to give it back again. But I will not denige
 that I am worrited and wexed this day, and with good reagion, Lord
 forbid!’
 
-By this time, Mrs Gamp (for it was no other than that experienced
 practitioner) had, with Tom’s assistance, squeezed and worked herself
 into a small corner between Ruth and the rail; where, after breathing
 very hard for some little time, and performing a short series of
@@ -28284,7 +28091,7 @@ I ever had to speak) was these: “Sairey,” she says, “is it a public
 wharf?” “Mrs Harris,” I makes answer, “can you doubt it? You have know’d
 me now, ma’am, eight and thirty year; and did you ever know me go, or
 wish to go, where I was not made welcome, say the words.” “No, Sairey,”
- Mrs Harris says, “contrairy quite.” And well she knows it too. I am but
+Mrs Harris says, “contrairy quite.” And well she knows it too. I am but
 a poor woman, but I’ve been sought after, sir, though you may not think
 it. I’ve been knocked up at all hours of the night, and warned out by
 a many landlords, in consequence of being mistook for Fire. I goes out
@@ -28373,10 +28180,7 @@ there.
 
 
 
-CHAPTER FORTY-ONE
 
-MR JONAS AND HIS FRIEND, ARRIVING AT A PLEASANT UNDERSTANDING, SET FORTH
-UPON AN ENTERPRISE
 
 
 The office of the Anglo-Bengalee Disinterested Loan and Life Assurance
@@ -28826,9 +28630,7 @@ will be a stormy night!’ exclaimed the doctor, as they started.
 
 
 
-CHAPTER FORTY-TWO
 
-CONTINUATION OF THE ENTERPRISE OF MR JONAS AND HIS FRIEND
 
 
 The doctor’s prognostication in reference to the weather was speedily
@@ -28999,12 +28801,12 @@ moment, from the lightning which was flashing, not in any one direction,
 but all around them. ‘What of that? It don’t change you, nor me, nor our
 affairs. Chorus, chorus,
 
-              It may lighten and storm,
-              Till it hunt the red worm
-     From the grass where the gibbet is driven;
-              But it can’t hurt the dead,
-              And it won’t save the head
-     That is doom’d to be rifled and riven.
+It may lighten and storm,
+Till it hunt the red worm
+From the grass where the gibbet is driven;
+But it can’t hurt the dead,
+And it won’t save the head
+That is doom’d to be rifled and riven.
 
 That must be a precious old song,’ he added with an oath, as he stopped
 short in a kind of wonder at himself. ‘I haven’t heard it since I was
@@ -29072,7 +28874,6 @@ headlong down, and threw it crashing over.
 The travellers had opened the carriage door, and had either jumped or
 fallen out. Jonas was the first to stagger to his feet. He felt sick and
 weak, and very giddy, and reeling to a five-barred gate, stood holding
-by it; looking drowsily about as the whole landscape swam before his
 eyes. But, by degrees, he grew more conscious, and presently observed
 that Montague was lying senseless in the road, within a few feet of the
 horses.
@@ -29202,7 +29003,6 @@ If Montague’s strong interest in the announcement could have been
 considered as unselfish in any degree, it might have been a redeeming
 trait in a character that had no such lineaments to spare. But it was
 not difficult to see that, for some unexpressed reason best appreciated
-by himself, he attached a strange value to the company and presence of
 this mere child. When, after receiving some assistance from the surgeon
 himself, he retired to the bedroom prepared for him, and it was broad
 day, his mind was still dwelling on this theme.
@@ -29294,11 +29094,7 @@ travel home alone!’
 
 
 
-CHAPTER FORTY-THREE
 
-HAS AN INFLUENCE ON THE FORTUNES OF SEVERAL PEOPLE. MR PECKSNIFF IS
-EXHIBITED IN THE PLENITUDE OF POWER; AND WIELDS THE SAME WITH FORTITUDE
-AND MAGNANIMITY
 
 
 On the night of the storm, Mrs Lupin, hostess of the Blue Dragon, sat by
@@ -29765,7 +29561,6 @@ keep the door open with his foot and shoulder, when anybody came, and by
 that means secure an enforced parley. But this precaution was needless,
 for the servant-girl appeared almost immediately. Brushing quickly past
 her as he had resolved in such a case to do, Martin (closely followed
-by his faithful ally) opened the door of that parlour in which he knew
 a visitor was most likely to be found; passed at once into the room; and
 stood, without a word of notice or announcement, in the presence of his
 grandfather.
@@ -30291,13 +30086,10 @@ now, and teach me how to earn my bread.’
 
 
 
-CHAPTER FORTY-FOUR
 
-FURTHER CONTINUATION OF THE ENTERPRISE OF MR JONAS AND HIS FRIEND
 
 
 It was a special quality, among the many admirable qualities possessed
-by Mr Pecksniff, that the more he was found out, the more hypocrisy he
 practised. Let him be discomfited in one quarter, and he refreshed and
 recompensed himself by carrying the war into another. If his workings
 and windings were detected by A, so much the greater reason was there
@@ -30718,10 +30510,7 @@ difficulty. I shall travel home alone.’
 
 
 
-CHAPTER FORTY-FIVE
 
-IN WHICH TOM PINCH AND HIS SISTER TAKE A LITTLE PLEASURE; BUT QUITE IN A
-DOMESTIC WAY, AND WITH NO CEREMONY ABOUT IT
 
 
 Tom Pinch and his sister having to part, for the dispatch of the
@@ -30857,7 +30646,6 @@ likely spot, indeed. He was constantly passing to and fro there, he
 said. He shouldn’t wonder if it were to happen again. His only wonder
 was, that it had never happened before.
 
-By this time Ruth had got round on the farther side of her brother, and
 had taken his arm. She was squeezing it now, as much as to say ‘Are you
 going to stop here all day, you dear, old, blundering Tom?’
 
@@ -31154,10 +30942,7 @@ portrait--whose?--from memory.
 
 
 
-CHAPTER FORTY-SIX
 
-IN WHICH MISS PECKSNIFF MAKES LOVE, MR JONAS MAKES WRATH, MRS GAMP MAKES
-TEA, AND MR CHUFFEY MAKES BUSINESS
 
 
 On the next day’s official duties coming to a close, Tom hurried home
@@ -32207,9 +31992,7 @@ All was clear and quiet, as he fled away.
 
 
 
-CHAPTER FORTY-SEVEN
 
-CONCLUSION OF THE ENTERPRISE OF MR JONAS AND HIS FRIEND
 
 
 Did no men passing through the dim streets shrink without knowing why,
@@ -32375,7 +32158,6 @@ presentiment and vague foreknowledge of impending doom.
 If there be fluids, as we know there are, which, conscious of a coming
 wind, or rain, or frost, will shrink and strive to hide themselves in
 their glass arteries; may not that subtle liquor of the blood perceive,
-by properties within itself, that hands are raised to waste and spill
 it; and in the veins of men run cold and dull as his did, in that hour!
 
 So cold, although the air was warm; so dull, although the sky was
@@ -32388,7 +32170,6 @@ He took the footpath.
 The glory of the departing sun was on his face. The music of the birds
 was in his ears. Sweet wild flowers bloomed about him. Thatched roofs of
 poor men’s homes were in the distance; and an old grey spire, surmounted
-by a Cross, rose up between him and the coming night.
 
 He had never read the lesson which these things conveyed; he had ever
 mocked and turned away from it; but, before going down into a hollow
@@ -32406,7 +32187,6 @@ he looked, began to die away, yielding gently to the twilight that came
 creeping on. It was so very quiet that the soft and stealthy moss about
 the trunks of some old trees, seemed to have grown out of the silence,
 and to be its proper offspring. Those other trees which were subdued
-by blasts of wind in winter time, had not quite tumbled down, but being
 caught by others, lay all bare and scathed across their leafy arms, as
 if unwilling to disturb the general repose by the crash of their fall.
 Vistas of silence opened everywhere, into the heart and innermost
@@ -32637,11 +32417,7 @@ Hush!
 
 
 
-CHAPTER FORTY-EIGHT
 
-BEARS TIDINGS OF MARTIN AND OF MARK, AS WELL AS OF A THIRD PERSON NOT
-QUITE UNKNOWN TO THE READER. EXHIBITS FILIAL PIETY IN AN UGLY ASPECT;
-AND CASTS A DOUBTFUL RAY OF LIGHT UPON A VERY DARK PLACE
 
 
 Tom Pinch and Ruth were sitting at their early breakfast, with the
@@ -33246,7 +33022,6 @@ salvation from ruin), and what did it matter to me? He could get them
 without my aid at half a hundred places, but not so easily as he could
 get them of me. This was true. He might not want them at all, he said,
 and he had no present idea of using them; but he wished to have them
-by him. All this time he still read the newspaper. We talked about the
 price. He was to forgive me a small debt--I was quite in his power--and
 to pay me five pounds; and there the matter dropped, through others
 coming in. But, next night, under exactly similar circumstances, I gave
@@ -33339,7 +33114,6 @@ afterwards, without any modification, they only reached in this the
 conclusion that they were all of one mind. For it was one thing to want
 Mr Chuffey, and another thing to get at him; and to do that without
 alarming him, or without alarming Jonas, or without being discomfited
-by the difficulty of striking, in an instrument so out of tune and so
 unused, the note they sought, was an end as far from their reach as
 ever.
 
@@ -33401,17 +33175,13 @@ for his dinner.
 
 
 
-CHAPTER FORTY-NINE
 
-IN WHICH MRS HARRIS ASSISTED BY A TEAPOT, IS THE CAUSE OF A DIVISION
-BETWEEN FRIENDS
 
 
 Mrs Gamp’s apartment in Kingsgate Street, High Holborn, wore,
 metaphorically speaking, a robe of state. It was swept and garnished for
 the reception of a visitor. That visitor was Betsey Prig; Mrs Prig, of
 Bartlemy’s; or as some said Barklemy’s, or as some said Bardlemy’s; for
-by all these endearing and familiar appellations, had the hospital of
 Saint Bartholomew become a household word among the sisterhood which
 Betsey Prig adorned.
 
@@ -33750,7 +33520,6 @@ mistake of Mrs Prig, another willful and malignant stab at that same
 weakness or custom of hers, an ungenerous allusion to which, on the part
 of Betsey, had first disturbed their harmony that evening. And she saw
 it still more clearly, when, politely but firmly correcting that lady
-by the distinct enunciation of the word ‘Chuffey,’ Mrs Prig received the
 correction with a diabolical laugh.
 
 The best among us have their failings, and it must be conceded of Mrs
@@ -34056,10 +33825,7 @@ in good time.’
 
 
 
-CHAPTER FIFTY
 
-SURPRISES TOM PINCH VERY MUCH, AND SHOWS HOW CERTAIN CONFIDENCES PASSED
-BETWEEN HIM AND HIS SISTER
 
 
 It was the next evening; and Tom and his sister were sitting together
@@ -34164,7 +33930,6 @@ Martin, but I ask it of you as a right.’
 ‘No,’ said Tom, calmly. ‘Not if they accuse me.’
 
 ‘Your own words. Your own manner,’ pursued Martin. ‘Am I to believe
-THEM?’
 
 ‘No,’ replied Tom, calmly. ‘Not if they accuse me. But they never have
 accused me. Whoever has perverted them to such a purpose, has wronged
@@ -34550,10 +34315,7 @@ Tom did so; hardly knowing yet whether he was awake or in a dream.
 
 
 
-CHAPTER FIFTY-ONE
 
-SHEDS NEW AND BRIGHTER LIGHT UPON THE VERY DARK PLACE; AND CONTAINS THE
-SEQUEL OF THE ENTERPRISE OF MR JONAS AND HIS FRIEND
 
 
 The night had now come, when the old clerk was to be delivered over
@@ -34996,7 +34758,6 @@ that addition.’
 
 Jonas heard this with a sinking heart. He knew that they were on his
 heels, and felt that they were resolute to run him to destruction. Inch
-by inch the ground beneath him was sliding from his feet; faster and
 faster the encircling ruin contracted and contracted towards himself,
 its wicked centre, until it should close in and crush him.
 
@@ -35520,7 +35281,6 @@ Jonas broke from him without replying, and closed the door between them.
 
 Slyme listened at the keyhole. After that, he crept away on tiptoe, as
 far off as he could; and looked awfully towards the place. He was roused
-by the arrival of the coach, and their letting down the steps.
 
 ‘He’s getting a few things together,’ he said, leaning out of window,
 and speaking to the two men below, who stood in the full light of a
@@ -35594,9 +35354,7 @@ could have done no more, and could do nothing now. Dead, dead, dead.
 
 
 
-CHAPTER FIFTY-TWO
 
-IN WHICH THE TABLES ARE TURNED, COMPLETELY UPSIDE DOWN
 
 
 Old Martin’s cherished projects, so long hidden in his own breast, so
@@ -35830,7 +35588,6 @@ after playing a pretty long game of bowls with its owner, seemed to be
 at last in a very fair way of coming in for a rubber or two.
 
 Mark’s uncertainty in respect of what was going to be done or said, and
-by whom to whom, would have excited him in itself. But knowing for
 a certainty besides, that young Martin was coming, and in a very few
 minutes must arrive, he found it by no means easy to remain quiet and
 silent. But, excepting that he occasionally coughed in a hollow and
@@ -36475,11 +36232,7 @@ really, for a gentleman of his habits, in rather a knowing manner.
 
 
 
-CHAPTER FIFTY-THREE
 
-WHAT JOHN WESTLOCK SAID TO TOM PINCH’S SISTER; WHAT TOM PINCH’S SISTER
-SAID TO JOHN WESTLOCK; WHAT TOM PINCH SAID TO BOTH OF THEM; AND HOW THEY
-ALL PASSED THE REMAINDER OF THE DAY
 
 
 Brilliantly the Temple Fountain sparkled in the sun, and laughingly
@@ -36504,7 +36257,6 @@ anywhere near that Fountain was quite extraordinary.
 However, there they found themselves. And another extraordinary part
 of the matter was, that they seemed to have come there, by a silent
 understanding. Yet when they got there, they were a little confused
-by being there, which was the strangest part of all; because there is
 nothing naturally confusing in a Fountain. We all know that.
 
 ‘What a good old place it was!’ John said. With quite an earnest affection
@@ -36820,7 +36572,6 @@ convivial sentiments by shutting himself up in a dark office. ‘Where is
 he?’ said Fips, when he came in. And then he pounced on Tom, and told
 him that he wanted to relieve himself of all his old constraint; and in
 the first place shook him by one hand, and in the second place shook him
-by the other, and in the third place nudged him in the waistcoat, and in
 the fourth place said, ‘How are you?’ and in a great many other places
 did a great many other things to show his friendliness and joy. And he
 sang songs, did Fips; and made speeches, did Fips; and knocked off his
@@ -36908,9 +36659,7 @@ gentleman, in any case, for one is lost to thee for ever!
 
 
 
-CHAPTER FIFTY-FOUR
 
-GIVES THE AUTHOR GREAT CONCERN. FOR IT IS THE LAST IN THE BOOK
 
 
 Todger’s was in high feather, and mighty preparations for a late
@@ -36932,11 +36681,9 @@ death of Jonas WAS a judgment on them for their internal dissensions.
 And Miss Pecksniff was confirmed in this belief, by the lightness with
 which the visitation had fallen on herself.
 
-By way of doing sacrifice--not in triumph; not, of course, in triumph,
 but in humiliation of spirit--this amiable young person wrote,
 therefore, to her kinswoman of the strong mind, and informed her that
 her nuptials would take place on such a day. That she had been much hurt
-by the unnatural conduct of herself and daughters, and hoped they might
 not have suffered in their consciences. That, being desirous to forgive
 her enemies, and make her peace with the world before entering into the
 most solemn of covenants with the most devoted of men, she now held out
@@ -37213,7 +36960,6 @@ sure! Hurrah!’
 
 Home they rolled accordingly, when he had got the old man in again, as
 fast as they could go; Mark abating nothing of his fervour by the way,
-by allowing it to vent itself as unrestrainedly as if he had been on
 Salisbury Plain.
 
 And now the wedding party began to assemble at Todgers’s. Mr Jinkins,
@@ -37335,9 +37081,7 @@ They picked it up; and crowding round, and looking over one another’s
 shoulders, read, in the words and dashes following, this communication:
 
 
-‘OFF GRAVESEND.
 
-‘CLIPPER SCHOONER, CUPID
 
 ‘Wednesday night
 
@@ -37382,7 +37126,6 @@ myself--amid the tempestuous howlings of the--sailors,
 
 ‘Never yours,
 
-‘AUGUSTUS.’
 
 
 They thought as little of Miss Pecksniff, while they greedily perused
@@ -37438,7 +37181,6 @@ can be; and falling sick once, chose thee for her nurse, and never knew
 impatience, Tom, when thou wert by her side.
 
 Thou glidest, now, into a graver air; an air devoted to old friends and
-bygone times; and in thy lingering touch upon the keys, and the rich
 swelling of the mellow harmony, they rise before thee. The spirit of
 that old man dead, who delighted to anticipate thy wants, and never
 ceased to honour thee, is there, among the rest; repeating, with a face

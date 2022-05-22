@@ -1,51 +1,4 @@
 
-[Transcriber’s Note: This text was produced from a photo-reprint of the
-1818 edition.]
-
-
-
-
-                             FRANKENSTEIN;
-
-                                  OR,
-
-                         THE MODERN PROMETHEUS.
-
-
-    IN THREE VOLUMES.
-    VOL. I.
-
-    London:
-
-    _PRINTED FOR_
-    LACKINGTON, HUGHES, HARDING, MAVOR, & JONES,
-    FINSBURY SQUARE.
-
-    1818.
-
-       *       *       *       *       *
-
-    Did I request thee, Maker, from my clay
-    To mould me man? Did I solicit thee
-    From darkness to promote me?——
-
-                                  Paradise Lost.
-
-       *       *       *       *       *
-
-                          _TO_
-                     WILLIAM GODWIN,
-    _AUTHOR OF POLITICAL JUSTICE, CALEB WILLIAMS, &c._
-                      THESE VOLUMES
-               _Are respectfully inscribed_
-                           BY
-                       THE AUTHOR.
-
-
-
-
-PREFACE.
-
 
 The event on which this fiction is founded has been supposed, by Dr.
 Darwin, and some of the physiological writers of Germany, as not of
@@ -106,16 +59,12 @@ the only one which has been completed.
 
 
 
-FRANKENSTEIN;
-
-OR, THE
-
-_MODERN PROMETHEUS._
 
 
 
 
-LETTER I.
+
+
 
 
 _To Mrs._ SAVILLE, _England_.
@@ -234,12 +183,10 @@ all your love and kindness.
 
 Your affectionate brother,
 
-R. WALTON.
 
 
 
 
-LETTER II.
 
 
 _To Mrs._ SAVILLE, _England_.
@@ -341,19 +288,16 @@ Remember me with affection, should you never hear from me again.
 
 Your affectionate brother,
 
-ROBERT WALTON.
 
 
 
 
-LETTER III.
 
 
 _To Mrs._ SAVILLE, _England_.
 
 July 7th, 17—.
 
-MY DEAR SISTER,
 
 I write a few lines in haste, to say that I am safe, and well advanced
 on my voyage. This letter will reach England by a merchant-man now on
@@ -382,12 +326,10 @@ Remember me to all my English friends.
 
 Most affectionately yours,
 
-R. W.
 
 
 
 
-LETTER IV.
 
 
 _To Mrs._ SAVILLE, _England_.
@@ -534,7 +476,6 @@ the brother of my heart.
 I shall continue my journal concerning the stranger at intervals, should
 I have any fresh incidents to record.
 
-       *       *       *       *       *
 
 August 13th, 17—.
 
@@ -592,7 +533,6 @@ was once your characteristic charm. Yet, if you will, smile at the
 warmth of my expressions, while I find every day new causes for
 repeating them.
 
-       *       *       *       *       *
 
 August 19th, 17—.
 
@@ -636,16 +576,12 @@ read it in some future day!
 
 
 
-FRANKENSTEIN;
-
-OR,
-
-THE MODERN PROMETHEUS.
 
 
 
 
-CHAPTER I.
+
+
 
 
 I am by birth a Genevese; and my family is one of the most distinguished
@@ -668,7 +604,6 @@ distinguished for his rank and magnificence. Having paid his debts,
 therefore, in the most honourable manner, he retreated with his daughter
 to the town of Lucerne, where he lived unknown and in wretchedness. My
 father loved Beaufort with the truest friendship, and was deeply grieved
-by his retreat in these unfortunate circumstances. He grieved also for
 the loss of his society, and resolved to seek him out and endeavour to
 persuade him to begin the world again through his credit and assistance.
 
@@ -696,7 +631,6 @@ Several months passed in this manner. Her father grew worse; her time
 was more entirely occupied in attending him; her means of subsistence
 decreased; and in the tenth month her father died in her arms, leaving
 her an orphan and a beggar. This last blow overcame her; and she knelt
-by Beaufort’s coffin, weeping bitterly, when my father entered the
 chamber. He came like a protecting spirit to the poor girl, who
 committed herself to his care, and after the interment of his friend he
 conducted her to Geneva, and placed her under the protection of a
@@ -774,7 +708,6 @@ George.
 
 No youth could have passed more happily than mine. My parents were
 indulgent, and my companions amiable. Our studies were never forced; and
-by some means we always had an end placed in view, which excited us to
 ardour in the prosecution of them. It was by this method, and not by
 emulation, that we were urged to application. Elizabeth was not incited
 to apply herself to drawing, that her companions might not outstrip her;
@@ -897,7 +830,6 @@ This last stroke completed the overthrow of Cornelius Agrippa, Albertus
 Magnus, and Paracelsus, who had so long reigned the lords of my
 imagination. But by some fatality I did not feel inclined to commence
 the study of any modern system; and this disinclination was influenced
-by the following circumstance.
 
 My father expressed a wish that I should attend a course of lectures
 upon natural philosophy, to which I cheerfully consented. Some accident
@@ -937,7 +869,6 @@ each other.
 
 
 
-CHAPTER II.
 
 
 When I had attained the age of seventeen, my parents resolved that I
@@ -1152,7 +1083,6 @@ Thus ended a day memorable to me; it decided my future destiny.
 
 
 
-CHAPTER III.
 
 
 From this day natural philosophy, and particularly chemistry, in the
@@ -1388,7 +1318,6 @@ my creation should be complete.
 
 
 
-CHAPTER IV.
 
 
 It was on a dreary night of November, that I beheld the accomplishment
@@ -1471,12 +1400,12 @@ traversed the streets, without any clear conception of where I was, or
 what I was doing. My heart palpitated in the sickness of fear; and I
 hurried on with irregular steps, not daring to look about me:
 
-    Like one who, on a lonely road,
-      Doth walk in fear and dread,
-    And, having once turn’d round, walks on,
-      And turns no more his head;
-    Because he knows a frightful fiend
-      Doth close behind him tread.
+Like one who, on a lonely road,
+Doth walk in fear and dread,
+And, having once turn’d round, walks on,
+And turns no more his head;
+Because he knows a frightful fiend
+Doth close behind him tread.
 
 Continuing thus, I came at length opposite to the inn at which the
 various diligences and carriages usually stopped. Here I paused, I knew
@@ -1580,7 +1509,6 @@ disturbed imagination; but the pertinacity with which I continually
 recurred to the same subject persuaded him that my disorder indeed owed
 its origin to some uncommon and terrible event.
 
-By very slow degrees, and with frequent relapses, that alarmed and
 grieved my friend, I recovered. I remember the first time I became
 capable of observing outward objects with any kind of pleasure, I
 perceived that the fallen leaves had disappeared, and that the young
@@ -1620,16 +1548,13 @@ cousin, I believe.”
 
 
 
-CHAPTER V.
 
 
 Clerval then put the following letter into my hands.
 
-       *       *       *       *       *
 
 “_To_ V. FRANKENSTEIN.
 
-“MY DEAR COUSIN,
 
 “I cannot describe to you the uneasiness we have all felt concerning
 your health. We cannot help imagining that your friend Clerval conceals
@@ -1754,11 +1679,9 @@ Victor, if you are not very ill, write yourself, and make your father
 and all of us happy; or——I cannot bear to think of the other side of
 the question; my tears already flow. Adieu, my dearest cousin.”
 
-“ELIZABETH LAVENZA.
 
 “Geneva, March 18th, 17—.”
 
-       *       *       *       *       *
 
 “Dear, dear Elizabeth!” I exclaimed when I had read her letter, “I will
 write instantly, and relieve them from the anxiety they must feel.” I
@@ -1884,16 +1807,13 @@ hilarity.
 
 
 
-CHAPTER VI.
 
 
 On my return, I found the following letter from my father:—
 
-       *       *       *       *       *
 
 “_To_ V. FRANKENSTEIN.
 
-“MY DEAR VICTOR,
 
 “You have probably waited impatiently for a letter to fix the date of
 your return to us; and I was at first tempted to write only a few lines,
@@ -1963,11 +1883,9 @@ with hatred for your enemies.
 
 “Your affectionate and afflicted father,
 
-“ALPHONSE FRANKENSTEIN.
 
 “Geneva, May 12th, 17—.”
 
-       *       *       *       *       *
 
 Clerval, who had watched my countenance as I read this letter, was
 surprised to observe the despair that succeeded to the joy I at first
@@ -2251,7 +2169,6 @@ with which I shall prevent the slightest shadow of partiality.”
 
 
 
-CHAPTER VII.
 
 
 We passed a few sad hours, until eleven o’clock, when the trial was to
@@ -2321,7 +2238,6 @@ the evening of the night on which the murder had been committed, at the
 house of an aunt at Chêne, a village situated at about a league from
 Geneva. On her return, at about nine o’clock, she met a man, who asked
 her if she had seen any thing of the child who was lost. She was alarmed
-by this account, and passed several hours in looking for him, when the
 gates of Geneva were shut, and she was forced to remain several hours of
 the night in a barn belonging to a cottage, being unwilling to call up
 the inhabitants, to whom she was well known. Unable to rest or sleep,
@@ -2390,7 +2306,6 @@ and ignominy. I could not sustain the horror of my situation; and when I
 perceived that the popular voice, and the countenances of the judges,
 had already condemned my unhappy victim, I rushed out of the court in
 agony. The tortures of the accused did not equal mine; she was sustained
-by innocence, but the fangs of remorse tore my bosom, and would not
 forego their hold.
 
 I passed a night of unmingled wretchedness. In the morning I went to the
@@ -2548,41 +2463,29 @@ dear eyes and voice. But I—I was a wretch, and none ever conceived of
 the misery that I then endured.
 
 
-END OF VOL. I.
 
 
 
 
-FRANKENSTEIN;
-
-OR,
-
-THE MODERN PROMETHEUS.
-
-
-    IN THREE VOLUMES.
-    VOL. II.
-
-    London:
-
-    _PRINTED FOR_
-    LACKINGTON, HUGHES, HARDING, MAVOR, & JONES,
-    FINSBURY SQUARE.
-
-    1818.
-
-       *       *       *       *       *
-
-    Did I request thee, Maker, from my clay
-    To mould me man? Did I solicit thee
-    From darkness to promote me?——
-
-    Paradise Lost.
 
 
 
 
-CHAPTER I.
+
+London:
+
+
+
+
+Did I request thee, Maker, from my clay
+To mould me man? Did I solicit thee
+From darkness to promote me?——
+
+Paradise Lost.
+
+
+
+
 
 
 Nothing is more painful to the human mind, than, after the feelings have
@@ -2777,7 +2680,6 @@ which ran below my window.
 
 
 
-CHAPTER II.
 
 
 The next day, contrary to the prognostications of our guides, was fine,
@@ -2834,14 +2736,14 @@ thirst, and desire, we might be nearly free; but now we are moved by
 every wind that blows, and a chance word or scene that that word may
 convey to us.
 
-    We rest; a dream has power to poison sleep.
-      We rise; one wand’ring thought pollutes the day.
-    We feel, conceive, or reason; laugh, or weep,
-      Embrace fond woe, or cast our cares away;
-    It is the same: for, be it joy or sorrow,
-      The path of its departure still is free.
-    Man’s yesterday may ne’er be like his morrow;
-      Nought may endure but mutability!
+We rest; a dream has power to poison sleep.
+We rise; one wand’ring thought pollutes the day.
+We feel, conceive, or reason; laugh, or weep,
+Embrace fond woe, or cast our cares away;
+It is the same: for, be it joy or sorrow,
+The path of its departure still is free.
+Man’s yesterday may ne’er be like his morrow;
+Nought may endure but mutability!
 
 It was nearly noon when I arrived at the top of the ascent. For some
 time I sat upon the rock that overlooks the sea of ice. A mist covered
@@ -2988,7 +2890,6 @@ fire which my odious companion had lighted, he thus began his tale.
 
 
 
-CHAPTER III.
 
 
 “It is with considerable difficulty that I remember the original æra of
@@ -3252,7 +3153,6 @@ extinguished their lights, and retired, as I conjectured, to rest.”
 
 
 
-CHAPTER IV.
 
 
 “I lay on my straw, but I could not sleep. I thought of the occurrences
@@ -3417,7 +3317,6 @@ night was star-light, I went into the woods, and collected my own food
 and fuel for the cottage. When I returned, as often as it was necessary,
 I cleared their path from the snow, and performed those offices that I
 had seen done by Felix. I afterwards found that these labours, performed
-by an invisible hand, greatly astonished them; and once or twice I heard
 them, on these occasions, utter the words _good spirit_, _wonderful_;
 but I did not then understand the signification of these terms.
 
@@ -3455,7 +3354,6 @@ future gilded by bright rays of hope, and anticipations of joy.”
 
 
 
-CHAPTER V.
 
 
 “I now hasten to the more moving part of my story. I shall relate events
@@ -3504,7 +3402,6 @@ embraced her affectionately.
 
 “I soon perceived, that although the stranger uttered articulate sounds,
 and appeared to have a language of her own, she was neither understood
-by, or herself understood, the cottagers. They made many signs which I
 did not comprehend; but I saw that her presence diffused gladness
 through the cottage, dispelling their sorrow as the sun dissipates the
 morning mists. Felix seemed peculiarly happy, and with smiles of delight
@@ -3661,7 +3558,6 @@ innocent, half painful self-deceit, to call them).”
 
 
 
-CHAPTER VI.
 
 
 “Some time elapsed before I learned the history of my friends. It was
@@ -3846,7 +3742,6 @@ cottage of her lover.”
 
 
 
-CHAPTER VII.
 
 
 “Such was the history of my beloved cottagers. It impressed me deeply. I
@@ -4153,7 +4048,6 @@ unperceived to my hovel.”
 
 
 
-CHAPTER VIII.
 
 
 “Cursed, cursed creator! Why did I live? Why, in that instant, did I not
@@ -4356,7 +4250,6 @@ But the agony of my wound overcame me; my pulses paused, and I fainted.
 cure the wound which I had received. The ball had entered my shoulder,
 and I knew not whether it had remained there or passed through; at any
 rate I had no means of extracting it. My sufferings were augmented also
-by the oppressive sense of the injustice and ingratitude of their
 infliction. My daily vows rose for revenge—a deep and deadly revenge,
 such as would alone compensate for the outrages and anguish I had
 endured.
@@ -4450,7 +4343,6 @@ and have the same defects. This being you must create.”
 
 
 
-CHAPTER IX.
 
 
 The being finished speaking, and fixed his looks upon me in expectation
@@ -4639,46 +4531,33 @@ sometimes a kind of insanity possessed me, or that I saw continually
 about me a multitude of filthy animals inflicting on me incessant
 torture, that often extorted screams and bitter groans?
 
-By degrees, however, these feelings became calmed. I entered again into
 the every-day scene of life, if not with interest, at least with some
 degree of tranquillity.
 
 
-END OF VOL. II.
 
 
 
 
-FRANKENSTEIN;
-
-OR,
-
-THE MODERN PROMETHEUS.
-
-
-    IN THREE VOLUMES.
-    VOL. III.
-
-    London:
-
-    _PRINTED FOR_
-    LACKINGTON, HUGHES, HARDING, MAVOR, & JONES,
-    FINSBURY SQUARE.
-
-    1818.
-
-       *       *       *       *       *
-
-    Did I request thee, Maker, from my clay
-    To mould me man? Did I solicit thee
-    From darkness to promote me?——
-
-    Paradise Lost.
 
 
 
 
-CHAPTER I.
+
+London:
+
+
+
+
+Did I request thee, Maker, from my clay
+To mould me man? Did I solicit thee
+From darkness to promote me?——
+
+Paradise Lost.
+
+
+
+
 
 
 Day after day, week after week, passed away on my return to Geneva; and
@@ -4874,7 +4753,6 @@ and Uri, where the snowy mountains descend almost perpendicularly to the
 water, casting black and impenetrable shades, which would cause a gloomy
 and mournful appearance, were it not for the most verdant islands that
 relieve the eye by their gay appearance; I have seen this lake agitated
-by a tempest, when the wind tore up whirlwinds of water, and gave you an
 idea of what the water-spout must be on the great ocean, and the waves
 dash with fury the base of the mountain, where the priest and his
 mistress were overwhelmed by an avalanche, and where their dying voices
@@ -4901,14 +4779,13 @@ look for only in the imagination. But even human sympathies were not
 sufficient to satisfy his eager mind. The scenery of external nature,
 which others regard only with admiration, he loved with ardour:
 
-    —— ——“The sounding cataract
-    Haunted _him_ like a passion: the tall rock,
-    The mountain, and the deep and gloomy wood,
-    Their colours and their forms, were then to him
-    An appetite; a feeling, and a love,
-    That had no need of a remoter charm,
-    By thought supplied, or any interest
-    Unborrowed from the eye.”
+—— ——“The sounding cataract
+Haunted _him_ like a passion: the tall rock,
+The mountain, and the deep and gloomy wood,
+Their colours and their forms, were then to him
+An appetite; a feeling, and a love,
+That had no need of a remoter charm,
+Unborrowed from the eye.”
 
 And where does he now exist? Is this gentle and lovely being lost for
 ever? Has this mind so replete with ideas, imaginations fanciful and
@@ -4942,7 +4819,6 @@ above all, and the Tower famed in English history.
 
 
 
-CHAPTER II.
 
 
 London was our present point of rest; we determined to remain several
@@ -5154,7 +5030,6 @@ monotonous, yet ever-changing scene. I thought of Switzerland; it was
 far different from this desolate and appalling landscape. Its hills are
 covered with vines, and its cottages are scattered thickly in the
 plains. Its fair lakes reflect a blue and gentle sky; and, when troubled
-by the winds, their tumult is but as the play of a lively infant, when
 compared to the roarings of the giant ocean.
 
 In this manner I distributed my occupations when I first arrived; but,
@@ -5186,7 +5061,6 @@ in my bosom.
 
 
 
-CHAPTER III.
 
 
 I sat one evening in my laboratory; the sun had set, and the moon was
@@ -5225,7 +5099,6 @@ had not hesitated to buy its own peace at the price perhaps of the
 existence of the whole human race.
 
 I trembled, and my heart failed within me; when, on looking up, I saw,
-by the light of the moon, the dæmon at the casement. A ghastly grin
 wrinkled his lips as he gazed on me, where I sat fulfilling the task
 which he had allotted to me. Yes, he had followed me in my travels; he
 had loitered in forests, hid himself in caves, or taken refuge in wide
@@ -5513,7 +5386,6 @@ my recollection.
 
 
 
-CHAPTER IV.
 
 
 I was soon introduced into the presence of the magistrate, an old
@@ -5678,7 +5550,6 @@ intervals.
 
 One day, when I was gradually recovering, I was seated in a chair, my
 eyes half open, and my cheeks livid like those in death, I was overcome
-by gloom and misery, and often reflected I had better seek death than
 remain miserably pent up only to be let loose in a world replete with
 wretchedness. At one time I considered whether I should not declare
 myself guilty, and suffer the penalty of the law, less innocent than
@@ -5762,7 +5633,6 @@ arrival of my father. I stretched out my hand to him, and cried—
 “Are you then safe—and Elizabeth—and Ernest?”
 
 My father calmed me with assurances of their welfare, and endeavoured,
-by dwelling on these subjects so interesting to my heart, to raise my
 desponding spirits; but he soon felt that a prison cannot be the abode
 of cheerfulness. “What a place is this that you inhabit, my son!” said
 he, looking mournfully at the barred windows, and wretched appearance of
@@ -5879,7 +5749,6 @@ and pointed to the port of Holyhead, which we were now entering.
 
 
 
-CHAPTER V.
 
 
 We had resolved not to go to London, but to cross the country to
@@ -5945,11 +5814,9 @@ We arrived at Havre on the 8th of May, and instantly proceeded to Paris,
 where my father had some business which detained us a few weeks. In this
 city, I received the following letter from Elizabeth:—
 
-       *       *       *       *       *
 
 “_To_ VICTOR FRANKENSTEIN.
 
-“MY DEAREST FRIEND,
 
 “It gave me the greatest pleasure to receive a letter from my uncle
 dated at Paris; you are no longer at a formidable distance, and I may
@@ -6011,11 +5878,9 @@ will send me news of your health; and if I see but one smile on your
 lips when we meet, occasioned by this or any other exertion of mine, I
 shall need no other happiness.
 
-“ELIZABETH LAVENZA.
 
 “Geneva, May 18th, 17—.”
 
-       *       *       *       *       *
 
 This letter revived in my memory what I had before forgotten, the threat
 of the fiend—“_I will be with you on your wedding-night!_” Such was my
@@ -6142,7 +6007,6 @@ follow his studies at the schools.
 In the mean time I took every precaution to defend my person, in case
 the fiend should openly attack me. I carried pistols and a dagger
 constantly about me, and was ever on the watch to prevent artifice; and
-by these means gained a greater degree of tranquillity. Indeed, as the
 period approached, the threat appeared more as a delusion, not to be
 regarded as worthy to disturb my peace, while the happiness I hoped for
 in my marriage wore a greater appearance of certainty, as the day fixed
@@ -6212,7 +6076,6 @@ cling to me for ever.
 
 
 
-CHAPTER VI.
 
 
 It was eight o’clock when we landed; we walked for a short time on the
@@ -6457,7 +6320,6 @@ some other mode of action.
 
 
 
-CHAPTER VII.
 
 
 My present situation was one in which all voluntary thought was
@@ -6528,7 +6390,6 @@ mortal speed.
 I pursued him; and for many months this has been my task. Guided by a
 slight clue, I followed the windings of the Rhone, but vainly. The blue
 Mediterranean appeared; and, by a strange chance, I saw the fiend enter
-by night, and hide himself in a vessel bound for the Black Sea. I took
 my passage in the same ship; but he escaped, I know not how.
 
 Amidst the wilds of Tartary and Russia, although he still evaded me, I
@@ -6665,7 +6526,6 @@ rugged mountains of ice often barred up my passage, and I often heard
 the thunder of the ground sea, which threatened my destruction. But
 again the frost came, and made the paths of the sea secure.
 
-By the quantity of provision which I had consumed I should guess that I
 had passed three weeks in this journey; and the continual protraction of
 hope, returning back upon the heart, often wrung bitter drops of
 despondency and grief from my eyes. Despair had indeed almost secured
@@ -6679,7 +6539,6 @@ distinguished a sledge, and the distorted proportions of a well-known
 form within. Oh! with what a burning gush did hope revisit my heart!
 warm tears filled my eyes, which I hastily wiped away, that they might
 not intercept the view I had of the dæmon; but still my sight was dimmed
-by the burning drops, until, giving way to the emotions that oppressed
 me, I wept aloud.
 
 But this was not the time for delay; I disencumbered the dogs of their
@@ -6733,7 +6592,6 @@ Clerval, Elizabeth, my father, and of the wretched Victor, and thrust
 your sword into his heart. I will hover near, and direct the steel
 aright.
 
-       *       *       *       *       *
 
 WALTON, _in continuation_.
 
@@ -6849,11 +6707,9 @@ fellow-creatures, then could I live to fulfil it. But such is not my
 destiny; I must pursue and destroy the being to whom I gave existence;
 then my lot on earth will be fulfilled, and I may die.”
 
-       *       *       *       *       *
 
 September 2d.
 
-MY BELOVED SISTER,
 
 I write to you, encompassed by peril, and ignorant whether I am ever
 doomed to see again dear England, and the dearer friends that inhabit
@@ -6884,7 +6740,6 @@ resolutions of man. These feelings are transitory; each day’s
 expectation delayed fills them with fear, and I almost dread a mutiny
 caused by this despair.
 
-       *       *       *       *       *
 
 September 5th.
 
@@ -6963,7 +6818,6 @@ return shamefully,—my purpose unfulfilled. Yet I fear such will be my
 fate; the men, unsupported by ideas of glory and honour, can never
 willingly continue to endure their present hardships.
 
-       *       *       *       *       *
 
 September 7th.
 
@@ -6972,7 +6826,6 @@ Thus are my hopes blasted by cowardice and indecision; I come back
 ignorant and disappointed. It requires more philosophy than I possess,
 to bear this injustice with patience.
 
-       *       *       *       *       *
 
 September 12th.
 
@@ -7247,7 +7100,6 @@ which lay close to the vessel. He was soon borne away by the waves, and
 lost in darkness and distance.
 
 
-THE END.
 
 
 

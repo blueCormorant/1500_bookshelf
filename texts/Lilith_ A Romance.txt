@@ -3,9 +3,7 @@
 
 
 
-LILITH
 
-By George MacDonald
 
 
 
@@ -49,7 +47,6 @@ Thoreau: “WALKING.”
 
 
 
-CHAPTER I. THE LIBRARY
 
 I had just finished my studies at Oxford, and was taking a brief holiday
 from work before assuming definitely the management of the estate. My
@@ -227,7 +224,6 @@ pull: it seemed immovable.
 
 
 
-CHAPTER II. THE MIRROR
 
 Nothing more happened for some days. I think it was about a week after,
 when what I have now to tell took place.
@@ -308,7 +304,6 @@ with the bird: I was in the open air, on a houseless heath!
 
 
 
-CHAPTER III. THE RAVEN
 
 I turned and looked behind me: all was vague and uncertain, as when
 one cannot distinguish between fog and field, between cloud and
@@ -559,7 +554,6 @@ In the morning all that horror of the empty garret spaces had left me.
 
 
 
-CHAPTER IV. SOMEWHERE OR NOWHERE?
 
 The sun was very bright, but I doubted if the day would long be fine,
 and looked into the milky sapphire I wore, to see whether the star in it
@@ -717,7 +711,7 @@ the strange land!
 offence. “Am I, or am I not, a free agent?”
 
 “A man is as free as he chooses to make himself, never an atom freer,”
- answered the raven.
+answered the raven.
 
 “You have no right to make me do things against my will!”
 
@@ -884,7 +878,6 @@ to be done, the better! I will take you to my wife.”
 
 
 
-CHAPTER V. THE OLD CHURCH
 
 I followed him deep into the pine-forest. Neither of us said much while
 yet the sacred gloom of it closed us round. We came to larger and yet
@@ -1003,7 +996,6 @@ listening to the flower.
 
 
 
-CHAPTER VI. THE SEXTON’S COTTAGE
 
 We had been for some time walking over a rocky moorland covered with
 dry plants and mosses, when I descried a little cottage in the farthest
@@ -1182,7 +1174,7 @@ She turned her unchanging face and radiant eyes upon mine.
 something--what you will--to quench my thirst.”
 
 “Your thirst must be greater before you can have what will quench it,”
- she replied; “but what I can give you, I will gladly.”
+she replied; “but what I can give you, I will gladly.”
 
 She went to a cupboard in the wall, brought from it bread and wine, and
 set them on the table.
@@ -1235,7 +1227,7 @@ nowise understanding, but feeling afresh that vague foreboding.
 
 “If you would have the rest of this house, you must not trouble yourself
 about waking. You must go to sleep heartily, altogether and outright.”
- My soul sank within me.
+My soul sank within me.
 
 The sexton sat looking me in the face. His eyes seemed to say, “Will you
 not trust me?” I returned his gaze, and answered,
@@ -1251,7 +1243,6 @@ followed.
 
 
 
-CHAPTER VII. THE CEMETERY
 
 The air as of an ice-house met me crossing the threshold. The door
 fell-to behind us. The sexton said something to his wife that made her
@@ -1424,8 +1415,8 @@ there!”
 
 “I have just told you that the dead are there also,
 
-     ‘Thick as autumnal leaves that strow the brooks
-      In Vallombrosa,’”
+‘Thick as autumnal leaves that strow the brooks
+In Vallombrosa,’”
 
 said the librarian.
 
@@ -1495,7 +1486,6 @@ follows.
 
 
 
-CHAPTER VIII. MY FATHER’S MANUSCRIPT
 
 I am filled with awe of what I have to write. The sun is shining golden
 above me; the sea lies blue beneath his gaze; the same world sends its
@@ -1598,7 +1588,7 @@ but from bottom to top!”
 through my house into another world, heedless of disparting space?”
 
 “That I go through it is an incontrovertible acknowledgement of space,”
- returned the old librarian.
+returned the old librarian.
 
 “Please do not quibble, Mr. Raven,” I rejoined. “Please to take my
 question as you know I mean it.”
@@ -1721,7 +1711,6 @@ rushed in terror from the place.
 
 
 
-CHAPTER IX. I REPENT
 
 I laid the manuscript down, consoled to find that my father had had a
 peep into that mysterious world, and that he knew Mr. Raven.
@@ -1931,7 +1920,6 @@ in my consciousness aware that I was perusing a metaphysical argument.
 
 
 
-CHAPTER X. THE BAD BURROW
 
 As the air grew black and the winter closed swiftly around me, the
 fluttering fire blazed out more luminous, and arresting its flight,
@@ -2086,7 +2074,6 @@ The moon went below, and the world again was dark.
 
 
 
-CHAPTER XI. THE EVIL WOOD
 
 I fell fast asleep, and when I woke the sun was rising. I went to the
 top again, and looked back: the hollow I had crossed in the moonlight
@@ -2246,7 +2233,6 @@ at all, I kept wearily travelling “north-west and by south.”
 
 
 
-CHAPTER XII. FRIENDS AND FOES
 
 Coming, in one of the channels, upon what seemed a little shrub, the
 outlying picket, I trusted, of an army behind it, I knelt to look at
@@ -2386,7 +2372,6 @@ refreshed and strengthened me.
 
 
 
-CHAPTER XIII. THE LITTLE ONES
 
 I had been at work but a few moments, when I heard small voices near me,
 and presently the Little Ones, as I soon found they called themselves,
@@ -2441,9 +2426,8 @@ Now I might at once have made my escape; but at length I had friends,
 and could not think of leaving them. They were so charming, so full of
 winsome ways, that I must see more of them! I must know them better!
 “To-morrow,” I said to myself with delight, “I shall see them again!”
- But from the moment there was silence in the huts until I fell asleep, I
+But from the moment there was silence in the huts until I fell asleep, I
 heard them whispering all about me, and knew that I was lovingly watched
-by a multitude. After that, I think they hardly ever left me quite
 alone.
 
 I did not come to know the giants at all, and I believe there was
@@ -2800,7 +2784,6 @@ He did not know his loss, and I had to be taught mine!
 
 
 
-CHAPTER XIV. A CRISIS
 
 For a time I had no desire save to spend my life with the Little Ones.
 But soon other thoughts and feelings began to influence me. First awoke
@@ -2984,7 +2967,6 @@ must begin by pulling the beam out of his own eye.
 
 
 
-CHAPTER XV. A STRANGE HOSTESS
 
 I travelled on attended by the moon. As usual she was full--I had never
 seen her other--and to-night as she sank I thought I perceived something
@@ -3392,7 +3374,6 @@ suffered but did not repent.
 
 
 
-CHAPTER XVI. A GRUESOME DANCE
 
 I rose to resume my journey, and walked many a desert mile. How I longed
 for a mountain, or even a tall rock, from whose summit I might see
@@ -3666,7 +3647,6 @@ rising, and I turned my face toward it.
 
 
 
-CHAPTER XVII. A GROTESQUE TRAGEDY
 
 I had not gone ten paces when I caught sight of a strange-looking
 object, and went nearer to know what it might be. I found it a
@@ -4007,7 +3987,6 @@ raven several yards from me, flying low and fast.
 
 
 
-CHAPTER XVIII. DEAD OR ALIVE?
 
 I went walking on, still facing the moon, who, not yet high, was staring
 straight into the forest. I did not know what ailed her, but she
@@ -4300,7 +4279,6 @@ yet a possible man!
 
 
 
-CHAPTER XIX. THE WHITE LEECH
 
 I woke one morning from a profound sleep, with one of my hands very
 painful. The back of it was much swollen, and in the centre of the
@@ -4554,7 +4532,6 @@ ground, wet and shivering.
 
 
 
-CHAPTER XX. GONE!--BUT HOW?
 
 I rose, and looked around me, dazed at heart. For a moment I could not
 see her: she was gone, and loneliness had returned like the cloud after
@@ -4731,7 +4708,6 @@ search, I set out in the track of the two animals.
 
 
 
-CHAPTER XXI. THE FUGITIVE MOTHER
 
 As I hastened along, a cloud came over the moon, and from the gray dark
 suddenly emerged a white figure, clasping a child to her bosom, and
@@ -4868,7 +4844,7 @@ other after us!”
 As thus she ended, she rose in haste.
 
 “I do not think she will ever get home.--Let me carry the baby for you!”
- I said, as I rose also.
+I said, as I rose also.
 
 She returned me no answer, and when I would have taken it, only clasped
 it the closer.
@@ -4887,7 +4863,6 @@ grass.
 
 
 
-CHAPTER XXII. BULIKA
 
 I had lost all notion of my position, and was walking about in pure,
 helpless impatience, when suddenly I found myself in the path of the
@@ -5024,7 +4999,6 @@ child’s rattle.
 
 
 
-CHAPTER XXIII. A WOMAN OF BULIKA
 
 I turned aside into an alley, and sought shelter in a small archway. In
 the mouth of it I stopped, and looked out at the moonlight which filled
@@ -5138,7 +5112,6 @@ advantage of the shelter, poor as it was.
 
 
 
-CHAPTER XXIV. THE WHITE LEOPARDESS
 
 At the foot of the stair lay the moonlit street, and I could hear the
 unwholesome, inhospitable wind blowing about below. But not a breath of
@@ -5260,7 +5233,6 @@ courage to encounter her, be she what she might.
 
 
 
-CHAPTER XXV. THE PRINCESS
 
 Making a circuit of the castle, I came again to the open gates, crossed
 the ravine-like moat, and found myself in a paved court, planted at
@@ -5574,7 +5546,6 @@ read anxiety on her beautiful face.
 
 
 
-CHAPTER XXVI. A BATTLE ROYAL
 
 I threw myself on the bed, and began to turn over in my mind the tale
 she had told me. She had forgotten herself, and, by a single incautious
@@ -5720,7 +5691,6 @@ toward the gate.
 
 
 
-CHAPTER XXVII. THE SILENT FOUNTAIN
 
 I turned and followed the spotted leopardess, catching but one glimpse
 of her as she tore up the brow of the hill to the gate of the palace.
@@ -5863,7 +5833,6 @@ I fell at last upon a solid bottom.
 
 
 
-CHAPTER XXVIII. I AM SILENCED
 
 I rubbed the water out of my eyes, and saw the raven on the edge of a
 huge stone basin. With the cold light of the dawn reflected from his
@@ -6017,7 +5986,6 @@ helping them!”
 
 
 
-CHAPTER XXIX. THE PERSIAN CAT
 
 I sat in silence and shame. What he said was true: I had not been a wise
 neighbour to the Little Ones!
@@ -6089,93 +6057,92 @@ or give their meaning save in poor approximation. These fragments, then,
 are the shapes which those he read have finally taken in passing again
 through my brain:--
 
-     “But if I found a man that could believe
-        In what he saw not, felt not, and yet knew,
-      From him I should take substance, and receive
-        Firmness and form relate to touch and view;
-        Then should I clothe me in the likeness true
-      Of that idea where his soul did cleave!”
+“But if I found a man that could believe
+In what he saw not, felt not, and yet knew,
+From him I should take substance, and receive
+Firmness and form relate to touch and view;
+Then should I clothe me in the likeness true
+Of that idea where his soul did cleave!”
 
 He turned a leaf and read again:--
 
-     “In me was every woman.  I had power
-        Over the soul of every living man,
-      Such as no woman ever had in dower--
-        Could what no woman ever could, or can;
-        All women, I, the woman, still outran,
-      Outsoared, outsank, outreigned, in hall or bower.
+“In me was every woman.  I had power
+Over the soul of every living man,
+Such as no woman ever had in dower--
+Could what no woman ever could, or can;
+All women, I, the woman, still outran,
+Outsoared, outsank, outreigned, in hall or bower.
 
-     “For I, though me he neither saw nor heard,
-        Nor with his hand could touch finger of mine,
-      Although not once my breath had ever stirred
-        A hair of him, could trammel brain and spine
-        With rooted bonds which Death could not untwine--
-      Or life, though hope were evermore deferred.”
+“For I, though me he neither saw nor heard,
+Nor with his hand could touch finger of mine,
+Although not once my breath had ever stirred
+A hair of him, could trammel brain and spine
+With rooted bonds which Death could not untwine--
+Or life, though hope were evermore deferred.”
 
 Again he paused, again turned a leaf, and again began:--
 
-     “For by his side I lay, a bodiless thing;
-        I breathed not, saw not, felt not, only thought,
-      And made him love me--with a hungering
-        After he knew not what--if it was aught
-        Or but a nameless something that was wrought
-      By him out of himself; for I did sing
+“For by his side I lay, a bodiless thing;
+I breathed not, saw not, felt not, only thought,
+And made him love me--with a hungering
+After he knew not what--if it was aught
+Or but a nameless something that was wrought
 
-     “A song that had no sound into his soul;
-        I lay a heartless thing against his heart,
-      Giving him nothing where he gave his whole
-        Being to clothe me human, every part:
-        That I at last into his sense might dart,
-      Thus first into his living mind I stole.
+“A song that had no sound into his soul;
+I lay a heartless thing against his heart,
+Giving him nothing where he gave his whole
+Being to clothe me human, every part:
+That I at last into his sense might dart,
+Thus first into his living mind I stole.
 
-     “Ah, who was ever conquering Love but I!
-        Who else did ever throne in heart of man!
-      To visible being, with a gladsome cry
-        Waking, life’s tremor through me throbbing ran!”
+“Ah, who was ever conquering Love but I!
+Who else did ever throne in heart of man!
+To visible being, with a gladsome cry
+Waking, life’s tremor through me throbbing ran!”
 
 A strange, repulsive feline wail arose somewhere in the room. I started
 up on my elbow and stared about me, but could see nothing.
 
 Mr. Raven turned several leaves, and went on:--
 
-     “Sudden I woke, nor knew the ghastly fear
-        That held me--not like serpent coiled about,
-      But like a vapour moist, corrupt, and drear,
-        Filling heart, soul, and breast and brain throughout;
-        My being lay motionless in sickening doubt,
-      Nor dared to ask how came the horror here.
+“Sudden I woke, nor knew the ghastly fear
+That held me--not like serpent coiled about,
+But like a vapour moist, corrupt, and drear,
+Filling heart, soul, and breast and brain throughout;
+My being lay motionless in sickening doubt,
+Nor dared to ask how came the horror here.
 
-     “My past entire I knew, but not my now;
-        I understood nor what I was, nor where;
-      I knew what I had been: still on my brow
-        I felt the touch of what no more was there!
-        I was a fainting, dead, yet live Despair;
-      A life that flouted life with mop and mow!
+“My past entire I knew, but not my now;
+I understood nor what I was, nor where;
+I knew what I had been: still on my brow
+I felt the touch of what no more was there!
+I was a fainting, dead, yet live Despair;
+A life that flouted life with mop and mow!
 
-     “That I was a queen I knew right well,
-        And sometimes wore a splendour on my head
-      Whose flashing even dead darkness could not quell--
-        The like on neck and arms and girdle-stead;
-        And men declared a light my closed eyes shed
-      That killed the diamond in its silver cell.”
+“That I was a queen I knew right well,
+And sometimes wore a splendour on my head
+Whose flashing even dead darkness could not quell--
+The like on neck and arms and girdle-stead;
+And men declared a light my closed eyes shed
+That killed the diamond in its silver cell.”
 
 Again I heard the ugly cry of feline pain. Again I looked, but saw
 neither shape nor motion. Mr. Raven seemed to listen a moment, but again
 turned several pages, and resumed:--
 
-     “Hideously wet, my hair of golden hue
-        Fouled my fair hands: to have it swiftly shorn
-      I had given my rubies, all for me dug new--
-        No eyes had seen, and such no waist had worn!
-        For a draught of water from a drinking horn,
-      For one blue breath, I had given my sapphires blue!
+“Hideously wet, my hair of golden hue
+Fouled my fair hands: to have it swiftly shorn
+I had given my rubies, all for me dug new--
+No eyes had seen, and such no waist had worn!
+For a draught of water from a drinking horn,
+For one blue breath, I had given my sapphires blue!
 
-     “Nay, I had given my opals for a smock,
-        A peasant-maiden’s garment, coarse and clean:
-      My shroud was rotting!  Once I heard a cock
-        Lustily crow upon the hillock green
-        Over my coffin.  Dulled by space between,
-      Came back an answer like a ghostly mock.”
+“Nay, I had given my opals for a smock,
+A peasant-maiden’s garment, coarse and clean:
+My shroud was rotting!  Once I heard a cock
+Lustily crow upon the hillock green
+Over my coffin.  Dulled by space between,
+Came back an answer like a ghostly mock.”
 
 Once more arose the bestial wail.
 
@@ -6183,25 +6150,24 @@ Once more arose the bestial wail.
 a glance around him; but instantly he turned a leaf or two, and again
 read:--
 
-     “For I had bathed in milk and honey-dew,
-        In rain from roses shook, that ne’er touched earth,
-      And ointed me with nard of amber hue;
-        Never had spot me spotted from my birth,
-        Or mole, or scar of hurt, or fret of dearth;
-      Never one hair superfluous on me grew.
+“For I had bathed in milk and honey-dew,
+In rain from roses shook, that ne’er touched earth,
+And ointed me with nard of amber hue;
+Never had spot me spotted from my birth,
+Or mole, or scar of hurt, or fret of dearth;
+Never one hair superfluous on me grew.
 
-     “Fleeing cold whiteness, I would sit alone--
-        Not in the sun--I feared his bronzing light,
-      But in his radiance back around me thrown
-        By fulgent mirrors tempering his might;
-        Thus bathing in a moon-bath not too bright,
-      My skin I tinted slow to ivory tone.
+“Fleeing cold whiteness, I would sit alone--
+Not in the sun--I feared his bronzing light,
+But in his radiance back around me thrown
+Thus bathing in a moon-bath not too bright,
+My skin I tinted slow to ivory tone.
 
-     “But now, all round was dark, dark all within!
-        My eyes not even gave out a phantom-flash;
-      My fingers sank in pulp through pulpy skin;
-        My body lay death-weltered in a mash
-        Of slimy horrors----”
+“But now, all round was dark, dark all within!
+My eyes not even gave out a phantom-flash;
+My fingers sank in pulp through pulpy skin;
+My body lay death-weltered in a mash
+Of slimy horrors----”
 
 With a fearsome yell, her clammy fur staring in clumps, her tail thick
 as a cable, her eyes flashing green as a chrysoprase, her distended
@@ -6211,12 +6177,12 @@ thought the librarian threw the manuscript between her and the hearth.
 She crouched instantly, her eyes fixed on the book. But his voice went
 on as if still he read, and his eyes seemed also fixed on the book:--
 
-     “Ah, the two worlds! so strangely are they one,
-        And yet so measurelessly wide apart!
-      Oh, had I lived the bodiless alone
-        And from defiling sense held safe my heart,
-        Then had I scaped the canker and the smart,
-      Scaped life-in-death, scaped misery’s endless moan!”
+“Ah, the two worlds! so strangely are they one,
+And yet so measurelessly wide apart!
+Oh, had I lived the bodiless alone
+And from defiling sense held safe my heart,
+Then had I scaped the canker and the smart,
+Scaped life-in-death, scaped misery’s endless moan!”
 
 At these words such a howling, such a prolonged yell of agony burst from
 the cat, that we both stopped our ears. When it ceased, Mr. Raven walked
@@ -6244,7 +6210,6 @@ hates, and would kill, asserting a right, which is a lie, over what God
 sent through her into His new world. Of creating, she knows no more than
 the crystal that takes its allotted shape, or the worm that makes two
 worms when it is cloven asunder. Vilest of God’s creatures, she lives
-by the blood and lives and souls of men. She consumes and slays, but is
 powerless to destroy as to create.”
 
 The animal lay motionless, its beryl eyes fixed flaming on the man: his
@@ -6339,7 +6304,6 @@ furtively wiping tears from his eyes.
 
 
 
-CHAPTER XXX. ADAM EXPLAINS
 
 “We must be on our guard,” he said, “or she will again outwit us. She
 would befool the very elect!”
@@ -6529,7 +6493,6 @@ must make haste to sleep!”
 
 
 
-CHAPTER XXXI. THE SEXTON’S OLD HORSE
 
 I stood and watched the last gleam of the white leopardess melt away,
 then turned to follow my guide--but reluctantly. What had I to do with
@@ -6549,7 +6512,6 @@ But then I heard instead the slow-flapping wings of the raven; and, at
 intervals, now a firefly, now a gleaming butterfly rose into the rayless
 air.
 
-By and by the moon appeared, slow crossing the far horizon.
 
 “You are tired, are you not, Mr. Vane?” said the raven, alighting on a
 stone. “You must make acquaintance with the horse that will carry you in
@@ -6739,7 +6701,6 @@ down on the body, and buried my face in my hands.
 
 
 
-CHAPTER XXXII. THE LOVERS AND THE BAGS
 
 Bitterly cold grew the night. The body froze under me. The cry of the
 wolves came nearer; I heard their feet soft-padding on the rocky ground;
@@ -6943,7 +6904,6 @@ And I heard no more of him till he woke me in the morning.
 
 
 
-CHAPTER XXXIII. LONA’S NARRATIVE
 
 I lay down by a tree, and one and one or in little groups, the children
 left me and climbed to their nests. They were always so tired at night
@@ -7179,7 +7139,6 @@ children, and would kill every one of them. But Whitey loves them. She
 ran at them only to frighten them away, lest Spotty should get hold of
 any of them. No one needs be afraid of Whitey!”
 
-By this time the Little Ones were coming back, and with much noise, for
 they had no care to keep quiet now that they were at open war with the
 giants, and laden with good stones. They mounted to their nests again,
 though with difficulty because of their burdens, and in a minute were
@@ -7216,7 +7175,6 @@ orchard valley, and never after ventured into the forest.
 
 
 
-CHAPTER XXXIV. PREPARATION
 
 Victory thus gained, the woman of Bulika began to speak about the city,
 and talked much of its defenceless condition, of the wickedness of
@@ -7532,7 +7490,6 @@ immediately stabbed by two or three more, fled yelling.
 her horse against one of unusual height who, having stirred up the
 little manhood in him, stood barring her way with a club. He dared not
 abide the shock, but slunk aside, and the next moment went down, struck
-by several stones. Another huge fellow, avoiding my charger, stepped
 suddenly, with a speech whose rudeness alone was intelligible, between
 me and the boy who rode behind me. The boy told him to address the king;
 the giant struck his little horse on the head with a hammer, and he
@@ -7621,7 +7578,6 @@ whole wicked place appeared at rest.
 
 
 
-CHAPTER XXXVI. MOTHER AND DAUGHTER
 
 Lona was so disgusted with the people, and especially with the women,
 that she wished to abandon the place as soon as possible; I, on the
@@ -7769,7 +7725,6 @@ said: I should yet see her alive! It was not she, it was I who was lost,
 and she would find me!
 
 I rose to go after the Little Ones, and instinctively sought the gate
-by which we had entered. I looked around me, but saw nothing of the
 leopardess.
 
 The street was rapidly filling with a fierce crowd. They saw me
@@ -7793,7 +7748,6 @@ lost our all-beloved queen! My life was bare! my heart was empty!
 
 
 
-CHAPTER XXXVII. THE SHADOW
 
 A murmur of pleasure from my companions roused me: they had caught sight
 of their fellows in the distance! The two on Lona’s horse rode on to
@@ -7921,7 +7875,6 @@ body of Lona.
 
 
 
-CHAPTER XXXVIII. TO THE HOUSE OF BITTERNESS
 
 In the morning we set out, and made for the forest as fast as we could.
 I rode Lona’s horse, and carried her body. I would take it to her
@@ -8147,7 +8100,7 @@ said.
 “If I were to do something that frightened you--what would you say?”
 
 “The beasts frightened us sometimes at first, but they never hurt us!”
- answered one.
+answered one.
 
 “That was before we knew them!” added another.
 
@@ -8296,7 +8249,6 @@ hands, they told me, she put them to bed on the floor of the garret.
 
 
 
-CHAPTER XXXIX. THAT NIGHT
 
 Their night was a troubled one, and they brought a strange report of
 it into the day. Whether the fear of their sleep came out into their
@@ -8373,7 +8325,7 @@ hair that grew low on the forehead, and stooping, breathed on the sallow
 brow. The body shuddered.
 
 “Will you turn away from the wicked things you have been doing so long?”
- said Mara gently.
+said Mara gently.
 
 The princess did not answer. Mara put the question again, in the same
 soft, inviting tone.
@@ -8771,7 +8723,6 @@ rain, and soon she was fast asleep.
 
 
 
-CHAPTER XL. THE HOUSE OF DEATH
 
 The Mother of Sorrows rose, muffled her face, and went to call the
 Little Ones. They slept as if all the night they had not moved, but
@@ -8802,7 +8753,7 @@ children. Oh, how glad they will make you, Little Ones! You have never
 seen any, and do not know how lovely is the water!”
 
 “That will be the glad of the ground that the princess is grown good,”
- said Odu. “See the glad of the sky!”
+said Odu. “See the glad of the sky!”
 
 “Are the rivers the glad of the princess?” asked Luva. “They are not her
 juice, for they are not red!”
@@ -8872,7 +8823,7 @@ them.
 good if she staid here!”
 
 “She wants to go, and she does not want to go: we are helping her,”
- answered Mara. “She will not keep good here.”
+answered Mara. “She will not keep good here.”
 
 “What are you helping her to do?” he went on.
 
@@ -9063,7 +9014,6 @@ and would see thee dead, for I live and love thee. Thou art weary and
 heavy-laden: art thou not ashamed? Is not the being thou hast corrupted
 become to thee at length an evil thing? Wouldst thou yet live on in
 disgrace eternal? Cease thou canst not: wilt thou not be restored and
-BE?”
 
 She stood silent with bowed head.
 
@@ -9129,7 +9079,7 @@ to Eve, clasped her knees, and said,
 Indeed I would but cannot open my hand.”
 
 “You cannot die without opening it. To kill you would not serve you,”
- answered Eve. “But indeed he cannot! no one can kill you but the Shadow;
+answered Eve. “But indeed he cannot! no one can kill you but the Shadow;
 and whom he kills never knows she is dead, but lives to do his will, and
 thinks she is doing her own.”
 
@@ -9204,7 +9154,6 @@ Each of the Little Ones had by this time, except three of the boys,
 found at least an unobjecting bedfellow, and lay still and white beside
 a still, white woman. The little orphans had adopted mothers! One tiny
 girl had chosen a father to sleep with, and that was mine. A boy lay
-by the side of the beautiful matron with the slow-healing hand. On the
 middle one of the three couches hitherto unoccupied, lay Lona.
 
 Eve set Lilith down beside it. Adam pointed to the vacant couch on
@@ -9366,7 +9315,6 @@ fore-paws outstretched, and her head couching between them.
 
 
 
-CHAPTER XLI. I AM SENT
 
 Then I turned and said to Eve,
 
@@ -9529,7 +9477,6 @@ asleep.
 
 
 
-CHAPTER XLII. I SLEEP THE SLEEP
 
 When I woke, the ground was moist about me, and my track to the grave
 was growing a quicksand. In its ancient course the river was swelling,
@@ -9584,7 +9531,6 @@ your riddles!”
 learned to die, and I am heartily grieved for you. Such had I too been
 but for the Lady of Sorrow. I am indeed young, but I have wept many
 tears; pardon me, therefore, if I presume to offer counsel:--Go to the
-Lady of Sorrow, and ‘take with both hands’ * what she will give you.
 Yonder lies her cottage. She is not in it now, but her door stands open,
 and there is bread and water on her table. Go in; sit down; eat of the
 bread; drink of the water; and wait there until she appear. Then ask
@@ -9608,7 +9554,6 @@ The door stood open, and the cottage lay empty. I sat down disconsolate.
 And as I sat, there grew in me such a sense of loneliness as never yet
 in my wanderings had I felt. Thousands were near me, not one was with
 me! True, it was I who was dead, not they; but, whether by their life or
-by my death, we were divided! They were alive, but I was not dead enough
 even to know them alive: doubt WOULD come. They were, at best, far from
 me, and helpers I had none to lay me beside them!
 
@@ -9672,7 +9617,7 @@ side of Lona’s couch, he looked down on her with a questioning smile,
 and then greeted me across it.
 
 “We have been to the top of the hill to hear the waters on their way,”
- he said. “They will be in the den of the monsters to-night.--But why did
+he said. “They will be in the den of the monsters to-night.--But why did
 you not await our return?”
 
 “My child could not sleep,” I answered.
@@ -9722,15 +9667,14 @@ At once I was warm.
 
 As he left me, I heard a voice, and knew it was the Mother’s. She was
 singing, and her song was sweet and soft and low, and I thought she sat
-by my bed in the dark; but ere it ceased, her song soared aloft, and
 seemed to come from the throat of a woman-angel, high above all the
 region of larks, higher than man had ever yet lifted up his heart. I
 heard every word she sang, but could keep only this:--
 
-     “Many a wrong, and its curing song;
-        Many a road, and many an inn;
-      Room to roam, but only one home
-        For all the world to win!”
+“Many a wrong, and its curing song;
+Many a road, and many an inn;
+Room to roam, but only one home
+For all the world to win!”
 
 and I thought I had heard the song before.
 
@@ -9746,7 +9690,7 @@ receive me! In my soul I am ashamed and sorry!”
 “How could you know it?” I returned.
 
 “Because here was I, born to look after my brothers and sisters!”
- answered Mara with a smile.
+answered Mara with a smile.
 
 “Every creature must one night yield himself and lie down,” answered
 Adam: “he was made for liberty, and must not be left a slave!”
@@ -9765,7 +9709,7 @@ would find you, and you must come!”
 “How long is it since my father lay down?” I asked.
 
 “I have told you that years are of no consequence in this house,”
- answered Adam; “we do not heed them. Your father will wake when his
+answered Adam; “we do not heed them. Your father will wake when his
 morning comes. Your mother, next to whom you are lying,----”
 
 “Ah, then, it IS my mother!” I exclaimed.
@@ -9807,7 +9751,6 @@ faces, but I was asleep also, nor knew that I slept.
 
 
 
-CHAPTER XLIII. THE DREAMS THAT CAME
 
 I grew aware of existence, aware also of the profound, the infinite
 cold. I was intensely blessed--more blessed, I know, than my heart,
@@ -9879,7 +9822,6 @@ The moon was looking in at the lowest, horizontal, crypt-like windows
 of the death-chamber, her long light slanting, I thought, across
 the fallen, but still ripening sheaves of the harvest of the great
 husbandman.--But no; that harvest was gone! Gathered in, or swept away
-by chaotic storm, not a sacred sheaf was there! My dead were gone! I was
 alone!--In desolation dread lay depths yet deeper than I had hitherto
 known!--Had there never been any ripening dead? Had I but dreamed them
 and their loveliness? Why then these walls? why the empty couches? No;
@@ -10112,7 +10054,6 @@ thee!’”
 
 
 
-CHAPTER XLIV. THE WAKING
 
 The fourth night I seemed to fall asleep, and that night woke indeed. I
 opened my eyes and knew, although all was dark around me, that I lay in
@@ -10360,7 +10301,6 @@ waiting for us. We were too happy to mount them, and they followed us.
 
 
 
-CHAPTER XLV. THE JOURNEY HOME
 
 It had ceased to be dark; we walked in a dim twilight, breathing through
 the dimness the breath of the spring. A wondrous change had passed upon
@@ -10385,7 +10325,6 @@ expanding, ever making room to receive--was the conscious being where
 things kept entering by so many open doors! When a little breeze
 brushing a bush of heather set its purple bells a ringing, I was myself
 in the joy of the bells, myself in the joy of the breeze to which
-responded their sweet TIN-TINNING**, myself in the joy of the sense, and
 of the soul that received all the joys together. To everything glad I
 lent the hall of my being wherein to revel. I was a peaceful ocean
 upon which the ground-swell of a living joy was continually lifting new
@@ -10502,7 +10441,6 @@ coming, and fly away. Not one monkey of any sort could they see.
 
 
 
-CHAPTER XLVI. THE CITY
 
 Lona and I, who walked below, heard at last a great shout overhead, and
 in a moment or two the Little Ones began to come dropping down from the
@@ -10525,7 +10463,6 @@ looking behind them. The river grew lovelier and lovelier, until I knew
 that never before had I seen real water. Nothing in this world is more
 than LIKE it.
 
-By and by we could from the plain see the city among the blue clouds.
 But other clouds were gathering around a lofty tower--or was it a
 rock?--that stood above the city, nearer the crest of the mountain.
 Gray, and dark gray, and purple, they writhed in confused, contrariant
@@ -10608,7 +10545,6 @@ leaning her shadowed brow on her idle hand. The children rushed upon
 her, covering her with caresses, and ere she understood, they had taken
 heaven by surprise, and were already in the city, still mounting the
 stair by the side of the descending torrent. A great angel, attended
-by a company of shining ones, came down to meet and receive them, but
 merrily evading them all, up still they ran. In merry dance, however,
 a group of woman-angels descended upon them, and in a moment they were
 fettered in heavenly arms. The radiants carried them away, and I saw
@@ -10630,7 +10566,6 @@ Immediately he turned and led the way higher. The scales of his armour
 flashed like flakes of lightning.
 
 Thought cannot form itself to tell what I felt, thus received by the
-officers of heaven***. All I wanted and knew not, must be on its way to
 me!
 
 We stood for a moment at the gate whence issued roaring the radiant
@@ -10667,7 +10602,6 @@ of closing behind me. I stood alone in my library.
 
 
 
-CHAPTER XLVII. THE “ENDLESS ENDING”
 
 As yet I have not found Lona, but Mara is much with me. She has taught
 me many things, and is teaching me more.
@@ -10732,19 +10666,4 @@ I wait; asleep or awake, I wait.
 
 Novalis says, “Our life is no dream, but it should and will perhaps
 become one.”
-
-
-
-
-     *Chapter 42: William Law.
-
-     **Chapter 45: Tin tin sonando con sì dolce nota
-                   Che ‘l ben disposto spirito d’ amor turge.
-                                        DEL PARADISO, x. 142.
-
-     ***Chapter 46: Oma’ vedrai di sì fatti uficiali.
-                                        Del Purgatorio, ii. 30.
-
-
-
 
