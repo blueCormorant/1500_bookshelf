@@ -1,60 +1,3 @@
-Proofreading Team (http://www.pgdp.net) from page images generously made
-available by Villanova University Digital Library
-(http://digital.library.villanova.edu)
-
-
-
-Note: Project Gutenberg also has an HTML version of this
-      file which includes the original illustrations.
-      See 50654-h.htm or 50654-h.zip:
-      (http://www.gutenberg.org/files/50654/50654-h/50654-h.htm)
-      or
-      (http://www.gutenberg.org/files/50654/50654-h.zip)
-
-
-      Images of the original pages are available through
-      the Villanova University Digital Library. See
-      http://digital.library.villanova.edu/Item/vudl:293263
-
-
-Transcriber’s note:
-
-      Text enclosed by underscores is in italics (_italics_).
-
-      An additional transcriber’s notes is at the end.
-
-
-
-
-
-[Illustration: Something snapped above them, and down came the girl,
-bringing the skeleton with her, knocking the daring boy flat upon his
-back.]
-
-       *       *       *       *       *
-
-BRAVE & BOLD
-
-_A Different Complete Story Every Week_
-
-_Issued Weekly. By Subscription $2.50 per year. Entered according to
-Act of Congress in the year 1905, in the Office of the Librarian of
-Congress, Washington, D. C., by_ STREET & SMITH, _79-89 Seventh Avenue,
-New York, N. Y._
-
-No. 127. NEW YORK, May 27, 1905. Price Five Cents.
-
-       *       *       *       *       *
-
-
-IN THE WONDERFUL LAND OF HEZ; OR, The Mystery of the Fountain of Youth.
-
-By the author of “The Wreck of the ‘Glaucus.’”
-
-
-
-
-CHAPTER I. AN ECCENTRIC COUPLE.
 
 
 One fine October afternoon, in the year 1880, a sailboat might have
@@ -279,7 +222,6 @@ striving to see who could shout “Murder!” the loudest.
 
 
 
-CHAPTER II. AN ACCEPTED PROPOSITION.
 
 
 “Dick this is a pretty wild spot, isn’t it?”
@@ -312,7 +254,6 @@ region pleased them to a great extent.
 
 They procured all necessary supplies needful for such an undertaking,
 and set out for their destination, after traveling as far as they could
-by rail.
 
 The young negro who was engaged in preparing their evening meal--for it
 was near sunset--was a comical-looking personage, to say the least.
@@ -406,7 +347,6 @@ sailboat.
 his hands. “I thought us two were the only ones in this wild place. I
 am glad that such is not the case, though, I assure you. For had it not
 been for you, both Haypole and myself would surely have been devoured
-by that ferocious monster. All on account of his pig-headedness, too.”
 
 “Now, see here, professor,” put in the Yankee, “I ain’t a-goin’ ter
 quarrel with you ag’in under no consideration. This oughter be a lesson
@@ -536,7 +476,6 @@ But a splash told him that the man had taken to the water.
 
 
 
-CHAPTER III. THE STONE CUBE AND THE OBELISK.
 
 
 Three weeks later we find Prof. Remington Easy and his exploring party
@@ -784,7 +723,6 @@ down the stairway in the base of the obelisk.
 
 
 
-CHAPTER IV. WHERE THE STAIRS LED TO.
 
 
 Leo Malvern caught but a fleeting glance at the man and dog as they
@@ -882,7 +820,6 @@ bottom?” said the Yankee.
 great discovery--mark my word for it!”
 
 “Humph! I heerd ye say that same thing a good many times before. But,
-by the great boots in ther haymow, I stepped on somethin’ alive jist
 then!”
 
 “A ground hog!” exclaimed Dick, holding up the lantern. “How in thunder
@@ -1031,7 +968,6 @@ They were between two fires!
 
 
 
-CHAPTER V. THE DANCE OF DEATH.
 
 
 “God help us!” exclaimed Prof. Easy, as he saw the strange inhabitants
@@ -1361,7 +1297,6 @@ skeleton with her, knocking the daring boy flat upon his back.
 
 
 
-CHAPTER VI. “ESTO PERPETUA.”
 
 
 Leo Malvern sprang to his feet, and seized the girl by the shoulders.
@@ -1473,7 +1408,6 @@ He produced a match from his pocket and struck it.
 To his astonishment he found himself in a small, open square, with
 four passages branching off in different directions.
 
-By the flickering light of the match in his companion’s hand the Yankee
 saw a torch lying upon the floor.
 
 Stooping down, he picked it up and lighted it.
@@ -1539,7 +1473,6 @@ directly into the pool of sparkling water.
 Beneath the hand was the rough delineation of a rose in full bloom, and
 under all were the words:
 
-  “ESTO PERPETUA.”
 
 Dick’s small acquaintance with Latin told him that _esto perpetua_
 meant: “Let it be perpetual,” and he wondered what it could all mean.
@@ -1553,7 +1486,6 @@ the ground behind the bowlder against which the tablet rested.
 
 
 
-CHAPTER VII. THE LEGEND OF HEZ.
 
 
 Dick and the Yankee had no sooner sought seclusion behind the bowlder
@@ -1780,7 +1712,6 @@ their weapons, which Roderique de Amilo had so kindly returned to them.
 
 
 
-CHAPTER VIII. DICK VINCEY AND THE QUEEN.
 
 
 Queen Olive stood in the doorway of the handsomely furnished stone
@@ -2014,7 +1945,6 @@ pursuit, was Philander Owens, a still smoking rifle in his hands.
 
 
 
-CHAPTER IX. THE DEVIL’S KINGDOM.
 
 
 Dick at once made his way to the side of Leo, who was just coming from
@@ -2209,7 +2139,6 @@ velocity of the wind!
 
 
 
-CHAPTER X. IN THE BOWELS OF THE EARTH.
 
 
 When Leo Malvern felt himself sliding down the slippery wall of rock he
@@ -2419,7 +2348,6 @@ this wonderful underground place and starve!”
 
 
 
-CHAPTER XI. AZURMA’S SEARCH.
 
 
 Dick Vincey gave an agonizing cry as he saw his cousin disappear in the
@@ -2607,7 +2535,6 @@ Azurma was saved!
 
 
 
-CHAPTER XII. AZURMA FINDS LEO.
 
 
 Reginald Lacy sank to the ground in a dejected manner when he found
@@ -2789,7 +2716,6 @@ The next moment they went whirling over the cataract with a mighty rush.
 
 
 
-CHAPTER XIII. BALLOTING FOR HUSBANDS.
 
 
 Completely unnerved at the sight, Leo turned from the spot.
@@ -3025,7 +2951,6 @@ me, as I have made up my mind not to marry at all!”
 
 
 
-CHAPTER XIV. AZURMA SUFFERS THE PENALTY OF HER CRIME.
 
 
 The next morning the swamp explorers were up bright and early.
@@ -3218,7 +3143,6 @@ disappeared.
 
 
 
-CHAPTER XV. THE NAZTECS AND THEIR PRISONERS.
 
 
 Reginald Lacy and his faithful dog were swept over the falls with
@@ -3421,7 +3345,6 @@ weapon to plunge it in his heart.
 
 
 
-CHAPTER XVI. DICK AND THE QUEEN IN PERIL.
 
 
 It is now about time that the mysterious disappearance of Dick Vincey
@@ -3609,7 +3532,6 @@ face!
 
 
 
-CHAPTER XVII. AZURMA AND THE NAZTECS.
 
 
 Azurma, the beautiful murderess, had jumped upon the rocky slide with
@@ -3875,7 +3797,6 @@ With this brief explanation we will proceed.
 Azurma was cute enough to allow the Naztecs to believe that she was
 really the one they took her to be.
 
-By so doing she came in possession of a power which she would not
 otherwise have had.
 
 She had no difficulty in persuading the king to set Lacy and his dog
@@ -3894,7 +3815,6 @@ Azurma should be treated as a princess.
 
 
 
-CHAPTER XVIII. WHAT HAPPENED TO DICK AND QUEEN OLIVE.
 
 
 When Dick Vincey felt the cold snout of an animal touching his face, a
@@ -4089,7 +4009,6 @@ about him, it would have been different.
 
 
 
-CHAPTER XIX. LEO WEDS, AFTER ALL.
 
 
 When the new queen had reigned for a year, she one day took it in her
@@ -4323,7 +4242,6 @@ her.
 
 
 
-CHAPTER XX. MANUFACTURING A CANNON.
 
 
 Leo Malvern had not been long in the city of the Naztecs ere he began
@@ -4441,7 +4359,6 @@ cave.
 They had no difficulty in finding it, since the king had told Dick
 exactly where it was.
 
-By dint of using a couple of heavy, metal bars, they managed to pry a
 stone from the entrance, which was sealed with a substance like cement.
 
 When the stone was rolled sufficiently aside, a cry of joy escaped the
@@ -4546,7 +4463,6 @@ magic, leaving them in total darkness!
 
 
 
-CHAPTER XXI. THE EARTHQUAKE SHOCK.
 
 
 Two years had slipped by since the advent of the party into the land of
@@ -4651,7 +4567,6 @@ cheer.
 
 
 
-CHAPTER XXII. FREEDOM AT LAST.
 
 
 Well satisfied that Leo was in the approaching party of torch bearers,
@@ -4818,7 +4733,6 @@ about covered the matter.
 
 
 
-CHAPTER XXIII. OUT OF THE EVERGLADES.
 
 
 “Now, then,” observed Dick Vincey, “let us leave the land of mystery
@@ -4919,7 +4833,6 @@ And so it is. We have stated the incidents of our story in a manner
 meant to be plain; now we will leave the reader to answer Martin
 Haypole’s questions.
 
-THE END.
 
 The next issue of BRAVE AND BOLD, No. 128, will contain “Stonia
 Stedman’s Triumph; or, A Young Mechanic’s Trials.” This story relates
@@ -4927,57 +4840,4 @@ the experiences that befell a young workman, and shows how he
 eventually triumphed over a clique of jealous fellow workers, at the
 same time unearthing the schemes of a band of dangerous moonshiners. Be
 sure and read Stonia’s gallant struggle against great odds.
-
-       *       *       *       *       *
-
-BE A ROOTER
-
-  _Root For a Record in the National Game and for Tip Top Prizes_
-
-[Illustration: TIP TOP’S NATIONAL BASE BALL CONTEST]
-
-Do You Want to Try for the Pennant?
-
-Do You Want a Fine Outfit for Your Team?
-
-Do You Want to Score High in the National Game?
-
-  _HERE IS YOUR CHANCE_
-
-Root for the Famous Tip Top Prizes and Pennant
-
-  PLAY BALL
-
-_Watch Every Number for Further Announcements_
-
-
-
-
-       *       *       *       *       *
-
-
-
-
-Transcriber’s note:
-
-Based on the available evidence, the author for this book is most
-likely Cornelius Shea.
-
-This story originally appeared, very likely in a longer version,
-as “Under the Everglades; or, Two Years in a Land of Mystery,”
-_Golden Hours_ issues 176 through 185, June 13, 1891 to
-August 15, 1891, published by Norman L. Munro & Company.
-
-Punctuation has been made consistent.
-
-Variations in spelling and hyphenation were retained as they appear in
-the original publication, except that obvious typos have been corrected.
-
-Changes have been made as follows:
-
-p. 22: “hate as he darted” changed to “hate darted” (of hate darted)
-
-p. 30: “looking for so” changed to “looking for for so” (looking for
-for so)
-
 
