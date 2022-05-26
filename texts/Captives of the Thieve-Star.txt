@@ -1,21 +1,4 @@
 
-
-
-
-                      CAPTIVES of the THIEVE-STAR
-
-                    _A Novelet by_ JAMES H. SCHMITZ
-
-             _When Peer and Channok grappled the derelict
-             Ra-Twelve, they hooked a death-prize--haunted
-             by the Yomm, stalked by the Mysterious Nine!_
-
-           [Transcriber's Note: This etext was produced from
-                       Planet Stories May 1951.
-         Extensive research did not uncover any evidence that
-         the U.S. copyright on this publication was renewed.]
-
-
 The celebration of the wedding of Peer and Channok had to be cut a
 little short, because a flock of police-boats from Irrek showed up at
 detector-range about midway. But it was carried off with a flourish
@@ -155,7 +138,7 @@ to get rid of it--they picked up the trail of the foundering spaceship
 _Ra-Twelve_ and found part of the answer on board.
 
 
-                                  II
+
 
 "It seemed to me," Channok remarked, watching the _Ra-Twelve_ in the
 viewscreen before them, "as if her drives had cut off completely just
@@ -407,7 +390,7 @@ Peer wandered promptly into the cabin where the dead man had been and
 there discovered the wall-safe.
 
 
-                                  III
+
 
 She called him. He couldn't imagine how he had overlooked it. Perhaps
 because it was so obviously _there_! It was an ordinary enough safe,
@@ -654,7 +637,7 @@ them, briefly building up power....
 Channok braced himself--
 
 
-                                  IV
+
 
 For the next few seconds, the question seemed to be whether they'd
 pile into the plain or the mountain first; and, for another improbable
@@ -780,7 +763,7 @@ terrain for a good spot to start digging.
 
 "And what were Santis and your mother doing?" he inquired.
 
-"They were looking for some sort of mineral deposit on Old Nameless; I
+"They were looking for some sort of mineral deposit on Old Nameless;
 forget just what. How about that spot--just under that little overhang?
 It looks like good, solid top-rock."
 
@@ -808,7 +791,7 @@ machine's clacking and roaring subsided.
 you." She didn't seem worried.
 
 "They've ducked behind those rocks now," she said as he clambered up
-beside her; "but they won't stay there long. They're curious, and I
+beside her; "but they won't stay there long. They're curious, and
 think some of them remember the time we were here before."
 
 "Are they dangerous?" he inquired, patting his holstered set of
@@ -844,7 +827,7 @@ have some self-control--that's what you said! Look, there's another one
 now--no, two!"
 
 
-                                   V
+
 
 When he came up for lunch, he found about fifty ghouls collected
 around the area. By that time he had dug the cache, steel-lined it,
@@ -933,7 +916,7 @@ quivered.
 "You sure are!" Peer said, relieved. The lip stopped quivering. "You're
 not going over there, then?"
 
-"Not if you feel that way about it," Channok said. He paused. "I
+"Not if you feel that way about it," Channok said. He paused. "
 guess," he admitted awkwardly, "I just didn't like the idea of Santis
 flitting around space, Holy Aynstyn knows where, and still putting in
 his two millicredits worth every so often, through crew-member Peer!"
@@ -992,7 +975,7 @@ and land in a mess of ghouls!"
 "No, you won't," Peer said hurriedly. "It goes level right away, and
 they're never more than thirty feet long. And the ghoul's out--there's
 never more than one to a burrow; and I saw this one pop out and run off
-just before we started here! You're not scared, are you? Wilf and I
+just before we started here! You're not scared, are you? Wilf and
 crawled in and out of hundreds of them!"
 
 "Well, just for a moment then," said Channok resignedly.
@@ -1063,11 +1046,11 @@ from up in the air, and it was using the Empire's universal dialect.
 
 Peer's footsteps stopped abruptly.
 
-"Who you people?" her voice screeched in shrill alarm. "You cops? I
+"Who you people?" her voice screeched in shrill alarm. "You cops?
 ain't done nothing!"
 
 
-                                  VI
+
 
 "And just look at those guns she's carrying!" the deeper of the two
 strange voices commented. "The real stuff, too--a stunner and an Ophto
@@ -1179,7 +1162,7 @@ went--is that it, little girl?"
 
 "It's that big Mound over there," Peer said; and Channok started
 nervously. "It's got a big door on top. No," she added, "I guess you
-can't see from down here--and you can't see from the ship. That's why I
+can't see from down here--and you can't see from the ship. That's why
 came out. To watch for'm. But you can see it plain from the top of the
 rocks."
 
@@ -1259,7 +1242,7 @@ He swore again. "That woman's unbelievable luck! Well, take care of
 yourself, Ezeff. I'm off. Keep your eyes open both ways! Just in case--"
 
 
-                                  VII
+
 
 There was silence for a moment. Then footsteps came crunching over the
 rocks towards the ghoul-burrow, and Channok got set. But the footsteps
@@ -1361,7 +1344,7 @@ into space!"
 
 "That's right, kid," Nasal-voice panted softly, fumbling for his gun
 without taking his eyes off her. He looked somewhat like a white-faced
-lunatic himself just then. "Don't get scared, kid! Don't run off! I
+lunatic himself just then. "Don't get scared, kid! Don't run off!
 won't shoot."
 
 He pulled the gun out suddenly.
@@ -1490,7 +1473,7 @@ moment, he could see four men marching one after the other down into
 the Mound. "Of course, it doesn't count!" he told her firmly.
 
 
-                                 VIII
+
 
 They worked hard at shifting the cargo into the cache, but the
 Nameless Sun was beginning to slide down behind the mountains before
