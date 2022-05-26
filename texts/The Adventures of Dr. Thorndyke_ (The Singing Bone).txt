@@ -1,61 +1,5 @@
 
 
-
-
-
-
-  GREAT STORIES OF A GREAT DETECTIVE
-
-
-  The Adventures of
-
-  DR. THORNDYKE
-
-  (The Singing Bone)
-
-
-
-  By R. AUSTIN FREEMAN
-
-
-
-  POPULAR LIBRARY • NEW YORK
-
-
-
-
-  POPULAR LIBRARY EDITION
-
-
-
-  COMPLETE AND
-
-  UNABRIDGED
-
-
-
-  Originally published under the title of
-
-  THE SINGING BONE
-
-
-
-  COPYRIGHT MCMXXIII
-
-  By DODD, MEAD AND COMPANY, INC.
-
-  PRINTED IN THE UNITED STATES OF AMERICA
-
-  ALL RIGHTS RESERVED
-
-  By arrangement with Dodd, Mead and Company, Inc.
-
-
-
-
-PREFACE
-
-
 The peculiar construction of the first four stories in the present
 collection will probably strike both reader and critic and seem to
 call for some explanation, which I accordingly proceed to supply.
@@ -92,7 +36,6 @@ the reader knows everything, the detective knows nothing, and the
 interest focuses on the unexpected significance of trivial
 circumstances.
 
-By excellent judges on both sides of the Atlantic--including the
 editor of _Pearson’s Magazine_--this story was so far approved of
 that I was invited to produce others of the same type.
 
@@ -106,59 +49,49 @@ screw-pile lighthouse on the Girdler Sand in place of the
 light-vessel. I mention the matter to forestall criticism and save
 readers the trouble of writing to point out the error.
 
-                                                    R. A. F.
 
 Gravesend
 
 
 
 
-CONTENTS
 
 
-  I   THE CASE OF OSCAR BRODSKI
 
-        I   The Mechanism of Crime
+I   The Mechanism of Crime
 
-       II   The Mechanism of Detection
-
-
-  II   A CASE OF PREMEDITATION
-
-        I   The Elimination of Mr. Pratt
-
-       II   Rival Sleuth-Hounds
+II   The Mechanism of Detection
 
 
-  III   THE ECHO OF A MUTINY
 
-        I   Death on the Girdler
+I   The Elimination of Mr. Pratt
 
-       II   “The Singing Bone”
-
-
-  IV   A WASTREL’S ROMANCE
-
-        I   The Spinsters’ Guest
-
-       II   Munera Pulveris
+II   Rival Sleuth-Hounds
 
 
-  V   THE OLD LAG
 
-        I   The Changed Immutable
+I   Death on the Girdler
 
-       II   The Ship of the Desert
+II   “The Singing Bone”
+
+
+
+I   The Spinsters’ Guest
+
+II   Munera Pulveris
+
+
+
+I   The Changed Immutable
+
+II   The Ship of the Desert
 
 
 
 
-THE CASE OF OSCAR BRODSKI
 
 
-PART I
 
-THE MECHANISM OF CRIME
 
 A surprising amount of nonsense has been talked about conscience. On
 the one hand remorse (or the “again-bite,” as certain scholars of
@@ -647,7 +580,6 @@ towards the curve.
 
 He had nearly reached his back gate when a sound from the line
 brought him to a sudden halt; it was a prolonged whistle accompanied
-by the groan of brakes and the loud clank of colliding trucks. The
 snorting of the engine had ceased and was replaced by the penetrating
 hiss of escaping steam.
 
@@ -826,9 +758,7 @@ carriage he thought with deep discomfort of Brodski’s hat, and hoped
 that he had made no other oversight.
 
 
-PART II
 
-THE MECHANISM OF DETECTION
 
 (_Related by Christopher Jervis, M.D._)
 
@@ -1516,7 +1446,6 @@ on the grass by the fence; it will serve for a table.”
 I did so, and Thorndyke, taking a letter from his pocket, opened it,
 spread it out flat on the case, securing it with a couple of heavy
 stones, although the night was quite calm. Then he tipped the
-contents of the seed envelope out on the paper, and carefully
 spreading out the pieces of glass, looked at them for some moments in
 silence. And, as he looked, there stole over his face a very curious
 expression; with sudden eagerness he began picking out the large
@@ -2054,7 +1983,6 @@ found upon his person. But he was never brought to trial, for on the
 return voyage he contrived to elude his guards for an instant as the
 ship was approaching the English coast, and it was not until three
 days later, when a hand-cuffed body was cast up on the lonely shore
-by Orfordness, that the authorities knew the fate of Silas Hickler.
 
 “An appropriate and dramatic end to a singular and yet typical case,”
 said Thorndyke, as he put down the newspaper. “I hope it has enlarged
@@ -2079,12 +2007,9 @@ scientist to aid the police; and, last,” he concluded, with a smile,
 
 
 
-A CASE OF PREMEDITATION
 
 
-PART I
 
-THE ELIMINATION OF MR. PRATT
 
 The wine merchant who should supply a consignment of _petit vin_ to a
 customer who had ordered, and paid for, a vintage wine, would render
@@ -2955,7 +2880,6 @@ bounding away to the tug of the leash in the general’s wake.
 the gratified sergeant, as he brought forward the third hound;
 “you’ll see--” But his remark was cut short by a violent jerk of the
 leash, and the next moment he was flying after the others, followed
-by Mr. Hanford.
 
 The sergeant daintily picked the knife up by its ring, wrapped it in
 his handkerchief and bestowed it in his pocket. Then he ran off after
@@ -3010,7 +2934,6 @@ thoroughly--in the bath, so that he could get rid of the discoloured
 water--changed his clothes and packed those that he took off in a
 portmanteau.
 
-By the time he had done this the gong sounded for supper. As he took
 his seat at the table, spruce and fresh in appearance, quietly
 cheerful in manner, he addressed his house keeper. “I wasn’t able to
 finish my business in London,” he said. “I shall have to go up again
@@ -3026,9 +2949,7 @@ housekeeper ask. Mr. Pembury was not addicted to confidences. He was
 an eminently discreet man: and discreet men say little.
 
 
-PART II
 
-RIVAL SLEUTH-HOUNDS
 
 (_Related by Christopher Jervis, M.D._)
 
@@ -3066,7 +2987,6 @@ Thorndyke held up the cutting, and, placing a chair by the fire,
 asked the inspector if he had breakfasted.
 
 “Thank you, sir, I have,” replied Inspector Fox. “I came up to town
-by the late train last night so as to be here early, and stayed at an
 hotel. You see, from the paper, that we have had to arrest one of our
 own men. That’s rather awkward, you know, sir.”
 
@@ -3230,7 +3150,6 @@ prepare for the expedition.
 “If I shall be of any use,” I replied.
 
 “Of course you will,” said he. “Two heads are better than one, and,
-by the look of things, I should say that ours will be the only ones
 with any sense in them. We will take the research case, of course,
 and we may as well have a camera with us. I see there is a train from
 Charing Cross in twenty minutes.”
@@ -3574,7 +3493,6 @@ bloodstain; which proves that when the knife was picked up, the blood
 on it was already dry. But things dry slowly, if they dry at all, in
 the saturated air of an autumn evening. The appearances seem to
 suggest that the blood on the knife was dry when it was thrown down.
-By the way, sergeant, what do you scent your handkerchief with?’”
 
 “Scent, sir!” exclaimed the astonished officer in indignant accents;
 “me scent my handkerchief! No, sir, certainly not. Never used scent
@@ -3682,7 +3600,6 @@ we can photograph these finger prints.”
 “The shortest way will be across the meadows,” said Fox; “the way the
 hounds went.”
 
-By this route we accordingly travelled, Thorndyke carrying the
 brush-case tenderly by its handle.
 
 “I don’t quite see where Ellis comes in in this job,” said the
@@ -3802,12 +3719,9 @@ bottom out of the great bloodhound superstition.”
 
 
 
-THE ECHO OF A MUTINY
 
 
-PART I
 
-DEATH ON THE GIRDLER
 
 Popular belief ascribes to infants and the lower animals certain
 occult powers of divining character denied to the reasoning faculties
@@ -4417,9 +4331,7 @@ hoisted a signal for assistance, he went in once more to eat his
 solitary meal in peace and gladness.
 
 
-PART II
 
-“THE SINGING BONE”
 
 (_Related by Christopher Jervis, M.D._)
 
@@ -5284,12 +5196,9 @@ if we are but ready with attentive ears.”
 
 
 
-A WASTREL’S ROMANCE
 
 
-PART I
 
-THE SPINSTERS’ GUEST
 
 The lingering summer twilight was fast merging into night as a
 solitary cyclist, whose evening-dress suit was thinly disguised by an
@@ -5363,7 +5272,6 @@ sneaking in under a false name, with a fair prospect of being
 ignominiously thrown out by the servants.
 
 As he stood hesitating, the sound of hoofs on the road was followed
-by the aggressive bellow of a motor-horn. The modest twinkle of
 carriage lamps appeared round the curve and then the glare of
 acetylene headlights. A man came out of the lodge and drew open the
 gates; and Mr. Bailey, taking his courage in both hands, boldly
@@ -5575,7 +5483,6 @@ in all his glory was a mere matter of commonplace bullion.
 The interview, evidently friendly and familiar, between the unknown
 guest and the famous American widow had by no means passed unnoticed;
 and in other circumstances, Bailey might have endeavoured to profit
-by the reflected glory that enveloped him. But he was not in search
 of notoriety; and the same evasive instinct that had led him to sink
 Mr. Harrington-Baillie in Captain Rowland, now advised him to
 withdraw his dual personality from the vulgar gaze. He had come here
@@ -5902,9 +5809,7 @@ With a last look round he mounted his machine, and, driving it over
 the brow of the hill, swept away into the darkness.
 
 
-PART II
 
-MUNERA PULVERIS
 
 (_Related by Christopher Jervis, M.D._)
 
@@ -6730,12 +6635,9 @@ Merciful.”
 
 
 
-THE OLD LAG
 
 
-PART I
 
-THE CHANGED IMMUTABLE
 
 Among the minor and purely physical pleasures of life, I am disposed
 to rank very highly that feeling of bodily comfort that one
@@ -7483,9 +7385,7 @@ another moment she would have scratched my face--and I mean to find
 out the scoundrel who tried to wreck her happiness.”
 
 
-PART II
 
-THE SHIP OF THE DESERT
 
 The case which I am now about to describe has always appeared to me a
 singularly instructive one, as illustrating the value and importance
@@ -8147,7 +8047,6 @@ society was shortly after relieved of a very undesirable member.
 
 
 
-                        THE END
 
 
 
