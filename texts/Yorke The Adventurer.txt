@@ -1,19 +1,6 @@
 
 
 
-
-
-YORKE THE ADVENTURER
-
-By Louis Becke
-
-T. Fisher Unwin, 1901
-
-
-
-
-Chapter I
-
 In that delightful and exciting book, written by Captain Joshua Slocum,
 and entitled, “Sailing Alone Round the World,” there is a part wherein
 the adventurous American seaman relates how he protected himself from
@@ -335,7 +322,7 @@ massacre of his little vessel's company.
 
 
 
-Chapter II
+
 
 He had, he told us, bought the _Francesco_ at Sourabaya about three
 years before, and after making several trading voyages between Manila
@@ -696,7 +683,7 @@ shook hands with him, for he was going to sleep on board his own vessel.
 
 
 
-Chapter III
+
 
 We lay under the lee of the South Cape or New Britain for nearly a
 fortnight, during which time we effected all the necessary repairs to
@@ -987,7 +974,7 @@ very pleasing appearance.
 
 
 
-Chapter IV
+
 
 A very brief trial of the lagoon, at various depths, soon convinced us
 that it contained no pearl-shell, both George and the Rotumah man coming
@@ -1220,7 +1207,7 @@ sleep.
 
 
 
-Chapter V
+
 
 By dawn on the following morning, the hurricane had lost its strength
 and settled down into a hard gale from the north-east. When we crawled
@@ -1611,7 +1598,7 @@ knocking around anywhere and everywhere.... Come, let us turn in.”
 
 
 
-Chapter VI
+
 
 At dawn the wind had died away to a light breeze, and the sun rose to
 shine upon an ocean of unspecked blue. To the eastward, the slopes of
