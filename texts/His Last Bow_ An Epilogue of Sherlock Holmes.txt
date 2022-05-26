@@ -1,63 +1,4 @@
 
-
-
-
-
-cover
-
-
-
-
-His Last Bow
-
-
-by Arthur Conan Doyle
-
-
-
-Preface
-
-
-
-The friends of Mr. Sherlock Holmes will be glad to learn that he is
-still alive and well, though somewhat crippled by occasional attacks of
-rheumatism. He has, for many years, lived in a small farm upon the
-Downs five miles from Eastbourne, where his time is divided between
-philosophy and agriculture. During this period of rest he has refused
-the most princely offers to take up various cases, having determined
-that his retirement was a permanent one. The approach of the German war
-caused him, however, to lay his remarkable combination of intellectual
-and practical activity at the disposal of the Government, with
-historical results which are recounted in _His Last Bow_. Several
-previous experiences which have lain long in my portfolio have been
-added to _His Last Bow_ so as to complete the volume.
-
-John H. Watson, M.D.
-
-
-
-Contents
-
-
- The Adventure of Wisteria Lodge
- The Adventure of the Bruce-Partington Plans
- The Adventure of the Devil’s Foot
- The Adventure of the Red Circle
- The Disappearance of Lady Frances Carfax
- The Adventure of the Dying Detective
- His Last Bow: The War Service of Sherlock Holmes
-
-
-
-The Adventure of Wisteria Lodge
-
-
- The Singular Experience of Mr. John Scott Eccles
- The Tiger of San Pedro
-
-
- 1. The Singular Experience of Mr. John Scott Eccles
-
 I find it recorded in my notebook that it was a bleak and windy day
 towards the end of March in the year 1892. Holmes had received a
 telegram while we sat at our lunch, and he had scribbled a reply. He
@@ -802,9 +743,6 @@ events. I must admit, however, that I was somewhat surprised when, some
 five days after the crime, I opened my morning paper to find in large
 letters:
 
-    THE OXSHOTT MYSTERY
-    A SOLUTION
-    ARREST OF SUPPOSED ASSASSIN
 
 Holmes sprang in his chair as if he had been stung when I read the
 headlines.
@@ -1310,7 +1248,6 @@ Religions:_
 “‘The true voodoo-worshipper attempts nothing of importance without
 certain sacrifices which are intended to propitiate his unclean gods.
 In extreme cases these rites take the form of human sacrifices followed
-by cannibalism. The more usual victims are a white cock, which is
 plucked in pieces alive, or a black goat, whose throat is cut and body
 burned.’
 
@@ -1388,7 +1325,7 @@ been here. What upheaval can possibly have derailed him?”
 Holmes handed me his brother’s telegram.
 
 
- “Must see you over Cadogan West. Coming at once.” MYCROFT.
+“Must see you over Cadogan West. Coming at once.” MYCROFT.
 
 “Cadogan West? I have heard the name.”
 
@@ -1747,7 +1684,6 @@ have passed about midnight on Monday.”
 
 “We have had some fresh evidence this morning,” said Lestrade. “A
 passenger who passed Aldgate in an ordinary Metropolitan train about
-11:40 on Monday night declares that he heard a heavy thud, as of a body
 striking the line, just before the train reached the station. There was
 dense fog, however, and nothing could be seen. He made no report of it
 at the time. Why, whatever is the matter with Mr. Holmes?”
@@ -2731,7 +2667,6 @@ his acquaintance. He was a middle-aged man, portly and affable, with a
 considerable fund of local lore. At his invitation we had taken tea at
 the vicarage and had come to know, also, Mr. Mortimer Tregennis, an
 independent gentleman, who increased the clergyman’s scanty resources
-by taking rooms in his large, straggling house. The vicar, being a
 bachelor, was glad to come to such an arrangement, though he had little
 in common with his lodger, who was a thin, dark, spectacled man, with a
 stoop which gave the impression of actual, physical deformity. I
@@ -2933,7 +2868,6 @@ which left the most sinister impression upon my mind. The approach to
 the spot at which the tragedy occurred is down a narrow, winding,
 country lane. While we made our way along it we heard the rattle of a
 carriage coming towards us and stood aside to let it pass. As it drove
-by us I caught a glimpse through the closed window of a horribly
 contorted, grinning face glaring out at us. Those staring eyes and
 gnashing teeth flashed past us like a dreadful vision.
 
@@ -3195,7 +3129,6 @@ Holmes sprang to his feet, all energy in an instant.
 entirely at your disposal. Hurry—hurry, before things get disarranged.”
 
 The lodger occupied two rooms at the vicarage, which were in an angle
-by themselves, the one above the other. Below was a large sitting-room;
 above, his bedroom. They looked out upon a croquet lawn which came up
 to the windows. We had arrived before the doctor or the police, so that
 everything was absolutely undisturbed. Let me describe exactly the
@@ -3568,7 +3501,6 @@ believe that, save for one sample in a laboratory at Buda, there is no
 other specimen in Europe. It has not yet found its way either into the
 pharmacopœia or into the literature of toxicology. The root is shaped
 like a foot, half human, half goatlike; hence the fanciful name given
-by a botanical missionary. It is used as an ordeal poison by the
 medicine-men in certain districts of West Africa and is kept as a
 secret among them. This particular specimen I obtained under very
 extraordinary circumstances in the Ubangi country.” He opened the paper
@@ -3622,7 +3554,6 @@ fail. My soul cried out for revenge. I have said to you once before,
 Mr. Holmes, that I have spent much of my life outside the law, and that
 I have come at last to be a law to myself. So it was even now. I
 determined that the fate which he had given to others should be shared
-by himself. Either that or I would do justice upon him with my own
 hand. In all England there can be no man who sets less value upon his
 own life than I do at the present moment.
 
@@ -3680,7 +3611,6 @@ traced in the Cornish branch of the great Celtic speech.”
 The Adventure of the Red Circle
 
 
- PART I
 
 “Well, Mrs. Warren, I cannot see that you have any particular cause for
 uneasiness, nor do I understand why I, whose time is of some value,
@@ -4152,7 +4082,6 @@ more innocent interpretation. Come, Watson, let us go across ourselves
 and see what we can make of it.”
 
 
- PART II
 
 As we walked rapidly down Howe Street I glanced back at the building
 which we had left. There, dimly outlined at the top window, I could see
@@ -4416,7 +4345,6 @@ emotion which I had never seen there before. At first I thought that it
 was dislike. And then, gradually, I understood that it was more than
 dislike. It was fear—a deep, secret, shrinking fear. That night—the
 night that I read his terror—I put my arms round him and I implored him
-by his love for me and by all that he held dear to hold nothing from
 me, and to tell me why this huge man overshadowed him so.
 
 “He told me, and my own heart grew cold as ice as I listened. My poor
@@ -6099,7 +6027,6 @@ temperature? At four yards, I could deceive you. If I failed to do so,
 who would bring my Smith within my grasp? No, Watson, I would not touch
 that box. You can just see if you look at it sideways where the sharp
 spring like a viper’s tooth emerges as you open it. I dare say it was
-by some such device that poor Savage, who stood between this monster
 and a reversion, was done to death. My correspondence, however, is, as
 you know, a varied one, and I am somewhat upon my guard against any
 packages which reach me. It was clear to me, however, that by
@@ -6135,7 +6062,6 @@ mission of all, but since he had taken it over those talents had become
 more and more manifest to the half-dozen people in the world who were
 really in touch with the truth. One of these was his present companion,
 Baron Von Herling, the chief secretary of the legation, whose huge
-100-horse-power Benz car was blocking the country lane as it waited to
 waft its owner back to London.
 
 “So far as I can judge the trend of events, you will probably be back
