@@ -2,51 +2,6 @@
 
 
 
-TREASURE OF THE SEAS
-
-By Prof. James De Mille
-
-Author Of “The B. O. W. C.,” “The Boys Of Grand Pre School,” “Lost In
-The Fog,” “Fire In The Woods,” “Among The Brigands,” “The Seven Hills,”
- “Picked Up Adrift,” Etc.
-
-Illustrated
-
-Boston: Lee And Shepard, Publishers
-
-1873.
-
-[Illustration: 0005]
-
-
-
-THE “B. O. W. C” SERIES.
-
-TO BE COMPLETED IN SIX VOLS.
-
-1. THE “B. O. W. C.”
-
-2. THE BOYS OF GRAND PRÉ SCHOOL.
-
-3. LOST IN THE FOG.
-
-4. FIRE IN THE WOODS.
-
-6. PICKED UP ADRIFT.
-
-6. THE TREASURE OF THE SEAS.
-
-
-
-
-
-THE TREASURE OF THE SEAS.
-
-
-
-
-I.
-
 _The aged Schooner.--The Ancient Mariner.--The Waste of
 Waters.--Perplexity.--Solomon and the Saw-dust Soup.--The decrepit
 Compass.--The baffled, Navigator.--The despondent Boys.--A sudden
@@ -336,7 +291,7 @@ others, who had heard the remark, did the same.
 
 
 
-II.
+
 
 _A strange and startling Sight.--A Mast in Midocean.--Land.--A Land of
 Terror.--A Panic.--The worst Place in all the World.--Tom drives away
@@ -627,7 +582,7 @@ the boat touched the shore, and they all leaped out upon the sand.
 
 
 
-III.
+
 
 _Landing.--A friendly Reception, and a bounteous Repast.--Sable
 Island.--The strange Soil.--The sandy Ridge.--The Lake.--The long
@@ -910,7 +865,7 @@ whole theory.”
 
 
 
-IV.
+
 
 _The Buccaneers.--The Traditions of Mahone Bay.--The Spanish
 Galleon.--The buried Treasure of the Buccaneers.--The Plunder of
@@ -1196,7 +1151,7 @@ which brought them every moment nearer to a friendly shore.
 
 
 
-V.
+
 
 _Land again.--A Line of Coast.--How to navigate.--Plans for finding the
 Island of Treasure.--The Bays.--The populous Island.--The old Man and
@@ -1527,7 +1482,7 @@ which they had imposed upon themselves.
 
 
 
-VI.
+
 
 _The Cruise around the Bay.--A quaint and curious Town.--Sleepy
 Hollow.--A home-like Inn.--A genial and communicative Landlord.--A
@@ -1836,7 +1791,7 @@ and began the story of Oak Island.
 
 
 
-VII.
+
 
 _The wonderful Story of Oak Island.--The Circle in the Forest.--Digging
 for Gold.--Exciting Discoveries.--Far down in the Depths of the
@@ -2392,7 +2347,7 @@ attend to, and rising to his feet, he slowly sauntered away.
 
 
 
-IX.
+
 
 _Bart and Pat take a Walk.--A Conversation.--Pat makes a
 Suggestion.--Bart adopts it.--A Tunnel to the Treasure of the Sea.--A
@@ -2718,7 +2673,7 @@ sea, the plunder of the Spanish Main!
 
 
 
-X.
+
 
 _The Isle of the Pirates.--The Oaks and the Mounds.--A Survey.--The
 flooded Pits.--The empty Pit.--The Staying.--The Money-hole.--The Hut
@@ -3024,7 +2979,7 @@ where it had parted. The rest of it was still in Pat’s hands.
 
 
 
-XI.
+
 
 _The missing Ones.--What has become of them?--Theories about Bart and
 Pat.--The Decision.--A new Disappointment, and a very serious one.--A
@@ -3352,7 +3307,7 @@ resort of the old buccaneers.”
 
 
 
-XII.
+
 
 _The Ascent of Aspotogon.--Slippery Slopes.--Treacherous Stones.--
 Tangled Thickets.--A great Disappointment.--Disgust of the Party.--A
@@ -3967,7 +3922,7 @@ tumbled into bed, and in a few moments were all sound asleep.
 
 
 
-XIV.
+
 
 _Bart and Pat.--Terrible Situation. ‘--The first Horror, and its
 Effects.--An Attempt to climb.--Another Attempt to scale the
@@ -4313,7 +4268,7 @@ couple of boys.
 
 
 
-XV.
+
 
 _Pat and the Pick.--A dangerous Plan.--Undermining the very
 Foundation.--A terrible Risk.--Something like an Earthquake.--A Way
@@ -4629,7 +4584,7 @@ never, never be known to those friends.
 
 
 
-XVI.
+
 
 _Waking from a sound Sleep.--The Missing Ones.--An earnest
 Debate.--Various Theories.--Fishing versus Sailing.--Afloat or
@@ -5597,7 +5552,7 @@ well-established facts.
 
 
 
-XIX.
+
 
 _The Tale unfolded to Solomon and to Captain Corbet.--How they took
 it.--A New Departure.--A Bee-line for Home.--An Obstacle.--An
@@ -5896,7 +5851,7 @@ wind, came round, and once more sought the deep water.
 
 
 
-XX.
+
 
 _Once more upon the Waters.--Terrible Discovery.--A Foot of Water in the
 Hold.--To the Pumps.--A desperate Struggle.--The Evening Meal.--Captain
@@ -6199,7 +6154,7 @@ And the sea gained!
 
 
 
-XXI.
+
 
 _A miserable Night.--No one shrinks.--Their Efforts lessen.--Morning
 comes.--Four Feet of Water in the Hold.--Take to the Boat!--Come along,
@@ -7367,7 +7322,7 @@ the Antelope, and returned to the shore.
 
 
 
-XXV.
+
 
 _Discussing the Situation.--By Land or by Sea.--Conferences with
 Bennie.--The Offer of Bennie.--The last Meal at Scoffs Bay.--The Boat
