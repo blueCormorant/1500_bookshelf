@@ -3,72 +3,26 @@
 
 
 
-SCARAMOUCHE
-
-A ROMANCE OF THE FRENCH REVOLUTION
-
-By Rafael Sabatini
 
 
 
-Contents
-
- BOOK I.
-
-	  CHAPTER I. 	THE REPUBLICAN
-	  CHAPTER II. 	THE ARISTOCRAT
-	  CHAPTER III. 	THE ELOQUENCE OF M. DE VILMORIN
-	  CHAPTER IV. 	THE HERITAGE
-	  CHAPTER V. 	THE LORD OF GAVRILLAC
-	  CHAPTER VI. 	THE WINDMILL
-	  CHAPTER VII. 	THE WIND
-	  CHAPTER VIII. OMNES OMNIBUS
-	  CHAPTER IX. 	THE AFTERMATH
-
- BOOK II. 	  
-
-	  CHAPTER I. 	THE TRESPASSERS
-	  CHAPTER II. 	THE SERVICE OF THESPIS
-	  CHAPTER II. 	THE COMIC MUSE
-	  CHAPTER IV. 	EXIT MONSIEUR PARVISSIMUS
-	  CHAPTER V. 	ENTER SCARAMOUCHE
-	  CHAPTER VI. 	CLIMENE
-	  CHAPTER VII. 	THE CONQUEST OF NANTES
-	  CHAPTER VIII. THE DREAM
-	  CHAPTER IX. 	THE AWAKENING
-	  CHAPTER X. 	CONTRITION
-	  CHAPTER XI. 	THE FRACAS AT THE THEATRE FEYDAU
-
- BOOK III. 	  
-
-	  CHAPTER I. 	TRANSITION
-	  CHAPTER II. 	QUOS DEUS VULT PERDERE
-	  CHAPTER III. 	PRESIDENT LE CHAPELIER
-	  CHAPTER IV. 	AT MEUDON
-	  CHAPTER V. 	MADAME DE PLOUGASTEL
-	  CHAPTER VI. 	POLITICIANS
-	  CHAPTER VII. 	THE SPADASSINICIDES
-	  CHAPTER VIII. THE PALADIN OF THE THIRD
-	  CHAPTER IX. 	TORN PRIDE
-	  CHAPTER X. 	THE RETURNING CARRIAGE
-	  CHAPTER XI. 	INFERENCES
-	  CHAPTER XII. 	THE OVERWHELMING REASON
-	  CHAPTER XIII. SANCTUARY
-	  CHAPTER XIV. 	THE BARRIER
-	  CHAPTER XV. 	SAFE-CONDUCT
-	  CHAPTER XVI. 	SUNRISE
 
 
 
-SCARAMOUCHE
 
 
 
-BOOK I: THE ROBE
 
 
 
-CHAPTER I. THE REPUBLICAN
+
+
+
+
+
+
+
+
 
 He was born with a gift of laughter and a sense that the world was mad.
 And that was all his patrimony. His very paternity was obscure, although
@@ -431,7 +385,6 @@ way up the steep main street of Gavrillac.
 
 
 
-CHAPTER II. THE ARISTOCRAT
 
 The sleepy village of Gavrillac, a half-league removed from the main
 road to Rennes, and therefore undisturbed by the world’s traffic, lay
@@ -775,7 +728,6 @@ courtliness and condescension which he used. Socially, the young lawyer
 stood in a curious position. By virtue of the theory of his birth, he
 ranked neither as noble nor as simple, but stood somewhere between the
 two classes, and whilst claimed by neither he was used familiarly
-by both. Coldly now he returned M. de La Tour d’Azyr’s greeting, and
 discreetly removed himself to go and join his friend.
 
 The Marquis took the hand that mademoiselle extended to him, and bowing
@@ -855,7 +807,6 @@ of an illusion.
 
 
 
-CHAPTER III. THE ELOQUENCE OF M. DE VILMORIN
 
 As they walked down the hill together, it was now M. de Vilmorin who
 was silent and preoccupied, Andre-Louis who was talkative. He had
@@ -1083,7 +1034,6 @@ Philippe shook him off, and plunged on, fanatically.
 
 “Do you see nothing of the gathering clouds that herald the coming of
 the storm? You imagine, perhaps, that these States General summoned
-by M. Necker, and promised for next year, are to do nothing but devise
 fresh means of extortion to liquidate the bankruptcy of the State?
 You delude yourselves, as you shall find. The Third Estate, which you
 despise, will prove itself the preponderating force, and it will find
@@ -1234,7 +1184,6 @@ pitiful.
 
 
 
-CHAPTER IV. THE HERITAGE
 
 It was M. de Vilmorin’s desire that the matter should be settled out
 of hand. In this he was at once objective and subjective. A prey to
@@ -1426,7 +1375,6 @@ was not a grand-seigneur.
 
 
 
-CHAPTER V. THE LORD OF GAVRILLAC
 
 For the second time that day Andre-Louis set out for the chateau,
 walking briskly, and heeding not at all the curious eyes that followed
@@ -1620,7 +1568,6 @@ things.
 
 
 
-CHAPTER VI. THE WINDMILL
 
 There was between Nantes and Rennes an established service of three
 stage-coaches weekly in each direction, which for a sum of twenty-four
@@ -1633,7 +1580,6 @@ that Andre-Louis came and went when the occasion offered. At present,
 however, he was too much in haste to lose a day awaiting the passing of
 that diligence. So it was on a horse hired from the Breton arme that he
 set out next morning; and an hour’s brisk ride under a grey wintry sky,
-by a half-ruined road through ten miles of flat, uninteresting country,
 brought him to the city of Rennes.
 
 He rode across the main bridge over the Vilaine, and so into the upper
@@ -1948,7 +1894,6 @@ departed.
 
 
 
-CHAPTER VII. THE WIND
 
 He had broken his futile lance with the windmill--the image suggested by
 M. de Kercadiou persisted in his mind--and it was, he perceived, by sheer
@@ -2364,7 +2309,6 @@ house, one of the few old houses surviving in that city that had risen
 from its ashes, where in an upper chamber lighted by diamond-shaped
 panes of yellow glass the Literary Chamber usually held its meetings.
 Thither in his wake the members of that chamber came hurrying, summoned
-by the messages that Le Chapelier had issued during their progress.
 
 Behind closed doors a flushed and excited group of some fifty men, the
 majority of whom were young, ardent, and afire with the illusion of
@@ -2449,7 +2393,6 @@ good-night for you.”
 
 
 
-CHAPTER VIII. OMNES OMNIBUS
 
 Andre-Louis rode forth from Rennes committed to a deeper adventure than
 he had dreamed of when he left the sleepy village of Gavrillac. Lying
@@ -2514,7 +2457,6 @@ a nobleman, with escutcheoned panels and a pair of white-stockinged,
 powdered footmen in gorgeous liveries hanging on behind. And there were
 Capuchins in brown and Benedictines in black, and secular priests in
 plenty--for God was well served in the sixteen parishes of Nantes--and
-by way of contrast there were lean-jawed, out-at-elbow adventurers, and
 gendarmes in blue coats and gaitered legs, sauntering guardians of the
 peace.
 
@@ -2632,7 +2574,6 @@ what is taking place, and to invite you in this dreadful hour of our
 country’s peril to rise and march to her defence.”
 
 “Name! Your name!” a voice shouted, and instantly the cry was taken up
-by others, until the multitude rang with the question.
 
 He could not answer that excited mob as he had answered the president.
 It was necessary to compromise, and he did so, happily. “My name,” said
@@ -2742,7 +2683,6 @@ just as the philosophies upon which this new movement was based had
 their source in thinkers extracted from the bourgeoisie, so the need
 to adopt those philosophies to the practical purposes of life was most
 acutely felt at present by those bourgeois who found themselves debarred
-by Privilege from the expansion their wealth permitted them. If it might
 be said of Andre-Louis that he had that day lighted the torch of the
 Revolution in Nantes, it might with even greater truth be said that the
 torch itself was supplied by the opulent bourgeoisie.
@@ -2766,7 +2706,6 @@ deputies of clergy and nobility together.
 
 
 
-CHAPTER IX. THE AFTERMATH
 
 Dusk of the following day was falling when the homing Andre-Louis
 approached Gavrillac. Realizing fully what a hue and cry there would
@@ -3058,7 +2997,7 @@ of this traveller.
 the fellow’s startled countenance.
 
 “And well you may be with the gallows waiting for you at Rennes,”
- growled the ferryman. “Since you’ve been so foolish as to come back to
+growled the ferryman. “Since you’ve been so foolish as to come back to
 Gavrillac, you had better go again as quickly as you can. I will say
 nothing of having seen you.”
 
@@ -3185,11 +3124,9 @@ in quest of the road.
 
 
 
-BOOK II: THE BUSKIN
 
 
 
-CHAPTER I. THE TRESPASSERS
 
 Coming presently upon the Redon road, Andre-Louis, obeying instinct
 rather than reason, turned his face to the south, and plodded wearily
@@ -3371,7 +3308,6 @@ me, Leandre. Save me! You are my only hope.”
 
 Andre-Louis was conscious of a pang of disappointment. She failed to
 soar to the heights he had expected of her. She was evidently infected
-by the stilted manner of her ridiculous lover. There was an atrocious
 lack of sincerity about her words. They touched his mind, but left his
 heart unmoved. Perhaps this was because of his antipathy to M. Leandre
 and to the issue involved.
@@ -3682,7 +3618,7 @@ the gaol for thieves.”
 “Technically, I suppose you are right,” sighed Andre-Louis, and fell to
 combing his hair again, still looking up into the sergeant’s face. “But
 we have sinned in ignorance. We are grateful to you for the warning.”
- He passed the comb into his left hand, and with his right fumbled in
+He passed the comb into his left hand, and with his right fumbled in
 his breeches’ pocket, whence there came a faint jingle of coins. “We are
 desolated to have brought you out of your way. Perhaps for their trouble
 your men would honour us by stopping at the next inn to drink the health
@@ -3692,7 +3628,7 @@ proper.”
 Some of the clouds lifted from the sergeant’s brow. But not yet all.
 
 “Well, well,” said he, gruffly. “But you must decamp, you understand.”
- He leaned from the saddle to bring his recipient hand to a convenient
+He leaned from the saddle to bring his recipient hand to a convenient
 distance. Andre-Louis placed in it a three-livre piece.
 
 “In half an hour,” said Andre-Louis.
@@ -3707,7 +3643,7 @@ sternness.
 
 “After all,” said he, “it is none of our business to play the tipstaves
 for M. de La Tour d’Azyr. We are of the marechaussee from Rennes.”
- Andre-Louis’ eyelids played him false by flickering. “But if you linger,
+Andre-Louis’ eyelids played him false by flickering. “But if you linger,
 look out for the gardes-champetres of the Marquis. You’ll find them not
 at all accommodating. Well, well--a good appetite to you, monsieur,” said
 he, in valediction.
@@ -3793,7 +3729,6 @@ man’s shoulders. “You shall stay to breakfast with us.”
 
 
 
-CHAPTER II. THE SERVICE OF THESPIS
 
 They were, thought Andre-Louis, as he sat down to breakfast with them
 behind the itinerant house, in the bright sunshine that tempered the
@@ -3987,7 +3922,6 @@ cleverness responsible for the dissemination of many of these subversive
 new ideas. I think such writers should be suppressed.”
 
 “M. de La Tour d’Azyr would probably agree with you--the gentleman who
-by the simple exertion of his will turns this communal land into his own
 property.” And Andre-Louis drained his cup, which had been filled with
 the poor vin gris that was the players’ drink.
 
@@ -4130,7 +4064,6 @@ service of Thespis.
 
 
 
-CHAPTER III. THE COMIC MUSE
 
 The company’s entrance into the township of Guichen, if not exactly
 triumphal, as Binet had expressed the desire that it should be, was at
@@ -4285,7 +4218,7 @@ lamely.
 door for her, and bowing with an air which imposed upon her, although it
 was merely copied from Fleury of the Comedie Francaise, so often visited
 in the Louis le Grand days, he waved her in. “After you, ma demoiselle.”
- For greater emphasis he deliberately broke the word into its two
+For greater emphasis he deliberately broke the word into its two
 component parts.
 
 “I thank you, monsieur,” she answered, frostily, as near sneering as was
@@ -4607,7 +4540,6 @@ before M. Binet had recovered from his speechlessness.
 
 
 
-CHAPTER IV. EXIT MONSIEUR PARVISSIMUS
 
 Ar four o’clock on Monday afternoon the curtain rose on
 “Figaro-Scaramouche” to an audience that filled three quarters of the
@@ -4752,7 +4684,7 @@ a glass of Burgundy, tossed it off without a word, and sat thereafter
 staring into the empty glass.
 
 “It is of course the sort of thing that must always be happening to me,”
- he grumbled to no one in particular. The members of the company were all
+he grumbled to no one in particular. The members of the company were all
 standing in silence before him, sharing his dismay. “I might have known
 that this--or something like it--would occur to spoil the first vein of
 luck that I have found in years. Ah, well, it is finished. To-morrow we
@@ -4830,7 +4762,7 @@ fact, we shall play to-morrow night.”
 “Of yourself.”
 
 “I am flattered, sir. And in what capacity are you thinking of me?”
- There was something too sleek and oily in Binet’s voice for Andre-Louis’
+There was something too sleek and oily in Binet’s voice for Andre-Louis’
 taste.
 
 “I am thinking of you in the part of Scaramouche.”
@@ -4849,7 +4781,7 @@ taste.
 many men have had such a chance?”
 
 “It is a chance I do not covet, M. Binet. Shall we change the subject?”
- He was very frosty, as much perhaps because he scented in M. Binet’s
+He was very frosty, as much perhaps because he scented in M. Binet’s
 manner something that was vaguely menacing as for any other reason.
 
 “We’ll change the subject when I please,” said M. Binet, allowing a
@@ -4922,7 +4854,7 @@ to waste his energy futilely. He knew that in bodily strength he was no
 match at all for the heavy and powerful Pantaloon.
 
 “If I yield to your most eloquent and seductive persuasions, M. Binet,”
- said he, sweetly, “what guarantee do you give me that you will not sell
+said he, sweetly, “what guarantee do you give me that you will not sell
 me for twenty louis after I shall have served your turn?”
 
 “You have my word of honour for that.” M. Binet was emphatic.
@@ -4996,7 +4928,6 @@ outstretched hand. “No rancour?” M. Binet insisted.
 
 
 
-CHAPTER V. ENTER SCARAMOUCHE
 
 Dressed in the close-fitting suit of a bygone age, all black, from flat
 velvet cap to rosetted shoes, his face whitened and a slight up-curled
@@ -5350,7 +5281,6 @@ courage, and got drunk with the rest.
 
 
 
-CHAPTER VI. CLIMENE
 
 Diligent search among the many scenarios of the improvisers which have
 survived their day, has failed to bring to light the scenario of “Les
@@ -5708,7 +5638,6 @@ I might escort you...”
 
 “How could I prefer that, M. Scaramouche? Besides, we are both going the
 same way, and the streets are common to all. It is that I am overwhelmed
-by the unusual honour.”
 
 He looked into her piquant little face, and noted how obscured it was by
 its cloud of dignity. He laughed.
@@ -5851,7 +5780,6 @@ surrendered to him. Her face was pale, there was a glitter in her eyes,
 a curious smile upon her parted lips, and under its fichu-menteur her
 bosom rose and fell to complete the betrayal of her.
 
-By the hand he continued to hold, he drew her towards him. She came
 unresisting. He took the candle from her, and set it down on the
 sideboard by which she stood. The next moment her slight, lithe body was
 in his arms, and he was kissing her, murmuring her name as if it were a
@@ -5930,7 +5858,6 @@ palate.”
 
 
 
-CHAPTER VII. THE CONQUEST OF NANTES
 
 The Binet Troupe opened in Nantes--as you may discover in surviving
 copies of the “Courrier Nantais”--on the Feast of the Purification with
@@ -6293,7 +6220,6 @@ he addressed her familiarly by name, just as she had addressed him.
 
 
 
-CHAPTER VIII. THE DREAM
 
 “The door,” Aline commanded her footman, and “Mount here beside me,” she
 commanded Andre-Louis, in the same breath.
@@ -6524,7 +6450,6 @@ are married--married to that--?”
 you visit with your ignorant contempt is as good and pure as you are,
 Aline. She has wit and talent which have placed her where she is and
 shall carry her a deal farther. And she has the womanliness to be guided
-by natural instincts in the selection of her mate.”
 
 She was trembling with passion. She tugged the cord.
 
@@ -6599,7 +6524,6 @@ use him with the same unbecoming familiarity.
 
 
 
-CHAPTER IX. THE AWAKENING
 
 “Do you know,” said Climene, “that I am waiting for the explanation
 which I think you owe me?”
@@ -6910,7 +6834,6 @@ high words proceeding from Climene. When Andre-Louis again, and more
 insistently, enjoined prudence upon his betrothed, and begged her to
 beware how far she encouraged the advances of such a man as M. de La
 Tour d’Azyr, she became roundly abusive. She shocked and stunned him
-by her virulently shrewish tone, and her still more unexpected force of
 invective.
 
 He sought to reason with her, and finally she came to certain terms with
@@ -7332,7 +7255,6 @@ went out.
 
 
 
-CHAPTER X. CONTRITION
 
 Mlle. de Kercadiou walked with her aunt in the bright morning sunshine
 of a Sunday in March on the broad terrace of the Chateau de Sautron.
@@ -7419,7 +7341,7 @@ conduct has convinced me of my error.”
 that is being paid you? M. le Marquis will make you the first lady in
 Brittany. Yet, little fool that you are, and greater fool that Quintin
 is, you trifle with this extraordinary good fortune! Let me warn you.”
- She raised an admonitory forefinger. “If you continue in this stupid
+She raised an admonitory forefinger. “If you continue in this stupid
 humour M. de La Tour d’Azyr may definitely withdraw his offer and depart
 in justified mortification.”
 
@@ -7704,7 +7626,6 @@ me your friend in all things.”
 
 
 
-CHAPTER XI. THE FRACAS AT THE THEATRE FEYDAU
 
 Leaving his host to act as his plenipotentiary with Mademoiselle de
 Kercadiou, and to explain to her that it was his profound contrition
@@ -8175,7 +8096,6 @@ They turned to confront M. Binet. Moving with that noiseless tread of
 his, he had come up unheard behind them, and there he stood now in his
 scarlet suit of Pantaloon under a trailing bedgown, his little eyes
 glaring from either side of his false nose. But their attention was held
-by the voice of Scaramouche. He had stepped to the front of the stage.
 
 “He doubts it,” he was telling the audience. “But then this M. Leandre
 is himself akin to those who worship the worm-eaten idol of Privilege,
@@ -8373,11 +8293,9 @@ impossible that he should take the road in the garb of Scaramouche.
 
 
 
-BOOK III: THE SWORD
 
 
 
-CHAPTER I. TRANSITION
 
 “You may agree,” wrote Andre-Louis from Paris to Le Chapelier, in a
 letter which survives, “that it is to be regretted I should definitely
@@ -8414,7 +8332,6 @@ me merely proves that as a Stoic I am not a success.”
 There is also another letter of his written at about the same time
 to the Marquis de La Tour d’Azyr--a letter since published by M. Emile
 Quersac in his “Undercurrents of the Revolution in Brittany,” unearthed
-by him from the archives of Rennes, to which it had been consigned by
 M. de Lesdiguieres, who had received it for justiciary purposes from the
 Marquis.
 
@@ -8500,7 +8417,6 @@ write to her to that effect from Azyr a few days later. He tempered the
 blow by enclosing in discharge of all liabilities a bill on the Caisse
 d’Escompte for a hundred louis. Nevertheless it almost crushed the
 unfortunate and it enabled her father when he recovered to enrage her
-by pointing out that she owed this turn of events to the premature
 surrender she had made in defiance of his sound worldly advice. Father
 and daughter alike were left to assign the Marquis’ desertion, naturally
 enough, to the riot at the Feydau. They laid that with the rest to the
@@ -8542,9 +8458,8 @@ one in each angle of the saltire. Under the shield, in letters of gold,
 ran the legend:
 
 
-                     BERTRAND DES AMIS
 
-        Maitre en fait d’Armes des Academies du Roi
+Maitre en fait d’Armes des Academies du Roi
 
 Andre-Louis stood considering. He could claim, he thought, to possess
 the qualifications demanded. He was certainly young and he believed of
@@ -8630,7 +8545,6 @@ parchment--M. des Amis’ certificate from the King’s Academy. A bookcase
 occupied one corner, and near this, facing the last of the four windows
 that abundantly lighted the long room, there was a small writing-table
 and an armchair. A plump and beautifully dressed young gentleman stood
-by this table in the act of resuming coat and wig. M. des Amis sauntered
 over to him--moving, thought Andre-Louis, with extraordinary grace and
 elasticity--and stood in talk with him whilst also assisting him to
 complete his toilet.
@@ -8956,7 +8870,6 @@ than to any lessons received.
 
 
 
-CHAPTER II. QUOS DEUS VULT PERDERE
 
 Once again, precisely as he had done when he joined the Binet troupe,
 did Andre-Louis now settle down whole-heartedly to the new profession
@@ -9122,7 +9035,6 @@ Andre-Louis looked on, and grew afraid. Marat’s pamphlet had impressed
 him. It had expressed what himself he had expressed more than half a
 year ago to the mob at Rennes. This crowd, he felt must be restrained.
 That hot-headed, irresponsible stutterer would have the town in a blaze
-by night unless something were done. The young man, a causeless advocate
 of the Palais named Camille Desmoulins, later to become famous, leapt
 down from his table still waving his sword, still shouting, “To arms!
 Follow me!” Andre-Louis advanced to occupy the improvised rostrum, which
@@ -9220,7 +9132,6 @@ Revolution that was now launched in earnest.
 
 
 
-CHAPTER III. PRESIDENT LE CHAPELIER
 
 The ferment of Paris which, during the two following days, resembled an
 armed camp rather than a city, delayed the burial of Bertrand des Amis
@@ -9262,7 +9173,6 @@ some six hours daily, and every day he brought arrears of lassitude
 from yesterday until he was in danger of succumbing under the increasing
 burden of fatigue. In the end he took an assistant to deal with
 beginners, who gave the hardest work. He found him readily enough
-by good fortune in one of his own pupils named Le Duc. As the summer
 advanced, and the concourse of pupils steadily increased, it became
 necessary for him to take yet another assistant--an able young instructor
 named Galoche--and another room on the floor above.
@@ -9346,7 +9256,7 @@ Yet no such question was asked when a couple of days later the King,
 alone and unguarded save by the representatives of the Nation, came to
 Paris to complete the peacemaking, the surrender of Privilege. The Court
 was filled with terror by the adventure. Were they not the “enemy,”
- these mutinous Parisians? And should a King go thus among his enemies?
+these mutinous Parisians? And should a King go thus among his enemies?
 If he shared some of that fear, as the gloom of him might lead us to
 suppose, he must have found it idle. What if two hundred thousand men
 under arms--men without uniforms and with the most extraordinary motley
@@ -9496,7 +9406,6 @@ He broke off to demand Andre-Louis’ news of himself.
 “You gave me no clue to your whereabouts; you represented yourself as on
 the verge of destitution and withheld from me the means to come to your
 assistance. I have been troubled in mind about you, Andre. Yet to judge
-by your appearance I might have spared myself that. You seem prosperous,
 assured. Tell me of it.”
 
 Andre-Louis told him frankly all that there was to tell. “Do you know
@@ -9581,7 +9490,6 @@ and drove away.
 
 
 
-CHAPTER IV. AT MEUDON
 
 Later in the week he received a visit from Le Chapelier just before
 noon.
@@ -10183,7 +10091,6 @@ Aline, waved to her and issued a command.
 
 
 
-CHAPTER V. MADAME DE PLOUGASTEL
 
 The postilion drew rein, and the footman opened the door, letting
 down the steps and proffering his arm to his mistress to assist her to
@@ -10204,7 +10111,6 @@ he thought, had he but looked, have recognized her without prompting
 anywhere at any time, and this although it was some sixteen years since
 last he had seen her. The sight of her now brought it all back to him--a
 treasured memory that had never permitted itself to be entirely overlaid
-by subsequent events.
 
 When he was a boy of ten, on the eve of being sent to school at Rennes,
 she had come on a visit to his godfather, who was her cousin. It
@@ -10350,7 +10256,7 @@ desire that you come with me to thank her.”
 reenter the academy.
 
 “What are your engagements? You are not by chance a fencing-instructor?”
- M. de Kercadiou had observed the leather waistcoat and the foil tucked
+M. de Kercadiou had observed the leather waistcoat and the foil tucked
 under Andre-Louis’ arm.
 
 “I am the master of this academy--the academy of the late Bertrand des
@@ -10390,7 +10296,7 @@ is hard work.”
 “I have reason to be satisfied. I have far more than I need.”
 
 “Then you’ll be able to do your share in paying off this national debt,”
- growled the nobleman, well content that--as he conceived it--some of the
+growled the nobleman, well content that--as he conceived it--some of the
 evil Andre-Louis had helped to sow should recoil upon him.
 
 Then the talk veered to Mme. de Plougastel. M. de Kercadiou, Andre-Louis
@@ -10613,7 +10519,6 @@ are to remain friends.”
 
 
 
-CHAPTER VI. POLITICIANS
 
 One morning in August the academy in the Rue du Hasard was invaded by Le
 Chapelier accompanied by a man of remarkable appearance, whose
@@ -10709,7 +10614,6 @@ now...”
 mincing--sort of French. He’ll probably understand you.”
 
 Le Chapelier went on without heeding the interruption. “This violation
-by the King of the obvious rights of a country engaged in framing a
 constitution that shall make it free has shattered every philanthropic
 illusion we still cherished. There are those who go so far as to
 proclaim the King the vowed enemy of France. But that, of course, is
@@ -10821,7 +10725,7 @@ you did not know me. But you, Isaac--to bring this gentleman here with
 such a proposal!”
 
 Le Chapelier was overwhelmed in confusion. “I confess I hesitated,”
- he apologized. “But M. Danton would not take my word for it that the
+he apologized. “But M. Danton would not take my word for it that the
 proposal might not be to your taste.”
 
 “I would not!” Danton broke in, bellowing. He swung upon Le Chapelier,
@@ -10933,7 +10837,6 @@ short work. But there remained the legal obstacle he had expounded to
 Danton. There was still a law in France; the same law which he had
 found it impossible to move against La Tour d’Azyr, but which would move
 briskly enough against himself in like case. And then, suddenly, as if
-by inspiration, he saw the way--a way which if adopted would probably
 bring La Tour d’Azyr to a poetic justice, bring him, insolent,
 confident, to thrust himself upon Andre-Louis’ sword, with all the odium
 of provocation on his own side.
@@ -11015,7 +10918,6 @@ for a friend.”
 
 
 
-CHAPTER VII. THE SPADASSINICIDES
 
 After an absence of rather more than a week, M. le Marquis de La Tour
 d’Azyr was back in his place on the Cote Droit of the National Assembly.
@@ -11434,7 +11336,6 @@ The silence was complete. Andre-Louis sat down.
 
 
 
-CHAPTER VIII. THE PALADIN OF THE THIRD
 
 M. Le Chevalier de Chabrillane had been closely connected, you will
 remember, with the iniquitous affair in which Philippe de Vilmorin
@@ -11548,7 +11449,7 @@ consideration which no oratorical triumphs could ever have procured him.
 
 And from the Assembly the fame of him oozed out gradually over Paris.
 Desmoulins wrote a panegyric upon him in his paper “Les Revolutions,”
- wherein he dubbed him the “Paladin of the Third Estate,” a name
+wherein he dubbed him the “Paladin of the Third Estate,” a name
 that caught the fancy of the people, and clung to him for some time.
 Disdainfully was he mentioned in the “Actes des Apotres,” the mocking
 organ of the Privileged party, so light-heartedly and provocatively
@@ -11738,7 +11639,6 @@ ago.
 
 
 
-CHAPTER IX. TORN PRIDE
 
 M. de La Tour d’Azyr’s engagement in the country on that Sunday was with
 M. de Kercadiou. To fulfil it he drove out early in the day to Meudon,
@@ -12127,7 +12027,7 @@ time. “And that you... that you... And what of Mademoiselle Binet, whom
 he was to have married?”
 
 He stared at her for a moment in sheer surprise. “Was to have married?”
- he repeated incredulously, dismayed almost.
+he repeated incredulously, dismayed almost.
 
 “You did not know that?”
 
@@ -12223,7 +12123,6 @@ breast.
 
 
 
-CHAPTER X. THE RETURNING CARRIAGE
 
 M. de Kercadiou wrote a letter.
 
@@ -12599,9 +12498,7 @@ carriage floor behind Mme. de Plougastel.
 
 
 
-CHAPTER XI. INFERENCES
 
-By fast driving Andre-Louis had reached the ground some minutes ahead
 of time, notwithstanding the slight delay in setting out. There he
 had found M. de La Tour d’Azyr already awaiting him, supported by a M.
 d’Ormesson, a swarthy young gentleman in the blue uniform of a captain
@@ -12886,7 +12783,6 @@ Vilmorin.
 
 
 
-CHAPTER XII. THE OVERWHELMING REASON
 
 M. de La Tour d’Azyr was seen no more in the Manege--or indeed in Paris
 at all--throughout all the months that the National Assembly remained in
@@ -13065,7 +12961,6 @@ He saluted her and stepped back. “Section Bondy, Rue des Morts,” he bade
 the driver.
 
 Madame sank into her seat again, in a state of agitation fully shared
-by mademoiselle. Rougane set himself to pacify and reassure them. The
 section would put the matter in order. They would most certainly be
 accorded a permit. What possible reason could there be for refusing
 them? A mere formality, after all!
@@ -13652,7 +13547,6 @@ to do more to-night.”
 
 
 
-CHAPTER XIII. SANCTUARY
 
 Into the late afternoon of that endless day of horror with its perpetual
 alarms, its volleying musketry, rolling drums, and distant muttering
@@ -13681,10 +13575,10 @@ the Rue du Paradis, chanting the song of Marseilles--a song new to Paris
 in those days:
 
 
-    Allons, enfants de la patrie!
-    Le jour de gloire est arrive
-    Contre nous de la tyrannie
-    L’etendard sanglant est leve.
+Allons, enfants de la patrie!
+Le jour de gloire est arrive
+Contre nous de la tyrannie
+L’etendard sanglant est leve.
 
 Nearer it came, raucously bawled by some hundreds of voices, a dread
 sound that had come so suddenly to displace at least temporarily
@@ -13975,7 +13869,6 @@ She rose suddenly. She was trembling.
 
 
 
-CHAPTER XIV. THE BARRIER
 
 That gift of laughter of his seemed utterly extinguished. For once there
 was no gleam of humour in those dark eyes, as they continued to consider
@@ -14110,7 +14003,6 @@ any man could have to guide him. I say this for your comfort, madame my
 mother.”
 
 She sprang away from him with a startled cry. Beyond him in the shadows
-by the door a pale figure shimmered ghostly. It advanced into the light,
 and resolved itself into Aline. She had come in answer to that forgotten
 summons madame had sent her by Jacques. Entering unperceived she had
 seen Andre-Louis in the embrace of the woman whom he addressed as
@@ -14130,7 +14022,7 @@ which one can be sure of being received.” He said it without bitterness,
 and having said it stooped to kiss her hand.
 
 “You can forgive me what is past, I hope, since I failed of my purpose,”
- he said gently, half-pleading. “I could not have come to you pretending
+he said gently, half-pleading. “I could not have come to you pretending
 that the failure was intentional--a compromise between the necessities of
 the case and your own wishes. For it was not that. And yet, you do not
 seem to have profited by my failure. You are still a maid.”
@@ -14353,7 +14245,6 @@ ground, and crouched there sobbing at the feet of M. de La Tour d’Azyr.
 
 
 
-CHAPTER XV. SAFE-CONDUCT
 
 Across the body of that convulsively sobbing woman, the mother of one
 and the mistress of the other, the eyes of those mortal enemies met,
@@ -14403,7 +14294,7 @@ when to induce him to come here and save me he was forced to tell him.”
 “But I, Therese?” the Marquis insisted. “It was my right to know.”
 
 “Your right? What could you have done? Acknowledge him? And then? Ha!”
- It was a queer, desperate note of laughter. “There was Plougastel; there
+It was a queer, desperate note of laughter. “There was Plougastel; there
 was my family. And there was you... you, yourself, who had ceased to
 care, in whom the fear of discovery had stifled love. Why should I have
 told you, then? Why? I should not have told you now had there been
@@ -14470,7 +14361,6 @@ but I also contend, and you have yet to prove me wrong, that it is
 better so for all the world; that, indeed, no other conceivable society
 is possible. Every human society must of necessity be composed of
 several strata. You may disturb it temporarily into an amorphous whole
-by a revolution such as this; but only temporarily. Soon out of the
 chaos which is all that you and your kind can ever produce, order must
 be restored or life will perish; and with the restoration of order comes
 the restoration of the various strata necessary to organized society.
@@ -14502,7 +14392,6 @@ the Utopia of his dreams a moment nearer realization.
 
 “After that. You determined that the sweetest vengeance would be to
 frustrate my ends by reviving in yourself the voice that I had silenced,
-by yourself carrying forward the fantastic apostleship of equality that
 was M. de Vilmorin’s. You lacked the vision that would have shown you
 that God did not create men equals. Well, you are in case to-night to
 judge which of us was right, which wrong. You see what is happening here
@@ -14622,7 +14511,6 @@ the Emperor of Austria.
 
 
 
-CHAPTER XVI. SUNRISE
 
 Andre-Louis took the air next morning on the terrace at Meudon. The hour
 was very early, and the newly risen sun was transmuting into diamonds
@@ -14699,7 +14587,6 @@ be the nobles, the clergy, the bourgeoisie, or the proletariat. For
 government by any one class is fatal to the welfare of the whole. Two
 years ago our ideal seemed to have been realized. The monopoly of power
 had been taken from the class that had held it too long and too unjustly
-by the hollow right of heredity. It had been distributed as evenly as
 might be throughout the State, and if men had only paused there, all
 would have been well. But our impetus carried us too far, the privileged
 orders goaded us on by their very opposition, and the result is the
