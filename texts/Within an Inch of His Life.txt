@@ -1,30 +1,5 @@
 
 
-
-
-
-WITHIN AN INCH OF HIS LIFE
-
-by Emile Gaboriau
-
-     PREPARER’S NOTE
-
-     This text was prepared from a 1913 edition, published by Charles
-     Scribner’s Sons, New York.
-
-
-
-
-FIRST PART--FIRE AT VALPINSON
-
-
-
-These were the facts:--
-
-
-
-I.
-
 In the night from the 22nd to the 23rd of June, 1871, towards one
 o’clock in the morning, the Paris suburb of Sauveterre, the principal
 and most densely populated suburb of that pretty town, was startled by
@@ -288,15 +263,15 @@ said,--
 cool! Remember that the poet advises us, in misfortune never to lose our
 balance of mind:--
 
-     “‘AEquam, memento, rebus in arduis,
-     Sevare mentem.’”
+“‘AEquam, memento, rebus in arduis,
+Sevare mentem.’”
 
 “Incendiaries have set Valpinson on fire!” broke in the mayor.
 
 “You do not say so? Great God!
 
-     “‘Jupiter,
-     Quod verbum audio.’”
+“‘Jupiter,
+Quod verbum audio.’”
 
 “More than that. Count Claudieuse has been shot, and by this time he is
 probably dead.”
@@ -403,7 +378,6 @@ impatient to be off; my carriage is ready; let us go!”
 
 
 
-II.
 
 In a straight line it is only a mile from Sauveterre to Valpinson; but
 that mile is as long as two elsewhere. M. Seneschal, however, had a good
@@ -417,7 +391,7 @@ road, and pulling the two engines, together with the heavy cart on which
 they had piled up their ladders and other tools.
 
 “Keep up, my friends!” said the mayor as he passed them,--“keep up!”
- Three minutes farther on, a peasant on horseback appeared in the dark,
+Three minutes farther on, a peasant on horseback appeared in the dark,
 riding along like a forlorn knight in a romance. M. Daubigeon ordered
 him to halt. He stopped.
 
@@ -488,7 +462,6 @@ his daughter had brought her husband fifty thousand dollars.
 Next they had it that the bride was fearfully ugly, infirm, or at least
 hunchback, perhaps idiotic, or, at all events, of frightful temper.
 
-By no means. She had come down; and everybody was amazed at her noble,
 quiet beauty. She had conversed with them, and charmed everybody.
 
 Was it really a love-match, as people called it at Sauveterre? Perhaps
@@ -711,9 +684,7 @@ assistance, from this moment, in the name of the Law.”
 
 
 
-III.
 
-By this single phrase M. Galpin made himself master of the situation,
 and reduced the doctor to an inferior position, in which, it is true, he
 had the mayor and the commonwealth attorney to bear him company. There
 was nothing now to be thought of, but the crime that had been committed,
@@ -1093,7 +1064,6 @@ Some twenty years ago, a wealthy land-owner in Brechy had sent to the
 nearest town for half a dozen painters, whom he kept at his house nearly
 a whole summer, painting and decorating his newly-built house. One of
 these men had seduced a girl in the neighborhood, whom he had bewitched
-by his long white blouse, his handsome brown mustache, his good spirits,
 gay songs, and flattering speeches. But, when the work was done, the
 tempter had flown away with the others, without thinking any more of the
 poor girl than of the last cigar which he had smoked.
@@ -1182,7 +1152,7 @@ He could be intrusted with certain messages: he could water the flowers,
 summon a servant, or even carry a letter to the post-office at Brechy.
 His progress in this respect was so marked, that some of the more
 cunning peasants began to suspect that Cocoleu was not so “innocent,”
- after all, as he looked, and that he was cleverly playing the fool in
+after all, as he looked, and that he was cleverly playing the fool in
 order to enjoy life easily.
 
 “We have him at last,” cried several voices at once. “Here he is; here
@@ -1210,11 +1180,9 @@ quick!”
 
 
 
-IV.
 
 M. Galpin and the doctor had both considered it a point of honor who
 should show the most perfect indifference; and thus they had betrayed
-by no sign their curiosity to know what was going on out doors. Dr.
 Seignebos was on the point of resuming the operation; and, as coolly as
 if he had been in his own rooms at home, he was washing the sponge which
 he had just used, and wiping his instruments. The magistrate, on the
@@ -1630,7 +1598,6 @@ and I know it. He has told me so himself.”
 
 
 
-V.
 
 There was not a person in the whole district who did not know of what
 a fearful disease poor Cocoleu was suffering; and everybody knew, also,
@@ -2145,7 +2112,6 @@ leave me alone, so as to enable me to do my duty to him.”
 
 
 
-VI.
 
 There was nothing more to be done for the magistrate, the commonwealth
 attorney, or the mayor. The doctor might assuredly have used more polite
@@ -2469,7 +2435,6 @@ of its perpetual babbling.
 
 
 
-VII.
 
 It was seven o’clock when the carriage containing the justice drove into
 the courtyard at Boiscoran,--a vast court, planted with lime-trees, and
@@ -2589,7 +2554,6 @@ adding that he would take a little walk, and undress without my help.”
 “No. My master probably took it to his room.”
 
 M. Daubigeon was about to make a remark, when the magistrate stopped him
-by a gesture, and eagerly asked,--
 
 “How long is it since your master and Count Claudieuse have ceased
 seeing each other?”
@@ -2680,7 +2644,6 @@ Then, turning again to Anthony, he said,--
 
 
 
-VIII.
 
 In spite of its grand feudal air, the chateau at Boiscoran was, after
 all, little more than a bachelor’s modest home, and in a very bad state
@@ -2708,7 +2671,7 @@ within,--
 “But, sir”--
 
 “Let me sleep, rascal. I have not been able to close an eye till now.”
- The magistrate, becoming impatient, pushed the servant aside, and,
+The magistrate, becoming impatient, pushed the servant aside, and,
 seizing the door-knob tried to open it; it was locked inside. But he
 lost no time in saying,--
 
@@ -2767,7 +2730,6 @@ gone to bed the night before. His clothes, his boots, his shirt, his
 waistcoat, and his straw hat lay scattered about on the chairs and
 on the floor. He wore those light gray trousers, which had been
 succcessively seen and recognized by Cocoleu, by Ribot, by Gaudry, and
-by Mrs. Courtois.
 
 “Now, sir,” began M. de Boiscoran, with that slight angry tone of voice
 which shows that a man thinks a joke has been carried far enough, “will
@@ -3016,10 +2978,8 @@ M. Galpin stopped him by a gesture.
 “And the proof is, that, about eleven o’clock, you were hurriedly
 crossing the forest of Rochepommier.”
 
-“I?”
 
 “Yes, you! And do not say No; for there are your trousers torn to pieces
-by the thorns and briers through which you must have made your way.”
 
 “There are briers elsewhere as well as in the forest.”
 
@@ -3075,7 +3035,6 @@ Jacques de Boiscoran, are the incendiary and the assassin.”
 
 
 
-IX.
 
 M. de Boiscoran looked around him like a man who has suddenly been
 seized with vertigo, pale, as if all his blood had rushed to his heart.
@@ -3248,7 +3207,6 @@ that is holy in the world, I am innocent.”
 “Be good enough, then, to dress, sir, and to follow the gendarmes.”
 
 Without a word, M. de Boiscoran went into his dressing-room, followed
-by his servant, who carried him his clothes. M. Galpin was so busy
 dictating to the clerk the latter part of the examination, that he
 seemed to forget his prisoner. Old Anthony availed himself of this
 opportunity.
@@ -3443,11 +3401,9 @@ close confinement.
 
 
 
-SECOND PART--THE BOISCORAN TRIAL
 
 
 
-I.
 
 The Paris house of the Boiscoran family, No. 216 University Street, is
 a house of modest appearance. The yard in front is small; and the few
@@ -3548,7 +3504,6 @@ against him. When examined, hardly any defence. Just arrested and
 carried to jail. In despair. What must I do?”
 
 The marchioness had feared lest the marquis should have been crushed
-by this despatch, which in its laconic terms betrayed Anthony’s abject
 terror. But it was not so. He put it back on the table in the calmest
 manner, and said, shrugging his shoulders,--
 
@@ -3668,7 +3623,6 @@ But the marchioness was not convinced yet.
 “Has Jacques hinted at any thing?”
 
 “No. I only know this. Last year, at the Duchess of Champdoce’s, I met
-by chance the Countess Claudieuse and her children. The young woman is
 perfectly charming; and, as we were going to give a ball the week after,
 it occurred to me to invite her at once. She refused, and did so in such
 an icy, formal manner, that I did not insist.”
@@ -3722,7 +3676,6 @@ to marry his cousin Lavarande. Know nothing except that Jacques is
 innocent. Abominable intrigue! Grandpa Chandore and I will do what can
 be done. Your help indispensable. Come, come!
 
-“DIONYSIA CHANDORE.”
 
 “Ah, my son is lost!” cried the marchioness with tears in her eyes. The
 marquis, however, had recovered already from the shock.
@@ -3818,7 +3771,6 @@ Boiscoran and Manuel Folgat took their seats in the train for Orleans.
 
 
 
-II.
 
 The railway which connects Sauveterre with the Orleans line enjoys a
 certain celebrity on account of a series of utterly useless curves,
@@ -3968,7 +3920,6 @@ cap, came up to them at this moment.
 “Very well,” replied the marchioness.
 
 And bowing to the good people of Sauveterre, who were quite dumfounded
-by her assurance, she said,--
 
 “Pardon me if I leave you so soon; but M. de Chandore expects us. I
 shall, however, be happy to call upon you soon, on my son’s arm.”
@@ -4127,7 +4078,6 @@ house. She got up, rushed into the hall, and cried,--
 
 
 
-III.
 
 We cannot do violence to our natural feelings without paying for it. The
 marchioness had nearly fainted when she could at last take refuge in the
@@ -4169,7 +4119,6 @@ For at all the windows curious eyes were peeping through the blinds.
 He drew them into the sitting-room. Poor M. Folgat was sorely
 embarrassed what to do with himself. No one seemed to be aware of his
 existence. He followed them, however. He entered the room, and standing
-by the door, sharing the general excitement, he was watching by turns,
 Dionysia, M. de Chandore, and the two spinsters.
 
 Dionysia was then twenty years old. It could not be said that she was
@@ -4380,7 +4329,6 @@ that he had no time to think. He had to provide for the recovery and
 the transportation of the remains of the two unfortunate victims of the
 fire; he had to receive the mother of one, and the widow and children of
 the other, and to listen to their complaints, and try to console them
-by promising the former a small pension, and the latter some help in the
 education of their children. Then he had to give directions to have the
 wounded men brought home; and, after that, he had gone out in search
 of a house for Count Claudieuse and his wife, which had given him much
@@ -4504,7 +4452,6 @@ mysteries of complicated suits. He wound up by saying,--
 will certainly know how to appreciate? He said in so many words, ‘Galpin
 could not but order the arrest of M. de Boiscoran. Is he guilty? I do
 not know what to think of it. The accusation is overwhelming. He swears
-by all the gods that he is innocent; but he will not tell how he spent
 the night.’”
 
 M. de Chandore, in spite of his vigor, was near fainting, although his
@@ -4640,7 +4587,6 @@ his master had been arrested. What can have happened to him?”
 
 
 
-IV.
 
 M. Seneschal’s horse was perhaps one of the very best in the whole
 province; but M. de Chandore’s was still better. In less than fifty
@@ -5206,7 +5152,6 @@ The young girl closed his lips by a single word. She said,--
 
 
 
-V.
 
 Yes, the step taken by the Misses Lavarande was foolish. At the point
 which things had reached now, their going to see M. Galpin was perhaps
@@ -5457,7 +5402,6 @@ the victim of a fatal combination of circumstances, which could not but
 mislead justice. But be reassured, be hopeful. When the time comes, I
 shall be able to set matters right.
 
-“JACQUES.”
 
 “Well,” M. Galpin had really said after reading this letter.
 Nevertheless it had stung him to the quick.
@@ -5555,7 +5499,6 @@ doubt they want to enable him to escape by suicide the punishment of his
 crime. But, by the great God, that shall not be, if I can help it!”
 
 M. Folgat was, as we have seen, excessively annoyed at this step taken
-by the Misses Lavarande; but he did not let it be seen. It was very
 necessary that he at least should retain perfect presence of mind and
 calmness in this cruelly tried family. M. de Chandore, on the other
 hand, could not conceal his dissatisfaction so well; and, in spite of
@@ -5906,7 +5849,6 @@ down, saying,--
 
 
 
-VI.
 
 “The hospital in Sauveterre,” says the guide book, “is, in spite of
 its limited size, one of the best institutions of the kind in the
@@ -5917,8 +5859,6 @@ Philippe.”
 But what the guide book does not say is, that the hospital was endowed
 with three free beds for pregnant women, by Mrs. Seneschal, or that the
 two wings on both sides of the great entrance-gate have also been built
-by her liberality. One of these wings, the one on the right, is used
-by the janitor, a fine-looking old man, who formerly was beadle at the
 cathedral, and who loves to think of the happy days when he added to the
 splendor of the church by his magnificent presence, his red uniform, his
 gold bandelaire, his halbert, and his gold-headed cane.
@@ -6478,7 +6418,6 @@ his head, and his cane in his hand, she carried him off, saying,--
 
 
 
-VII.
 
 Although M. de Chandore was literally worshipping his grandchild on his
 knees, and had transferred all his hopes and his affections to her who
@@ -6631,7 +6570,7 @@ While he was thus replying, he had folded up his napkin, and lighted a
 candle.
 
 “Good-night!” he said to his sisters. “I won’t see you again to-night,”
- and, bowing deeply to Miss Chandore, he went out, his candle in his
+and, bowing deeply to Miss Chandore, he went out, his candle in his
 hand.
 
 “Where is your brother going?” Dionysia asked eagerly.
@@ -7018,7 +6957,6 @@ Your mother is here, with a Paris lawyer, a M. Folgat, who is devoted
 to your interests. What must we do? Give us your instructions. You can
 reply without fear, as you have _our_ book.
 
-“DIONYSIA.”
 
 “Read this,” she said to the clerk, when she had finished. But he did
 not avail himself of the permission. He folded the paper, and slipped it
@@ -7047,10 +6985,9 @@ will explain your visit to them.”
 
 
 
-VIII.
 
 “What can have happened to Dionysia, that she does not come back?”
- murmured Grandpapa Chandore, as he walked up and down the Square, and
+murmured Grandpapa Chandore, as he walked up and down the Square, and
 looked, for the twentieth time, at his watch. For some time the fear of
 displeasing his grandchild, and of receiving a scolding, kept him at
 the place where she had told him to wait for her; but at last it was too
@@ -7381,7 +7318,6 @@ terrible anxiety I cause you?
 note says I must be quick, and it takes so much time to pick out the
 words!
 
-“J.”
 
 When the letter had been read, M. Folgat and M. de Chandore sadly turned
 their heads aside, fearing lest Dionysia should read in their eyes the
@@ -7763,7 +7699,6 @@ hastened to her chamber to write the following letter:--
 upon Charity Lane, I will wait for you there. However late it may be
 when you get these lines, come!
 
-“DIONYSIA.”
 
 Then having put the note into an envelope, she called the old nurse,
 who had brought her up, and, with all the recommendations which extreme
@@ -7774,12 +7709,10 @@ Go! make haste!”
 
 
 
-IX.
 
 During the last twenty-four hours, Mechinet had changed so much, that
 his sisters recognized him no longer. Immediately after Dionysia’s
 departure, they had come to him, hoping to hear at last what was meant
-by that mysterious interview; but at the first word he had cried out
 with a tone of voice which frightened his sisters to death,--
 
 “That is none of your business! That is nobody’s business!” and he had
@@ -7789,7 +7722,6 @@ matter.
 
 When the decisive moment arrived, he discovered that he would never be
 able to get the note into M. de Boiscoran’s hands, without being caught
-by that lynx-eyed M. Galpin: as the letter was burning in his pocket, he
 saw himself compelled, after long hesitation, to appeal for help to the
 man who waited on Jacques,--to Trumence, in fine. The latter was, after
 all, a good enough fellow; his only besetting sin being unconquerable
@@ -8157,7 +8089,6 @@ Then joining the keeper’s wife, she disappeared inside the prison.
 
 
 
-X.
 
 The prison of Sauveterre is in the castle at the upper end of town, in a
 poor and almost deserted suburb. This castle, once upon a time of great
@@ -8165,7 +8096,6 @@ importance, had been dismantled at the time of the siege of Rochelle;
 and all that remains are a few badly-repaired ruins, ramparts with
 fosses that have been filled up, a gate surmounted by a small belfry, a
 chapel converted into a magazine, and finally two huge towers connected
-by an immense building, the lower rooms in which are vaulted.
 
 Nothing can be more mournful than these ruins, enclosed within an
 ivy-covered wall; and nothing would indicate the use that is made
@@ -8209,7 +8139,6 @@ great risk.
 
 “Neither seen nor known,” he cried. “No one is aware of your presence
 here. I was only afraid of that dog of a sentinel; and, just as you came
-by, I had managed to get him round the corner, offering him a drop of
 something to drink. I begin to hope I shall not lose my place.”
 
 Dionysia accepted these words as a summons to speak out.
@@ -8372,7 +8301,6 @@ hands of a man armed with unlimited power.
 If great sorrow was not sacred, to a certain degree, Dionysia might have
 heard all about Jacques. Nothing would have been easier. She would have
 been told by Blangin, who was watching M. de Boiscoran like a spy, and
-by his wife, who prepared his meals, through what anguish he had passed
 since his imprisonment.
 
 Stunned at first, he had soon recovered; and on Friday and Saturday he
@@ -8710,7 +8638,6 @@ And, dropping her veil over her face, she went away.
 
 
 
-XI.
 
 Baron Chandore had had one terrible night in his life, every minute of
 which he had counted by the ebbing pulse of his only son.
@@ -8998,7 +8925,6 @@ make known his wants, and express his feelings. He associates ideas,
 compares impressions, remembers things, and acquires experience. He is
 capable of cunning and dissimulation. He hates and likes and fears.
 If he is not always sociable, he is susceptible of being influenced
-by others. You can easily obtain perfect control over him. His
 inconsistency is remarkable; and still he shows, at times, invincible
 obstinacy. Finally, imbeciles are, on account of this semi-lucidity,
 often very dangerous. You find among them almost all those monomaniacs
@@ -9241,7 +9167,6 @@ only wait.”
 
 
 
-XII.
 
 The famous night of the fire at Valpinson had been a godsend to the
 good people of Sauveterre. They had henceforth an inexhaustible topic
@@ -9412,7 +9337,6 @@ Mechinet, contained only the few words,--
 
 “I shall expect M. Magloire to-morrow morning at nine.
 
-“J.”
 
 Ever since the day on which they had come to the conclusion that a false
 step might have the most fatal consequences, Jacques de Boiscoran’s
@@ -9581,7 +9505,6 @@ Countess Claudieuse!”
 
 
 
-XIII.
 
 If he had been less distressed, Jacques de Boiscoran would have seen how
 wisely he had acted in choosing for his defender the great advocate of
@@ -10258,7 +10181,6 @@ anybody’s inquiring for my reasons.”
 
 
 
-XIV.
 
 Jacques de Boiscoran was evidently anxious to have done with his
 recital, to come to that night of the fire at Valpinson, and to learn at
@@ -10752,7 +10674,6 @@ my relief, that Dionysia said to me,--
 “‘Something very pleasant must have happened to you, Jacques.’
 
 “Oh, yes, very pleasant! For the first time, I breathed freely as I sat
-by her side. I could love her now, without fearing that my love might be
 fatal to her.
 
 “This security did not last long. As I considered the matter, I thought
@@ -10781,7 +10702,6 @@ chair, and at every statement he uttered half-loud exclamations.
 
 “Under any other circumstances,” said Jacques, “I should have taken one
 of the two public roads in going to Valpinson. But troubled, as I was,
-by vague suspicions, I thought only of concealing myself and cut across
 the marshes. They were partly overflowed; but I counted upon my intimate
 familiarity with the ground, and my agility. I thought, moreover, that
 here I should certainly not be seen, and should meet no one. In this
@@ -11120,7 +11040,6 @@ prison chairs.
 
 
 
-XV.
 
 During all this time, they were suffering intense anxiety at M. de
 Chandore’s house. Ever since eight o’clock in the morning the two aunts,
@@ -11489,7 +11408,6 @@ And touching his friend on the shoulder,--for M. Magloire had been his
 friend for many years, and they were quite intimate,--he said,--
 
 “Ah! There I recognize my friend, the strange lawyer, who judges others
-by himself, and refuses to believe any thing bad. Oh, do not protest!
 For we love and honor you for that very faith, and are proud to see you
 among us Republicans. But I must confess you are not the man to bring
 light into such a dark intrigue. At twenty-eight you married a girl
@@ -11974,7 +11892,6 @@ unspeakable suffering,--
 
 
 
-XVI.
 
 M. Folgat and M. Magloire went to the courthouse; and, as they descended
 the steep street from M. de Chandore’s house, the Paris lawyer said,--
@@ -12235,7 +12152,6 @@ they went together to the prison.
 
 
 
-XVII.
 
 The night before, the jailer of Sauveterre had said to his wife, at
 supper,--
@@ -12771,7 +12687,6 @@ accompanied by M. Folgat and old Anthony.
 
 
 
-XVIII.
 
 At Sauveterre, everybody, M. de Chandore as much as Jacques himself,
 blamed the Marquis de Boiscoran. He persisted in remaining in Paris, it
@@ -12794,7 +12709,7 @@ trunks for the same evening. But at the last moment he had given
 counter-orders, saying that he had reconsidered, and would not go.
 
 “There is something extraordinary going on in the mind of the marquis,”
- said the servants to each other.
+said the servants to each other.
 
 The fact is, he spent his days, and a part of his nights, in his
 cabinet, half-buried in an arm-chair, resting little, and sleeping still
@@ -13125,7 +13040,6 @@ save us.”
 
 
 
-XIX.
 
 M. Folgat was already at work. He had confidence in his cause, a
 firm conviction of the innocence of his client, a desire to solve the
@@ -13675,7 +13589,6 @@ midnight.”
 
 
 
-XX.
 
 When the Marchioness de Boiscoran, on the day of her departure for
 Paris, had gone to see her son, Dionysia had asked her to let her go
@@ -13696,7 +13609,7 @@ expression of her face, every gesture, every intonation of voice, and
 could almost read her thoughts in her features.
 
 “Most assuredly Dionysia is meditating upon something very serious,”
- they said. “She is evidently calculating and preparing for a great
+they said. “She is evidently calculating and preparing for a great
 resolution.”
 
 The old gentleman thought so too, and asked her repeatedly,--
@@ -13951,7 +13864,6 @@ And she really let herself fall at his feet.
 
 Like all truly energetic men, Jacques recovered in the very excess of
 his emotion all his self-possession. Gathering his bewildered thoughts
-by a great effort of mind, he raised Dionysia, and carried her, almost
 fainting, to the rough prison bench; then, kneeling down by her side,
 and taking her hands he said,--
 
@@ -14048,7 +13960,6 @@ And, pressing his lips on Dionysia’s brow, he added,--
 
 
 
-XXI.
 
 “Have you heard the news?”
 
@@ -14080,7 +13991,7 @@ be bold enough to marry her.”
 
 Such were the comments on Dionysia’s visit to Jacques, when the news
 became known. It flew at once all over town. The ladies “in society”
- could not recover from it; for people are exceedingly virtuous at
+could not recover from it; for people are exceedingly virtuous at
 Sauveterre, and hence they claim the right of being exceedingly strict
 in their judgment. There is no trifling permitted on the score of
 propriety.
@@ -14273,7 +14184,6 @@ for their great piece of news. And yet, if they had been less eager to
 spread it, they might have witnessed, perhaps not entirely unmoved, this
 first interview between M. de Chandore and the Marquis de Boiscoran.
 
-By a natural impulse they had both hastened forward, and shook hands in
 the most energetic manner. Tears stood in their eyes. They opened their
 lips to speak; but they said nothing. Besides, there was no need of
 words between them. That close embrace had told Jacques’s father clearly
@@ -14374,7 +14284,6 @@ to M. Folgat,--
 
 
 
-XXII.
 
 It had just struck eleven o’clock, when the jailer, Blangin, entered
 Jacques’s cell in great excitement, and said,--
@@ -14421,7 +14330,7 @@ answer it? Could he ever tell Jacques the true secret of his hesitation?
 Turning his eyes aside, he answered,--
 
 “I hoped I should be able to serve you better by remaining in Paris.”
- But his embarrassment was too evident to escape Jacques.
+But his embarrassment was too evident to escape Jacques.
 
 “You did not doubt your own child, father?” he asked sadly.
 
@@ -14539,7 +14448,6 @@ Checking his excitement by an heroic effort, he said,--
 “But I did not come here to discuss this question; I came to tell you,
 that, whatever may happen, your father will stand by you, and that, if
 you must undergo the disgrace of appearing in court, I will take a seat
-by your side.”
 
 In spite of his own great trouble, Jacques had not been able to avoid
 seeing his father’s unusual excitement and his sudden vehemence. For
@@ -14643,7 +14551,7 @@ boasted of being well known all along the coast, and even far into the
 department. And what was most surprising was that people did not blame
 him much for his idleness. Good housewives in the country would, it is
 true, greet him with a “Well, what do you want here, good-for-nothing?”
- But they would rarely refuse him a bowl of soup or a glass of white
+But they would rarely refuse him a bowl of soup or a glass of white
 wine. His unchanging good-humor, and his obliging disposition, explained
 this forbearance. This man, who would refuse a well-paid job, was ever
 ready to lend a hand for nothing. And he was handy at every thing, by
@@ -14683,7 +14591,6 @@ Once more the marquis embraced his son, saying,--
 
 
 
-XXIII.
 
 The Marquis de Boiscoran had not been mistaken about M. Magloire. Much
 shaken by Dionysia’s statement, he had been completely overcome by M.
@@ -15368,11 +15275,11 @@ longer an overcoat and had not yet assumed the shape of a shortcoat.
 He was strumming on a wretched fiddle; but his voice was good, and the
 ballad he sang had the full flavor of the local accent:--
 
-    “In the spring, mother Redbreast
-     Made her nest in the bushes,
-            The good lady!
-     Made her nest in the bushes,
-            The good lady!”
+“In the spring, mother Redbreast
+Made her nest in the bushes,
+The good lady!
+Made her nest in the bushes,
+The good lady!”
 
 Instinctively M. Folgat was fumbling in his pocket for a few cents, when
 the musician came up to him, held out his hat as if to ask alms, and
@@ -15391,12 +15298,11 @@ garden-gate at M. de Chandore’s for me.”
 And, taking up his fiddle again, he wandered off listlessly, singing
 with his clear voice,--
 
-     “And a few, a few weeks later,
-     She had a wee, a wee bit birdy.”
+“And a few, a few weeks later,
+She had a wee, a wee bit birdy.”
 
 
 
-XXIV.
 
 The great lawyer of Sauveterre had been far more astonished at the
 unexpected and extraordinary meeting than M. Folgat. As soon as the
@@ -15767,7 +15673,6 @@ override every thing. Come!”
 
 
 
-XXV.
 
 Count Claudieuse and his wife had installed themselves, the day after
 the fire, in Mautrec Street. The house which the mayor had taken for
@@ -15816,7 +15721,6 @@ But M. Folgat paid little attention to these details. He only thought of
 the grave step on which he was venturing, and which he now only looked
 at in its full strangeness and extreme boldness. Perhaps he would have
 fled at the last moment if he could have done so; and he was only able
-by a supreme effort to control his excitement.
 
 At last he heard a rapid, light step in the hall; and almost immediately
 the Countess Claudieuse appeared. He recognized her at once, such as
@@ -16033,7 +15937,6 @@ bending over to him, he whispered into his ear,--
 
 “To settle a doubtful point. Hush! Let me manage it.”
 
-By this time the little girl had come up to them. It was a very graceful
 girl of eight or nine years, light haired, with large blue eyes, tall
 for her age, and displaying all the intelligence of a young girl,
 without her timidity.
@@ -16358,7 +16261,6 @@ your interview with the countess; and as to the rest, Silence!”
 
 
 
-XXVI.
 
 Like all very clever men, Dr. Seignebos made the mistake of thinking
 other people as cunning as he was himself. M. Galpin was, of course,
@@ -16427,8 +16329,8 @@ M. Daubigeon shrugged his shoulders, and said angrily,--
 “Of course I am nothing but an old fool, a maniac: I give it up; and I
 say, like Horace’s man,--
 
-     ‘Stultum me fateor, liceat concedere vires
-     Atque etiam insanum.’”
+‘Stultum me fateor, liceat concedere vires
+Atque etiam insanum.’”
 
 “You are joking. But what would have happened if I had listened to you?”
 
@@ -16679,7 +16581,7 @@ found his support before? We have quite a number of sick and poor, and
 very little room.”
 
 “We must wait, sister, till M. de Boiscoran’s trial is finished,”
- replied the magistrate.
+replied the magistrate.
 
 The lady superior looked resigned, and said,--
 
@@ -16722,7 +16624,6 @@ furnish it to him.”
 
 
 
-XXVII.
 
 At the same hour when the magistrate left the hospital, Dr. Seignebos
 and M. Folgat parted, after a frugal breakfast,--the one to visit his
@@ -17295,7 +17196,6 @@ And, curiosity getting the better of prudence, he followed him.
 
 
 
-XXVIII.
 
 Jacques de Boiscoran went straight to Mautrec Street. But he knew with
 what horror he was looked upon by the population; and in order to avoid
@@ -17399,7 +17299,6 @@ He burst out laughing, a strident, convulsive, terrible laughter.
 
 “And you,” he said, “you call me so?”
 
-By one great effort the Countess Claudieuse recovered her energy.
 
 “Yes,” she replied, “yes, I do! You cannot deny your crime to me. I
 know, I know the motives which the judges do not even guess. You thought
@@ -17682,7 +17581,6 @@ Overcome with horror, half mad, Jacques fled.
 
 
 
-XXIX.
 
 M. Folgat had just risen. Standing before his mirror, hung up to one of
 the windows in his room, he had just finished shaving himself, when the
@@ -18210,7 +18108,6 @@ The young advocate was prepared for this. He said,--
 
 
 
-XXX.
 
 “What scene? What witness? That is what I wanted to hear from you, and
 why I was waiting so impatiently for you,” said Dr. Seignebos to M.
@@ -18409,7 +18306,6 @@ clothes, and to let father know, and I am off.”
 
 Thus M. Folgat began, as far as in him lay, to prepare for future
 action, trying to counteract all the cunning measures of the prosecution
-by such combinations as were suggested to him by his experience and his
 genius.
 
 Did it follow from this, that his faith in ultimate success was strong
@@ -18509,11 +18405,11 @@ are preparing an overwhelming charge.”
 The day after, Dionysia opened “The Sauveterre Independent,” and found
 in it an announcement of the cases set down for each day,--
 
-     MONDAY..... Fraudulent bankruptcy, defalcation, forgery.
-     TUESDAY.... Murder, theft.
-     WEDNESDAY.. Infanticide, domestic theft.
-     THURSDAY... Incendiarism, and attempted assassination
-     (case of M. de Boiscoran).
+MONDAY..... Fraudulent bankruptcy, defalcation, forgery.
+TUESDAY.... Murder, theft.
+WEDNESDAY.. Infanticide, domestic theft.
+THURSDAY... Incendiarism, and attempted assassination
+(case of M. de Boiscoran).
 
 This was, therefore, the great day on which the good people of
 Sauveterre expected to enjoy the most delightful emotions. Hence there
@@ -18588,7 +18484,6 @@ counsel left him, saying,--
 
 
 
-XXXI.
 
 At last, in his dark cell, Jacques de Boiscoran saw the day break that
 was to decide his fate.
@@ -18601,15 +18496,11 @@ the gravity of the circumstances,” an evening edition, which a dozen
 newsboys cried out in the streets up to mid-night. And this was what it
 said,--
 
-ASSIZES AT SAUVETERRE.
 
-THURSDAY, 23.
 
 Presiding Judge.--M. DOMINI.
 
-ASSASSINATION! INCENDIARISM!
 
-[Special Correspondence of the Independent.]
 
 Whence this unusual commotion, this uproar, this great excitement, in
 our peaceful city? Whence these gatherings of our public squares, these
@@ -18685,7 +18576,6 @@ But soon they are no longer an object of curiosity.
 
 The attention of all is now directed towards a large table standing
 before the judges, and on which may be seen a number of articles covered
-by large red cloth.
 
 These are the articles to be used in evidence.
 
@@ -18753,7 +18643,6 @@ We shall not repeat them here, as all the incidents which they relate
 are well known to our readers.
 
 
-[Examination of the Accused.]
 
 PRESIDENT.--Accused, rise and answer clearly. During the preliminary
 investigation, you have refused to answer several questions. Now the
@@ -19241,7 +19130,6 @@ down by his coat. M. Folgat makes a sign to him, and he sits down again.
 P.--Sheriff, bring in Count Claudieuse.
 
 
-[Examination of Witnesses.]
 
 The small door through which the armorer Maucroy had been admitted opens
 once more, and Count Claudieuse enters. Supported and almost carried by
@@ -19513,7 +19401,6 @@ nor his counsel have any thing to add, the prosecuting attorney begins
 his speech.
 
 
-[The Charge.]
 
 M. Gransiere’s eloquence is so widely known, and so justly appreciated,
 that we need not refer to it here. We will only say that he surpassed
@@ -19691,7 +19578,6 @@ the whole assembly who does not shed tears.
 P.--The counsel for the defence.
 
 
-[Pleading.]
 
 As M. Magloire had so far alone taken an active part in the defence, it
 was generally believed that he would speak. But it was not so. M. Folgat
@@ -19774,11 +19660,9 @@ extenuating circumstances, sentenced to twenty years’ penal labor.
 
 
 
-THIRD PART--COCOLEU
 
 
 
-I.
 
 Thus M. Galpin triumphed, and M. Gransiere had reason to be proud of his
 eloquence. Jacques de Boiscoran had been found guilty.
@@ -19920,7 +19804,6 @@ opinion does dictate the verdict of the jury.
 content. I know Sauveterre by heart. I tell you public opinion is
 henceforth on our side.”
 
-By dint of perseverance they made their way, at last, out through the
 narrow door of the court-room, when one of the ushers stopped them.
 
 “They wish to see you,” said the man.
@@ -20365,7 +20248,6 @@ summoned the priest from Brechy.
 
 
 
-II.
 
 M. Daubigeon, the commonwealth attorney, learned that morning from his
 chief clerk what had happened, and how the proceedings in the Boiscoran
@@ -20872,7 +20754,6 @@ The count was going to step forward, as he said this; but he was dying.
 Great God, what a man! He fell forward, lying at full-length on the
 floor. Then I got frightened, and ran away.”
 
-By a very great effort only could the commonwealth attorney control
 his intense excitement. His voice, however, betrayed him as he asked
 Trumence, after a solemn pause,--
 
@@ -21148,7 +21029,6 @@ him here.”
 
 
 
-III.
 
 When Dionysia, after leaving the Countess Claudieuse, came back to
 Jacques’s parents and his friends, she said, radiant with hope,--
@@ -21432,7 +21312,6 @@ done in the court reserved for the use of the insane.
 Not two yards from the little window, Goudar and Cocoleu were sitting on
 a wooden bench in the bright sunlight.
 
-By long study and a great effort of will, Goudar had succeeded in giving
 to his face a most perfect expression of stupidity: even the people
 belonging to the hospital thought he was more idiotic than the other.
 
@@ -21626,7 +21505,6 @@ sovereign Judge.
 
 “May M. de Boiscoran pardon me as I pardon myself.
 
-“TRIVULCE COUNT CLAUDIEUSE.”
 
 “Poor man!” murmured M. Folgat.
 
@@ -21695,7 +21573,6 @@ Jacques was kneeling at her feet, overcome with gratitude and love.
 
 
 
-V.
 
 The next day the funeral of Count Claudieuse took place. His youngest
 daughter was buried at the same time; and in the evening the Countess
@@ -21715,8 +21592,8 @@ M. Daubigeon.
 Even the excellent commonwealth attorney laid aside on that day some of
 his usual gravity. He continually repeated,--
 
-     “Nunc est bibendum, nunc pede libero
-     Pulsanda tellus.”
+“Nunc est bibendum, nunc pede libero
+Pulsanda tellus.”
 
 And he really did drink his glass of wine, and opened the ball with the
 bride.

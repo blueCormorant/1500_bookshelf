@@ -1,40 +1,9 @@
 
 
-
-
-THE WANDERER’S NECKLACE
-
-by H. Rider Haggard
-
-
-First Published 1914.
-
-
-
-
-DEDICATION
-
-In memory of Oodnadatta and many wanderings oversea I offer these
-pictures from the past, my dear Vincent, to you, a lover of the present
-if an aspirant who can look upon the future with more of hope than fear.
-Your colleague,
-
-H. Rider Haggard. To Sir Edgar Vincent, K.C.M.G.
-
-Ditchingham,
-
-November, 1913.
-
-
-
-
-NOTE BY THE EDITOR
-
 It chances that I, the Editor of these pages--for, in truth, that is
 my humble function--have recovered a considerable knowledge of a bygone
 life of mine. This life ended in times that are comparatively recent,
 namely, early in the ninth century, as is fixed by the fact that the
-Byzantine Empress, Irene, plays a part in the story.
 
 The narrative, it will be observed, is not absolutely consecutive; that
 is to say, all the details are not filled in. Indeed, it has returned to
@@ -63,20 +32,15 @@ The Editor.
 
 
 
-THE WANDERER’S NECKLACE
 
 
 
 
-BOOK I
-
-AAR
 
 
 
-CHAPTER I
 
-THE BETROTHAL OF OLAF
+
 
 Of my childhood in this Olaf life I can regain but little. There come to
 me, however, recollections of a house, surrounded by a moat, situated in
@@ -181,7 +145,7 @@ stood trembling with hope and fear.
 
 “I have told you there is land enough for both of them, also the
 gold that came with his mother will be his, and that’s no small sum,”
- answered Thorvald.
+answered Thorvald.
 
 “He’s no warrior, but a skald,” objected Athalbrand again; “a silly
 half-man who makes songs and plays upon the harp.”
@@ -425,7 +389,6 @@ for among us Northmen to be told that he was afraid of anything was a
 deadly insult to a man.
 
 “If you were not my brother----” I began, then checked myself, for I was
-by nature easy-tempered, and went on: “It is true, Ragnar, I am not so
 fond of hunting as you are. Still, I think that there will be time to
 fight this bear and kill or be killed by it, before it grows dark, and
 if not I will return alone to-morrow morning.”
@@ -464,9 +427,7 @@ At this moment I held up my hand, and they stopped talking.
 
 
 
-CHAPTER II
 
-THE SLAYING OF THE BEAR
 
 Leaping from their horses, Ragnar and Steinar came to where I stood, for
 already I had dismounted and was pointing to the ground, which just here
@@ -497,7 +458,6 @@ some hundred yards farther on became dense birch forest. “I think it
 would be well to ride back to Aar, and return to-morrow morning with all
 whom we can gather. This is no task for three spears.”
 
-By this time I, Olaf, was springing from rock to rock up the gorge,
 following the bear’s track. For my brother’s taunts rankled in me and I
 was determined that I should kill this beast or die and thus show Ragnar
 that I feared no bear. So I called back to them over my shoulder:
@@ -571,7 +531,6 @@ understood. He threw his cap into the brute’s face, and then, after it
 had growled at him awhile, just as it dropped its great jaws to crunch
 Steinar, he found a bough and thrust it between them.
 
-By now I was behind the bear, and, smiting at its right leg below the
 knee, severed the tendon. Down it came, still hugging Steinar. I smote
 again with all my strength, and cut into its spine above the tail,
 paralysing it. It was a great blow, as it need to be to cleave the thick
@@ -946,7 +905,6 @@ Steinar, my fosterling, who, as it chances, are come in a good hour.”
 messengers--“have but just arrived from Agger with the news that your
 father, Hakon, and your half-brothers are all drowned. They say also
 that the folk of Agger have named you Hakon’s heir, as, indeed, you are
-by right of blood.”
 
 “Is that so?” exclaimed Steinar, bewildered. “Well, as I never saw my
 father or my brothers, and they treated me but ill, I cannot weep for
@@ -1004,9 +962,7 @@ Then his head fell forward on the table and he sank to sleep.
 
 
 
-CHAPTER III
 
-THE WANDERER’S NECKLACE
 
 On the morrow early I lay awake, for how could I sleep when Iduna rested
 beneath the same roof with me--Iduna, who, as her father had decreed,
@@ -1478,7 +1434,6 @@ dark with this mighty one whom we have robbed.”
 “Then stop and get it by yourself,” she answered, “for my lamp dies.”
 
 “At least, I will take the sword,” I exclaimed, and snatched at the belt
-by which it was girt about the body. The leather had rotted, and it came
 away in my hand.
 
 Holding it, I clambered over the stone after Freydisa, and followed her
@@ -1501,9 +1456,7 @@ future and memories of the past.”
 
 
 
-CHAPTER IV
 
-IDUNA WEARS THE NECKLACE
 
 I lay sleeping in my bed at Aar, the sword of the Wanderer by my side
 and his necklace beneath my pillow. In my sleep there came to me a very
@@ -1568,7 +1521,6 @@ indeed, the boat awaits you that shall take you down the river to the
 sea. All is discovered. My waiting-lady, the priestess, but now has told
 me that my father, the king, purposes to seize and throw you into prison
 to-morrow, and thereafter to put you on your trial for being beloved
-by a daughter of the royal blood, of which, as you are a foreign man,
 however noble you may be, the punishment is death. Moreover, if you are
 condemned, your doom will be my own. There is but one way in which to
 save my life, and that is by your flight, for if you fly it has been
@@ -1722,7 +1674,7 @@ upon this earth?”
 “No,” I answered, laughing. “Yet why should they not do so, as they live
 at all? If so, perhaps I am that Wanderer, in whose body I seemed to be,
 only then I am sure that the lady with the golden shells was not Iduna.”
- And again I laughed.
+And again I laughed.
 
 “No, Olaf, she was not Iduna, though perchance there was an Iduna, all
 the same. Tell me, did you see aught of that priestess who was with the
@@ -1773,7 +1725,6 @@ He tried to answer something, but the words seemed to choke in his
 throat and he turned away, leaving them unspoken.
 
 “Why,” I exclaimed, “one might think you were going to be married, not
-I.”
 
 “Aye,” broke in Iduna hurriedly. “The truth is that Steinar is jealous
 of me. How is it that you can make us all love you so much, Olaf?”
@@ -1817,7 +1768,7 @@ towards the hall, and one cried,
 “At last! Here comes the herald!”
 
 Another answered: “For a messenger of love he rides slowly and sadly.”
- And a silence fell on all that heard him.
+And a silence fell on all that heard him.
 
 The man, a stranger to us, arrived and said:
 
@@ -1846,7 +1797,6 @@ I have nursed in my breast, a viper that has bitten the hand which saved
 him from death; aye, you men of Agger, you have a viper for your lord.
 Iduna is a light-of-love upon whom all honest women should spit, who has
 broken her oath and sold herself for Steinar’s wealth and rule. I swear
-by Thor that, with your help, my friends and neighbours, I will be
 avenged upon all three of these. But for such vengeance preparations
 must be made, since Athalbrand and Steinar are strong. Moreover, they
 lie in an island, and can only be attacked by sea. Further, there is
@@ -1896,9 +1846,7 @@ against Steinar, who is my foster-brother,” I answered wearily.
 
 
 
-CHAPTER V
 
-THE BATTLE ON THE SEA
 
 On the morrow Thorvald, my father, sent messengers to the head men of
 Agger, telling them of all that he and his House had suffered at the
@@ -2176,7 +2124,6 @@ a fearful blow, drove in Athalbrand’s helmet and clove his skull in two,
 so that he died. But even as he fell, a man, it may have been friend
 or foe, for the moon was sinking and the darkness grew dense, thrust a
 spear into Ragnar’s back, and he was carried, dying, to his own vessel
-by those who remained to him.
 
 Then that fight ceased, for all Athalbrand’s people were dead or wounded
 to the death. Meanwhile, on the right, I was fighting the ship that
@@ -2397,9 +2344,7 @@ the prison of the temple.
 
 
 
-CHAPTER VI
 
-HOW OLAF FOUGHT WITH ODIN
 
 It was the eve of the Spring Feast of Odin. It comes back to me that at
 this feast it was the custom to sacrifice some beast to Odin and to lay
@@ -2874,15 +2819,11 @@ watching me as I went.
 
 
 
-BOOK II
-
-BYZANTIUM
 
 
 
-CHAPTER I
 
-IRENE, EMPRESS OF THE EARTH
+
 
 A gulf of blackness and the curtain lifts again upon a very different
 Olaf from the young northern lord who parted from Iduna at the place of
@@ -2921,7 +2862,6 @@ feel the weight of this same ancient blade.
 When I had finished looking at myself in the shield, I leaned upon the
 parapet staring at the sea and wondering how the plains of Aar looked
 that night beneath this selfsame moon, and whether Freydisa were dead
-by now, and whom Iduna had married, and if she ever thought of me, or if
 Steinar came to haunt her sleep.
 
 So I mused, till presently I felt a light touch upon my shoulder, and
@@ -3061,7 +3001,7 @@ mean about this necklace?”
 “I mean, Augusta, that I took it from a very ancient grave----”
 
 “That I can believe, for the jeweller who made it worked in old Egypt,”
- she interrupted.
+she interrupted.
 
 “----and thereafter I dreamed a dream,” I went on, “of the woman who
 wears the other half of it. I have not seen her yet, but when I do I
@@ -3144,13 +3084,11 @@ you take the Augusta’s pearls, which she left with me in error?”
 notice that two of the finest strings in the Empire are missing. Oh! you
 great northern child,” she added in a whisper, “keep the pearls, they
 are a gift, and worth a prince’s ransom; and take whatever else you can
-get, and keep that too.”[*]
 
-     [*] I have no further vision concerning these priceless
-     pearls and do not know what became of them. Perhaps I was
-     robbed of them during my imprisonment, or perhaps I gave
-     them to Heliodore or to Martina. Where are they now, I
-     wonder?--Editor.
+pearls and do not know what became of them. Perhaps I was
+robbed of them during my imprisonment, or perhaps I gave
+them to Heliodore or to Martina. Where are they now, I
+wonder?--Editor.
 
 Then, before I could answer her, she was gone.
 
@@ -3285,7 +3223,6 @@ I gave him a concession to import dried fruits into Byzantium--that
 is what he came to see me for--and now he’s dead. Well, my mother was
 right, for afterwards this poor beauty of mine took the fancy of the
 late Emperor, and, being very pious, he married me. So the Greek girl,
-by the will of God, became Augusta and the first woman in the world.”
 
 “By the will of God?” I repeated.
 
@@ -3346,7 +3283,7 @@ goddesses. Oh! of what do I talk? You’ll befriend me, will you not?”
 take your pay?”
 
 “Then thus I seal our friendship and here’s an earnest of the pay,”
- Irene said slowly, and, bending forward, she kissed me on the lips.
+Irene said slowly, and, bending forward, she kissed me on the lips.
 
 At this moment the doors of the chamber were thrown open. Through them,
 preceded by heralds, that at once drew back again, entered the great
@@ -3358,9 +3295,7 @@ appointed at this hour.”
 
 
 
-CHAPTER II
 
-THE BLIND CÆSAR
 
 Irene turned upon the eunuch as a she-lion turns upon some hunter that
 disturbs it from its prey. Noting the anger in her eyes, he fell back
@@ -3521,7 +3456,6 @@ not far from the Forum of Constantine, covered a large area of ground,
 which included a garden where the prisoners were allowed to walk. It was
 surrounded by a double wall, with an outer and an inner moat, the outer
 dry, and the inner filled with water. There were double gates also, and
-by them guard-towers. Moreover, I see a little yard, with posts in it,
 where prisoners were scourged, and a small and horrible room, furnished
 with a kind of wooden bed, to which they were bound for the punishment
 of the putting out of their eyes and the slitting of their tongues.
@@ -3537,7 +3471,6 @@ night and day, and of all of these I was in command.
 Before I had held my office three days I found that Irene had appointed
 me to it with good reason. It happened thus. The most of the prisoners
 were allowed to receive presents of food and other things sent to them
-by their friends. All these presents were supposed to be inspected by
 the officer in charge of the prison. This rule, which had been much
 neglected, I enforced again, with the result that I made some strange
 discoveries.
@@ -3850,9 +3783,7 @@ sinning.
 
 
 
-CHAPTER III
 
-MOTHER AND SON
 
 The next vision of this Byzantine life of mine that rises before me is
 that of a great round building crowned with men clad in bishops’ robes.
@@ -4015,7 +3946,7 @@ of heathens she did not see how it could be done without causing great
 trouble.”
 
 “Now I wish one could be a Christian within and remain a pagan without,”
- I answered grimly; “though alas! that may not be. Martina, do you not
+I answered grimly; “though alas! that may not be. Martina, do you not
 understand that it was for no such reasons as these that I kissed the
 Cross; that in so doing I sought not fortune, but to be its servant?”
 
@@ -4082,7 +4013,6 @@ hose.
 
 “Would you have me come before the Empress thus?” I asked.
 
-By way of answer she clapped her hands and bade the eunuch who answered
 the signal to bring a certain robe. He went, and presently reappeared
 with a wondrous garment of silk broidered with gold, such as nobles of
 high rank wore at festivals. This robe, which fitted as though it
@@ -4236,7 +4166,6 @@ meant to speak, “that the fig is poisoned.”
 “And I tell you that you lie, you heathen savage. See here! Either you
 eat that fig or I do, so that we may know who speaks the truth. If you
 won’t, I will. Now obey, or, by Christ! to-morrow you shall be shorter
-by a head.”
 
 “The Augustus is pleased to threaten, which is unnecessary,” I remarked.
 “If I eat the fig, will the Augustus swear to leave the rest of them
@@ -4321,9 +4250,7 @@ also left the chamber, weeping as he went, for he had loved this beast.
 
 
 
-CHAPTER IV
 
-OLAF OFFERS HIS SWORD
 
 The Emperor had gone, drunk; the ape had gone, dead; and its keeper had
 gone, weeping. Irene and I alone were left in that beautiful place with
@@ -4477,7 +4404,7 @@ honour.”
 “Barnabas,” she replied sharply. “I know the man. He is an Iconoclast,
 and therefore my enemy. Only this morning I signed an order that he
 should be kept in confinement till he died, here or elsewhere. Still,”
- she went on, “though I would sooner give you a province, have your gift,
+she went on, “though I would sooner give you a province, have your gift,
 for I can refuse you nothing. Barnabas shall be freed and restored to
 his see with honour. I have said.”
 
@@ -4784,9 +4711,7 @@ me until her knees almost touched the ground.
 
 
 
-CHAPTER V
 
-AVE POST SECULA
 
 It comes back to me that on the following day my successor in the
 governorship of the jail, who he was I know not now, arrived, and that
@@ -5124,7 +5049,6 @@ to the cathedral. They were gathered even on the flat house-tops and in
 the entrances to the public buildings and open places. But the glory
 of the sight was centred, not about me, with my escort of guards
 and chanting priests, but in Irene’s self. Preceded and followed
-by glittering regiments of soldiers, she drove in her famous golden
 chariot, drawn by eight milk-white steeds, each of which was led by
 a bejewelled noble. Her dress was splendid and covered with sparkling
 gems, and on her yellow hair she wore a crown. As she went the
@@ -5149,7 +5073,6 @@ glittering mosaics shining through the holy gloom, across which shot
 bars of light from the high window-places. All the great place was full
 of the noblest in the city, rank upon rank of them, come thither to see
 the Empress in her glory at the great Feast of St. Michael, which year
-by year she attended thus.
 
 At the altar waited the Patriarch in his splendid robes, attended by
 many bishops and priests, among them Barnabas of Egypt. The service
@@ -5233,9 +5156,7 @@ So she knew me also.
 
 
 
-CHAPTER VI
 
-HELIODORE
 
 That night there was feasting at the palace, and I, Olaf, now known as
 Michael, as a convert was one of the chief guests, so that for me there
@@ -5416,7 +5337,6 @@ to get you to Constantine, Olaf, and become his man, as many are doing,
 since he’d be glad of you. No need to shake your head, for that’s not
 your way; you are no hound to bite the hand that feeds you, like these
 street-bred dogs. Would that I could keep you nearer to me, where hour
-by hour you might help me with your counsel and your quiet strength.
 But it may not be--as yet. I raise you as high as I dare, but it must be
 done step by step, for even now some grow jealous. Take heed to what you
 eat, Olaf. See that your guards are Northmen, and beneath your doublet
@@ -5699,9 +5619,7 @@ time.”
 
 
 
-CHAPTER VII
 
-VICTORY OR VALHALLA!
 
 A minute later I heard a rustle as of branches being moved by people
 thrusting their way through them. A choked voice commanded,
@@ -5776,7 +5694,6 @@ I will do--or rather suffer your servants to do--if it pleases you to
 repeat the order later when you are calm.”
 
 “What!” cried Heliodore, “would you go and leave me here? Then, Olaf,
-by the gods my forefathers worshipped for ten thousand years, and by
 the gods I worship, I’ll find a means to follow you within an hour. Oh!
 Empress of the World, there is another world you do not rule, and there
 we’ll call you to account.”
@@ -5819,7 +5736,7 @@ whom I had cut down, they halted. One of their officers asked what they
 must do.
 
 “Kill me that man who has slain my servants, or stay--take him living,”
- screamed the Augusta.
+screamed the Augusta.
 
 Now among those who had gathered was a certain lieutenant of my own, a
 blue-eyed, flaxen-haired Norwegian giant of the name of Jodd. This man
@@ -5888,7 +5805,7 @@ side, I showed them Heliodore in all her loveliness standing against the
 tree, the drawn dagger in her hand.
 
 Now from those that Jodd had summoned there went up a roar of “_No_,”
- while even the rest were silent. Irene sprang forward and cried,
+while even the rest were silent. Irene sprang forward and cried,
 
 “Are my orders to be canvassed and debated? Obey! Cut this man down or
 take him living, I care not which, and with him all who cling to him, or
@@ -5983,7 +5900,7 @@ sword-hilt.
 Our triple line bent in like a bow and began to break. The scales of
 war hung on the turn, when, from the dense belt of trees upon our left,
 suddenly rose the cry of “_Valhalla! Valhalla! Victory or Valhalla!_”
- for which I, who had overheard Jodd’s orders, was waiting. These were
+for which I, who had overheard Jodd’s orders, was waiting. These were
 his orders--that half of the Northmen should creep down behind the belt
 of trees in their dense shadow, and thus outflank the foe.
 
@@ -6063,7 +5980,7 @@ her troops but now, and she has wronged me much, still I defend her to
 the last.”
 
 “Little use in that, Olaf, seeing that you are but one and we are many,”
- answered Jodd. “Come, will you be Cæsar, or will you not?”
+answered Jodd. “Come, will you be Cæsar, or will you not?”
 
 Now Irene crept up behind me and whispered in my ear.
 
@@ -6206,7 +6123,6 @@ is the offer, comrades.”
 
 “This: That we shall be ringed round, and either starved out or shot
 down by archers. Or, if we try to escape, that we shall be overwhelmed
-by numbers, and any of us who chance to be taken living shall be hanged,
 sound and wounded together.”
 
 Now the leaders of the Northmen consulted. Irene watched them for
@@ -6309,9 +6225,7 @@ greeted me with a false and sickly smile.
 
 
 
-CHAPTER VIII
 
-THE TRIAL OF OLAF
 
 I know not what time went by before I was put upon my trial, but that
 trial I can still see as clearly as though it were happening before my
@@ -6394,7 +6308,7 @@ answer many laughed.
 
 “You killed or cut down three of us one after the other, General, being
 too skilful and strong for us. As I turned to fly, me you wounded here,”
- and, dragging himself round with difficulty, he showed how my sword had
+and, dragging himself round with difficulty, he showed how my sword had
 fallen on a part where no soldier should receive a wound. At this sight
 those in the Court laughed again.
 
@@ -6455,7 +6369,7 @@ be your witness, and as you have no other, seeing that you cannot give
 evidence yourself under the law, we will now proceed to judgment.”
 
 “Who says that the General Olaf, Olaf Red-Sword, has no witness?”
- exclaimed a deep voice at the end of the hall. “I am here to be his
+exclaimed a deep voice at the end of the hall. “I am here to be his
 witness.”
 
 “Who speaks?” asked the president. “Let him come forward.”
@@ -6495,7 +6409,6 @@ heard before. Also he was promised a fair trial, and that he has not,
 seeing that the most of his judges are men with whom he fought the other
 day and who only escaped his sword by flight. To-morrow I propose to ask
 the people of Byzantium whether it is right that a man should be tried
-by his conquered enemies. Now I perceive that you will find a verdict of
 ‘guilty’ against Olaf Red-Sword, and perhaps condemn him to death. Well,
 find what verdict you will and pass what sentence you will, but do not
 dare to attempt to execute that sentence.”
@@ -6590,7 +6503,6 @@ Then he called aloud, “Let the prisoner be removed.”
 
 Down the long Court I was marched, only now guards, who had been called
 in, went in front of and behind me, and with them the four executioners
-by whom I was surrounded.
 
 “Farewell, god-mother,” I whispered to Martina as I passed.
 
@@ -6689,7 +6601,6 @@ your trial.”
 
 “For one thing, this: The coward and fool, who now is dead--of his
 wounds--who gave evidence as to the killing of the three other cowards
-by you, has caused my name to become a mock throughout Constantinople.
 Aye, the vilest make songs upon me in the streets, such songs as I
 cannot repeat.”
 
@@ -6817,9 +6728,7 @@ entered.
 
 
 
-CHAPTER IX
 
-THE HALL OF THE PIT
 
 The days and the nights went by, but which was day and which was night
 I knew not, save for the visits of the jailers with my meals--I who was
@@ -7252,9 +7161,7 @@ towards it.
 
 
 
-CHAPTER X
 
-OLAF GIVES JUDGMENT
 
 As Martina finished speaking I heard the sound of tramping guards and of
 a woman’s dress upon the pavement. Then a voice, that of Irene,
@@ -7619,20 +7526,15 @@ proclaimed.”
 
 
 
-BOOK III
-
-EGYPT
 
 
 
-CHAPTER I
 
-TIDINGS FROM EGYPT
+
 
 That curtain of oblivion without rent or seam sinks again upon the
 visions of this past of mine. It falls, as it were, on the last of the
 scenes in the dreadful chamber of the pit, to rise once more far from
-Byzantium.
 
 I am blind and can see nothing, for the power which enables me to
 disinter what lies buried beneath the weight and wreck of so many ages
@@ -7921,7 +7823,7 @@ be Governor of Lesbos, as already you have been named my deputy by
 Constantine, which appointment will probably be confirmed.”
 
 “I do not want to be Governor of Lesbos,” said Jodd. “Moreover, Olaf,”
- he added slowly, “a blind beggar must have his dog to lead him, his
+he added slowly, “a blind beggar must have his dog to lead him, his
 brown dog. You cannot go alone, Olaf. Those dangers of which you speak
 must be shared by another.”
 
@@ -7956,7 +7858,6 @@ that I am Olaf’s god-mother?”
 Church never ties a knot which it cannot unloose--for a proper fee, and
 for my part I do not know why a man should not marry one of different
 blood because she has been named his god-mother before a stone vessel
-by a man in a broidered robe. You say I do not understand such matters.
 Perhaps, so let them be. But, Martina, let us suppose that this strange
 search were to succeed, and Olaf has a way of succeeding where others
 would fail. For instance, who else could have escaped alive out of the
@@ -7980,9 +7881,7 @@ will tell you about them, and, meanwhile, good night.”
 
 
 
-CHAPTER II
 
-THE STATUES BY THE NILE
 
 The first thing that I remember of this journey to Egypt is that I was
 sitting in the warm morning sunshine on the deck of our little trading
@@ -8287,7 +8186,6 @@ did not amount to more than thirty souls, Christians every one of them,
 who were visited from time to time by a Coptic priest from some distant
 monastery in the mountains.
 
-By degrees we grew friendly with Palka, a pleasant, bustling woman of
 good birth, who loved to hear of the outside world. Moreover, she was
 very shrewd, and soon began to suspect that we were more than mere
 wandering players.
@@ -8303,7 +8201,6 @@ with him.
 “What do you know of the lady Heliodore?” she asked sharply.
 
 “Only that my niece, who for a while was a servant in the palace at
-Byzantium before she was driven away with others after the Empress fell,
 saw her there. Indeed, it was her business to wait upon her and her
 father the Prince. Therefore, she is interested in her fate.”
 
@@ -8421,9 +8318,7 @@ had grown very quick.
 
 
 
-CHAPTER III
 
-THE VALLEY OF THE DEAD KINGS
 
 Martina and I had made a plan. Palka, after much coaxing, took us with
 her one evening when she went to place the accustomed offerings in the
@@ -8453,7 +8348,6 @@ wooden trencher, because, as she said, she feared lest we should break
 them and anger the ghosts, who liked their food to be well served. So
 we started, and presently entered the mouth of that awful valley which,
 Martina told me, looked as though it had been riven through the mountain
-by lightning strokes and then blasted with a curse.
 
 Up this dry and desolate place, which, she said, was bordered on either
 side by walls of grey and jagged rock, we walked in silence. Only I
@@ -8604,37 +8498,37 @@ song the mistress answered verse for verse. Here are those of the lines
 that I remember, or, rather, the spirit of them rendered into English. I
 sang the first verse and waited.
 
-     “Dear maid of mine,
-        I bid my strings
-     Beat on thy shrine
-        With music’s wings.
-     Palace or cell
-        A shrine I see,
-     If there thou dwell
-        And answer me.”
+“Dear maid of mine,
+I bid my strings
+Beat on thy shrine
+With music’s wings.
+Palace or cell
+A shrine I see,
+If there thou dwell
+And answer me.”
 
 There was no answer, so I sang the second verse and once more waited.
 
-     “On thy love’s fire
-        My passion breathes,
-     Wind of Desire
-        Thy incense wreathes.
-     Greeting! To thee,
-        Or soon or late,
-     I, bond or free,
-        Am dedicate.”
+“On thy love’s fire
+My passion breathes,
+Wind of Desire
+Thy incense wreathes.
+Greeting! To thee,
+Or soon or late,
+I, bond or free,
+Am dedicate.”
 
 And from somewhere far away in the recesses of that great cave came the
 answering strophe.
 
-     “O Love sublime
-        And undismayed,
-     No touch of Time
-        Upon thee laid.
-     Take that is thine;
-        Ended the quest!
-     I seek _my_ shrine
-        Upon _thy_ breast.”
+“O Love sublime
+And undismayed,
+No touch of Time
+Upon thee laid.
+Take that is thine;
+Ended the quest!
+I seek _my_ shrine
+Upon _thy_ breast.”
 
 Then I laid down the harp.
 
@@ -8646,7 +8540,6 @@ named?”
 
 “A living man,” I replied, “and he is named Olaf, son of Thorvald,
 or otherwise Michael. That name was given him in the cathedral at
-Byzantium, where first his eyes fell on a certain Heliodore, daughter of
 Magas the Egyptian, whom now he seeks.”
 
 I heard the sound of footsteps creeping towards me and Heliodore’s voice
@@ -8859,9 +8752,7 @@ came! Oh! at last you came!”
 
 
 
-CHAPTER IV
 
-THE CALIPH HARUN
 
 Here there is an absolute blank in my story. One of those walls of
 oblivion of which I have spoken seems to be built across its path. It is
@@ -9098,7 +8989,6 @@ taken again, the lord Musa claims the woman as his spoil and demands
 that I should hand her over to him. Yet it seems to me that if she is
 the spoil of anyone, she belongs to the Emir governing Egypt at the date
 of her recapture. It was only by virtue of his office as Emir, and not
-by gift, purchase, or marriage contract, that the lord Musa came into
 possession of her, which possession was voided by her flight before she
 was added to his household and he acquired any natural rights over her
 in accordance with our law. Now for my part, I, as Emir, make no claim
@@ -9133,7 +9023,6 @@ and led to some house or prison, where I was given a large room with
 servants to wait upon me. Here I slept that night, and on the morrow
 asked when we sailed for Beirut on our way to Baghdad. The chief of the
 servants answered that he did not know. During that day I was visited
-by Yusuf, the officer who had captured us on board the _Diana_. He also
 told me that he did not know when we sailed, but certainly it would not
 be for some days. Further, he said that I need have no fear for the lady
 Heliodore and Martina, as they were well treated in some other place.
@@ -9185,7 +9074,6 @@ When I had finished he said:
 so good, now, as to repeat to me the tale of your life, of which I have
 already heard something. Tell me especially of those parts of it which
 have to do with the lady Heliodore, daughter of Magas, of your blinding
-by Irene for her sake, and of your discovery of her in Egypt, where you
 sought her disguised as a beggar.”
 
 “Why should I tell you all my story, sir?”
@@ -9344,7 +9232,7 @@ you die, it must be here and now. Do you still choose death?”
 “Yes,” she said in a low voice.
 
 “Behold this cup,” he went on, “and this draught which I pour into it,”
- and I heard the sound of liquid flowing. “Presently I shall ask you to
+and I heard the sound of liquid flowing. “Presently I shall ask you to
 drink of it, and then, after a little while, say the half of an hour,
 you will fall asleep, to wake in whatever world God has appointed to
 the idol worshippers of the Cross. You will suffer no pain and no fear;
@@ -9512,9 +9400,7 @@ yes, alone at last and safe.
 
 
 
-CHAPTER V
 
-IRENE’S PRAYER
 
 Years had gone by, I know not how many, but only that much had happened
 in them. For a while Irene and young Constantine were joint rulers
@@ -9545,7 +9431,6 @@ successor to the throne. Then at last the nobles rebelled, and, electing
 one of their number, Nicephorus, as emperor, seized Irene in her private
 house of Eleutherius, where she lay sick, and crowned Nicephorus in St.
 Sophia. Next day he visited Irene, when, fearing the worst and broken
-by illness, she bought a promise of safety by revealing to him all her
 hoarded treasure.
 
 Thus fell Irene, the mighty Empress of the Eastern Empire!
@@ -9791,11 +9676,9 @@ blinded and then done to death, for that is what he means. Oh! may God
 avenge me upon him! May he become a byword and a scorn, and may his own
 end be even worse than that which he has prepared for me. May shame
 wrap his memory as in a garment, may his bones be dishonoured and his
-burying-place forgotten. Aye, and so it shall be.”[*]
 
-     [*] The skull of this Nicephorus is said to have been used
-     as a drinking cup by his victorious enemy, the King Krum.--
-     Editor.
+as a drinking cup by his victorious enemy, the King Krum.--
+Editor.
 
 She paused in her fearful curse, then said in a new voice, that voice in
 which she was wont to plead,
@@ -10121,7 +10004,6 @@ Lesbos and bring you and the others herein mentioned to our Presence.”
 “That is a death sentence,” said Martina, when she had finished reading
 out this passage. “I have seen several such sent in my day, when I was
 Irene’s confidential lady. It is the common form. We shall never reach
-Byzantium, Olaf, or, if we do, we shall never leave it more.”
 
 I nodded, for I knew that this was so. Then, at some whispered word from
 Martina, Heliodore spoke.
