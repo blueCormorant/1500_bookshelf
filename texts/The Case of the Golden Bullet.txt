@@ -3,14 +3,11 @@
 
 
 
-THE CASE OF THE GOLDEN BULLET
-
-by Grace Isabel Colbron, and Augusta Groner
 
 
 
 
-INTRODUCTION TO JOE MULLER
+
 
 Joseph Muller, Secret Service detective of the Imperial Austrian police,
 is one of the great experts in his profession. In personality he differs
@@ -53,9 +50,8 @@ impossible, he will track down his victim when the entire machinery of
 a great police department seems helpless to discover anything. The high
 chiefs and commissioners grant a condescending permission when Muller
 asks, “May I do this? ... or may I handle this case this way?”
- both parties knowing all the while that it is a farce, and that the
+both parties knowing all the while that it is a farce, and that the
 department waits helpless until this humble little man saves its honour
-by solving some problem before which its intricate machinery has stood
 dazed and puzzled.
 
 This call of the trail is something that is stronger than anything else
@@ -89,7 +85,6 @@ following out his directions.
 
 
 
-THE CASE OF THE GOLDEN BULLET
 
 
 “Please, sir, there is a man outside who asks to see you.”
@@ -146,7 +141,6 @@ it wasn’t Fellner. Good-bye. Oh, and one thing more. Please send a
 physician at once to Fellner’s house, No. 7 Field Street.”
 
 Horn opened the door and passed on into the adjoining room, accompanied
-by Johann. The commissioner halted a moment as his eyes fell upon a
 little man who sat in the corner reading a newspaper. “Hello, Muller;
 you there? Suppose I take you with me? You aren’t doing anything now,
 are you?”
@@ -308,7 +302,7 @@ bewildered.
 “It’s strange that he should have found time to lay down the revolver
 before he died,” remarked Horn. Johann put out his hand and raised the
 weapon before Horn could prevent him. “Leave that pistol where it was,”
- commanded the commissioner. “We have to look into this matter more
+commanded the commissioner. “We have to look into this matter more
 closely.”
 
 The doctor turned quickly. “You think it was a murder?” he exclaimed.
@@ -464,7 +458,6 @@ this secret, terrible deed? The victim had not been allowed the time to
 write down the name of his murderer.
 
 Horn took the letter into his keeping. Then he left the room, followed
-by Muller and the valet, to look about the rest of the house as far as
 possible. This was not very far, for the second story was closed off by
 a tall iron grating.
 
@@ -567,7 +560,7 @@ no preparations to go out. “Aren’t you coming with us?” he asked,
 astonished.
 
 “I hope the gentlemen will allow me to remain here for a little while,”
- answered Muller modestly.
+answered Muller modestly.
 
 “But you know that we will have to close the apartment officially,” said
 Horn, his voice sharpening in his surprise and displeasure.
@@ -577,7 +570,7 @@ Horn, his voice sharpening in his surprise and displeasure.
 “Don’t let them disturb you, my dear Muller; we will allow your
 keenness all possible leeway here.” The Head of Police spoke with calm
 politeness, but Muller started and shivered. The emphasis on the “here”
- showed him that even the head of the department had been incensed at his
+showed him that even the head of the department had been incensed at his
 suggestion that the beautiful Mrs. Kniepp had died of her own free
 will. It had been his assertion of this which, coming to the ears of
 the bereaved husband, had enraged and embittered him, and had turned the
@@ -864,38 +857,37 @@ station.
 The next day the principal newspaper of the town printed the following
 notice:
 
-                      THE GOLDEN BULLET
 
-  It is but a few days since we announced to our readers the sad
-  news of the death of a beautiful woman, whose leap from her
-  window, while suffering from the agonies of fever, destroyed
-  the happiness of an unusually harmonious marriage.  And now we
-  are compelled to print the news of another equally sad as well
-  as mysterious occurrence.  This time, Fate has demanded the
-  sacrifice of the life of a capable and promising young man.
-  Professor Paul Fellner, a member of the faculty of our college,
-  was found dead at his desk yesterday morning.  It was thought at
-  first that it was a case of suicide, for doors and windows were
-  carefully closed from within and those who discovered the corpse
-  were obliged to break open one of the doors to get to it.  And
-  a revolver was found lying close at hand, upon the desk.  But
-  this revolver was loaded in every chamber and there was no other
-  weapon to be seen in the room.  There was a bullet wound in the
-  left breast of the corpse, and the bullet had penetrated the
-  heart.  Death must have been instantaneous.
+It is but a few days since we announced to our readers the sad
+news of the death of a beautiful woman, whose leap from her
+window, while suffering from the agonies of fever, destroyed
+the happiness of an unusually harmonious marriage.  And now we
+are compelled to print the news of another equally sad as well
+as mysterious occurrence.  This time, Fate has demanded the
+sacrifice of the life of a capable and promising young man.
+Professor Paul Fellner, a member of the faculty of our college,
+was found dead at his desk yesterday morning.  It was thought at
+first that it was a case of suicide, for doors and windows were
+carefully closed from within and those who discovered the corpse
+were obliged to break open one of the doors to get to it.  And
+a revolver was found lying close at hand, upon the desk.  But
+this revolver was loaded in every chamber and there was no other
+weapon to be seen in the room.  There was a bullet wound in the
+left breast of the corpse, and the bullet had penetrated the
+heart.  Death must have been instantaneous.
 
-  The most mysterious thing about this strange affair was
-  discovered during the autopsy.  It is incredible, but it is
-  absolutely true, as it is vouched for under oath by the
-  authorities who were present, that the bullet which was found
-  in the heart of the dead man was made of solid gold.  And yet,
-  strange as is this circumstance, it is still more a riddle how
-  the murderer could have escaped from the room where he had shot
-  down his victim, for the keys in both doors were in the locks
-  from the inside.  We have evidently to do here with a criminal
-  of very unusual cleverness and it is therefore not surprising
-  that there has been no clue discovered thus far.  The only
-  thing that is known is that this murder was an act of revenge.
+The most mysterious thing about this strange affair was
+discovered during the autopsy.  It is incredible, but it is
+absolutely true, as it is vouched for under oath by the
+authorities who were present, that the bullet which was found
+in the heart of the dead man was made of solid gold.  And yet,
+strange as is this circumstance, it is still more a riddle how
+the murderer could have escaped from the room where he had shot
+down his victim, for the keys in both doors were in the locks
+from the inside.  We have evidently to do here with a criminal
+of very unusual cleverness and it is therefore not surprising
+that there has been no clue discovered thus far.  The only
+thing that is known is that this murder was an act of revenge.
 
 The entire city was in excitement over the mystery, even the police
 station was shaken out of its usual business-like indifference. There
@@ -1387,7 +1379,7 @@ have known just how to enter the place, how to reach the rooms, and he
 must have known also, that the Professor, coward as he was--”
 
 “Coward? Is a man a coward when he refuses to stand up to a maniac?”
- interrupted Bauer.
+interrupted Bauer.
 
 Muller came back to the present with a start and said calmly, “Fellner
 was a coward.”
@@ -1566,7 +1558,7 @@ about me?” he asked in a tone that was an attempt at a joke.
 “The ring, the ring on your watch chain,” murmured Muller.
 
 “It belonged to my dead wife. I have worn it since she left me,”
- answered the unhappy man with the same iron calm with which he had, all
+answered the unhappy man with the same iron calm with which he had, all
 these past days, been emphasizing his love for the woman he had lost.
 Yet the question touched him unpleasantly and he looked more sharply at
 the strange man over in the corner. He saw the latter’s face turn pale
@@ -1655,32 +1647,31 @@ cruelty of others and his own passions. Again and again he read the
 letter which had been found on Kniepp’s desk, addressed to him and which
 had been handed out to him after the inquest.
 
-  My friend:--
+My friend:--
 
-  You have saved me from the shame of an open trial.  I thank you
-  for this from the very depth of my heart.  I have left you a
-  part of my own private fortune, that you may be a free man, free
-  as a poor man never can be.  You can accept this present for it
-  comes from the hand of an honest man in spite of all.  Yes, I
-  compelled my wife to go to her death after I had compelled her
-  to confess her shame to me, and I entered her lover’s house with
-  the knowledge I had forced from her.  When I looked through the
-  keyhole and saw his false face before me, I murdered him in cold
-  blood.  Then, that the truth might not be suspected, I continued
-  to play the sorrowing husband.  I wore on my watch chain the ring
-  I had had made in imitation of the one my wife had worn.  This
-  original ring of hers, her wedding ring which she had defiled,
-  I sent in the form of a bullet straight to her lover’s heart.
-  Yes, I have committed a crime, but I feel that I am less criminal
-  than those two whom I judged and condemned, and whose sentence I
-  carried out as I now shall carry out my own sentence with a hand
-  which will not tremble.  That I can do this myself, I have you to
-  thank for, you who can look into the souls of men and recognise
-  the most hidden motives, you who have not only a wonderful brain
-  but a heart that can feel.  You, I hope, will sometimes think
-  kindly of your grateful
+You have saved me from the shame of an open trial.  I thank you
+for this from the very depth of my heart.  I have left you a
+part of my own private fortune, that you may be a free man, free
+as a poor man never can be.  You can accept this present for it
+comes from the hand of an honest man in spite of all.  Yes, I
+compelled my wife to go to her death after I had compelled her
+to confess her shame to me, and I entered her lover’s house with
+the knowledge I had forced from her.  When I looked through the
+keyhole and saw his false face before me, I murdered him in cold
+blood.  Then, that the truth might not be suspected, I continued
+to play the sorrowing husband.  I wore on my watch chain the ring
+I had had made in imitation of the one my wife had worn.  This
+original ring of hers, her wedding ring which she had defiled,
+I sent in the form of a bullet straight to her lover’s heart.
+Yes, I have committed a crime, but I feel that I am less criminal
+than those two whom I judged and condemned, and whose sentence I
+carried out as I now shall carry out my own sentence with a hand
+which will not tremble.  That I can do this myself, I have you to
+thank for, you who can look into the souls of men and recognise
+the most hidden motives, you who have not only a wonderful brain
+but a heart that can feel.  You, I hope, will sometimes think
+kindly of your grateful
 
-  LEO KNIEPP.
 
 Muller kept this letter as one of his most sacred treasures.
 
