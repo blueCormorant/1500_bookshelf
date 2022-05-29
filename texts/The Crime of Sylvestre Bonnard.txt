@@ -2,24 +2,6 @@
 
 
 
-
-
-
-THE CRIME OF SYLVESTRE BONNARD
-
-By Anatole France
-
-
-
-
-PART I--THE LOG
-
-
-
-
-December 24, 1849.
-
-
 I had put on my slippers and my dressing-gown. I wiped away a tear with
 which the north wind blowing over the quay had obscured my vision. A
 bright fire was leaping in the chimney of my study. Ice-crystals, shaped
@@ -247,11 +229,11 @@ she brought me into the world.”] The like happened in the case of Henry
 IV. When Jeanne d’Albret felt herself about to be confined she began to
 sing an old Bearnaise canticle:
 
-    “Notre-Dame du bout du pont,
-     Venez a mon aide en cette heure!
-     Priez le Dieu du ciel
-     Qu’il me delivre vite,
-     Qu’il me donne un garcon!
+“Notre-Dame du bout du pont,
+Venez a mon aide en cette heure!
+Priez le Dieu du ciel
+Qu’il me delivre vite,
+Qu’il me donne un garcon!
 
 “It is certainly unreasonable to bring little unfortunates into the
 world. But the thing is done every day, my dear Therese and all the
@@ -287,7 +269,6 @@ francaise, petit in-4.
 
 “This MS. of the fourteenth century contains, besides the tolerably
 complete translation of the celebrated work of Jacques de Voragine,
-1. The Legends of Saints Ferreol, Ferrution, Germain, Vincent,
 and Droctoveus; 2. A poem ‘On the Miraculous Burial of Monsieur
 Saint-Germain of Auxerre.’ This translation, as well as the legends and
 the poem, are due to the Clerk Alexander.
@@ -395,7 +376,6 @@ she sings; her eyes and teeth gleam in the shadow, for she laughs with
 lips and eyes at the same time. She is certainly a neighbor, and a very
 familiar one. She holds in her arms a pretty child, a little boy--quite
 naked, like the son of a goddess; he has a medal hung round his neck
-by a little silver chain. I see him sucking his thumb and looking at
 me with those big eyes so newly opened on this old universe. The mother
 simultaneously looks at me in a sly, mysterious way; she stops--I think
 blushes a little--and holds out the little creature to me. The baby has
@@ -456,7 +436,6 @@ put my hat and cane away. I am going to amuse myself with a few pages
 of Moreri. If I can trust my old fox-nose, we are going to have a nicely
 flavoured pullet for dinner. Look after that estimable fowl, my girl,
 and spare your neighbors, so that you and your old master may be spared
-by them in turn.”
 
 Having thus spoken, I proceeded to follow out the tufted ramifications
 of a princely genealogy.
@@ -620,10 +599,8 @@ and self-abrogation that I shall never forget.
 You have now been sleeping for many years in the Cemetery of
 Mont-Parnasse, under a plain slab bearing the epitaph:
 
-                           CI-GIT
-                   ARISTIDE VICTOR MALDENT,
-                    Capitaine d’Infanterie,
-               Chevalier de la Legion d’Honneur.
+Capitaine d’Infanterie,
+Chevalier de la Legion d’Honneur.
 
 But such, Captain, was not the inscription devised by yourself to be
 placed above those old bones of yours--knocked about so long on fields
@@ -631,8 +608,6 @@ of battle and in haunts of pleasure. Among your papers was found this
 proud and bitter epitaph, which, despite your last will none could have
 ventured to put upon your tomb:
 
-                           CI-GIT
-                    UN BRIGAND DE LA LOIRE
 
 “Therese, we will get a wreath of immortelles to-morrow, and lay them on
 the tomb of the Brigand of the Loire.”...
@@ -750,14 +725,14 @@ only destined to increase my regrets?
 August 20, 1859.
 
 
-  “I, that please some, try all; both joy and terror
-   Of good and bad; that make and unfold error--
-   Now take upon me, in the name of Time
-   To use my wings.  Impute it not a crime
-   To me or my swift passage, that I slide
-   O’er years.”
+“I, that please some, try all; both joy and terror
+Of good and bad; that make and unfold error--
+Now take upon me, in the name of Time
+To use my wings.  Impute it not a crime
+To me or my swift passage, that I slide
+O’er years.”
 
-   Who speaks thus? ‘Tis an old man whom I know too well. It is Time.
+Who speaks thus? ‘Tis an old man whom I know too well. It is Time.
 
 Shakespeare, after having terminated the third act of the “Winter’s
 Tale,” pauses in order to leave time for little Perdita to grow up in
@@ -792,7 +767,6 @@ bright young face, with violet eyes.... Why, Bonnard, my friend, what
 an old fool you are becoming! Read that catalogue which a Florentine
 bookseller sent you this very morning. It is a catalogue of Manuscripts;
 and he promises you a description of several famous ones, long preserved
-by the collectors of Italy and Sicily. There is something better suited
 to you, something more in keeping with your present appearance.
 
 I read; I cry out! Hamilcar, who has assumed with the approach of age an
@@ -884,7 +858,6 @@ All-important reasons, however, forbid me, imperiously, tyrannically, to
 let the manuscript go out of my possession for a single day, for even a
 single minute. It will be a joy and pride for me to have you examine it
 in my humble home in Girgenti, which will be embellished and illuminated
-by your presence. It is with the most anxious expectation of your visit
 that I presume to sign myself, Seigneur Academician,
 
 “Your humble and devoted servant
@@ -989,7 +962,6 @@ eating-places; and I float like a waif among these living surges, which,
 even while they submerge you, still caress. For this Neopolitan people
 has, in its very vivacity, something indescribably gentle and polite.
 I am not roughly jostled, I am merely swayed about; and I think that
-by dint of thus rocking me to and fro, these good folks want to lull
 me asleep on my feet. I admire, as I tread the lava pavements of the
 strada, those porters and fishermen who move by me chatting, singing,
 smoking, gesticulating, quarrelling, and embracing each other the next
@@ -1000,14 +972,13 @@ approach a much-patronised tavern, and see inscribed above the entrance
 this quatrain in Neopolitan patois:
 
 
-           “Amice, alliegre magnammo e bevimmo
-            N fin che n’ce stace noglio a la lucerna:
-            Chi sa s’a l’autro munno n’ce verdimmo?
-            Chi sa s’a l’autro munno n’ce taverna?”
-          [“Friends, let us merrily eat and drink
-           as long as oil remains in the lamp:
-           Who knows if we shall meet again in another world?
-           Who knows if in the other world there will be a tavern?”]
+“Amice, alliegre magnammo e bevimmo
+N fin che n’ce stace noglio a la lucerna:
+Chi sa s’a l’autro munno n’ce verdimmo?
+Chi sa s’a l’autro munno n’ce taverna?”
+as long as oil remains in the lamp:
+Who knows if we shall meet again in another world?
+Who knows if in the other world there will be a tavern?”]
 
 
 Even such counsels was Horace wont to give to his friends. You received
@@ -1043,7 +1014,6 @@ evoked in me a feeling of uttermost despondency. That thronging populace
 displayed such artless delight in the simple act of living, that all the
 shynesses begotten by my old habits as an author awoke and intensified
 into something like fright. Furthermore, I found myself much discouraged
-by my inability to understand a word of all the storm of chatter about
 me. It was a humiliating experience for a philologist. Thus I had begun
 to feel quite sulky, when I was startled to hear someone behind me
 observe:
@@ -1268,7 +1238,6 @@ Selinonte, from Selinonte to Sciacca--which I left this morning to go to
 Girgenti, where I am to find the MS. of Clerk Alexander. The beautiful
 things I have seen are still so vivid in my mind that I feel the task of
 writing them would be a useless fatigue. Why spoil my pleasure-trip
-by collecting notes? Lovers who love truly do not write down their
 happiness.
 
 Wholly absorbed by the melancholy of the present and the poetry of
@@ -1547,7 +1516,6 @@ peoples. But the name of Gellias has become that of a hotel in which, by
 reason of fatigue, I was able to obtain one good night’s sleep.
 
 The modern Girgenti lifts its high, narrow, solid streets, dominated
-by a sombre Spanish cathedral, upon the side of the acropolis of the
 antique Agrigentum. I can see from my windows, half-way on the hillside
 towards the sea, the white range of temples partially destroyed. The
 ruins alone have some aspect of coolness. All the rest is arid. Water
@@ -1761,7 +1729,6 @@ And, taking my hand in hers, she added:
 “Tell me about your troubles.”
 
 I told her about them. My story was long; but she was evidently touched
-by it, for she asked me quite a number of circumstantial questions,
 which I took for proof of her friendly interest. She wanted to know the
 exact title of the manuscript, its shape, its appearance, and its age;
 she asked me for the address of Signor Rafael Polizzi.
@@ -1813,8 +1780,6 @@ which, although all bearing the signature of some illustrious artist,
 had a certain family air of resemblance that might have suggested some
 touching idea about the fraternity of genius, had it not still more
 forcibly suggested the professional tricks of Polizzi senior. Enriched
-by these doubtful works of art, the shop was further rendered attractive
-by various petty curiosities: poniards, drinking-vessels, goblets,
 figulines, brass guadrons, and Hispano-Arabian wares of metallic lustre.
 
 Upon a Portuguese arm-chair, decorated with an escutcheon, lay a copy of
@@ -2081,7 +2046,6 @@ vest, into my sleeves. I am all perfumed with them.
 
 “Therese! Therese! fill me some vases with water, and bring them here,
 quick! Here are violets sent to us I know not from what country nor
-by what hand; but it must be from a perfumed country, and by a very
 gracious hand.... Do you hear me, old crow?”
 
 I have put all the violets on my table--now completely covered by
@@ -2159,7 +2123,6 @@ Come and give some water to these Parmese violets.”
 
 
 
-PART II--THE DAUGHTER OF CLEMENTINE
 
 
 
@@ -2977,7 +2940,6 @@ have opened tombs and disturbed ashes in order to collect the shreds of
 apparel, metal ornaments, or gems that were mingled with those ashes.
 But I did it only through that scientific curiosity which does not
 exclude feelings of reverence and of piety. May that malediction graven
-by some one of the first followers of the apostles upon a martyr’s tomb
 never fall upon me! I ought not to fear to survive my own people so long
 as there are men in the world; for there are always some whom one can
 love.
@@ -3093,7 +3055,7 @@ outcries--envies de femme grosse!--and a style, my friends!--not a
 single finished phrase! It is astounding!”
 
 And he handed the book back to his comrade. “This is amusing madness,”
- I thought to myself, “and not quite so devoid of common sense as it
+I thought to myself, “and not quite so devoid of common sense as it
 appears. This young man, though only playing has sharply touched the
 defect in the cuirass.”
 
@@ -3321,7 +3283,6 @@ the reflection of our soul.
 “My mother was being very happily constituted. She rose with the sun,
 like the birds; and she herself resembled the birds by her domestic
 industry, by her maternal instinct, by her perpetual desire to sing, and
-by a sort of brusque grace, which I could feel the of very well even
 as a child. She was the soul of the house, which she filled with her
 systematic and joyous activity. My father was just as slow as she was
 brisk. I can recall very well that placid face of his, over which at
@@ -4053,7 +4014,6 @@ the Prefere Institution.
 
 After having questioned Jeanne on various matters, and obtained only the
 vaguest of answers, I perceived that her young mind was totally absorbed
-by the skipping-rope, and I entered bravely into that grave subject.
 
 “So you have been skipping?” I said. “It is a very nice amusement, but
 one that you must not exert yourself too much at; for any excessive
@@ -4316,7 +4276,6 @@ The dealers in second-hand books put their boxes on the parapet. These
 good retailers of Mind, who are always in the open air, with blouses
 loose to the breeze, have become so weatherbeaten by the wind, the
 rain, the frost, the snow, the fog, and the great sun, that they end
-by looking very much like the old statues of cathedrals. They are all
 friends of mine, and I scarcely ever pass by their boxes without picking
 out of one of them some old book which I had always been in need of up
 to that very moment, without any suspicion of the fact on my part.
@@ -4329,7 +4288,6 @@ tranquil mien, I have always preferred the folly of the passions to the
 wisdom of indifference. But just because my own passions are not of that
 sort which burst out with violence to devastate and kill, the common
 mind is not aware of their existence. Nevertheless, I am greatly moved
-by them at times, and it has more than once been my fate to lose my
 sleep for the sake of a few pages written by some forgotten monk or
 printed by some humble apprentice of Peter Schaeffer. And if these
 fierce enthusiasms are slowly being quenched in me, it is only because
@@ -4391,7 +4349,7 @@ respect, the old master answered him in his treatise De la Mumie, de la
 Licorne, des Venins et de la Peste. “I pray him,” said the great man--“I
 pray him, that if he desire to make any contradictions to my reply, he
 abandon all animosities, and treat the good old man with gentleness.”
- This answer seems admirable from the pen of Ambroise Pare; but even had
+This answer seems admirable from the pen of Ambroise Pare; but even had
 it been written by a village bonesetter, grown grey in his calling, and
 mocked by some young stripling, it would still be worthy of all praise.
 
@@ -4507,7 +4465,6 @@ reflected in it as in a looking-glass. Then taking for my model that
 amiable and admirable hero whose image is carved upon the handle of
 Uncle Victor’s walking-stick, I will control myself so as not to make
 too ugly a grimace.... See what a splendid sun! The quays are all gilded
-by it, and the Seine smiles in countless little flashing wrinkles. The
 city is gold: a dust-haze, blonde and gold-toned as a woman’s hair,
 floats above its beautiful contours.... Therese, my cravat!... Ah! I
 can now comprehend the wisdom of that old Chrysal who used to keep his
@@ -4564,7 +4521,6 @@ ago it used to allow me to climb it without any trouble, and now it
 takes my breath away, and wears my legs out before I have climbed half
 a dozen steps. It has had its character spoiled. Then there are
 those journals and books I used once to devour without difficulty
-by moonlight: to-day, even in the brightest sunlight, they mock my
 curiosity, and exhibit nothing but a blur of white and black when I have
 not got my spectacles on. Then the gout has got into my limbs. That is
 another malicious trick of the times!”
@@ -5129,15 +5085,14 @@ protegee might be observed by some other eyes than old withered ones
 behind spectacles. Your wishes have been fulfilled in a most unexpected
 manner, and a voice cries out to you as to the imprudent Theseus,
 
-   “Craignez, Seigneur, craignez que le
-    Ciel rigoureux Ne vous Haisse assez pour exaucer vos voeux!
-    Souvent dans sa colere il recoit nos victimes,
-    Ses presents sont souvent la peine de nos crimes.”
+“Craignez, Seigneur, craignez que le
+Ciel rigoureux Ne vous Haisse assez pour exaucer vos voeux!
+Souvent dans sa colere il recoit nos victimes,
+Ses presents sont souvent la peine de nos crimes.”
 
-   [“Beware my lord! Beware lest stern
-     Heaven  hate you enough to hear your prayers!
-     Often ‘tis in wrath that Heaven receives our sacrifices:
-     its gifts are often the punishment of our crimes.”]
+Heaven  hate you enough to hear your prayers!
+Often ‘tis in wrath that Heaven receives our sacrifices:
+its gifts are often the punishment of our crimes.”]
 
 The gate of the City of Books had opened, and a handsome young man made
 his appearance, ushered in by Therese. That good old soul only knows how
@@ -5164,7 +5119,6 @@ of the Benedictine Abbeys in 1700. He has just read my works upon the
 successfully without my advice, to begin with, and in the second place
 without a certain manuscript which I possess, and which is nothing less
 than the “Register of the Accounts of the Abbey of Citeaux from 1683 to
-1704.”
 
 Having thus explained himself, he hands me a letter of introduction
 bearing the signature of one of the most illustrious of my colleagues.
@@ -5289,7 +5243,6 @@ certain paper which I signed a little while ago.
 I do not wish that any one except myself should provide for her, and
 give her her dowry. I am not, however, very rich, and the paternal
 inheritance did not gain bulk in my hands. One does not accumulate money
-by poring over old texts. But my books--at the price which such noble
 merchandise fetches to-day--are worth something. Why, on that shelf
 there are some poets of the sixteenth century for which bankers would
 bid against princes! And I think that those “Heures” of Simon Vostre
@@ -5357,7 +5310,7 @@ wanted anything. As you might suppose, she was sent back to the parlour
 with short shrift, but not so harshly as I had feared.
 
 “If I want anybody to do anything for me, which, thank God, I do not,”
- Therese had replied, “I would get somebody less delicate and dainty than
+Therese had replied, “I would get somebody less delicate and dainty than
 you are. What I want is rest. That is a merchandise which is not sold
 at fairs under the sign of ‘Motus with finger on lip.’ Go and have your
 fun, and don’t stay here--for old age might be catching.”
@@ -5384,17 +5337,17 @@ Grenouille” before learning by heart the stanzas to Duperrier; and,
 carried away by her enthusiasm, she began to recite them in a voice
 sweeter than the bleating of a sheep:
 
-  “Ta douleur, Duperrier, sera donc eternelle,
-     Et les tristes discours
-   Que te met en l’esprit l’amitie paternelle
-     L’augmenteront toujours;
+“Ta douleur, Duperrier, sera donc eternelle,
+Et les tristes discours
+Que te met en l’esprit l’amitie paternelle
+L’augmenteront toujours;
 
- .   .   .   .   .   .   .   .   .
+.   .   .   .   .   .   .   .   .
 
-  “Je sais de quels appas son enfance etait pleine,
-     Et n’ai pas entrepris,
-   Injurieux ami, de consoler ta peine
-     Avecque son mepris.”
+“Je sais de quels appas son enfance etait pleine,
+Et n’ai pas entrepris,
+Injurieux ami, de consoler ta peine
+Avecque son mepris.”
 
 Then in ecstacy, she exclaimed,
 
@@ -5405,7 +5358,7 @@ he had been so severely tied by the death of his daughter? Injurieux
 ami--you must acknowledge that the term is very harsh.”
 
 I explained to this poetical person that the phrase “Injurieux ami,”
- which shocked her so much, was in apposition, etc. etc. What I said,
+which shocked her so much, was in apposition, etc. etc. What I said,
 however, had so little effect towards clearing her head that she was
 seized with a severe and prolonged fit of sneezing. Meanwhile it was
 evident that the history of “Prince Grenouille” had proved extremely
@@ -5928,7 +5881,6 @@ cannot have understood it.
 
 The doctor goes away; evening comes; and all sorts of strange shadows
 begin to shape themselves about my bed-curtains, forming and dissolving
-by turns. And other shadows--ghosts--throng by before me; and through
 them I can see distinctively the impassive face of my faithful servant.
 And suddenly a cry, a shrill cry, a great cry of distress, rends my
 ears. Was it you who called me Jeanne?
@@ -6048,7 +6000,7 @@ almighty God, I trust to be able to fulfil my purpose.
 
 There is the wall on which is painted in great blue letters the words
 “Pensionnat de Demoiselles tenu par Mademoiselle Virginie Prefere.”
- There is the iron gate which would give free entrance into the
+There is the iron gate which would give free entrance into the
 court-yard if it were ever opened. But the lock is rusty, and sheets
 of zinc put up behind the bars protect the indiscreet observation
 those dear little souls to whom Mademoiselle Prefere doubtless teaches
@@ -6373,7 +6325,6 @@ answered me, quite gently, that I was a very whimsical little girl. And
 then he left me alone. But the next day Mademoiselle Prefere came to me
 with such a wicked look on her face that I was really afraid. She had
 a letter in her hand. ‘Mademoiselle,’ she said to me, ‘I am informed
-by your guardian that he has spent all the money which belonged to
 you. Don’t be afraid! I do not intend to abandon you; but, you must
 acknowledge yourself, it is only right that you should earn your own
 livelihood.’ Then she put me to work house-cleaning; and whenever I made
@@ -6494,7 +6445,6 @@ civil rights.’ Now all that is very plain, is it not, Monsieur Bonnard?”
 age of 21 years at the time of the offense, he shall only be punished
 with’...But we certainly cannot invoke this article in your favour.
 ‘ARTICLE 357:’:--‘In case the abductor shall have married the girl
-by him abducted, he can only be prosecuted at the insistence of such
 persons as, according to the Civil Code, may have the right to demand
 that the marriage shall be declared null; nor can he be condemned until
 after the nullity of the marriage shall have been pronounced.’ I do not
@@ -6505,7 +6455,6 @@ have put yourself in a very unfortunate position! And how could a man
 like you imagine that here in Paris, in the middle of the nineteenth
 century, a young girl can be abducted with absolute impunity? We are not
 living in the Middle Ages now; and such things are no longer permitted
-by law.”
 
 “You need not imagine,” I replied, “that abduction was lawful under the
 ancient Code. You will find in Baluze a decree issued by King Cheldebert
@@ -6726,7 +6675,6 @@ remained grumbling in the corridor because she had not been able to get
 to the door in time.
 
 “Mademoiselle, I beg you will be kind enough to address me very solemnly
-by my title, and to say to me, ‘Good-morning, my guardian.’”
 
 “Then it has all been settled? Oh, how nice!” cried the child, clapping
 her hands.
@@ -7057,9 +7005,8 @@ would say nothing and probably not even think about the matter either.
 Even if my colleagues still write a little sometimes, they never read.
 They are of the opinion of Parny, who said,
 
-     “Une paisible indifference
-      Est la plus sage des vertus.”
-      [“The most wise of the virtues is a calm indifference.”]
+“Une paisible indifference
+Est la plus sage des vertus.”
 
 To be the least wise in order to become the most wise--this is precisely
 what those Buddhists are aiming at without knowing it. If there is any
@@ -7363,7 +7310,6 @@ is necessary to the perpetuation of the species.”
 
 “Brolles, August 21, 1869.”
 
-[Monsieur Sylvestre Bonnard was not aware that several very illustrious
 naturalists were making researches at the same time as he in regard to
 the relation between insects and plants. He was not acquainted with
 the labours of Darwin, with those of Dr. Hermann Muller, nor with
@@ -7404,7 +7350,7 @@ me,
 Then I would tell him all kinds of stories, which he would listen to
 very seriously. They all interested him, but there was one especially
 which filled his little soul with delight. It was “The Blue Bird.”
- Whenever I finished that, he would say to me, “Tell it again! tell it
+Whenever I finished that, he would say to me, “Tell it again! tell it
 again!” And I would tell it again until his little pale blue-veined head
 sank back upon the pillow in slumber.
 
