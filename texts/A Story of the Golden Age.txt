@@ -1,201 +1,5 @@
 
 
-
-
-[Illustration: Cover art]
-
-
-
-
-[Illustration: PYRRHUS FINDS PHILOCTETES IN A CAVE.]
-
-
-
-
-                       _HEROES OF THE OLDEN TIME_
-
-                               *A STORY*
-
-                                  *OF*
-
-                            *THE GOLDEN AGE*
-
-
-                                   BY
-
-                             JAMES BALDWIN
-
-
-
-                      _Illustrated by Howard Pyle_
-
-
-
-                                NEW YORK
-                        CHARLES SCRIBNER’S SONS
-                                  1927
-
-
-
-
-                       COPYRIGHT, 1887, 1888, BY
-                        CHARLES SCRIBNER’S SONS
-
-                          COPYRIGHT, 1915, BY
-                             JAMES BALDWIN
-
-                Printed in the United States of America
-
-
-
-
-                                TO MAY.
-
-
-
-
-                            *THE FORE WORD.*
-
-
-You have heard of Homer, and of the two wonderful poems, the Iliad and
-the Odyssey, which bear his name.  No one knows whether these poems were
-composed by Homer, or whether they are the work of many different poets.
-And, in fact, it matters very little about their authorship.  Everybody
-agrees that they are the grandest poems ever sung or written or read in
-this world; and yet, how few persons, comparatively, have read them, or
-know any thing about them except at second-hand!  Homer commences his
-story, not at the beginning, but "in the midst of things;" hence, when
-one starts out to read the Iliad without having made some special
-preparation beforehand, he finds it hard to understand, and is tempted,
-in despair, to stop at the end of the first book.  Many people are,
-therefore, content to admire the great masterpiece of poetry and
-story-telling simply because others admire it, and not because they have
-any personal acquaintance with it.
-
-Now, it is not my purpose to give you a "simplified version" of the
-Iliad or the Odyssey.  There are already many such versions; but the
-best way for you, or any one else, to read Homer, is _to read Homer_.
-If you do not understand Greek, you can read him in one of the many
-English translations.  You will find much of the spirit of the original
-in the translations by Bryant, by Lord Derby, and by old George Chapman,
-as well as in the admirable prose rendering by Butcher and Lang; but you
-can get none of it in any so-called simplified version.
-
-My object in writing this "Story of the Golden Age" has been to pave the
-way, if I dare say it, to an enjoyable reading of Homer, either in
-translations or in the original.  I have taken the various legends
-relating to the causes of the Trojan war, and, by assuming certain
-privileges never yet denied to story-tellers, have woven all into one
-continuous narrative, ending where Homer’s story begins.  The hero of
-the Odyssey--a character not always to be admired or commended--is my
-hero.  And, in telling the story of his boyhood and youth, I have taken
-the opportunity to repeat, for your enjoyment, some of the most
-beautiful of the old Greek myths.  If I have, now and then, given them a
-coloring slightly different from the original, you will remember that
-such is the right of the story-teller, the poet, and the artist.  The
-essential features of the stories remain unchanged.  I have, all along,
-drawn freely from the old tragedians, and now and then from Homer
-himself; nor have I thought it necessary in every instance to mention
-authorities, or to apologize for an occasional close imitation of some
-of the best translations.  The pictures of old Greek life have, in the
-main, been derived from the Iliad and the Odyssey, and will, I hope,
-help you to a better understanding of those poems when you come to make
-acquaintance directly with them.
-
-Should you become interested in the "Story of the Golden Age," as it is
-here related, do not be disappointed by its somewhat abrupt ending; for
-you will find it continued by the master-poet of all ages, in a manner
-both inimitable and unapproachable.  If you are pleased with the
-discourse of the porter at the gate, how much greater shall be your
-delight when you stand in the palace of the king, and hearken to the
-song of the royal minstrel!
-
-
-
-
-                              *CONTENTS.*
-
-
-THE FORE WORD
-
-ADVENTURE
-
-      I. A Glimpse of the World
-     II. A Voyage on the Sea
-    III. The Centre of the Earth
-     IV. The Silver-Bowed Apollo
-      V. The King of Cattle Thieves
-     VI. Two Famous Boar Hunts
-    VII. At Old Cheiron’s School
-   VIII. The Golden Apple
-     IX. The Swineherd
-      X. The Sea Robbers of Messene
-     XI. The Bow of Eurytus
-    XII. The Most Beautiful Woman in the World
-   XIII. A Race for a Wife
-    XIV. How a Great Hero met His Master
-     XV. Long Live the King
-    XVI. The Children of Prometheus
-   XVII. A Cause of War
-  XVIII. An Unwilling Hero
-    XIX. Heroes in Strange Garb
-     XX. Becalmed at Aulis
-    XXI. The Long Siege
-
-THE AFTER WORD
-
-NOTES
-
-INDEX TO PROPER NAMES
-
-
-
-
-                        *LIST OF ILLUSTRATIONS.*
-
-
-Pyrrhus Finds Philoctetes in a Cave . . . Frontispiece
-
-Odysseus and His Mother
-
-Apollo Slaying the Python
-
-Meleager Refuses to Help in the Defence of the City
-
-The Silver-Footed Thetis Rising from the Waves
-
-The Swineherd Telling His Story to Odysseus
-
-Alpheus and Arethusa
-
-Odysseus Advises King Tyndareus Concerning Helen’s Suitors
-
-Deianeira and the Dying Centaur Nessus
-
-Prometheus
-
-Palamedes Tests the Madness of Odysseus
-
-Odysseus and Menelaus Persuading Agamemnon to Sacrifice Iphigenia
-
-
-                               _*MAPS.*_
-
-A Glimpse of the World. (The Map which Phemius Drew in the Sand)
-
-General Map of Greece
-
-
-
-
-                      *A STORY OF THE GOLDEN AGE.*
-
-
-                            _*ADVENTURE I.*_
-
-                       *A GLIMPSE OF THE WORLD.*
-
-
 To the simple-hearted folk who dwelt in that island three thousand years
 ago, there was never a sweeter spot than sea-girt Ithaca.  Rocky and
 rugged though it may have seemed, yet it was indeed a smiling land
@@ -225,7 +29,6 @@ sighed for a greater.  Not many men had seen so much of the world as he;
 for he had been to Colchis with Jason and the Argonauts, and his feet
 had trod the streets of every city in Hellas.  Yet in all his wanderings
 he had seen no fairer land than rocky Ithaca.  His eyes had been dazzled
-by the brightness of the Golden Fleece, and the kings of Argos and of
 Ilios had shown him the gold and gems of their treasure-houses.  Yet
 what cared he for wealth other than that which his flocks and vineyards
 yielded him?  There was hardly a day but that he might be seen in the
@@ -281,7 +84,6 @@ Then Phemius told the lad all about the land of the Hellenes beyond the
 narrow sea; and, in the sand at their feet, he drew with a stick a map
 of all the countries known to him.
 
-[Illustration: A GLIMPSE OF THE WORLD.
 The Map which Phemius drew in the Sand.]
 
 "We cannot see half of the world from this spot," said the bard,
@@ -375,7 +177,6 @@ years old, you surely will not forget the promise, long since made, that
 I should spend the summer with my grandfather at Parnassus.  Let me go
 very soon, I pray; for I tire of this narrow Ithaca."
 
-[Illustration: ODYSSEUS AND HIS MOTHER.]
 
 The queen’s eyes filled with tears as she answered, "You shall have your
 wish, my son.  The promise given both to you and to my father must be
@@ -482,14 +283,11 @@ latch. Odysseus wrapped himself among the fleeces of his bed, and soon
 was lost in slumber.[1]
 
 
-[1] See Note 1 at the end of this volume.
 
 
 
 
-                           _*ADVENTURE II.*_
 
-                         *A VOYAGE ON THE SEA.*
 
 
 Early the next morning, while yet the dawn was waiting for the sun,
@@ -522,7 +320,6 @@ sail, and the west wind caught and filled it, and drove the little bark
 cheerily over the waves.  And the grateful crew sat down upon the
 benches, and with Odysseus and Phemius the bard, they joined in offering
 heartfelt thanks to Pallas Athené, who had so kindly prospered them. And
-by and by Phemius played soft melodies on his harp, such as the
 sea-nymphs liked to hear.  And all that summer day the breezes whispered
 in the rigging, and the white waves danced in the vessel’s wake, and the
 voyagers sped happily on their way.
@@ -708,7 +505,6 @@ pattern and counterpart of the little bay of Phorcys in their own
 Ithaca.[1]
 
 
-[1] See the description of this bay, in the Odyssey, Book xiii. l. 102.
 
 
 Near the head of the harbor grew an olive tree, beneath whose spreading
@@ -753,7 +549,6 @@ weakness, and prays to the powers above for help and succor."
 
 "I have never seen the palace of Poseidon," said the helmsman, speaking
 slowly; "but once, when sailing to far-off Crete, our ship was overtaken
-by a storm, and for ten days we were buffeted by winds and waves, and
 driven into unknown seas.  After this, we vainly tried to find again our
 reckonings, but we knew not which way to turn our vessel’s prow.  Then,
 when the storm had ended, we saw upon a sandy islet great troops of
@@ -875,16 +670,13 @@ grow there, and which Mother Earth gave to Here the queen upon her
 wedding day.
 
 Here Phemius paused.  Odysseus, lulled by the soft music, and overcome
-by weariness, had lain down upon the sand and fallen asleep.  At a sign
 from the bard, the seamen lifted him gently into the ship, and, covering
 him with warm skins, they left him to slumber through the night.
 
 
 
 
-                           _*ADVENTURE III.*_
 
-                       *THE CENTRE OF THE EARTH.*
 
 
 The next morning, before the sun had risen, the voyagers launched their
@@ -1034,7 +826,6 @@ was a little child, and I know that it was either my grandfather or my
 grandfather’s grandfather.  At any rate, it all happened many, many
 years ago."
 
-By this time they had finished their meal; and after they had given
 thanks to the powers who had thus far kindly prospered them, they
 hastened to renew their journey.  Two of the oarsmen, who were landsmen
 as well as seamen, were to go with them to carry their luggage and the
@@ -1074,9 +865,7 @@ delightful place.
 
 
 
-                           _*ADVENTURE IV.*_
 
-                       *THE SILVER-BOWED APOLLO.*
 
 
 One morning Odysseus sat in the shadow of Parnassus with one of the
@@ -1205,7 +994,6 @@ mountain-tops, you shall have your wish."
 "But when the moon rose full and clear above the heights, the two
 brothers were dead.
 
-[Illustration: APOLLO SLAYING THE PYTHON.]
 
 "And Apollo was pleased with the place which he had chosen for a home;
 for here were peace and quiet, and neither the hum of labor nor the din
@@ -1233,7 +1021,6 @@ the swallows and cicadas twittered and tuned their melodies in harmony
 with his lyre.[1]
 
 
-[1] See Note 2 at the end of this volume.
 
 
 "But as yet there were no priests in Apollo’s temple; and he pondered,
@@ -1325,14 +1112,11 @@ deer."
 Such was the story which the old priest related to Odysseus, sitting in
 the shadow of the mountain; and the boy listened with eyes wide open and
 full of wonder, half expecting to see the golden-haired Apollo standing
-by his side.
 
 
 
 
-                            _*ADVENTURE V.*_
 
-                     *THE KING OF CATTLE THIEVES.*
 
 
 Odysseus and his tutor tarried, as I have told you, a whole month at
@@ -1389,7 +1173,6 @@ away.
 
 "What does he mean?" asked Odysseus, turning to his tutor.  "What does
 he mean by saying that my grandfather is the king of cattle thieves, and
-by speaking of Hermes as my great-grandfather?"
 
 "They tell strange tales about Autolycus, the mountain chief," Phemius
 answered; "but whether their stories be true or false, I cannot say.
@@ -1430,7 +1213,6 @@ King of Cattle Thieves; with how much justice, you may judge for
 yourself."
 
 
-[1] See Note 3 at the end of this volume.
 
 
 "You have explained a part of what I asked you," said Odysseus
@@ -1441,7 +1223,6 @@ must renew our journey, and I must go now and put every thing in
 readiness."[2]
 
 
-[2] See Note 4 at the end of this volume.
 
 
 "But has the oracle spoken?" asked Odysseus in surprise.
@@ -1450,8 +1231,8 @@ readiness."[2]
 fortune should attend you on this journey, and the oracle made this
 reply:--
 
-    ’To home and kindred he shall safe return e’er long,
-    With scars well-won, and greeted with triumphal song.’"
+’To home and kindred he shall safe return e’er long,
+With scars well-won, and greeted with triumphal song.’"
 
 
 "What does it mean?" asked Odysseus.
@@ -1708,7 +1489,6 @@ straight and forbidding road which leads to the fair blue mountains on
 the pale and distant horizon.[1]
 
 
-[1] See Note 5 at the end of this volume.
 
 
 "My dear grandson, make thou the same wise choice.
@@ -1721,9 +1501,7 @@ victories."
 
 
 
-                           _*ADVENTURE VI.*_
 
-                        *TWO FAMOUS BOAR HUNTS.*
 
 
 Hardly had the morning tinged the eastern sky with her yellow light,
@@ -1885,7 +1663,6 @@ the pitiless sisters vanished from her sight, saying as they flitted
 through the air, ’We bide our time.’[1]
 
 
-[1] See Note 6 at the end of this volume.
 
 
 "Meleager grew up to be a tall and fair and gentle youth; and when at
@@ -2047,7 +1824,6 @@ not. His sisters came, and his most trusted friends.  ’Come, Meleager,’
 they prayed, ’forget thy grief, and think only of our great need.  Aid
 thy people, or we shall all perish!’
 
-[Illustration: MELEAGER REFUSES TO HELP IN THE DEFENCE OF THE CITY.]
 
 "None of these prayers moved him.  The gates were beaten down; the enemy
 was within the walls; the tide of battle shook the very tower where
@@ -2118,7 +1894,6 @@ over the sea, expecting your return."
 
 But there was no vessel at the port on the bay to carry them home by the
 nearest way; and days’ and months might pass ere any ship, sent thither
-by Laertes, would arrive.  How, then, were they to return to Ithaca?
 
 "Here is your uncle, bold Echion, who goes to-morrow to Iolcos by the
 sea, carrying gifts and a message from Autolycus to old King Peleus.  We
@@ -2132,7 +1907,6 @@ Once at Corinth, and we shall find no lack of ships to carry us across
 the bay of Crissa to our own loved Ithaca."
 
 And thus the journey home was planned.  It was a long and devious route
-by way of Iolcos and the Eubœan Sea; and no one could say how many
 dangers they might meet, or how many delays they should encounter. Yet
 nothing better could be done, if they would return before the summer
 ended.
@@ -2146,9 +1920,7 @@ brave in war, and wise in counsel, was Odysseus!’"
 
 
 
-                           _*ADVENTURE VII.*_
 
-                       *AT OLD CHEIRON’S SCHOOL.*
 
 
 After a long, hard journey by land and sea, Odysseus and his tutor, with
@@ -2195,7 +1967,6 @@ manhood.  And so Pelion still stands beside the sea, and Ossa, in its
 own place, guards the lovely vale of Tempe."[1]
 
 
-[1] See Odyssey, Book xi. l. 306,
 
 
 "Oh, now I remember something else about Mount Pelion," cried Odysseus.
@@ -2271,7 +2042,6 @@ that Odysseus had ever heard.  He played a soft, low melody which seemed
 to carry their minds far away into a summer land of peace, where they
 wandered at will by the side of still waters, and through sunlit fields
 and groves, and reposed under the shelter of calm blue skies, shielded
-by the boundless love of the unknown Creator.  When he had finished,
 Odysseus thought no more of the toilsome journey from Iolcos, or of the
 wearisome climbing of the mountain: he thought only of the wise and
 wonderful old man who sat before him.
@@ -2315,9 +2085,7 @@ all the Centaurs, and even I, the last of the race, are hardly human,
 but have hoofs and manes, and live as horses live.
 
 
-[2] From [Greek: kentein ten auran].
 
-[3] From [Greek: laas peithein].
 
 
 "Long and sad was the war between the Centaurs and the Lapiths; but the
@@ -2463,7 +2231,6 @@ golden-haired Apollo to Pherae, in Thessaly, to serve for a whole year
 as bondsman to King Admetus."[4]
 
 
-[4] See Note 7 at the end of this volume.
 
 
 At this moment, a tall and very handsome lad, whom Odysseus had not yet
@@ -2489,7 +2256,6 @@ Cheiron turned again to Odysseus and the bard.
 "I was telling you about my pupils," he said; "and I will speak of but
 one other, for there are reasons why you should know his history.
 Peleus, the son of Æacus and my loved daughter Endeis, was brought to me
-by his mother from Ægina.  There was something in the boy’s face which
 showed that a strange, sad life was to be his; and, although he was not
 a promising lad, yet when he left me to go with Jason to Colchis, I felt
 great grief at losing him.  But by and by, after the heroes had
@@ -2540,9 +2306,7 @@ friends.
 
 
 
-                          _*ADVENTURE VIII.*_
 
-                          *THE GOLDEN APPLE.*
 
 
 After the evening meal had been eaten and the cave-hall set in order,
@@ -2585,7 +2349,6 @@ sparkling silver were upon her feet.
 "As Peleus gazed upon this lovely creature, he heard a voice whispering
 in his ear.  It was the voice of Pallas Athené.
 
-[Illustration: THE SILVER-FOOTED THETIS RISING FROM THE WAVES.]
 
 "’Most luckless of mortal men,’ she said, ’there is recompense in store
 for those who repent of their wrong-doing, and who, leaving the paths of
@@ -2614,7 +2377,6 @@ songs of a happy land in the depths of the sounding sea.  Peleus,
 bearing in mind what I had taught him, arose from his hiding-place, and
 caught the beauteous creature in his arms.  In vain did she struggle to
 leap into the waves.  Seven times she changed her form as he held her:
-by turns she changed into a fountain of water, into a cloud of mist,
 into a burning flame, and into a senseless rock.  But Peleus held her
 fast; and she changed then into a tawny lion, and then into a tall tree,
 and lastly she took her own matchless form again.
@@ -2912,10 +2674,8 @@ his fair young wife, and left her to pine in loneliness among the woods
 and in the narrow dells of sunny Ida."[1]
 
 
-[1] See Note 8 at the end of this volume.
 
 
-By this time the fire had burned low upon the hearth, and Cheiron the
 master would fain have ended his talk.  But Odysseus was anxious to hear
 more.
 
@@ -2973,9 +2733,7 @@ more upon the shores of sea-girt Ithaca.
 
 
 
-                           _*ADVENTURE IX.*_
 
-                            *THE SWINEHERD.*
 
 
 When Odysseus stepped ashore upon the sandy beach of Ithaca, the good
@@ -3017,8 +2775,8 @@ so great a friend?  Then, too, good Phemius questioned the Pythian
 oracle about me; and the answer was such as to make me sure of safety.
 It was this:--
 
-    ’To home and kindred he shall safe return ere long,
-    With scars well-won, and greeted with triumphal song.’"
+’To home and kindred he shall safe return ere long,
+With scars well-won, and greeted with triumphal song.’"
 
 
 "Well," said Laertes, "the oracle doubtless spoke the truth.  We know
@@ -3095,7 +2853,6 @@ life.  Was the goodly town in which your father and your lady mother
 dwelt, laid waste by an enemy?  Or did unfriendly men find you in the
 fields alone, and sell you to him who would pay the goodliest price?"
 
-[Illustration: THE SWINEHERD TELLING HIS STORY TO ODYSSEUS.]
 
 "Since you ask me for my story, young master," said Eumæus, "I will tell
 it you.  But sit you here upon this couch of goat skins while you
@@ -3164,7 +2921,6 @@ goodly price.  And that is why I am your father’s thrall, and dwell here
 lonely underneath these sheltering oaks."[1]
 
 
-[1] See Note 9 at the end of this volume.
 
 
 Such was the tale which the swineherd told Odysseus and his young
@@ -3184,9 +2940,7 @@ mind, and not the force of outward things, that makes us rich and free."
 
 
 
-                            _*ADVENTURE X.*_
 
-                     *THE SEA ROBBERS OF MESSENE.*
 
 
 Five years passed quietly by, and brought few changes to Ithaca.  The
@@ -3387,7 +3141,6 @@ been made.  And for this reason the man who is wont to pray feels less
 the strokes of fortune than does he who lives forgetful of the gods."[1]
 
 
-[1] See Note 10 at the end of this volume.
 
 
 The feast being soon ended, Nestor turned again to the strangers, and
@@ -3456,7 +3209,6 @@ for him," answered old Neleus. "Send them both in thy own chariot, and
 ask Orsilochus, in the name of a friend, to deal justly with the son of
 Laertes."
 
-By this time Odysseus and the bard had awakened from their slumber.
 They arose; and when they had bathed, and had been anointed with soft
 oil, they clothed themselves in robes of noble texture, and went down
 into the banquet hall.  There they found King Nestor waiting; and they
@@ -3482,14 +3234,11 @@ roads scarcely marked with tracks of wheels or horses’ hoofs; and night
 had begun to fall ere they came to the river Nedon and the high walls of
 Pherae where dwelt Orsilochus, the king of Messene.
 
-[Illustration: ALPHEUS AND ARETHUSA.]
 
 
 
 
-                           _*ADVENTURE XI.*_
 
-                         *THE BOW OF EURYTUS.*
 
 
 In Arcadia there is a little mountain stream called Alpheus.  It flows
@@ -3676,13 +3425,11 @@ watch and ward around them.  And, lastly, he went down into the dark
 kingdom of Hades, and brought thence the mighty hound Cerberus, carrying
 him in his strong arms into the very presence of Eurystheus.  All these
 deeds, and many more, did Heracles, because they were tasks set for him
-by his master; but other things, even mightier than they, did he do
 because of his love for suffering men.[1]  At length, when the days of
 his servitude to Eurystheus were ended, he came again to Hellas, and
 dwelt a long time in Calydon with his old-time friend Oineus."
 
 
-[1] See Note 11 at the end of this volume.
 
 
 When Iphitus had thus spoken, he was silent for a time; and Odysseus,
@@ -3820,9 +3567,7 @@ string it.  It was indeed a matchless gift, and a treasure to be prized.
 
 
 
-                           _*ADVENTURE XII.*_
 
-                *THE MOST BEAUTIFUL WOMAN IN THE WORLD.*
 
 
 Very early on the following day, Iphitus bade Orsilochus farewell, and
@@ -3948,7 +3693,6 @@ gems, within this hall, that the light gleamed from floor to ceiling,
 like the beams of the sun or the round full moon.[1]
 
 
-[1] See Note 12 at the end of this volume.
 
 
 The aged king was pleased to see the heroes; for Iphitus and he had been
@@ -4019,9 +3763,7 @@ retiring sweetness of Penelope.
 
 
 
-                          _*ADVENTURE XIII.*_
 
-                          *A RACE FOR A WIFE.*
 
 
 Days and weeks passed by, and still Odysseus tarried as a guest at the
@@ -4044,8 +3786,6 @@ Penelope reigned queen.  One day as he sat alone with Tyndareus in his
 chamber, he saw that the king was sorely troubled; and he began in his
 own way to find out the cause of his distress.
 
-[Illustration: ODYSSEUS ADVISES KING TYNDAREUS CONCERNING HELEN’S
-SUITORS.]
 
 "Surely, O king!" he said, "you are the happiest of men.  For here you
 have, in Lacedæmon, every thing that can delight the eye, or please the
@@ -4333,7 +4073,6 @@ and was soon far in advance.
 
 "Another fool will soon come to grief!" said Iasus, laughing loudly.
 
-By this time Atalanta was near the turning-post, while Milanion,
 straining every nerve, was many yards behind.  Then he remembered the
 secret which Aphrodite had whispered, and he threw one of the golden
 apples far beyond the post.  It fell upon the green lawn, a
@@ -4418,9 +4157,7 @@ that he carried thither was the bow of Eurytus.
 
 
 
-                           _*ADVENTURE XIV.*_
 
-                   *HOW A GREAT HERO MET HIS MASTER.*
 
 
 Now, after two years and more had passed in peace, there came one day to
@@ -4592,7 +4329,6 @@ mischief-maker.  ’She is the daughter of King Eurytus of Œchalia, and
 the sister of Iphitus. Her name is Iole; and it was for the sake of her
 beauty that Heracles destroyed her father’s city.’
 
-[Illustration: DEIANEIRA AND THE DYING CENTAUR NESSUS.]
 
 "Then Deianeira was sadly troubled lest the heart of the great hero
 should be turned away from her, and his affections set upon this lovely
@@ -4729,9 +4465,7 @@ Laertes.
 
 
 
-                           _*ADVENTURE XV.*_
 
-                         *LONG LIVE THE KING!*
 
 
 "Surely," sighed Laertes, "the old heroes pass away; but the younger
@@ -4902,9 +4636,7 @@ Penelope and the babe Telemachus, he departed.
 
 
 
-                           _*ADVENTURE XVI.*_
 
-                     *THE CHILDREN OF PROMETHEUS.*
 
 
 There was sore distress in Lacedæmon.  Famine and a deadly pestilence
@@ -5109,7 +4841,6 @@ of the terrible herdsman still follows me, and I find no rest; and
 aimlessly I have come, thus goaded onward, to this wild mountain
 region.’
 
-[Illustration: PROMETHEUS.]
 
 "Then Prometheus in pitying accents said, ’Listen now to me, and I will
 tell thee, Io, what other sorrows thou must bear from Here; for it is
@@ -5269,9 +5000,7 @@ great Prometheus?"
 
 
 
-                          _*ADVENTURE XVII.*_
 
-                           *A CAUSE OF WAR.*
 
 
 Time passed.
@@ -5316,7 +5045,6 @@ mountain-tops."
 "None, indeed, save only the towers and palaces of Troy in flames!"
 returned the other earnestly.
 
-                     *      *      *      *      *
 
 Meanwhile, with troubled brow and anxious heart, Menelaus sat in
 Nestor’s halls, and told the story of his wrongs.  Before him, seated on
@@ -5648,9 +5376,7 @@ Paris has received his due reward."
 
 
 
-                          _*ADVENTURE XVIII.*_
 
-                          *AN UNWILLING HERO.*
 
 
 In the shade of the orchard trees, at the foot of Mount Neritus, there
@@ -5696,7 +5422,6 @@ and Palamedes that I am mad, and cannot go."
 All at once a great change seemed to come over him. He put the babe into
 its nurse’s arms; and then with long strides, and in the aimless manner
 of a maniac, he made his way across the orchard, and along the footpath
-by the beach to the white palace near the shore. When his old friends,
 Nestor and Palamedes, saw him, they hastened towards him, expecting to
 receive his greeting; but with unmeaning words, and a vacant stare, he
 passed by them without a word of recognition. "He is mad," said the
@@ -5717,7 +5442,6 @@ Hellas."
 "Do not judge hastily," whispered Palamedes.  "We shall find out from
 whence this madness comes."
 
-[Illustration: PALAMEDES TESTS THE MADNESS OF ODYSSEUS.]
 
 Soon Odysseus rushed from his chamber, looking wildly about him, as if
 the very Furies were at his heels.  He was dressed in his richest
@@ -5763,7 +5487,6 @@ spent in eating and merry-making, and not a word was said concerning the
 great business which had brought the kings to Ithaca.
 
 
-[1] See Note 13 at the end of this volume.
 
 
 Later in the day, however, Nestor told Odysseus the story of the perfidy
@@ -5790,9 +5513,7 @@ men, but even in the halls of Zeus, upon the airy summit of Olympus.
 
 
 
-                           _*ADVENTURE XIX.*_
 
-                       *HEROES IN STRANGE GARB.*
 
 
 There dwelt at Mycenæ a wise soothsayer, named Calchas,--a man versed in
@@ -5906,7 +5627,6 @@ ran close by the threshold of the palace, and bubbled up in the
 market-square, where all the people came to fill their vessels.[1]
 
 
-[1] See Note 14 at the end of this volume.
 
 
 As Odysseus stood and gazed in rapt delight upon this scene of beauty, a
@@ -5987,10 +5707,8 @@ hearts we will hasten to join our countrymen in war against the Trojan
 power."
 
 
-[2] See Note 15 at the end of this volume.
 
 
-                     *      *      *      *      *
 
 Thus, then, did Odysseus perform his quest, and thus the last and
 greatest ally was won to the Hellenic cause.  And yet the war was long
@@ -6013,7 +5731,6 @@ and that his men were the goodliest and bravest of all that host.
 
 Next to him was Menelaus, silent and discreet, by no means skilled above
 his fellows, and yet, by reason of his noble heart, beloved and honored
-by all the Greeks; and it was to avenge his wrongs that this mighty
 array of men and ships had been gathered together.
 
 Odysseus came next, shrewd in counsels, and no longer an unwilling hero;
@@ -6092,9 +5809,7 @@ into your hands."
 
 
 
-                           _*ADVENTURE XX.*_
 
-                          *BECALMED AT AULIS.*
 
 
 A pleasant wind from the west sprang up, and drove the great fleet out
@@ -6206,8 +5921,6 @@ hero will not sail with us unless my daughter be given to him in
 marriage_."  And when he had written the letter, he sealed it, and sent
 it by a swift messenger to Clytemnestra at Mycenæ.
 
-[Illustration: ODYSSEUS AND MENELAUS PERSUADING AGAMEMNON TO SACRIFICE
-IPHIGENIA.]
 
 Nevertheless the king’s heart was full of sorrow, and when he was alone
 he planned how he might yet save his daughter.  Night came, but he could
@@ -6449,9 +6162,7 @@ saved.
 
 
 
-                          _*ADVENTURE XXI*_*.*
 
-                           *THE LONG SIEGE.*
 
 
 The great fleet sailed once more across the sea, piloted now by
@@ -6567,7 +6278,6 @@ up for the trial,--Ajax Telamon and Odysseus; for no other man dared
 contend with either of these.  Mighty indeed was the contest; but in the
 end Odysseus prevailed, and the matchless armor was awarded him.  Then,
 when Ajax knew that he had been beaten in the suit,--and beaten not more
-by honest strength and skill than by crafty guile,--he fell prone upon
 the earth, and his great mind lost its balance.  And when he arose to
 his feet, he knew no longer his friends and comrades, nor did he
 remember any thing.  But like a roaring wild beast, he rushed from the
@@ -6590,7 +6300,6 @@ save only peerless Achilles.  What a tower of strength wert thou!  Long
 indeed shall it be ere Hellas shall see another like thee!"[1]
 
 
-[1] See Note 16 at the end of this volume.
 
 
 After this the Hellenes began to despair; for many of their noblest
@@ -6823,781 +6532,4 @@ princes of Hellas performed the oath which they had sworn, years and
 years before, in the halls of King Tyndareus; and it was thus that the
 wrongs of Menelaus were avenged, fair Helen was given back to her
 husband, and the honor of Hellas was freed from blemish.
-
-
-
-
-                           *THE AFTER WORD.*
-
-
-And now, if you would learn more concerning the great heroes of the
-Golden Age, you must read the noble poems in which the story of their
-deeds is told. In the Iliad of Homer, truly the grandest of all poems
-written by men, you will read of what befell the Greeks before the walls
-of Troy,--of the daring of Diomede; of the wisdom of Nestor; of the
-shrewdness of Odysseus; of the foolish pride of Agamemnon; of the
-nobility of Hector; of the grief of old King Priam; of the courage of
-Achilles.  In the Æneid of Virgil, you will read of the last day of the
-long siege, and the fatal folly of the Trojans; of crafty Sinon; of the
-sad end of Laocoon, who dared suspect the object of the wooden horse; of
-the destruction of the mighty city; and of the wanderings of Æneas and
-the remnant of the Trojans until they had founded a new city on the far
-Lavinian shore.  In the tragedies of Æschylus, you will read of the
-return of the heroes to Greece; of the sad death of Agamemnon in his own
-great banquet-hall; of the wicked career of Clytemnestra; of the
-terrible vengeance of Orestes; of what befell Iphigenia in Tauris, and
-how she returned to her native land.  And in the Odyssey of Homer,
-second only to the Iliad in grandeur, you will read of the strange
-adventures of Odysseus; how he, storm-tossed and wind-driven, strove for
-ten weary years to return to Ithaca; how, after the fall of Troy,--
-
-"He overcame the people of Ciconia; how he passed thence to the rich
-fields of the race who feed upon the lotus; what the Cyclops did, and
-how upon the Cyclops he avenged the death of his brave comrades, whom
-the wretch had piteously slaughtered and devoured; and how he came to
-Æolus, and found a friendly welcome, and was sent by him upon his
-voyage; yet ’twas not his fate to reach his native land; a tempest
-caught his fleet, and far across the fishy deep bore him away, lamenting
-bitterly.  And how he landed at Telepylus, among the Læstrigonians, who
-destroyed his ships and warlike comrades, he alone in his black ship
-escaping." ...
-
-You will read, too, of how he was driven to land upon the coast where
-Circe the sorceress dwelt, and how he shrewdly dealt with her deceit and
-many arts:--
-
-"And how he went to Hades’ dismal realm in his good galley, to consult
-the soul of him of Thebes, Tiresias, and beheld all his lost comrades
-and his mother,--her who brought him forth, and trained him when a
-child; and how he heard the Sirens afterward, and how he came upon the
-wandering rocks, the terrible Charybdis, and the crags of Scylla,--which
-no man had ever passed in safety; how his comrades slew for food the
-oxen of the Sun; how mighty Zeus, the Thunderer, with a bolt of fire
-from heaven smote his swift bark; and how, his gallant crew all
-perished, he alone escaped with life.  And how he reached Ogygia’s isle,
-and met the nymph Calypso, who long time detained and fed him in her
-vaulted grot, and promised that he ne’er should die, nor know decay of
-age, through all the days to come; yet moved she not the purpose of his
-heart. And how he next through many hardships came to the Phæacians, and
-they welcomed him and honored him as if he were a god, and to his native
-country in a bark sent him with ample gifts of brass and gold and
-raiment."
-
-How he made himself known to old Eumæus the swineherd, and to his son
-Telemachus, and how his old nurse, Eurycleia, knew him by the scar which
-he had received when a boy from the wild boar on Mount Parnassus.  How
-he found his palace full of rude suitors seeking the hand of faithful
-Penelope; and how, with the great bow of Eurytus, he slew them all, and
-spared not one.
-
-      ... "Never shall the fame
-    Of his great valor perish; and the gods
-    Themselves shall frame, for those who dwell on earth,
-    Sweet strains in praise of sage Penelope."
-
-
-
-
-                                *NOTES.*
-
-
-              NOTE 1.--ODYSSEUS AND HIS NURSE.  _Page_ 12.
-
-In the Odyssey, Book I., lines 425-444, a similar incident is related
-concerning Telemachus and Eurycleia.  Many of the illustrations of life
-and manners given in this volume have been taken, with slight changes,
-from Homer.  It has not been thought necessary to make distinct mention
-of such passages.  The student of Homer will readily recognize them.
-
-
-              NOTE 2.--APOLLO AND THE PYTHON.  _Page_ 43.
-
-Readers of the "Story of Siegfried" cannot fail to notice the
-resemblance of the legends relating to that hero, to some of the myths
-of Apollo.  Siegfried, like Apollo, was the bright being whose presence
-dispelled the mists and the gloom of darkness. He dwelt for a time in a
-mysterious but blessed region far to the north.  He was beneficent and
-kind to his friends, terrible to his foes.  Apollo’s favorite weapons
-were his silver bow and silent arrows; Siegfried’s main dependence was
-in his sun-bright armor and his wonderful sword Balmung.  Apollo slew
-the Python, and left it lying to enrich the earth; Siegfried slew Fafnir
-the dragon, and seized its treasures for his own.--See _The Story of
-Siegfried_.
-
-
-                     NOTE 3.--SISYPHUS.  _Page_ 50.
-
-"Yea, and I beheld Sisyphus in strong torment, grasping a monstrous
-stone with both his hands.  He was pressing thereat with hands and feet,
-and trying to roll the stone upward toward the brow of the hill.  But
-oft as he was about to hurl it over the top, the weight would drive him
-back: so once again to the plain rolled the stone, the shameless thing.
-And he once more kept heaving and straining; and the sweat the while was
-pouring down his limbs, and the dust rose upwards from his
-head."--_Homer’s Odyssey_, XI. 595.
-
-
-                 NOTE 4.--A SON OF HERMES.  _Page_ 50.
-
-Autolycus was said to have been a son of Hermes, doubtless on account of
-his shrewdness and his reputation for thievery.  Hermes is sometimes
-spoken of as the god of thieves.
-
-
-              NOTE 5.--THE CHOICE OF HERACLES.  _Page_ 61.
-
-This moral lesson is, of course, of much later date than that of our
-story.  It is the invention of the Greek sophist Prodicus, who was a
-contemporary of Socrates.
-
-
-                     NOTE 6.--MELEAGER.  _Page_ 68.
-
-Readers of the "Story of Roland" will readily recognize several points
-of resemblance between the legend of Meleager’s childhood and the story
-of Ogier the Dane.  It is, indeed, probable that very much of the latter
-is simply a medieval adaptation of the former.--See also the account of
-the three Norns in _The Story of Siegfried_.
-
-
-              NOTE 7.--THE DEATH OF ASCLEPIUS.  _Page_ 91.
-
-The story of Balder, as related in the Norse mythology, has many points
-of resemblance to that of Asclepius.  Balder, although a being of a
-higher grade than Asclepius, was the friend and benefactor of mankind.
-He was slain through the jealousy of the evil one: his death was
-bewailed by all living beings, birds, beasts, trees, and plants.--See
-_The Story of Siegfried_.
-
-
-                 NOTE 8.--PARIS AND ŒNONE.  _Page_ 109.
-
-A very beautiful version of this story is to be found in Tennyson’s poem
-entitled "Œnone."  It will well repay reading.
-
-
-              NOTE 9.--THE SWINEHERD’S STORY.  _Page_ 119.
-
-This story was afterwards related to Odysseus under very different
-circumstances.  The curious reader is referred to the Odyssey, Book XV.,
-390-485.
-
-
-                    NOTE 10.--PRAYERS.  _Page_ 129.
-
-    "The gods themselves are placable, though far
-    Above us all in honor and in power
-    And virtue.  We propitiate them with vows,
-    Incense, libations, and burnt-offerings,
-    And prayers for those who have offended.  Prayers
-    Are daughters of almighty Jupiter,--
-    Lame, wrinkled, and squint-eyed,--that painfully
-    Follow Misfortune’s steps; but strong of limb
-    And swift of foot Misfortune is, and, far
-    Outstripping all, comes first to every land,
-    And there wreaks evil on mankind, which Prayers
-    Do afterwards redress.  Whoe’er receives
-    Jove’s daughters reverently when they approach,
-    Him willingly they aid, and to his suit
-    They listen.  Whosoever puts them by
-    With obstinate denial, they appeal
-    To Jove, the son of Saturn, and entreat
-    That he will cause Misfortune to attend
-    The offender’s way in life, that he in turn
-    May suffer evil, and be punished thus."
-      _The Iliad_ (BRYANT’S Translation), IX. 618-636.
-
-A sacrifice to Poseidon similar to that described here is spoken of in
-the Odyssey, III. 30-60.
-
-
-             NOTE 11.--THE LABORS OF HERACLES.  _Page_ 140.
-
-It seems to have been one of the unexplainable decrees of fate that
-Heracles should serve Eurystheus twelve years, and that at his bidding
-he should perform the most difficult undertakings. The account of the
-twelve labors of Heracles, undertaken by command of his master, belongs
-to a later age than that of Homer, The twelve labors were as follows:--
-
-    1. The fight with the Nemean lion.
-    2. The fight with the Lernæan hydra.
-    3. Capture of the Arcadian stag.
-    4. Destruction of the Erymanthian boar.
-    5. Cleansing the stables of Augeas.
-    6. Putting to flight the Harpies, or Stymphalian birds.
-    7. Capture of the Cretan bull.
-    8. Capture of the mares of Thracian Diomede.
-    9. Seizure of the girdle of the queen of the Amazons.
-    10. Capture of the oxen of Geryones.
-    11. Fetching the golden apples of the Hesperides.
-    12. Bringing Cerberus from the lower world.
-
-
-                         NOTE 12.  _Page_ 151.
-
-The description of the palace of Tyndareus given here has many points of
-resemblance to the description of the palace of Alcinous.--See
-_Odyssey_, VII. 85.
-
-
-           NOTE 13.  THE VENGEANCE OF ODYSSEUS.  _Page_ 224.
-
-Palamedes, according to the ancient story, went to Troy with the heroes,
-where he distinguished himself by his wisdom and courage.  But Odysseus,
-who could never forgive him, caused a captive Phrygian to write to
-Palamedes a letter in the name of Priam, and bribed a servant of
-Palamedes to conceal the letter under his master’s bed.  He then accused
-Palamedes of treachery. Upon searching the tent, the letter was found,
-and Palamedes was stoned to death.  When Palamedes was led to death, he
-exclaimed, "Truth, I lament thee, for thou hast died even before me!"
-There are other stories as to the manner of the death of Palamedes.
-Some say that Odysseus and Diomede induced him to descend into a well,
-where they pretended they had discovered a treasure; and when he was
-below, they cast stones upon him, and killed him. Others state that he
-was drowned by them while fishing; and others that he was killed by
-Paris with an arrow.--See _Smith’s Classical Dictionary_.
-
-
-            NOTE 14.--THE GARDEN OF LYCOMEDES.  _Page_ 230.
-
-The curious reader may find in the description of the garden of Alcinous
-(Odyssey, VII. 85, _et seq._) some resemblance to the description here
-given of the garden of Lycomedes.
-
-
-              NOTE 15.--THE CASKETS OF ZEUS.  _Page_ 233.
-
-      "Beside Jove’s threshold stand
-    Two casks of gifts for man.  One cask contains
-    The evil, one the good; and he to whom
-    The Thunderer gives them mingled sometimes falls
-    Into misfortune, and is sometimes crowned
-    With blessings.  But the man to whom he gives
-    The evil only stands a mark exposed
-    To wring, and, chased by grim calamity,
-    Wanders the teeming earth, alike unloved
-    By gods and men."--_The Iliad_, XXIV. 663-672,
-
-
-                 NOTE 16.--DEATH OF AJAX.  _Page_ 258.
-
-"The soul of Ajax, son of Telawon, alone stood apart, being still angry
-for the victory wherein I prevailed against him, in the suit by the
-ships concerning the arms of Achilles that his lady mother had set for a
-prize; and the sons of the Trojans made award and Pallas Athené.  Would
-that I had never prevailed and won such a prize!"--_Odyssey_, XI.
-544-548.
-
-
-
-
-[Illustration: Map--HELLAS, THE SHORES OF THE ÆGEAN AND ILIOS.]
-
-
-
-
-                        *INDEX TO PROPER NAMES.*
-
-
-[_The figures in parentheses indicate the page or pages on which the
-name receives fullest mention._]
-
-
-Acarnānĭa (3, 72), the most western province of Hellas.
-
-Acastus (92), son of Pelias, king of Iolcos; he was slain by Peleus.
-
-Achaia (5), the northern coast of Peloponnesus.
-
-Achilles (91, 109, 225-236, 246, 255), son of Peleus and the sea-nymph
-Thetis.  The chief hero among the Hellenes.
-
-Actæon (87), a celebrated huntsman.  He was changed by Artemis into a
-stag, and torn to pieces by his own dogs.
-
-Admetus (90, 166), king of Pherze in Thessaly.
-
-Æson (80), son of Cretheus, and father of Jason.  He was excluded from
-the kingship of Iolcos by his half-brother Pelias.
-
-Ætolia (5), a country north of the Corinthian Gulf (Bay of Crissa), and
-east of Acarnania.
-
-Agamemnon (150, 233, 238, 251), king of Mycenæ, and commander-in-chief
-of the Hellenic forces in the war against Troy.
-
-Ajax Telamon, sometimes called the greater Ajax (150, 234, 257), son of
-Telamon, king of Salamis.  He was a nephew of Peleus, and hence a cousin
-of Achilles.
-
-Ajax Oileus, sometimes called the lesser Ajax (151, 234), son of Oileus,
-king of the Locrians.
-
-Alcestis (166), daughter of Pelias, and wife of Admetus.
-
-Alpheus (132), a river which flows through Arcadia and Elis.
-
-Althea (65), the mother of Meleager.
-
-Amphithea (53), grandmother of Odysseus.
-
-Amphitryon (55), the stepfather of Heracles.
-
-Anticleia (2, 219), daughter of Autolycus, and mother of Odysseus.
-
-Antilochus (131, 151), son of Nestor.
-
-Aphareus (125, 187), founder of the town of Arene in Messene, and father
-of Idas and Lynceus.
-
-Aphrodīte (99-110, 160), goddess of love and beauty.
-
-Apollo (37-46, 189, 208), son of Zeus and Leto.  He was the god of
-prophecy and of music and song, the punisher of evil, and the helper of
-men.
-
-Arcadia (5, 132), a country in the middle of the Peloponnesus.
-
-Ares (223), the god of war.  _Mars_.
-
-Arethusa (133), a sea-nymph.
-
-Argo (2, 89), the ship upon which Jason and his companions sailed to
-Colchis.
-
-Argolis, see Argos.
-
-Argonauts (2, 67), "the sailors of the Argo."
-
-Argos (2, 5), a name frequently applied by Homer to the whole of the
-Peloponnesus.  A district north of Laconia, often called Argolis.
-
-Argus (196), a monster having a hundred eyes, appointed by Here to be
-the guardian of Io.
-
-Artĕmis (134, 239), daughter of Zeus and Leto, and the twin-sister of
-Apollo.  She was the goddess of the chase, and the protectress of the
-young and helpless.  _Diana_.
-
-Asclepius (87-90), son of Apollo, and god of the healing art.
-_Æsculapius_.
-
-Atalanta (68, 162), daughter of Iasus and Clymene; the fleet-footed wife
-of Milanion.
-
-Athēné (10, 14,99-105) goddess of wisdom, and "queen of the air;" often
-called Pallas Athené.  _Minerva_.
-
-Atropos (66, 98), one of the Fates.
-
-Aulis (233, 239-251), a harbor in Bœotia, on the Euripus.
-
-Autolycus (48), the grandfather of Odysseus.
-
-Balios and Xanthos (97), the horses of Peleus.
-
-Bœotia, a district north of the Corinthian Gulf, bounded on the east by
-the Euripus, and on the west by Phocis.
-
-Bosphōrus (197), the "ox ford," the strait connecting the Sea of Marmora
-with the Black (Euxine) Sea.
-
-Cadmus (217), a Phœnician who settled in Hellas, and founded the city of
-Thebes.  He is said to have brought the alphabet from Phœnicia.
-
-Calchas (225, 241-252), the wisest soothsayer among the Hellenes.  He
-died of grief because the soothsayer Mopsus predicted things which he
-had not foreseen.
-
-Calўdōn (66-76), an ancient town and district of Ætolia, on the Evenus
-River.
-
-Castor (56, 68, 146, 185), twin-brother of Polydeuces.
-
-Centaurs (84-86), an ancient race inhabiting Mount Pelion and the
-neighboring districts of Thessaly.
-
-Cephallenia (183), a large island near Ithaca.
-
-Charybdis (155), a dreadful whirlpool on the side of a narrow strait
-opposite Scylla.
-
-Cheiron (58, 78, 170), a Centaur, "the wisest of men," and the teacher
-of the heroes.
-
-Chryse (252), an island in the Ægæan Sea; also a city on the coast of
-Asia Minor, south of Troy.
-
-Circe (270), daughter of Helios, a sorceress who lived in the island of
-Ææa.
-
-Cleopatra (67-76), wife of Meleager.
-
-Clotho (66, 98), one of the Fates.
-
-Clytemnestra (152, 242-252), daughter of Tyndareus and Leda, and sister
-of Castor and Polydeuces and Helen.  She was married to Agamemnon, and
-became the mother of Iphigenia and Orestes.
-
-Colchis (2, 87-89), a country of Asia, at the eastern extremity of the
-Black Sea.
-
-Copāis (40), a lake in Bœotia.
-
-Corinth (5, 49, no), a city on the isthmus between the Corinthian Gulf
-and the Ægæan Sea.
-
-Corycia (51), a nymph who lived on Mount Parnassus.
-
-Crissa (5, 29), the ancient name of the Gulf of Corinth; also, the name
-of a town in Phocis.
-
-Cronus (11,182), the youngest of the Titans, and the father of Zeus.
-_Saturn_.
-
-Cythēra (165), an island off the south-western point of Laconia.
-
-Deianeira (142, 171-181), wife of Heracles.
-
-Delos (38), the smallest of the Cyclades islands in the Ægæan Sea.
-
-Delphi (5, 30-45), a town on the southern slope of Mount Parnassus.
-
-Deucălion (200), son of Prometheus, and father of Hellen.
-
-Diomēde (151, 235), son of Tydeus, and king of Argos.
-
-Dodona (171, 225), an ancient oracle of Hellas, situated in Epirus in a
-grove of oaks and beeches.
-
-Echion (61, 76), son of Autolycus.
-
-Elis (125), a country on the western coast of the Peloponnesus, south of
-Achala.
-
-Epaphos (16, 198), son of Zeus and Io.
-
-Eris (98), the goddess of discord.
-
-Erymanthus (139), a mountain in Arcadia.
-
-Eubœa, the largest island of the Ægæan Sea, separated from Bœotia by the
-Euripus.
-
-Eumæus (114-119), the swineherd of Ithaca.
-
-Euripus (233), the narrow strait between Eubœa and Bœotia.
-
-Eurycleia (12), the nurse of Odysseus and of Telemachus.
-
-Eurystheus (138), the master of Heracles, king of Argolis.
-
-Eurytion (71, 92), king of Phthia.
-
-Eurytion (85), a Centaur.
-
-Eurytus (55, 136-144), king of Œchalia.
-
-Evēnus (176), a river in Ætolia.
-
-Ganўmēdes (208), the most beautiful of mortals, son of Tros.
-
-Glaucus (25), a fisherman who became immortal by eating of the divine
-herb which Cronus had sown.
-
-Gorgons (27), three daughters of Phorcys and Ceto.
-
-Gray Sisters (26), daughters of Phorcys.
-
-Hades (89, 170), the god of the lower regions.  _Pluto_.
-
-Hēbē (98), the goddess of youth.
-
-Hector (101, 255), son of Priam; the chief hero of the Trojans.
-
-Helen (145-162, 216, 267), daughter of Tyndareus and Leda of Lacedæmon,
-represented in mythology as the daughter of Zeus and Leda. "The most
-beautiful woman in the world."
-
-Hĕlĕnus (258), son of Priam, soothsayer of the Trojans.
-
-Hēlios (5, 15-19), the god of the sun.  _Sol_.
-
-Hellas, the name which the Greeks applied to their country.  _Greece_.
-
-Hellen (203), son of Deucalion and Pyrrha, and ancestor of all the
-Hellenes.
-
-Hephæstus (90, 160, 193), the god of fire.  _Vulcan_.
-
-Hērē (99-105), the wife of Zeus.  _Juno_.
-
-Heracles (55, 87-90, 138-144, 169-181, 211-214), the most celebrated of
-all the old heroes.  _Hercules_.
-
-Hermes (100-104, 196), the herald of the gods, son of Zeus and Maia.
-_Mercury_.
-
-Hēsĭŏne (210-213), the sister of Priam
-
-Hesperia (19), "the western land."
-
-Hesperides (5, 27, 139), guardians of the golden apples which Earth gave
-to Here on her marriage day--said by some to be the daugters of Phorcys
-and Ceto.
-
-Hippódàmeia (84, 167) wife of Peirithous.
-
-Hyllus (176), son of Heracles.
-
-Hyperboreans (6, 39), a people living in the far North.
-
-Iasus (163), an Arcadian, father of Atalanta.
-
-Icarius (155, 162), brother of Tyndareus, and father of Penelope.
-
-Ida (102-109, 208), a mountain-range of Mysia in Asia Minor, east of
-Troy.
-
-Idas (67, 185), "the boaster," son of Aphareus, and father of Cleopatra.
-
-Idŏmĕneus (151, 215, 235), king of Crete.
-
-Ilios (206-214, 253), a name applied to the district in which Troy was
-situated.  _Ilium_.
-
-Ilus (208), son of Dardanus.
-
-Inachus (196), the first king of Argos.
-
-Io (196-199), daughter of Inachus, and mother of Epaphos from whom was
-descended Heracles.
-
-Iolcos (77-110), an ancient town of Thessaly at the head of the Pegasæan
-Gulf.
-
-Iŏle (138-144, 173-181), daughter of Eurytus of Œchalia, beloved by
-Heracles.
-
-Iphigenīa (242-252), daughter of Agamemnon and Clytemnestra.
-
-Iphitus (136-153, 172), son of Eurytus, one of the Argonauts.
-
-Ithaca (1, 113), a small island in the Ionian Sea, the birthplace of
-Odysseus.
-
-Jason (2, 68, 87), leader of the Argonauts.
-
-Lacedæmon (5, 145-169, 189-204), a district of Laconia in which was
-situated Sparta.  The name is also applied to the town of Sparta.
-
-Lachĕsis (66), one of the Fates.
-
-Laconia (5, 145), a country in the south-east of Peloponnesus.
-
-Laertes (2, 182), king of Ithaca, father of Odysseus.
-
-Laodamĭa (254), daughter of Acastus, and wife of Protesilaus.
-
-Laŏmĕdon (208-314), king of Troy, father of Priam.
-
-Lăpiths (84), a people inhabiting the country adjoining Mount Pelion in
-Thessaly.
-
-Leda (146), wife of Tyndareus of Lacedæmon.
-
-Lemnos (253, 260), an island in the Ægæan Sea.
-
-Lichas (174-179), the herald of Heracles.
-
-Linus (56), a musician, brother of Orpheus.
-
-Lycomēdes (228), king of Scyros.
-
-Lydia (173), a district of Asia Minor.
-
-Lynceus (185), son of Aphareus, brother of Idas.
-
-Machāon (151, 262), son of Asclepius, the surgeon of the Greeks in the
-Trojan war.
-
-Medēa (89), daughter of Æetes, king of Colchis, celebrated for her skill
-in magic.
-
-Medusa (27), one of the Gorgons.
-
-Meleāger (66-76), son of Oineus and Althea, husband of Cleopatra.
-
-Menelāus (150, 234), brother of Agamemnon, and husband of Helen.
-
-Messēne (120), a country in the south-western part of the Peloponnesus.
-
-Milanion (163), the husband of Atalanta.
-
-Mycēnæ (150), an ancient town in Argolis.
-
-Mysia (239), a country in Asia Minor.
-
-Nedon (131), a river of Messene.
-
-Nēleus (125, 173), son of Poseidon and Tyro, brother of Pelias, and
-father of Nestor.
-
-Nessus (176), a Centaur, ferryman at the River Evenus.
-
-Nestor (125, 235), king of Pylos, son of Neleus.
-
-Nireus (151, 160, 235), one of the heroes of the Trojan war.
-
-Ocĕănus (194), god of the Ocean.
-
-Odysseus, the hero of this story, son of Laertes, husband of Penelope.
-_Ulysses_.
-
-Œchalia (138, 174), a town supposed to be somewhere in Eubœa.
-
-Œnone (103, 263), daughter of the river-god Cebren, and wife of Paris.
-
-Œta (171, 180), a rugged pile of mountains in the south of Thessaly.
-
-Oineus (65), king of Pleuron and Calydon.
-
-Olympus (5, 79), a mountain in Thessaly, on the summit of which Zeus
-held his court.
-
-Omphalé (173), a queen of Lydia.
-
-Orestes (244), son of Agamemnon.
-
-Orpheus (248), the greatest of the old musicians.
-
-Orsilochus (129, 134), son of Alpheus, king of Messene.
-
-Ortygia (134), an island near the coast of Sicily.
-
-Palamēdes (166, 217-224), son of Nauplius, king of Eubœa.
-
-Pallas Athené, see Athené.
-
-Paris (101-110, 204-216), son of Priam of Troy.
-
-Parnassus (5, 30-36, 201), a mountain, or group of mountains, a few
-miles north of the Corinthian Gulf.
-
-Patrŏclus (227, 234), the friend of Achilles.
-
-Peirĭthŏus (84, 167), king of the Lapiths, son of Ixion and Dia.
-
-Pēleus (71, 91-100, 227), son of Æcus and Endeis the daughter of
-Cheiron.
-
-Pĕlĭas (80, 125), son of Poseidon and Tyro, and brother of Neleus.  He
-made himself king of Iolcos, by excluding his half-brother Æson from the
-throne.
-
-Pēlĭon (79-110), a lofty mountain in Thessaly not far from Iolcos.
-
-Peloponnesus, all that part of Hellas south of the Corinthian Gulf (Bay
-of Crissa).
-
-Pĕnĕlŏpē (152, 162-168), daughter of Icarius, cousin of Helen, and wife
-of Odysseus.
-
-Perseus (27), one of the older heroes, son of Zeus and Danaë.
-
-Phăĕethon (15-19), son of Helios and Clymene.
-
-Phēmius (3, 14), a celebrated minstrel.
-
-Pherae, or Pharæ (130-144), an ancient town in Messene on the river
-Nedon.  Also (90), a town in Thessaly of which Admetus was king.
-
-Philoctētes (159, 180, 252, 260-263), a friend of Heracles, and the most
-celebrated archer in the Trojan war.
-
-Phorcys (20-27), "the old man of the sea."
-
-Phthia (92), a district in the south-east of Thessaly.
-
-Polydeuces (146, 185), brother of Castor and Helen.  _Pollux_.
-
-Poseidon (22-27, 208), the god of the sea.  _Neptune_.
-
-Priam (101, 207-214), the last king of Troy, son of Laomedon, and father
-of Hector and Paris.
-
-Promētheus (191-203), a Titan, son of Iapetus, the friend of man.
-
-Protesilāus (254), a hero from Phylace in Thessaly.
-
-Proteus (23), the prophetic shepherd of the sea.
-
-Pylos (125-131), a town on the south-west coast of Messene.
-
-Pyrrha (201), the wife of Deucalion.
-
-Pyrrhus (259-262), the son of Achilles, also called Neoptolemus.
-
-Pythia (34), a name applied to the priestess of Apollo at Delphi.
-
-Rhadamanthus (6, 56), son of Zeus and Europa, and judge and ruler in the
-Islands of the Blest.
-
-Scandia (164), a harbor in Cythera.
-
-Scylla (155), a monster with six heads, which guarded one side of a
-narrow strait.
-
-Scyros (228, 259), a small island east of Eubœa.
-
-Sinon (265), a grandson of Autolycus, and cousin of Odysseus.
-
-Sisyphus (49), son of Ælus.  He is said to have built the town of
-Ephyra, afterward Corinth.
-
-Sparta, see Lacedæmon.
-
-Stymphālus (139), a town in the north-east of Arcadia.
-
-Syma (151), a small island off the south-western coast of Caria in Asia
-Minor.
-
-Syria, or Syra (115), one of the Cyclades islands.
-
-Talthybius (250), the herald of Agamemnon.
-
-Tāygĕtes (149, 185), a lofty range of mountains between Laconia and
-Messene.
-
-Tĕlămŏn (214), son of Æacus and Endeis, and brother of Peleus, king of
-Salamis.  He was the father of Ajax by Peribœa, his second wife; after
-the death of Peribœa, he married Hesione, the sister of Priam.
-
-Tĕlĕmăchus (219), the son of Odysseus and Penelope.
-
-Telephus (239, 241, 252), son of Heracles and Auge, and king of Mysia.
-
-Theseus (147), the great hero of Attica, and king of Athens
-
-Thessaly, the largest division of Hellas.
-
-Thetis (95), a sea-nymph, wife of Peleus, and mother of Achilles.
-
-Tilphussa (40), a nymph dwelling at Lake Copais.
-
-Tiryns (143), a city in Argolis, not far from Mycenæ.
-
-Trāchis (143, 171), a town of Thessaly.
-
-Trophonius (41), one of the architects of the temple at Delphi.
-
-Tyndărĕus (146-169, 184-188), king of Lacedæmon.
-
-Zacynthus (183), an island west of Messene.
-
-Zeus (182, 191), son of Cronus, "the ruler of gods and men."  _Jupiter_.
-
-
-
-
 
