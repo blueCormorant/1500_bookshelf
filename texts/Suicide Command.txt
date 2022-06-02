@@ -1,22 +1,5 @@
 
 
-
-
-                            SUICIDE COMMAND
-
-                           By STANLEY MULLEN
-
-                The rookie astrogator's fingers itched
-               for the controls of a ship. But he never
-                 asked for the privilege of riding an
-                  atomic bomb into the heart of hell!
-
-           [Transcriber's Note: This etext was produced from
-                      Planet Stories Summer 1950.
-         Extensive research did not uncover any evidence that
-         the U.S. copyright on this publication was renewed.]
-
-
 Messages crackled through the black gulf of space--the Interplanetary
 Distress Call. Blaze Norman, navigation officer of the ISP cruiser
 Scorpio, came out of his space-fog and stared at the helioflash board
@@ -442,7 +425,6 @@ followed, dissolving rapidly as they came pelting down.
 
 "Watch yourself!" Norman screamed. "She's going."
 
-[Illustration: _The place was an inferno. "She's going!" Norman
 yelled._]
 
 Liquid metal bubbled and spit. Runnels of magma pursued the retreating
@@ -478,9 +460,9 @@ Norman unsnapped Volume IV, and opened it to HIDALGO. Most of the
 information, especially astronomical data, he already knew; but a line
 at the bottom of the page caught his eye.
 
-    _It is recommended that spaceships avoid this asteroid. Exploration
-    has been impossible, for a number of reasons, and official charting
-    expeditions have failed to return. No data available._
+_It is recommended that spaceships avoid this asteroid. Exploration
+has been impossible, for a number of reasons, and official charting
+expeditions have failed to return. No data available._
 
 He read the notation aloud to the others.
 
@@ -503,7 +485,6 @@ we're going there. You see ... my father commanded that charting
 expedition which was never heard from again. Now maybe I'll find out at
 last what really happened."
 
-       *       *       *       *       *
 
 Norman lost all sense of time. The flight through space assumed the
 elastic dimension of nightmare.

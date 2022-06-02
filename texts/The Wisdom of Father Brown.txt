@@ -1,43 +1,4 @@
 
-
-
-
-
-THE WISDOM OF FATHER BROWN
-
-By G. K. Chesterton
-
-
-
-To
-
-LUCIAN OLDERSHAW
-
-
-
-CONTENTS
-
-
-     1.  The Absence of Mr Glass
-     2.  The Paradise of Thieves
-     3.  The Duel of Dr Hirsch
-     4.  The Man in the Passage
-     5.  The Mistake of the Machine
-     6.  The Head of Caesar
-     7.  The Purple Wig
-     8.  The Perishing of the Pendragons
-     9.  The God of the Gongs
-     10. The Salad of Colonel Cray
-     11. The Strange Crime of John Boulnois
-     12. The Fairy Tale of Father Brown
-
-
-
-
-
-ONE -- The Absence of Mr Glass
-
-
 THE consulting-rooms of Dr Orion Hood, the eminent criminologist and
 specialist in certain moral disorders, lay along the sea-front at
 Scarborough, in a series of very large and well-lighted french windows,
@@ -102,7 +63,6 @@ simultaneously as follows:
 MacNabs. I have heard, you often help people out of such troubles. Pray
 excuse me if I am wrong.”
 
-By this time he had sprawlingly recovered the hat, and made an odd
 little bobbing bow over it, as if setting everything quite right.
 
 “I hardly understand you,” replied the scientist, with a cold intensity
@@ -464,7 +424,7 @@ be that!”
 He scuttled across the room rather like a rabbit, and peered with quite
 a new impulsiveness into the partially-covered face of the captive. Then
 he turned his own rather fatuous face to the company. “Yes, that’s it!”
- he cried in a certain excitement. “Can’t you see it in the man’s face?
+he cried in a certain excitement. “Can’t you see it in the man’s face?
 Why, look at his eyes!”
 
 Both the Professor and the girl followed the direction of his glance.
@@ -607,7 +567,7 @@ explaining away, and that is his name. Miss MacNab distinctly heard him
 so addressed by Mr Todhunter.”
 
 The Rev. Mr Brown broke into a rather childish giggle. “Well, that,”
- he said, “that’s the silliest part of the whole silly story. When our
+he said, “that’s the silliest part of the whole silly story. When our
 juggling friend here threw up the three glasses in turn, he counted
 them aloud as he caught them, and also commented aloud when he failed to
 catch them. What he really said was: ‘One, two and three--missed a glass
@@ -1397,7 +1357,6 @@ cannot meet him myself. I cannot: I will not.
 
 There is going to be another Dreyfus case.
 
-P. HIRSCH
 
 
 
@@ -1464,7 +1423,6 @@ Noiseless Powder. Hirsch invented it; Hirsch wrote this note about it.
 This note is in German, and was found in a German’s pocket. ‘Tell the
 man the formula for powder is in grey envelope in first drawer to the
 left of Secretary’s desk, War Office, in red ink. He must be careful.
-P.H.’”
 
 He rattled short sentences like a quick-firing gun, but he was plainly
 the sort of man who is either mad or right. The mass of the crowd
@@ -1613,7 +1571,7 @@ every subject--like the devil.”
 “Do you mean--?”
 
 “I mean a man telling lies on chance would have told some of the truth,”
- said his friend firmly. “Suppose someone sent you to find a house with
+said his friend firmly. “Suppose someone sent you to find a house with
 a green door and a blue blind, with a front garden but no back garden,
 with a dog but no cat, and where they drank coffee but not tea. You
 would say if you found no such house that it was all made up. But I say
@@ -1697,7 +1655,7 @@ Father Brown continued to consume whitebait.
 
 Something in the stolid way he did so caused Flambeau’s fierce black
 eyes to ramble over his companion afresh. “What’s the matter with you?”
- Flambeau demanded. “Dubosc’s all right in that way. You don’t doubt
+Flambeau demanded. “Dubosc’s all right in that way. You don’t doubt
 him?”
 
 “My friend,” said the small priest, laying down his knife and fork in a
@@ -1779,7 +1737,7 @@ corner by the Hotel Saint Louis, where they got out, and he led the
 party up a side lane already in deep shadow with the growing dusk. Once,
 when the Duke impatiently asked whether Hirsch was guilty of treason or
 not, he answered rather absently: “No; only of ambition--like Caesar.”
- Then he somewhat inconsequently added: “He lives a very lonely life; he
+Then he somewhat inconsequently added: “He lives a very lonely life; he
 has had to do everything for himself.”
 
 “Well, if he’s ambitious, he ought to be satisfied now,” said Flambeau
@@ -1830,7 +1788,7 @@ we thought,” he said; “but I suppose he is escaping from France.”
 “He is escaping from everywhere,” answered Father Brown.
 
 Valognes’s eyes brightened, but his voice sank. “Do you mean suicide?”
- he asked.
+he asked.
 
 “You will not find his body,” replied the other.
 
@@ -1868,7 +1826,7 @@ feel quite frightened of each other, and to think it was fate? This is
 something of the kind, but more curious.”
 
 “There are people in Paris who will cure them of such morbid fancies,”
- said Valognes vindictively. “They will jolly well have to meet if we
+said Valognes vindictively. “They will jolly well have to meet if we
 capture them and force them to fight.”
 
 “They will not meet on the Day of Judgement,” said the priest. “If God
@@ -2341,7 +2299,6 @@ the prosecutor for the Crown was Sir Walter Cowdray, a heavy, but
 weighty advocate of the sort that knows how to seem English and
 trustworthy, and how to be rhetorical with reluctance. The prisoner was
 defended by Mr Patrick Butler, K.C., who was mistaken for a mere flaneur
-by those who misunderstood the Irish character--and those who had not
 been examined by him. The medical evidence involved no contradictions,
 the doctor, whom Seymour had summoned on the spot, agreeing with the
 eminent surgeon who had later examined the body. Aurora Rome had been
@@ -2407,7 +2364,6 @@ for instance, like the figure of the murdered woman?”
 Everyone in court kept his eyes riveted on his pen, or his
 umbrella-handle, or his book, or his boots or whatever he happened to be
 looking at. They seemed to be holding their eyes away from the prisoner
-by main force; but they felt his figure in the dock, and they felt it
 as gigantic. Tall as Bruno was to the eye, he seemed to swell taller and
 taller when an eyes had been torn away from him.
 
@@ -2692,7 +2648,7 @@ interest you either.”
 newspaper. “Well, does that interest you?”
 
 The paragraph was headed “Savage Murder of a Warder. Convict Escapes,”
- and ran: “Just before dawn this morning a shout for help was heard
+and ran: “Just before dawn this morning a shout for help was heard
 in the Convict Settlement at Sequah in this State. The authorities,
 hurrying in the direction of the cry, found the corpse of the warder who
 patrols the top of the north wall of the prison, the steepest and most
@@ -2700,7 +2656,6 @@ difficult exit, for which one man has always been found sufficient. The
 unfortunate officer had, however, been hurled from the high wall, his
 brains beaten out as with a club, and his gun was missing. Further
 inquiries showed that one of the cells was empty; it had been occupied
-by a rather sullen ruffian giving his name as Oscar Rian. He was only
 temporarily detained for some comparatively trivial assault; but he
 gave everyone the impression of a man with a black past and a dangerous
 future. Finally, when daylight had fully revealed the scene of
@@ -2991,7 +2946,6 @@ innocent man to act. There was nothing against him in the world except
 that little finger on the dial that pointed to the change of his pulse.
 
 “Then, sir, the machine was on its trial; and the machine was right.
-By the time I came with him out of the private room into the vestibule
 where all sorts of other people were awaiting examination, I think
 he had already more or less made up his mind to clear things up by
 something like a confession. He turned to me and began to say in a low
@@ -3347,7 +3301,7 @@ tell you.”
 The girl sprang to her feet and stood quite quietly, but with clenched
 hands, like one about to stride away; then her hands loosened slowly,
 and she sat down again. “You are more of a mystery than all the others,”
- she said desperately, “but I feel there might be a heart in your
+she said desperately, “but I feel there might be a heart in your
 mystery.”
 
 “What we all dread most,” said the priest in a low voice, “is a maze
@@ -3426,7 +3380,6 @@ study and museum which was at the back of the house. As soon as I heard
 the heavy door close on him finally, I made a bolt for my shrimping-net
 and tam-o’-shanter and was just going to slip out, when I saw that my
 brother had left behind him one coin that lay gleaming on the long bench
-by the window. It was a bronze coin, and the colour, combined with the
 exact curve of the Roman nose and something in the very lift of the
 long, wiry neck, made the head of Caesar on it the almost precise
 portrait of Philip Hawker. Then I suddenly remembered Giles telling
@@ -3833,7 +3786,7 @@ A letter from one of these lay immediately before him, and rapid and
 resolute as he was, he seemed almost to hesitate before opening it. He
 took up a strip of proof instead, ran down it with a blue eye, and a
 blue pencil, altered the word “adultery” to the word “impropriety,”
- and the word “Jew” to the word “Alien,” rang a bell and sent it flying
+and the word “Jew” to the word “Alien,” rang a bell and sent it flying
 upstairs.
 
 Then, with a more thoughtful eye, he ripped open the letter from his
@@ -3891,7 +3844,7 @@ This elaborate epistle he articulated as if it were all one word; and
 Miss Barlow rattled it down as if it were all one word. Then he took
 up another strip of proof and a blue pencil, and altered the word
 “supernatural” to the word “marvellous”, and the expression “shoot down”
- to the expression “repress”.
+to the expression “repress”.
 
 In such happy, healthful activities did Mr Nutt disport himself, until
 the ensuing Saturday found him at the same desk, dictating to the same
@@ -4150,7 +4103,6 @@ Spiritualist.
 
 Yours,
 
-E. NUTT.
 
 
 A day or two afterward found the active and judicious editor examining,
@@ -4180,7 +4132,7 @@ like about the Duke’s wig--the colour.”
 “I don’t think I understand,” I answered.
 
 “I dare say he’s got good reason to cover his ears, like King Midas,”
- went on the priest, with a cheerful simplicity which somehow seemed
+went on the priest, with a cheerful simplicity which somehow seemed
 rather flippant under the circumstances. “I can quite understand that
 it’s nicer to cover them with hair than with brass plates or leather
 flaps. But if he wants to use hair, why doesn’t he make it look like
@@ -4239,7 +4191,7 @@ private.”
 Whatever I retain of the gentleman made me stand up. Whatever I have
 attained of the journalist made me stand still. Before this paralysis
 could pass, the priest had made a momentarily detaining motion. “If,”
- he said, “your Grace will permit me my real petition, or if I retain any
+he said, “your Grace will permit me my real petition, or if I retain any
 right to advise you, I would urge that as many people as possible should
 be present. All over this country I have found hundreds, even of my own
 faith and flock, whose imaginations are poisoned by the spell which I
@@ -4688,7 +4640,6 @@ obscure, seemed still to convey some sense to him. The first seemed to
 be the outline of some tower or other building, crowned with what looked
 like curly-pointed ribbons. The second was clearer: an old Elizabethan
 galley with decorative waves beneath it, but interrupted in the middle
-by a curious jagged rock, which was either a fault in the wood or
 some conventional representation of the water coming in. The third
 represented the upper half of a human figure, ending in an escalloped
 line like the waves; the face was rubbed and featureless, and both arms
@@ -4865,7 +4816,7 @@ Pendragon sprang to his feet and paced swiftly to and fro across the
 window, from which the face had instantly vanished. “I tell you there is
 nothing in it,” he cried, with ringing violence. “There is one thing I
 know about this matter. You may call me an atheist. I am an atheist.”
- Here he swung round and fixed Father Brown with a face of frightful
+Here he swung round and fixed Father Brown with a face of frightful
 concentration. “This business is perfectly natural. There is no curse in
 it at all.”
 
@@ -4902,7 +4853,7 @@ grass.
 “Always some little thing to be done,” he said with idiotic
 cheerfulness; “as George Herbert says: ‘Who sweeps an Admiral’s garden
 in Cornwall as for Thy laws makes that and the action fine.’ And now,”
- he added, suddenly slinging the broom away, “Let’s go and water the
+he added, suddenly slinging the broom away, “Let’s go and water the
 flowers.”
 
 With the same mixed emotions they watched him uncoil some considerable
@@ -5000,7 +4951,7 @@ whoever they are; there’s rope down by those faggots. They want to take
 away my nice hose.” The other was: “As soon as you get a chance, call
 out to that canoeing girl; she’s over on the bank with the gipsies. Ask
 her if they could get some buckets across and fill them from the river.”
- Then he closed his mouth and continued to water the new red flower as
+Then he closed his mouth and continued to water the new red flower as
 ruthlessly as he had watered the red tulip.
 
 He never turned his head to look at the strange fight that followed
@@ -5114,7 +5065,6 @@ the daylight is silver rather than gold and pewter rather than silver.
 If it was dreary in a hundred bleak offices and yawning drawing-rooms,
 it was drearier still along the edges of the flat Essex coast, where the
 monotony was the more inhuman for being broken at very long intervals
-by a lamp-post that looked less civilized than a tree, or a tree that
 looked more ugly than a lamp-post. A light fall of snow had half-melted
 into a few strips, also looking leaden rather than silver, when it had
 been fixed again by the seal of frost; no fresh snow had fallen, but a
@@ -5680,7 +5630,7 @@ have seen it when the stand was crowded and the whole ring roaring,
 when the favourite was coming in first--or wasn’t. The twisting of a
 neck-cloth, the thrusting of a body behind a door could be done in an
 instant--so long as it was that instant. It was the same, of course,”
- he continued turning to Flambeau, “with that poor fellow under the
+he continued turning to Flambeau, “with that poor fellow under the
 bandstand. He was dropped through the hole (it wasn’t an accidental
 hole) just at some very dramatic moment of the entertainment, when the
 bow of some great violinist or the voice of some great singer opened
@@ -5922,7 +5872,6 @@ remained thus for a measurable period, as if engaged in some mysterious
 prayers. Then he came out again, with some ashes on his hair, and walked
 unconcernedly away.
 
-By the time he came round to the garden door again he found a group
 there which seemed to roll away morbidities as the sunlight had already
 rolled away the mists. It was in no way rationally reassuring; it was
 simply broadly comic, like a cluster of Dickens’s characters. Major
@@ -6158,7 +6107,7 @@ line,” he said rather rudely.
 Oman laughed mildly, but without offence. “This is more so, I know,” he
 said, laying his hand on the big book he had dropped, “a dictionary of
 drugs and such things. But it’s rather too large to take to church.”
- Then he closed the larger book, and there seemed again the faintest
+Then he closed the larger book, and there seemed again the faintest
 touch of hurry and embarrassment.
 
 “I suppose,” said the priest, who seemed anxious to change the subject,
@@ -6363,7 +6312,7 @@ Pendragon Park to try and see the fun.”
 “What is Pendragon Park?” asked Calhoun Kidd.
 
 “Sir Claude Champion’s place--haven’t you come down for that, too?”
- asked the other pressman, looking up. “You’re a journalist, aren’t you?”
+asked the other pressman, looking up. “You’re a journalist, aren’t you?”
 
 “I have come to see Mr Boulnois,” said Kidd.
 
@@ -6373,7 +6322,7 @@ her at home.” And he laughed rather unpleasantly.
 “Are you interested in Catastrophism?” asked the wondering Yankee.
 
 “I’m interested in catastrophes; and there are going to be some,”
- replied his companion gloomily. “Mine’s a filthy trade, and I never
+replied his companion gloomily. “Mine’s a filthy trade, and I never
 pretend it isn’t.”
 
 With that he spat on the floor; yet somehow in the very act and instant
@@ -6998,10 +6947,10 @@ job with this little place. He was defeated in several battles by
 the celebrated Arnhold brothers--the three guerrilla patriots to whom
 Swinburne wrote a poem, you remember:
 
-        Wolves with the hair of the ermine,
-          Crows that are crowned and kings--
-        These things be many as vermin,
-          Yet Three shall abide these things.
+Wolves with the hair of the ermine,
+Crows that are crowned and kings--
+These things be many as vermin,
+Yet Three shall abide these things.
 
 Or something of that kind. Indeed, it is by no means certain that the
 occupation would ever have been successful had not one of the three
@@ -7126,7 +7075,7 @@ and alone.”
 “Who found his body?” asked Father Brown.
 
 “Some girl attached to the Court named Hedwig von something or other,”
- replied his friend, “who had been out in the wood picking wild flowers.”
+replied his friend, “who had been out in the wood picking wild flowers.”
 
 “Had she picked any?” asked the priest, staring rather vacantly at the
 veil of the branches above him.
@@ -7399,7 +7348,6 @@ from him no cry would come.
 stripes of bright, nocturnal blue between the black stripes of the pines
 about the castle. Flowers of some wide and feathery sort--for he had
 never noticed such things before--were at once luminous and discoloured
-by the moonshine, and seemed indescribably fantastic as they clustered,
 as if crawling about the roots of the trees. Perhaps his reason had been
 suddenly unseated by the unnatural captivity he carried with him, but in
 that wood he felt something unfathomably German--the fairy tale. He knew
