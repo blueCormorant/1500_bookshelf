@@ -3,54 +3,6 @@
 
 
 
-A STUDY IN SCARLET.
-
-By A. Conan Doyle
-
-[1]
-
-
-
-     Original Transcriber’s Note: This etext is prepared directly
-     from an 1887 edition, and care has been taken to duplicate the
-     original exactly, including typographical and punctuation
-     vagaries.
-
-     Additions to the text include adding the underscore character to
-     indicate italics, and textual end-notes in square braces.
-
-     Project Gutenberg Editor’s Note: In reproofing and moving old PG
-     files such as this to the present PG directory system it is the
-     policy to reformat the text to conform to present PG Standards.
-     In this case however, in consideration of the note above of the
-     original transcriber describing his care to try to duplicate the
-     original 1887 edition as to typography and punctuation vagaries,
-     no changes have been made in this ascii text file. However, in
-     the Latin-1 file and this html file, present standards are
-     followed and the several French and Spanish words have been
-     given their proper accents.
-
-	 Part II, The Country of the Saints, deals much with the Mormon Church.
-
-
-
-
-A STUDY IN SCARLET.
-
-
-
-
-
-PART I.
-
-(_Being a reprint from the reminiscences of_ JOHN H. WATSON, M.D., _late
-of the Army Medical Department._) [2]
-
-
-
-
-CHAPTER I. MR. SHERLOCK HOLMES.
-
 
 IN the year 1878 I took my degree of Doctor of Medicine of the
 University of London, and proceeded to Netley to go through the course
@@ -115,7 +67,6 @@ undisguised wonder, as we rattled through the crowded London streets.
 “You are as thin as a lath and as brown as a nut.”
 
 I gave him a short sketch of my adventures, and had hardly concluded it
-by the time that we reached our destination.
 
 “Poor devil!” he said, commiseratingly, after he had listened to my
 misfortunes. “What are you up to now?”
@@ -227,7 +178,6 @@ table absorbed in his work. At the sound of our steps he glanced round
 and sprang to his feet with a cry of pleasure. “I’ve found it! I’ve
 found it,” he shouted to my companion, running towards us with a
 test-tube in his hand. “I have found a re-agent which is precipitated
-by hoemoglobin, [4] and by nothing else.” Had he discovered a gold mine,
 greater delight could not have shone upon his features.
 
 “Dr. Watson, Mr. Sherlock Holmes,” said Stamford, introducing us.
@@ -376,11 +326,9 @@ interested in my new acquaintance.
 
 
 
-CHAPTER II. THE SCIENCE OF DEDUCTION.
 
 
 WE met next day as he had arranged, and inspected the rooms at No. 221B,
-[5] Baker Street, of which he had spoken at our meeting. They
 consisted of a couple of comfortable bed-rooms and a single large
 airy sitting-room, cheerfully furnished, and illuminated by two broad
 windows. So desirable in every way were the apartments, and so moderate
@@ -493,34 +441,30 @@ in this way--
 
 SHERLOCK HOLMES--his limits.
 
-  1. Knowledge of Literature.--Nil.
-  2.              Philosophy.--Nil.
-  3.              Astronomy.--Nil.
-  4.              Politics.--Feeble.
-  5.              Botany.--Variable.  Well up in belladonna,
-                              opium, and poisons generally.
-                              Knows nothing of practical gardening.
-  6.              Geology.--Practical, but limited.
-                               Tells at a glance different soils
-                               from each other.  After walks has
-                               shown me splashes upon his trousers,
-                               and told me by their colour and
-                               consistence in what part of London
-                               he had received them.
-  7.              Chemistry.--Profound.
-  8.              Anatomy.--Accurate, but unsystematic.
-  9.              Sensational Literature.--Immense.  He appears
-                              to know every detail of every horror
-                              perpetrated in the century.
-  10. Plays the violin well.
-  11. Is an expert singlestick player, boxer, and swordsman.
-  12. Has a good practical knowledge of British law.
+2.              Philosophy.--Nil.
+3.              Astronomy.--Nil.
+4.              Politics.--Feeble.
+5.              Botany.--Variable.  Well up in belladonna,
+opium, and poisons generally.
+Knows nothing of practical gardening.
+6.              Geology.--Practical, but limited.
+Tells at a glance different soils
+from each other.  After walks has
+shown me splashes upon his trousers,
+and told me by their colour and
+consistence in what part of London
+he had received them.
+7.              Chemistry.--Profound.
+8.              Anatomy.--Accurate, but unsystematic.
+9.              Sensational Literature.--Immense.  He appears
+to know every detail of every horror
+perpetrated in the century.
 
 
 When I had got so far in my list I threw it into the fire in despair.
 “If I can only find what the fellow is driving at by reconciling all
 these accomplishments, and discovering a calling which needs them all,”
- I said to myself, “I may as well give up the attempt at once.”
+I said to myself, “I may as well give up the attempt at once.”
 
 I see that I have alluded above to his powers upon the violin. These
 were very remarkable, but as eccentric as all his other accomplishments.
@@ -535,7 +479,6 @@ reflected the thoughts which possessed him, but whether the music aided
 those thoughts, or whether the playing was simply the result of a whim
 or fancy was more than I could determine. I might have rebelled against
 these exasperating solos had it not been that he usually terminated them
-by playing in quick succession a whole series of my favourite airs as a
 slight compensation for the trial upon my patience.
 
 During the first week or so we had no callers, and I had begun to think
@@ -588,7 +531,6 @@ possibility of an Atlantic or a Niagara without having seen or heard of
 one or the other. So all life is a great chain, the nature of which is
 known whenever we are shown a single link of it. Like all other arts,
 the Science of Deduction and Analysis is one which can only be acquired
-by long and patient study nor is life long enough to allow any mortal
 to attain the highest possible perfection in it. Before turning to
 those moral and mental aspects of the matter which present the greatest
 difficulties, let the enquirer begin by mastering more elementary
@@ -692,7 +634,7 @@ Poe appeared to imagine.”
 idea of a detective?”
 
 Sherlock Holmes sniffed sardonically. “Lecoq was a miserable bungler,”
- he said, in an angry voice; “he had only one thing to recommend him, and
+he said, in an angry voice; “he had only one thing to recommend him, and
 that was his energy. That book made me positively ill. The question was
 how to identify an unknown prisoner. I could have done it in twenty-four
 hours. Lecoq took six months or so. It might be made a text-book for
@@ -752,7 +694,6 @@ gone.
 
 
 
-CHAPTER III. THE LAURISTON GARDEN MYSTERY [6]
 
 
 I CONFESS that I was considerably startled by this fresh proof of the
@@ -803,7 +744,6 @@ threw me over the note which the commissionaire had brought. [7]
 This is the letter which I read to him----
 
 
-“MY DEAR MR. SHERLOCK HOLMES,--
 
 “There has been a bad business during the night at 3, Lauriston Gardens,
 off the Brixton Road. Our man on the beat saw a light there about two in
@@ -821,7 +761,6 @@ If you are unable to come I shall give you fuller details, and would
 esteem it a great kindness if you would favour me with your opinion.
 Yours faithfully,
 
-“TOBIAS GREGSON.”
 
 
 “Gregson is the smartest of the Scotland Yarders,” my friend remarked;
@@ -889,7 +828,6 @@ melancholy windows, which were blank and dreary, save that here and
 there a “To Let” card had developed like a cataract upon the bleared
 panes. A small garden sprinkled over with a scattered eruption of sickly
 plants separated each of these houses from the street, and was traversed
-by a narrow pathway, yellowish in colour, and consisting apparently of a
 mixture of clay and of gravel. The whole place was very sloppy from the
 rain which had fallen through the night. The garden was bounded by a
 three-foot brick wall with a fringe of wood rails upon the top, and
@@ -1111,7 +1049,6 @@ particular corner of the room a large piece had peeled off, leaving a
 yellow square of coarse plastering. Across this bare space there was
 scrawled in blood-red letters a single word--
 
-                         RACHE.
 
 
 “What do you think of that?” cried the detective, with the air of a
@@ -1211,7 +1148,6 @@ open-mouthed behind him.
 
 
 
-CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.
 
 
 IT was one o’clock when we left No. 3, Lauriston Gardens. Sherlock
@@ -1493,7 +1429,6 @@ lark while I meditated upon the many-sidedness of the human mind.
 
 
 
-CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR.
 
 
 OUR morning’s exertions had been too much for my weak health, and I was
@@ -1531,7 +1466,6 @@ he appeared.
 what Darwin says about music? He claims that the power of producing and
 appreciating it existed among the human race long before the power of
 speech was arrived at. Perhaps that is why we are so subtly influenced
-by it. There are vague memories in our souls of those misty centuries
 when the world was in its childhood.”
 
 “That’s rather a broad idea,” I remarked.
@@ -1772,7 +1706,6 @@ had set himself to unravel.
 
 
 
-CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.
 
 
 THE papers next day were full of the “Brixton Mystery,” as they termed
@@ -2157,7 +2090,6 @@ murdered at Halliday’s Private Hotel about six o’clock this morning.”
 
 
 
-CHAPTER VII. LIGHT IN THE DARKNESS.
 
 
 THE intelligence with which Lestrade greeted us was so momentous and so
@@ -2198,7 +2130,7 @@ vicinity for the night, and then to hang about the station again next
 morning.”
 
 “They would be likely to agree on some meeting-place beforehand,”
- remarked Holmes.
+remarked Holmes.
 
 “So it proved. I spent the whole of yesterday evening in making
 enquiries entirely without avail. This morning I began very early, and
@@ -2514,7 +2446,6 @@ PART II. _The Country of the Saints._
 
 
 
-CHAPTER I. ON THE GREAT ALKALI PLAIN.
 
 
 IN the central portion of the great North American Continent there lies
@@ -2554,7 +2485,6 @@ It has been said there is nothing appertaining to life upon the broad
 plain. That is hardly true. Looking down from the Sierra Blanco, one
 sees a pathway traced out across the desert, which winds away and is
 lost in the extreme distance. It is rutted with wheels and trodden down
-by the feet of many adventurers. Here and there there are scattered
 white objects which glisten in the sun, and stand out against the dull
 deposit of alkali. Approach, and examine them! They are bones: some
 large and coarse, others smaller and more delicate. The former have
@@ -2610,7 +2540,6 @@ had suffered less than her companion.
 towsy golden curls which covered the back of her head.
 
 “Kiss it and make it well,” she said, with perfect gravity, shoving
-[19] the injured part up to him. “That’s what mother used to do. Where’s
 mother?”
 
 “Mother’s gone. I guess you’ll see her before long.”
@@ -2762,7 +2691,7 @@ themselves.
 clean-shaven man with grizzly hair.
 
 “To the right of the Sierra Blanco--so we shall reach the Rio Grande,”
- said another.
+said another.
 
 “Fear not for water,” cried a third. “He who could draw it from the
 rocks will not now abandon His own chosen people.”
@@ -2818,7 +2747,7 @@ the plain which had been so desolate when sleep had overtaken him, and
 which was now traversed by this enormous body of men and of beasts. His
 face assumed an expression of incredulity as he gazed, and he passed his
 boney hand over his eyes. “This is what they call delirium, I guess,”
- he muttered. The child stood beside him, holding on to the skirt of
+he muttered. The child stood beside him, holding on to the skirt of
 his coat, and said nothing but looked all round her with the wondering
 questioning gaze of childhood.
 
@@ -2864,7 +2793,6 @@ Prophet. You must come before him. He shall say what is to be done with
 you.”
 
 They had reached the base of the hill by this time, and were surrounded
-by crowds of the pilgrims--pale-faced meek-looking women, strong
 laughing children, and anxious earnest-eyed men. Many were the cries
 of astonishment and of commiseration which arose from them when they
 perceived the youth of one of the strangers and the destitution of the
@@ -2909,11 +2837,9 @@ the voice of Joseph Smith, which is the voice of God.”
 
 
 
-CHAPTER II. THE FLOWER OF UTAH.
 
 
 THIS is not the place to commemorate the trials and privations endured
-by the immigrant Mormons before they came to their final haven. From the
 shores of the Mississippi to the western slopes of the Rocky Mountains
 they had struggled on with a constancy almost unparalleled in history.
 The savage man, and the savage beast, hunger, thirst, fatigue, and
@@ -3164,7 +3090,6 @@ happiest girl in all Utah.
 
 
 
-CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.
 
 
 THREE weeks had passed since Jefferson Hope and his comrades had
@@ -3197,7 +3122,6 @@ against the Church vanished away, and none knew whither he had gone or
 what had befallen him. His wife and his children awaited him at home,
 but no father ever returned to tell them how he had fared at the
 hands of his secret judges. A rash word or a hasty act was followed
-by annihilation, and yet none knew what the nature might be of this
 terrible power which was suspended over them. No wonder that men
 went about in fear and trembling, and that even in the heart of the
 wilderness they dared not whisper the doubts which oppressed them.
@@ -3368,7 +3292,6 @@ loaded the rusty old shotgun which hung upon the wall of his bedroom.
 
 
 
-CHAPTER IV. A FLIGHT FOR LIFE.
 
 
 ON the morning which followed his interview with the Mormon Prophet,
@@ -3729,7 +3652,6 @@ people, and that freedom lay before them.
 
 
 
-CHAPTER V. THE AVENGING ANGELS.
 
 
 ALL night their course lay through intricate defiles and over irregular
@@ -3759,7 +3681,6 @@ our speed. Once safe in Carson we may rest for the remainder of our
 lives.”
 
 During the whole of that day they struggled on through the defiles, and
-by evening they calculated that they were more than thirty miles from
 their enemies. At night-time they chose the base of a beetling crag,
 where the rocks offered some protection from the chill wind, and there
 huddled together for warmth, they enjoyed a few hours’ sleep. Before
@@ -3861,9 +3782,7 @@ newly-dug grave. As the young hunter approached it, he perceived that a
 stick had been planted on it, with a sheet of paper stuck in the cleft
 fork of it. The inscription upon the paper was brief, but to the point:
 
-                        JOHN FERRIER,
-                 FORMERLY OF SALT LAKE CITY, [22]
-                    Died August 4th, 1860.
+Died August 4th, 1860.
 
 The sturdy old man, whom he had left so short a time before, was gone,
 then, and this was all his epitaph. Jefferson Hope looked wildly round
@@ -3881,7 +3800,6 @@ Jefferson Hope possessed also a power of sustained vindictiveness, which
 he may have learned from the Indians amongst whom he had lived. As he
 stood by the desolate fire, he felt that the only one thing which could
 assuage his grief would be thorough and complete retribution, brought
-by his own hand upon his enemies. His strong will and untiring energy
 should, he determined, be devoted to that one end. With a grim, white
 face, he retraced his steps to where he had dropped the food, and having
 stirred up the smouldering fire, he cooked enough to last him for a
@@ -4027,7 +3945,6 @@ however, as to their whereabouts.
 Many a man, however vindictive, would have abandoned all thought of
 revenge in the face of such a difficulty, but Jefferson Hope never
 faltered for a moment. With the small competence he possessed, eked out
-by such employment as he could pick up, he travelled from town to town
 through the United States in quest of his enemies. Year passed into
 year, his black hair turned grizzled, but still he wandered on, a human
 bloodhound, with his mind wholly set upon the one object upon which he
@@ -4062,7 +3979,6 @@ to which we are already under such obligations.
 
 
 
-CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.
 
 
 OUR prisoner’s furious resistance did not apparently indicate any
@@ -4076,7 +3992,6 @@ to lift as I used to be.”
 Gregson and Lestrade exchanged glances as if they thought this
 proposition rather a bold one; but Holmes at once took the prisoner at
 his word, and loosened the towel which we had bound round his ancles.
-[23] He rose and stretched his legs, as though to assure himself that
 they were free once more. I remember that I thought to myself, as I eyed
 him, that I had seldom seen a more powerfully built man; and his dark
 sunburned face bore an expression of determination and energy which was
@@ -4346,7 +4261,6 @@ daughter were walking in front of us.
 “‘We’ll soon have a light,’ I said, striking a match and putting it to
 a wax candle which I had brought with me. ‘Now, Enoch Drebber,’ I
 continued, turning to him, and holding the light to my own face, ‘who am
-I?’
 
 “He gazed at me with bleared, drunken eyes for a moment, and then I
 saw a horror spring up in them, and convulse his whole features, which
@@ -4382,7 +4296,6 @@ harem.’
 the box before him. ‘Let the high God judge between us. Choose and
 eat. There is death in one and life in the other. I shall take what you
 leave. Let us see if there is justice upon the earth, or if we are ruled
-by chance.’
 
 “He cowered away with wild cries and prayers for mercy, but I drew my
 knife and held it to his throat until he had obeyed me. Then I swallowed
@@ -4459,7 +4372,7 @@ information,” Sherlock Holmes said at last. “Who was your accomplice who
 came for the ring which I advertised?”
 
 The prisoner winked at my friend jocosely. “I can tell my own secrets,”
- he said, “but I don’t get other people into trouble. I saw your
+he said, “but I don’t get other people into trouble. I saw your
 advertisement, and I thought it might be a plant, or it might be the
 ring which I wanted. My friend volunteered to go and see. I think you’ll
 own he did it smartly.”
@@ -4476,7 +4389,6 @@ way out of the Station and took a cab back to Baker Street.
 
 
 
-CHAPTER VII. THE CONCLUSION.
 
 
 WE had all been warned to appear before the magistrates upon the
@@ -4680,89 +4592,5 @@ testimonial!”
 
 “Never mind,” I answered, “I have all the facts in my journal, and the
 public shall know them. In the meantime you must make yourself contented
-by the consciousness of success, like the Roman miser--
-
-            “‘Populus me sibilat, at mihi plaudo
-       Ipse domi simul ac nummos contemplor in arca.’”
-
-
-
-
-
-ORIGINAL TRANSCRIBER’S NOTES:
-
-
-[Footnote 1: Frontispiece, with the caption: “He examined with his glass
-the word upon the wall, going over every letter of it with the most
-minute exactness.” (_Page_ 23.)]
-
-[Footnote 2: “JOHN H. WATSON, M.D.”: the initial letters in the name are
-capitalized, the other letters in small caps. All chapter titles are in
-small caps. The initial words of chapters are in small caps with first
-letter capitalized.]
-
-[Footnote 3: “lodgings.”: the period should be a comma, as in later
-editions.]
-
-[Footnote 4: “hoemoglobin”: should be haemoglobin. The o&e are
-concatenated.]
-
-[Footnote 5: “221B”: the B is in small caps]
-
-[Footnote 6: “THE LAURISTON GARDEN MYSTERY”: the table-of-contents
-lists this chapter as “...GARDENS MYSTERY”--plural, and probably more
-correct.]
-
-[Footnote 7: “brought."”: the text has an extra double-quote mark]
-
-[Footnote 8: “individual--“: illustration this page, with the
-caption: “As he spoke, his nimble fingers were flying here, there, and
-everywhere.”]
-
-[Footnote 9: “manoeuvres”: the o&e are concatenated.]
-
-[Footnote 10: “Patent leathers”: the hyphen is missing.]
-
-[Footnote 11: “condonment”: should be condonement.]
-
-[Footnote 13: “wages.”: ending quote is missing.]
-
-[Footnote 14: “the first.”: ending quote is missing.]
-
-[Footnote 15: “make much of...”: Other editions complete this sentence
-with an “it.” But there is a gap in the text at this point, and, given
-the context, it may have actually been an interjection, a dash. The gap
-is just the right size for the characters “it.” and the start of a new
-sentence, or for a “----“]
-
-[Footnote 16: “tho cushion”: “tho” should be “the”]
-
-[Footnote 19: “shoving”: later editions have “showing”. The original is
-clearly superior.]
-
-[Footnote 20: “stared about...”: illustration, with the caption: “One of
-them seized the little girl, and hoisted her upon his shoulder.”]
-
-[Footnote 21: “upon the”: illustration, with the caption: “As he watched
-it he saw it writhe along the ground.”]
-
-[Footnote 22: “FORMERLY...”: F,S,L,C in caps, other letters in this line
-in small caps.]
-
-[Footnote 23: “ancles”: ankles.]
-
-[Footnote 24: “asked,”: should be “asked.”]
-
-[Footnote 25: “poisions”: should be “poisons”]
-
-[Footnote 26: “...fancy”: should be “I fancy”. There is a gap in the
-text.]
-
-[Footnote 27: “snackled”: “shackled” in later texts.]
-
-[Footnote 29: Heber C. Kemball, in one of his sermons, alludes to his
-hundred wives under this endearing epithet.]
-
-
 
 

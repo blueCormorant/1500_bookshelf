@@ -1,24 +1,6 @@
 
 
 
-
-
-
-THE PIONEERS
-
-Or, The Sources of the Susquehanna
-
-A Descriptive Tale
-
-
-By J. Fenimore Cooper
-
-
-
-
-INTRODUCTION
-
-
 As this work professes, in its title-page, to be a descriptive tale,
 they who will take the trouble to read it may be glad to know how much
 of its contents is literal fact, and how much is intended to represent
@@ -99,7 +81,6 @@ the stay of the troops at the foot of the Otsego a soldier was shot
 for desertion. The grave of this unfortunate man was the first place of
 human interment that the author ever beheld, as the smoke-house was the
 first ruin! The swivel alluded to in this work was buried and abandoned
-by the troops on this occasion, and it was subsequently found in digging
 the cellars of the authors paternal residence.
 
 Soon after the close of the war, Washington, accompanied by many
@@ -140,20 +121,18 @@ most similar things, are tolerably exact. They have all, long since,
 given place to other buildings of a more pretending character. There
 is also some liberty taken with the truth in the description of the
 principal dwelling; the real building had no “firstly” and “lastly.”
- It was of bricks, and not of stone; and its roof exhibited none of the
+It was of bricks, and not of stone; and its roof exhibited none of the
 peculiar beauties of the “composite order.” It was erected in an age
 too primitive for that ambitious school of architecture. But the author
 indulged his recollections freely when he had fairly entered the door.
 Here all is literal, even to the severed arm of Wolfe, and the urn which
-held the ashes of Queen Dido.*
 
-  * Though forests still crown the mountains of Otsego, the bear, the
-    wolf, and the panther are nearly strangers to them.  Even the innocent
-    deer is rarely seen bounding beneath their arches; for the rifle and
-    the activity of the settlers have driven them to other haunts.  To
-    this change (which in some particulars is melancholy to one who knew
-    the country in its infancy), it may be added that the Otsego is
-    beginning to be a niggard of its treasures.
+wolf, and the panther are nearly strangers to them.  Even the innocent
+deer is rarely seen bounding beneath their arches; for the rifle and
+the activity of the settlers have driven them to other haunts.  To
+this change (which in some particulars is melancholy to one who knew
+the country in its infancy), it may be added that the Otsego is
+beginning to be a niggard of its treasures.
 
 The author has elsewhere said that the character of Leather-Stocking is
 a creation, rendered probable by such auxiliaries as were necessary to
@@ -164,7 +143,6 @@ substitutes for most of the other personages. The great proprietor
 resident on his lands, and giving his name to instead of receiving it
 from his estates as in Europe, is common over the whole of New York.
 The physician with his theory, rather obtained from than corrected
-by experiments on the human constitution; the pious, self-denying,
 laborious, and ill-paid missionary; the half-educated, litigious,
 envious, and disreputable lawyer, with his counterpoise, a brother of
 the profession, of better origin and of better character; the shiftless,
@@ -202,11 +180,10 @@ attempt to please himself.
 
 
 
-CHAPTER I.
 
-     “See, Winter comes, to rule the varied years,
-     Sullen and sad, with all his rising train;
-     Vapors, and clouds, and storms.”--Thomson.
+“See, Winter comes, to rule the varied years,
+Sullen and sad, with all his rising train;
+Vapors, and clouds, and storms.”--Thomson.
 
 Near the centre of the State of New York lies an extensive district of
 country whose surface is a succession of hills and dales, or, to speak
@@ -237,16 +214,13 @@ with a severe climate, under the dominion of mild laws, and where every
 man feels a direct interest in the prosperity of a commonwealth of which
 he knows himself to form a part. The expedients of the pioneers who
 first broke ground in the settlement of this country are succeeded
-by the permanent improvements of the yeoman who intends to leave his
 remains to moulder under the sod which he tills, or perhaps of the son,
 who, born in the land, piously wishes to linger around the grave of
-his father. Only forty years * have passed since this territory was a
 wilderness.
 
-  * Our tale begins in 1793, about seven years after the commencement of
-    one of the earliest of those settlements which have conduced to effect
-    that magical change in the power and condition of the State to which
-    we have alluded.
+one of the earliest of those settlements which have conduced to effect
+that magical change in the power and condition of the State to which
+we have alluded.
 
 Very soon after the establishment of the independence of the States by
 the peace of 1783, the enterprise of their citizens was directed to
@@ -276,21 +250,19 @@ a narrow excavation in the mountain in the opposite direction had made a
 passage of sufficient width for the ordinary travelling of that day. But
 logs, excavation, and everything that did not reach several feet above
 the earth lay alike buried beneath the snow. A single track, barely wide
-enough to receive the sleigh, * denoted the route of the highway, and
 this was sunk nearly two feet below the surrounding surface.
 
-  * Sleigh is the word used in every part of the United States to denote
-    a traineau.  It is of local use in the west of England, whence it is
-    most probably derived by the Americans.  The latter draw a distinction
-    between a sled, or sledge, and a sleigh, the sleigh being shod with
-    metal. Sleighs are also subdivided into two-horse and one-horse
-    sleighs.  Of the latter, there are the cutter, with thills so arranged
-    as to permit the horse to travel in the side track; the “pung,” or
-    “tow-pung” which is driven with a pole; and the “gumper,” a rude
-    construction used for temporary purposes in the new countries.  Many
-    of the American sleighs are elegant though the use of this mode of
-    conveyance is much lessened with the melioration of the climate
-    consequent to the clearing of the forests.
+a traineau.  It is of local use in the west of England, whence it is
+most probably derived by the Americans.  The latter draw a distinction
+between a sled, or sledge, and a sleigh, the sleigh being shod with
+metal. Sleighs are also subdivided into two-horse and one-horse
+sleighs.  Of the latter, there are the cutter, with thills so arranged
+as to permit the horse to travel in the side track; the “pung,” or
+“tow-pung” which is driven with a pole; and the “gumper,” a rude
+construction used for temporary purposes in the new countries.  Many
+of the American sleighs are elegant though the use of this mode of
+conveyance is much lessened with the melioration of the climate
+consequent to the clearing of the forests.
 
 In the vale, which lay at a distance of several hundred feet lower,
 there was what, in the language of the country, was called a clearing,
@@ -316,7 +288,6 @@ mottled with the cold, and his large shining eyes filled with tears;
 a tribute to its power that the keen frosts of those regions always
 extracted from one of his African origin. Still, there was a smiling
 expression of good-humor in his happy countenance, that was created
-by the thoughts of home and a Christmas fireside, with its Christmas
 frolics. The sleigh was one of those large, comfortable, old-fashioned
 conveyances, which would admit a whole family within its bosom, but
 which now contained only two passengers besides the driver. The color of
@@ -367,7 +338,6 @@ rose without a branch some seventy or eighty feet, and which frequently
 doubled that height by the addition of the tops. Through the innumerable
 vistas that opened beneath the lofty trees, the eye could penetrate
 until it was met by a distant inequality in the ground, or was stopped
-by a view of the summit of the mountain which lay on the opposite side
 of the valley to which they were hastening. The dark trunks of the trees
 rose from the pure white of the snow in regularly formed shafts, until,
 at a great height, their branches shot forth horizontal limbs, that were
@@ -421,12 +391,11 @@ unexpected report, the buck sprang from the snow to a great height in
 the air, and directly a second discharge, similar in sound to the first,
 followed, when the animal came to the earth, failing head long and
 rolling over on the crust with its own velocity. A loud shout was given
-by the unseen marksman, and a couple of men instantly appeared from
 behind the trunks of two of the pines, where they had evidently placed
 themselves in expectation of the passage of the deer.
 
 “Ha! Natty, had I known you were in ambush, I should not have fired,”
- cried the traveller, moving toward the spot where the deer lay--near to
+cried the traveller, moving toward the spot where the deer lay--near to
 which he was followed by the delighted black, with his sleigh; “but the
 sound of old Hector was too exhilarating to be quiet; though I hardly
 think I struck him, either.”
@@ -446,7 +415,7 @@ As the speaker concluded he drew his bare hand across the bottom of his
 nose, and again opened his enormous mouth with a kind of inward laugh.
 
 “The gun scatters well, Natty, And it has killed a deer before now,”
- said the traveller, smiling good-humoredly. “One barrel was charged with
+said the traveller, smiling good-humoredly. “One barrel was charged with
 buckshot, but the other was loaded for birds only. Here are two hurts;
 one through the neck, and the other directly through the heart. It is by
 no means certain, Natty, but I gave him one of the two.
@@ -745,7 +714,7 @@ took up his game, and, showing it to the party without a head, he cried:
 boy, and remember Indian John; his yarbs are better than all the foreign
 'intments. Here, Judge,” holding up the bird again, “do you think a
 smooth-bore would pick game off their roost, and not ruffle a feather?”
- The old man gave another of his remarkable laughs, which partook so
+The old man gave another of his remarkable laughs, which partook so
 largely of exultation, mirth, and irony, and, shaking his head, he
 turned, with his rifle at a trail, and moved into the forest with steps
 that were between a walk and a trot. At each movement he made his body
@@ -761,12 +730,11 @@ view.
 
 
 
-CHAPTER II
 
-     All places that the eye of heaven visits
-     Are to a wise man ports and happy havens:
-     Think not the king did banish thee:
-     But thou the king.--Richard II
+All places that the eye of heaven visits
+Are to a wise man ports and happy havens:
+Think not the king did banish thee:
+But thou the king.--Richard II
 
 An ancestor of Marmaduke Temple had, about one hundred and twenty years
 before the commencement of our tale, come to the colony of Pennsylvania,
@@ -797,7 +765,6 @@ his own rank by the weight of his personal superiority and acquirements;
 but, the moment that his head was laid in the grave, his indolent and
 comparatively uneducated offspring were compelled to yield precedency to
 the more active energies of a class whose exertions had been stimulated
-by necessity. This is a very common course of things, even in the
 present state of the Union; but it was peculiarly the fortunes of the
 two extremes of society, in the peaceful and unenterprising colonies of
 Pennsylvania and New Jersey,
@@ -1061,19 +1028,18 @@ themselves.
 
 
 
-CHAPTER III
 
 
-     “All that thou see'st is Natures handiwork;
-     Those rocks that upward throw their mossy brawl
-     Like castled pinnacles of elder times;
-     These venerable stems, that slowly rock
-     Their towering branches in the wintry gale;
-     That field of frost, which glitters in the sun,
-     Mocking the whiteness of a marble breast!
-     Yet man can mar such works with his rude taste,
-     Like some sad spoiler of a virgin's fame.”
-      --Duo.
+“All that thou see'st is Natures handiwork;
+Those rocks that upward throw their mossy brawl
+Like castled pinnacles of elder times;
+These venerable stems, that slowly rock
+Their towering branches in the wintry gale;
+That field of frost, which glitters in the sun,
+Mocking the whiteness of a marble breast!
+Yet man can mar such works with his rude taste,
+Like some sad spoiler of a virgin's fame.”
+--Duo.
 
 Some little while elapsed ere Marmaduke Temple was sufficiently
 recovered from his agitation to scan the person of his new companion. He
@@ -1252,7 +1218,6 @@ branch of the fine arts. Not that Mr. Jones did not affect to consider
 Hiram Doolittle a perfect empiric in his profession, being in the
 constant habit of listening to his treatises on architecture with a
 kind of indulgent smile; yet, either from an inability to oppose them
-by anything plausible from his own stores of learning or from secret
 admiration, Richard generally submitted to the arguments of his
 co-adjutor. Together, they had not only erected a dwelling for
 Marmaduke, but they had given a fashion to the architecture of the whole
@@ -1301,7 +1266,6 @@ greatest recommendations of Hiram was his ability to work by the “square
 rule,” no opportunity was found of discovering the effect until the
 massive timbers were raised on the four walls of the building. Then,
 indeed, it was soon seen that, in defiance of all rule, the roof was
-by far the most conspicuous part of the whole edifice. Richard and his
 associate consoled themselves with the relief that the covering would
 aid in concealing this unnatural elevation; but every shingle that was
 laid only multiplied objects to look at. Richard essayed to remedy
@@ -1354,7 +1318,6 @@ been partly destroyed by fire were seen rearing their black, glistening
 columns twenty or thirty feet above the pure white of the snow, These,
 which in the language of the country are termed stubs, abounded in the
 open fields adjacent to the village, and were accompanied, occasionally,
-by the ruin of a pine or a hemlock that had been stripped of its bark,
 and which waved in melancholy grandeur its naked limbs to the blast,
 a skeleton of its former glory. But these and many other unpleasant
 additions to the view were unseen by the delighted Elizabeth, who, as
@@ -1388,11 +1351,10 @@ close upon each other before either was seen.
 
 
 
-CHAPTER IV
 
 
-     “How now? whose mare's dead? what's the matter?”
-      --Falstaff
+“How now? whose mare's dead? what's the matter?”
+--Falstaff
 
 A large lumber sleigh, drawn by four horses, was soon seen dashing
 through the leafless bushes which fringed the road. The leaders were
@@ -1427,7 +1389,6 @@ demure feature in his countenance. A fair, jolly wig furnished a neat
 and rounded outline to his visage, and he, well as the other two, wore
 marten-skin caps. The fourth was a meek-looking, long-visaged man,
 without any other protection from the cold than that which was furnished
-by a black surcoat, made with some little formality, but which
 was rather threadbare and rusty. He wore a hat of extremely decent
 proportions, though frequent brushing had quite destroyed its nap. His
 face was pale, and withal a little melancholy, or what might be termed
@@ -1464,7 +1425,6 @@ Elizabeth; which sounded, in the clear air of the hills. Like tones of
 silver, amid the loud cries of Richard. “I have always a kiss for my old
 friend. Major Hartmann.”
 
-By this time the gentleman in the front seat, who had been addressed
 as Monsieur Le Quoi, had arisen with some difficulty, owing to the
 impediment of his overcoats, and steadying himself by placing one hand
 on the stool of the charioteer, with the other he removed his cap, and
@@ -1543,7 +1503,7 @@ a little vain: “Monsieur La Quoi, pray get off my leg; you hold my leg
 so tight that it's no wonder the horses back.”
 
 “Merciful Providence!” exclaimed the Judge; “they will be all killed!”
- Elizabeth gave a piercing shriek, and the black of Agamemnon's face
+Elizabeth gave a piercing shriek, and the black of Agamemnon's face
 changed to a muddy white.
 
 At this critical moment, the young hunter, who during the salutations of
@@ -1588,11 +1548,9 @@ to hold on to the reins, or the fiery devils would have been over the
 mountain by this time. How well I recovered myself, 'Duke! Another
 moment would have been too late; but I knew just the spot where to touch
 the off-leader; that blow under his right flank, and the sudden jerk I
-gave the rein, brought them round quite in rule, I must own myself.” *
 
-  * The spectators, from immemorial usage, have a right to laugh at the
-    casualties of a sleigh ride; and the Judge was no sooner certain that
-    no one was done than he made full use of the privilege.
+casualties of a sleigh ride; and the Judge was no sooner certain that
+no one was done than he made full use of the privilege.
 
 “Thou jerk! thou recover thyself, Dickon!” he said; “but for that brave
 lad yonder, thou and thy horses, or rather mine, would have been dashed
@@ -1633,13 +1591,11 @@ repair the damages, with the assistance of Agamemnon, and hasten to a
 warm fire. Here, Dickon, are a few articles of Bess' trumpery, that you
 can throw into your sleigh when ready; and there is also a deer of my
 taking, that I will thank you to bring. Aggy! remember that there will
-be a visit from Santa Claus * to-night.”
 
-  * The periodical visits of St. Nicholas, or Santa Claus, as he is
-    termed, were never forgotten among the inhabitants of New York, until
-    the emigration from New England brought in the opinions and usages of
-    the Puritans, like the “bon homme de Noel.” he arrives at each
-    Christmas.
+termed, were never forgotten among the inhabitants of New York, until
+the emigration from New England brought in the opinions and usages of
+the Puritans, like the “bon homme de Noel.” he arrives at each
+Christmas.
 
 The black grinned, conscious of the bribe that was offered him for
 silence on the subject of the deer, while Richard, without in the least
@@ -1678,18 +1634,16 @@ have not shot even a gray squirrel these four years, to which that old
 rascal has not laid claim, or some one else for him. This is a damned
 envious world that we live in--people are always for dividing the credit
 at a thing, in order to bring down merit to their own level. Now they
-have a story about the Patent,* that Hiram Doolittle helped to plan
 the steeple to St. Paul's; when Hiram knows that it is entirely mine;
 a little taken front a print of his namesake in London, I own; but
 essentially, as to all points of genius, my own.”
 
-  * The grants of land, made either by the crown or the state, were but
-    letters patent under the great seal, and the term “patent” is usually
-    applied to any district of extent thus conceded; though under the
-    crown, manorial rights being often granted with the soil, in the
-    older counties the word “manor” is frequently used.  There are many
-    manors in New York though all political and judicial rights have
-    ceased.
+letters patent under the great seal, and the term “patent” is usually
+applied to any district of extent thus conceded; though under the
+crown, manorial rights being often granted with the soil, in the
+older counties the word “manor” is frequently used.  There are many
+manors in New York though all political and judicial rights have
+ceased.
 
 “I don't know where he come from,” said the black, losing every mark of
 humor in an expression of admiration, “but eb'rybody say, he wounerful
@@ -1715,23 +1669,21 @@ Richard paused a moment, and cleared his throat by a loud hem, while
 the negro, who was all this time busily engaged in preparing the sleigh,
 proceeded with his work in respectful silence. Owing to the religious
 scruples of the Judge, Aggy was the servant of Richard, who had his
-services for a time,* and who, of course, commanded a legal claim to the
 respect of the young negro. But when any dispute between his lawful and
 his real master occurred, the black felt too much deference for both to
 express any opinion.
 
-  * The manumission of the slaves in New York has been gradual.  When
-    public opinion became strong in their favor, then grew up a custom of
-    buying the services of a slave, for six or eight years, with a
-    condition to liberate him at the end of the period.  Then the law
-    provided that all born after a certain day should be free, the males
-    at twenty--eight and the females at twenty-five.  After this the owner
-    was obliged to cause his servants to be taught to read and write
-    before they reached the age of eighteen, and, finally, the few that
-    remained were all unconditionally liberated in 1826, or after the
-    publication of this tale.  It was quite usual for men more or less
-    connected with the Quakers, who never held slaves to adopt the first
-    expedient.
+public opinion became strong in their favor, then grew up a custom of
+buying the services of a slave, for six or eight years, with a
+condition to liberate him at the end of the period.  Then the law
+provided that all born after a certain day should be free, the males
+at twenty--eight and the females at twenty-five.  After this the owner
+was obliged to cause his servants to be taught to read and write
+before they reached the age of eighteen, and, finally, the few that
+remained were all unconditionally liberated in 1826, or after the
+publication of this tale.  It was quite usual for men more or less
+connected with the Quakers, who never held slaves to adopt the first
+expedient.
 
 In the mean while, Richard continued watching the negro as he fastened
 buckle after buckle, until, stealing a look of consciousness toward the
@@ -1741,7 +1693,7 @@ horses, when, if he had let them alone for half a minute longer, I would
 have brought them in much better, without upsetting, with the whip amid
 rein--it spoils a horse to give him his heal, I should not wonder if
 I had to sell the whole team, just for that one jerk he gave them,”
- Richard paused and hemmed; for his conscience smote him a little for
+Richard paused and hemmed; for his conscience smote him a little for
 censuring a man who had just saved his life. “Who is the lad, Aggy--I
 don't remember to have seen him before?”
 
@@ -1792,16 +1744,13 @@ delight; “say nothing, but leave me to manage Duke. I have a great mind
 to leave the deer on the hill, and to make the fellow send for his own
 carcass; but no, I will let Marmaduke tell a few bounces about it before
 I come out upon him. Come, hurry in, Aggy, I must help to dress the
-lad's wound; this Yankee* doctor knows nothing of surgery--I had to hold
 out Milligan's leg for him, while he cut it off.”
 
-  * In America the term Yankee is of local meaning.  It is thought to be
-    derived from the manner in which the Indians of New England pronounced
-    the word “English,” or “Yengeese.” New York being originally a Dutch
-    province, the term of course was not known there, and Farther south
-    different dialects among the natives themselves probably produced a
-    different pronunciation Marmaduke and his cousin, being Pennsylvanians
-    by birth, were not Yankees in the American sense of the word.
+derived from the manner in which the Indians of New England pronounced
+the word “English,” or “Yengeese.” New York being originally a Dutch
+province, the term of course was not known there, and Farther south
+different dialects among the natives themselves probably produced a
+different pronunciation Marmaduke and his cousin, being Pennsylvanians
 
 Richard was now seated on the stool again, and, the black taking the
 hind seat, the steeds were put in motion toward home, As they dashed
@@ -1825,15 +1774,14 @@ to witness the arrival of their landlord and his daughter.
 
 
 
-CHAPTER V
 
 
-     “Nathaniel's coat, sir, was not fully made,
-     And Gabriel's pumps were all unpink'd i' th' heel;
-     There was no link to color Peter's hat,
-     And Walter's dagger was not come from sheathing;
-     There were none fine, but Adam, Ralph, and Gregory.”
-      --Shakespeare.
+“Nathaniel's coat, sir, was not fully made,
+And Gabriel's pumps were all unpink'd i' th' heel;
+There was no link to color Peter's hat,
+And Walter's dagger was not come from sheathing;
+There were none fine, but Adam, Ralph, and Gregory.”
+--Shakespeare.
 
 After winding along the side of the mountain, the road, on reaching the
 gentle declivity which lay at the base of the hill, turned at a right
@@ -1976,7 +1924,6 @@ marvellous tale that he was in the habit of relating, concerning the
 length of time he had to labor to keep his ship from sinking after
 Rodney's victory, he had universally acquired the nick name of Ben Pump.
 
-By the side of Benjamin, and pressing forward as if a little jealous
 of her station, stood a middle-aged woman, dressed in calico, rather
 violently contrasted in color with a tall, meagre, shapeless figure,
 sharp features, and a somewhat acute expression of her physiognomy. Her
@@ -2313,15 +2260,14 @@ The reply was interrupted by the entrance of the village physician.
 
 
 
-CHAPTER VI
 
 
-     “And about his shelves,
-     A beggarly account of empty boxes,
-     Green earthen pots, bladders, and musty seeds.
-     Remnants of packthread, and old cakes of roses,
-     Were thinly scattered to make up a show.”
-      --Shakespeare.
+“And about his shelves,
+A beggarly account of empty boxes,
+Green earthen pots, bladders, and musty seeds.
+Remnants of packthread, and old cakes of roses,
+Were thinly scattered to make up a show.”
+--Shakespeare.
 
 Doctor Elnathan Todd, for such was the name of the man of physic, was
 commonly thought to be, among the settlers, a gentleman of great mental
@@ -2401,7 +2347,6 @@ were mounted, bareback, on horses, and sent off at speed in various
 directions. Several indirect questions were put concerning the place
 where the physician was last seen; but all would not do; and at length
 Elnathan was seen issuing from his door with a very grave air, preceded
-by a little white-headed boy, out of breath, trotting before him. The
 following day the youth appeared in the street, as the highway was
 called, and the neighborhood was much edified by the additional gravity
 of his air. The same week he bought a new razor; and the succeeding
@@ -2529,7 +2474,6 @@ akimbo, was balancing his square little body with the indifference of
 one who is accustomed to wounds and bloodshed. All of these seemed to
 be unhurt, and the operator began to breathe more freely; but, before he
 had time to take a second look, the Judge, advancing, shook him kindly
-by the hand, and spoke.
 
 “Thou art welcome, my good sir, quite welcome, indeed; here is a youth
 whom I have unfortunately wounded in shooting a deer this evening, and
@@ -2685,7 +2629,6 @@ entertain a species of religious veneration for the skill of Elnathan;
 but such was far from the truth.
 
 When the physician attempted to introduce the instrument described
-by Remarkable, he was repulsed by the stranger, with a good deal of
 decision, and some little contempt, in his manner.
 
 “I believe, sir,” he said, “that a probe is not necessary; the shot has
@@ -2732,12 +2675,10 @@ sight of blood.”
 seen the doctors at work on. For the matter of that, I was in a boat,
 alongside the ship, when they cut out the twelve-pound shot from the
 thigh of the captain of the Foodyrong, one of Mounsheer Ler Quaw's
-countrymen!” *
 
-  * It is possible that the reader may start at this declaration of
-    Benjamin, but those who have lived in the new settlements of America
-    are too much accustomed to hear of these European exploits to doubt
-    it.
+Benjamin, but those who have lived in the new settlements of America
+are too much accustomed to hear of these European exploits to doubt
+it.
 
 “A twelve-pound ball from the thigh of a human being:” exclaimed Mr.
 Grant, with great simplicity, dropping the sermon he was again reading,
@@ -2750,11 +2691,11 @@ Squire Jones, now, ask him, sir; he reads all the books; ask him if he
 never fell in with a page that keeps the reckoning of such things.”
 
 “Certainly, more important operations than that have been performed,”
- observed Richard; “the encyclopaedia mentions much more incredible
+observed Richard; “the encyclopaedia mentions much more incredible
 circumstances than that, as, I dare say, you know, Dr. Todd.”
 
 “Certainly, there are incredible tales told in the encyclopaedias,”
- returned Elnathan, “though I cannot say that I have ever seen, myself,
+returned Elnathan, “though I cannot say that I have ever seen, myself,
 anything larger than a musket ball extracted.”
 
 During this discourse an incision had been made through the skin of the
@@ -2766,7 +2707,6 @@ singular service; for the latter expanded itself, and caught the lead,
 while at the same time an extremely ambiguous motion was made by its
 brother, so as to leave it doubtful to the spectators how great was its
 agency in releasing the shot, Richard, however, put the matter at rest
-by exclaiming:
 
 “Very neatly done, doctor! I have never seen a shot more neatly
 extracted; and I dare say Benjamin will say the same.”
@@ -2786,12 +2726,11 @@ one of the distant doors of the hall, the person of Indian John.
 
 
 
-CHAPTER VII.
 
-     “From Sesquehanna's utmost springs,
-     Where savage tribes pursue their game,
-     His blanket tied with yellow strings,
-     The shepherd of the forest came.”--Freneau.
+“From Sesquehanna's utmost springs,
+Where savage tribes pursue their game,
+His blanket tied with yellow strings,
+The shepherd of the forest came.”--Freneau.
 
 Before the Europeans, or, to use a more significant term, the
 Christians, dispossessed the original owners of the soil, all that
@@ -3178,7 +3117,7 @@ injured thee, young man; there should be none in the feelings which it
 may engender.”
 
 “Forgive our trespasses as we forgive those who trespass against us,”
- observed Mr. Grant, “is the language used by our Divine Master himself,
+observed Mr. Grant, “is the language used by our Divine Master himself,
 and it should be the golden rule with us, his humble followers.”
 
 The stranger stood a moment lost in thought, and then, glancing his
@@ -3237,7 +3176,7 @@ Squire Doolittle, for meddling with my leaders. I am not afraid of his
 rifle. I can shoot, too. I have hit a dollar many a time at fifty rods.
 
 “Thou hast missed more dollars than ever thou hast hit, Dickon,”
- exclaimed the cheerful voice of the Judge. “But we will now take our
+exclaimed the cheerful voice of the Judge. “But we will now take our
 evening's repast, which I perseive, by Remarkable's physiognomy, is
 ready. Monsieur Le Quoi, Miss Temple has a hand at your service. Will
 you lead the way, my child?”
@@ -3301,11 +3240,10 @@ hardly weather the night with out a touch from the frost.”
 
 
 
-CHAPTER VIII.
 
-     “For here the exile met from every clime,
-     And spoke, in friendship, every distant tongue.”
-      --Campbell.
+“For here the exile met from every clime,
+And spoke, in friendship, every distant tongue.”
+--Campbell.
 
 We have made our readers acquainted with some variety in character and
 nations, in introducing the most important personages of this legend to
@@ -3354,15 +3292,13 @@ that were brought into the country, and it was impossible to look at the
 prices asked for his goods by “so pretty a spoken man,” Through
 these conjoint means, the affairs of Monsieur Le Quoi were again in a
 prosperous condition, and he was looked up to by the settlers as the
-second best man on the “Patent.” *
 
-  * The term “Patent” which we have already used, and for which we may
-    have further occasion, meant the district of country that had been
-    originally granted to old Major Effingham by the “king's letters
-    patent,” and which had now become, by purchase under the act of
-    confiscation, the property of Marmaduke Temple.  It was a term in
-    common use throughout the new parts of the State; and was usually
-    annexed to the landlord's name, as “Temple's or Effingham's Patent.”
+have further occasion, meant the district of country that had been
+originally granted to old Major Effingham by the “king's letters
+patent,” and which had now become, by purchase under the act of
+confiscation, the property of Marmaduke Temple.  It was a term in
+common use throughout the new parts of the State; and was usually
+annexed to the landlord's name, as “Temple's or Effingham's Patent.”
 
 Major Hartmann was a descendant of a man who, in company with a number
 of his countrymen, had emigrated with their families from the banks of
@@ -3497,7 +3433,6 @@ columns was reared a dome or cupola, resembling in shape an inverted
 tea-cup without its bottom, from the centre of which projected a spire,
 or shaft of wood, transfixed with two iron rods, that bore on their ends
 the letters N. S. E. and W, in the same metal. The whole was surmounted
-by an imitation of one of the finny tribe, carved in wood by the hands
 of Richard, and painted what he called a “scale-color.” This animal Mr.
 Jones affirmed to be an admirable resemblance of a great favorite of
 the epicures in that country, which bore the title of “lake-fish,” and
@@ -3525,8 +3460,8 @@ a farmer's family in the vicinity, and repeated the whole of the first
 eclogue from memory, observing the intonations of the dialogue with much
 judgment and effect. The sounds, as they proceeded from his mouth, of
 
-  “Titty-ree too patty-lee ree-coo-bans sub teg-mi-nee faa-gy
-  Syl-ves-trem ten-oo-i moo-sam, med-i-taa-ris, aa-ve-ny.”
+“Titty-ree too patty-lee ree-coo-bans sub teg-mi-nee faa-gy
+Syl-ves-trem ten-oo-i moo-sam, med-i-taa-ris, aa-ve-ny.”
 
 were the last that had been heard in that building, as probably they
 were the first that had ever been heard, in the same language, there
@@ -3633,15 +3568,14 @@ After this digression, we shall return to our narrative.
 
 
 
-CHAPTER IX.
 
 
-     “Now all admire, in each high-flavored dish
-     The capabilities of flesh--fowl--fish;
-     In order due each guest assumes his station,
-     Throbs high his breast with fond anticipation,
-     And prelibates the joys of mastication.”
-      --Heliogabaliad.
+“Now all admire, in each high-flavored dish
+The capabilities of flesh--fowl--fish;
+In order due each guest assumes his station,
+Throbs high his breast with fond anticipation,
+And prelibates the joys of mastication.”
+--Heliogabaliad.
 
 The apartment to which Monsieur Le Quoi handed Elizabeth communicated
 with the hall, through the door that led under the urn which was
@@ -3737,7 +3671,6 @@ dishes of real china, an article of great luxury at this early period
 of American commerce. The knives and forks were of exquisitely polished
 steel, and were set in unclouded ivory. So much, being furnished by
 the wealth of Marmaduke, was not only comfortable but even elegant. The
-contents of the several dishes, and their positions, however, were the
 result of the sole judgment of Remarkable. Before Elizabeth was placed
 an enormous roasted turkey, and before Richard one boiled, in the centre
 of the table stood a pair of heavy silver casters, surrounded by four
@@ -3948,7 +3881,6 @@ arm of the law.”
 “That for his rifle!” exclaimed Richard, snapping his fingers; “Ben is
 right, and I--” He was stopped by the sound of a common ship-bell, that
 had been elevated to the belfry of the academy, which now announced,
-by its incessant ringing, that the hour for the appointed service had
 arrived. “'For this and every other instance of his goodness--' I beg
 pardon, Mr. Grant, will you please to return thanks, sir? It is time we
 should be moving, as we are the only Episcopalians in the neighborhood;
@@ -3962,17 +3894,15 @@ academy.
 
 
 
-CHAPTER X.
 
 
-     “And calling sinful man to pray,
-     Loud, long, and deep the bell had tolled.”
-      --Scotts Burgher
+“And calling sinful man to pray,
+Loud, long, and deep the bell had tolled.”
+--Scotts Burgher
 
 While Richard and Monsieur Le Quoi, attended by Benjamin, proceeded to
 the academy by a foot-path through the snow, the judge, his daughter,
 the divine, and the Major took a more circuitous route to the same place
-by the streets of the village.
 
 The moon had risen, and its orb was shedding a flood of light over
 the dark outline of pines which crowned the eastern mountain. In many
@@ -4110,7 +4040,7 @@ the preceding summer, by the aid of what was called a subscription;
 though all, or nearly all, of the money came from the pockets of the
 landlord. It had been built under a strong conviction of the necessity
 of a more seemly place of worship than “the long room of the academy,”
- and under an implied agreement that, after its completion, the question
+and under an implied agreement that, after its completion, the question
 should be fairly put to the people, that they might decide to what
 denomination it should belong. Of course, this expectation kept alive
 a strong excitement in some few of the sectaries who were interested
@@ -4127,7 +4057,6 @@ contend with a stiff necked people. His first measure was to go among
 them and commence a course of reasoning, in order to bring them round
 to his own way of thinking. They all heard him patiently, and not a man
 uttered a word in reply in the way of argument, and Richard thought,
-by the time that he had gone through the settlement, the point was
 conclusively decided in his favor. Willing to strike while the iron was
 hot, he called a meeting, through the newspaper, with a view to decide
 the question by a vote at once. Not a soul attended; and one of the most
@@ -4290,11 +4219,10 @@ With this ominous word in his mouth Benjamin entered the church.
 
 
 
-CHAPTER XI.
 
 
-     “And fools who came to scoff, remained to pray.”
-      --Goldsmith.
+“And fools who came to scoff, remained to pray.”
+--Goldsmith.
 
 Notwithstanding the united labors of Richard and Benjamin, the “long
 room” was but an extremely inartificial temple. Benches; made in the
@@ -4320,7 +4248,6 @@ immediately before the pulpit; amid a few benches lined this space,
 that were occupied by the principal personages of the village and its
 vicinity. This distinction was rather a gratuitous concession made by
 the poorer and less polished part of the population than a right claimed
-by the favored few. One bench was occupied by the party of Judge Temple,
 including his daughter, and, with the exception of Dr. Todd, no one else
 appeared willing to incur the imputation of pride, by taking a seat in
 what was, literally, the high place of the tabernacle.
@@ -4338,12 +4265,12 @@ the coarse attire of the woods. This wore a faded silk, that had
 gone through at least three generations, over coarse, woollen black
 stockings; that, a shawl, whose dyes were as numerous as those of the
 rainbow, over an awkwardly fitting gown of rough brown “woman's wear.”
- In short, each one exhibited some favorite article, and all appeared
+In short, each one exhibited some favorite article, and all appeared
 in their best, both men and women; while the ground-works in dress,
 in either sex, were the coarse fabrics manufactured within their own
 dwellings. One man appeared in the dress of a volunteer company of
 artillery, of which he had been a member in the “down countries,”
- precisely for no other reason than because it was the best suit he had.
+precisely for no other reason than because it was the best suit he had.
 Several, particularly of the younger men, displayed pantaloons of
 blue, edged with red cloth down the seams part of the equipments of the
 “Templeton Light Infantry,” from a little vanity to be seen in “boughten
@@ -4604,14 +4531,13 @@ of Mr. Grant., dispersed in Silence, and with great decorum.
 
 
 
-CHAPTER XII.
 
 
-     “Your creeds and dogmas of a learned church
-     May build a fabric, fair with moral beauty;
-     But it would seem that the strong hand of God
-     Can, only, 'rase the devil from the heart.”
-      --Duo.
+“Your creeds and dogmas of a learned church
+May build a fabric, fair with moral beauty;
+But it would seem that the strong hand of God
+Can, only, 'rase the devil from the heart.”
+--Duo.
 
 While the congregation was separating, Mr. Grant approached the place
 where Elizabeth and her father were seated, leading the youthful female
@@ -4700,7 +4626,6 @@ occasions, although it was mingled with the rough manner of a hunter.
 The young companion of these two ancient inhabitants of the forest
 remained also standing before the extinguished brands, probably from an
 unwillingness to depart without his comrades. The room was now deserted
-by all but this group, the divine, and his daughter. As the party from
 the mansion-house disappeared, John arose, and, dropping the blanket
 from his head, he shook back the mass of black hair from his face, and,
 approaching Mr. Grant, he extended his hand, and said solemnly:
@@ -4742,11 +4667,9 @@ other by the hand, and shaking it cordially. “You will go home with me
 now--indeed you must--my child has yet to thank you for saving my life.
 I will-listen to no apologies. This worthy Indian, and your friend,
 there, will accompany us. Bless me! to think that' he has arrived at
-manhood in this country, without entering a dissenting * meeting-house!”
 
-  * The divines of the Protestant Episcopal Church of the United States
-    commonly call other denominations Dissenters, though there never was
-    an established church in their own country!
+commonly call other denominations Dissenters, though there never was
+an established church in their own country!
 
 “No, no,” interrupted the Leather-Stocking, “I must away to the wigwam;
 there's work there that mustn't be forgotten for all your churchings and
@@ -4769,7 +4692,7 @@ prepare you for that end which approaches. You may have heard the maxim,
 that 'young men may die, but that old men must'.”
 
 “I'm sure I never was so great a fool as to expect to live forever,”
- said Natty, giving one of his silent laughs; “no man need do that who
+said Natty, giving one of his silent laughs; “no man need do that who
 trails the savages through the woods, as I have done, and lives, for the
 hot months, on the lake streams. I've a strong constitution, I must say
 that for myself, as is plain to be seen; for I've drunk the Onondaga
@@ -4844,7 +4767,6 @@ countenance of Miss Grant, with eyes that rivalled the soft hue of the
 sky, met his view at the instant that each turned to throw a glance at
 the splendid orb which lighted their path. Their way, which led through
 fields that lay at some distance in the rear of the houses, was cheered
-by a conversation that flagged or became animated with the subject. The
 first to speak was the divine.
 
 “Really,” he said, “it is so singular a circumstance to meet with one of
@@ -4955,7 +4877,7 @@ moved quietly along, at a rate that was greatly quickened by the aid of
 his arm.
 
 “You are but little acquainted with this peculiar people, Miss Grant,”
- he said, “or you would know that revenge is a virtue with an Indian.
+he said, “or you would know that revenge is a virtue with an Indian.
 They are taught, from infancy upward, to believe it a duty never to
 allow an injury to pass unrevenged; and nothing but the stronger claims
 of hospitality can guard one against their resentments where they have
@@ -4977,7 +4899,6 @@ resumed their walk.
 Mr. Grant and Mohegan had reached the door of the former's residence,
 and stood waiting near its threshold for the arrival of their young
 companions. The former was earnestly occupied in endeavoring to correct,
-by his precepts, the evil propensities that he had discovered in the
 Indian during their conversation; to which the latter listened in
 Profound but respectful attention. On the arrival of the young hunter
 and the lady, they entered the building. The house stood at some
@@ -4987,7 +4908,6 @@ nearly two feet in thickness. Not a tree nor a shrub was nigh it; but
 the house, externally, exhibited that cheer less, unfurnished aspect
 which is so common to the hastily erected dwellings of a new country.
 The uninviting character of its outside was, however, happily relieved
-by the exquisite neatness and comfortable warmth within.
 
 They entered an apartment that was fitted as a parlor, though the large
 fireplace, with its culinary arrangements, betrayed the domestic uses
@@ -5041,12 +4961,10 @@ significant gestures of an Indian, he spoke:
 “Father, you are not yet past the summer of life; your limbs are young.
 Go to the highest hill, and look around you. All that you see, from the
 rising to the setting sun, from the head-waters of the great spring, to
-where the 'crooked river' * is hid by the hills, is his. He has Delaware
 blood, and his right is strong.
 
-  * The Susquehannah means crooked river; “hannah,” or “hannock,” meant
-    river in many of the native dialects.  Thus we find Rappahannock as
-    far south as Virginia.
+river in many of the native dialects.  Thus we find Rappahannock as
+far south as Virginia.
 
 “But the brother of Miquon is just; he will cut the country in two parts,
 as the river cuts the lowlands, and will say to the 'Young Eagle,'
@@ -5141,12 +5059,11 @@ there is such a thing as the idolatry of our passions.”
 
 
 
-CHAPTER XIII.
 
 
-     “And I'll drink out of the quart pot--
-     Here's a health to the barley mow.
-     “--Drinking Song.
+“And I'll drink out of the quart pot--
+Here's a health to the barley mow.
+“--Drinking Song.
 
 On one of the corners, where the two principal streets of Templeton
 intersected each other, stood, as we have already mentioned, the inn
@@ -5178,7 +5095,6 @@ tended, by its occupants, to look down all opposition. It was a house of
 wood, ornamented in the prevailing style of architecture, and about
 the roof and balustrades was one of the three imitators of the
 mansion-house. The upper windows were filled with rough boards secured
-by nails, to keep out the cold air--for the edifice was far from
 finished, although glass was to be seen in the lower apartments, and
 the light of the powerful fires within de noted that it was already
 inhabited. The exterior was painted white on the front and on the end
@@ -5207,7 +5123,7 @@ probably assembling with a view to compare opinions on the subject of
 the ceremonies they had witnessed.
 
 The public, or as it was called, the “bar-room,” of the “Bold Dragoon,”
- was a spacious apartment, lined on three sides with benches and on the
+was a spacious apartment, lined on three sides with benches and on the
 fourth by fireplaces. Of the latter there were two of such size as
 to occupy, with their enormous jambs, the whole of that side of the
 apartment where they were placed, excepting room enough for a door
@@ -5236,7 +5152,7 @@ Mr. Grant is doing that same.”
 be seated; or, as good Mr. Whitefleld used to do after he had made a
 wearisome day's march, get on our knees and pray, like Moses of old,
 with a flanker to the right and left to lift his hands to heaven,”
- returned her husband, who composedly performed what she had directed to
+returned her husband, who composedly performed what she had directed to
 be done. “It was a very pretty fight, Betty, that the Israelites had on
 that day with the Amalekites, It seams that they fout on a plain, for
 Moses is mentioned as having gone on the heights to overlook the battle,
@@ -5324,9 +5240,7 @@ cupbearers to kings, and taste the liquor he presented, by the
 invitation of “After you is manners,” with which request he ordinarily
 complied by wetting his lips, first expressing the wish of “Here's
 hoping,” leaving it to the imagination of the hearers to fill the vacuum
-by whatever good each thought most desirable. During these movements the
 landlady was busily occupied with mixing the various compounds required
-by her customers, with her own hands, and occasionally exchanging
 greetings and inquiries concerning the conditions of their respective
 families, with such of the villagers as approached the bar.
 
@@ -5377,11 +5291,9 @@ that 'Far. Av.' means oatmeal, in English.”
 The lawyer in his turn was a good deal embarrassed by this display of
 learning; for, although he actually had taken his first degree at one of
 the eastern universities, he was somewhat puzzled with the terms used
-by his companion. It was dangerous, however, to appear to be out done
 in learning in a public bar-room, and before so many of his clients; he
 therefore put the best face on the matter, and laughed knowingly as if
 there were a good joke concealed under it, that was understood only
-by the physician and himself. All this was attentively observed by the
 listeners, who exchanged looks of approbation; and the expressions of
 “tonguey mati,” and “I guess Squire Lippet knows if anybody does,” were
 heard in different parts of the room, as vouchers for the admiration
@@ -5444,7 +5356,7 @@ the attorney.
 certain he said so before I undertook the dressing.”
 
 “But it seems that he said his pocket should reward you, doctor,”
- observed Hiram. “Now I don't know that the law will hold a man to such
+observed Hiram. “Now I don't know that the law will hold a man to such
 a promise; he might give you his pocket with sixpence in't, and tell you
 to take your pay out on't.”
 
@@ -5592,20 +5504,19 @@ from the mansion-house entered, followed by the Indian himself.
 
 
 
-CHAPTER XIV.
 
-     “There's quart-pot, pint-pot.
-     Mit-pint, Gill-pot, half-gill, nipperkin.
-     And the brown bowl--
-     Here's a health to the barley mow,
-     My brave boys,
-     Here's a health to the barley mow.”
-      --Drinking Song.
+“There's quart-pot, pint-pot.
+Mit-pint, Gill-pot, half-gill, nipperkin.
+And the brown bowl--
+Here's a health to the barley mow,
+My brave boys,
+Here's a health to the barley mow.”
+--Drinking Song.
 
 Some little commotion was produced by the appearance of the new guests,
 during which the lawyer slunk from the room. Most of the men approached
 Marmaduke, and shook his offered hand, hoping “that the Judge was well;”
- while Major Hartmann having laid aside his hat and wig, and substituted
+while Major Hartmann having laid aside his hat and wig, and substituted
 for the latter a warm, peaked woollen nightcap, took his seat very
 quietly on one end of the settee, which was relinquished by its former
 occupant. His tobacco-box was next produced, and a clean pipe was handed
@@ -5915,9 +5826,9 @@ swimming mugs of foaming flip toward the hunter, as he cried:
 you are blind, Leather-Stocking, 'tis moonshine and winter--take these
 spectacles, and open your eyes--
 
-     So let us be jolly,
-     And cast away folly,
-     For grief turns a black head to gray.
+So let us be jolly,
+And cast away folly,
+For grief turns a black head to gray.
 
 --Hear how old John turns his quavers. What damned dull music an Indian
 song is, after all, Major! I wonder if they ever sing by note.”
@@ -5988,8 +5899,8 @@ barn, and I will pay for it. I am rich to night, ten times richer than
 'Duke, with all his lands, and military lots, and funded debts, and
 bonds, and mortgages,
 
-     'Come, let us be jolly,
-     And cast away folly, For grief---'
+'Come, let us be jolly,
+And cast away folly, For grief---'
 
 “Drink, King Hiram--drink, Mr. Doo-nothing---drink, sir, I say. This is a
 Christmas eve, which comes, you know, but once a year.”
@@ -6057,13 +5968,12 @@ head to gray.”
 
 
 
-CHAPTER XV.
 
 
-     “As she lay, on that day, in the Bay of Biscay, O!”
+“As she lay, on that day, in the Bay of Biscay, O!”
 
 Previously to the occurrence of the scene at the “Bold Dragoon,”
- Elizabeth had been safely reconducted to the mansion-house, where she
+Elizabeth had been safely reconducted to the mansion-house, where she
 was left as its mistress, either to amuse or employ herself during the
 evening as best suited her own inclinations. Most of the lights were
 extinguished; but as Benjamin adjusted with great care and regularity
@@ -6098,7 +6008,7 @@ that, by nater, they are as tonguey speakers, for an off-hand discourse,
 as the standing-order ministers.”
 
 “And what denomination do you distinguish as the standing-order?”
- inquired Miss Temple, with some surprise.
+inquired Miss Temple, with some surprise.
 
 “Why, the Presbyter'ans and Congregationals, and Baptists, too, for-til'
 now; and all sitch as don't go on their knees to prayer.”
@@ -6106,7 +6016,7 @@ now; and all sitch as don't go on their knees to prayer.”
 “By that rule, then, you would call those who belong' to the persuasion
 of my father, the sitting-order,” observed Elizabeth. “I'm sure I've
 never heard 'em spoken of by any other' name than Quakers, so called,”
- returned Remarkable, betraying a slight uneasiness; “I should be the
+returned Remarkable, betraying a slight uneasiness; “I should be the
 last to call them otherwise, for I never in my life used a disparaging'
 tarm of the Judge, or any of his family. I've always set store by the
 Quakers, they are so pretty-spoken, clever people, and it's a wonderment
@@ -6138,7 +6048,6 @@ a supply of stimulants that would have served to keep the warmth in
 his system without the aid of the enormous fire he had been building. A
 small stand was drawn up near the stove, and the bottles and the glasses
 necessary for convenience were quietly arranged. Two chairs were placed
-by the side of this comfortable situation, when Benjamin, for the first
 time, appeared to observe his companion.
 
 “Come,” he cried, “come, Mistress Remarkable, bring yourself to an
@@ -6239,7 +6148,6 @@ mountains, Benjamin?”
 “Well, I will tell; but first let's taste the grog. Hem! it's the right
 kind of stuff, I must say, that you keep in this country; but then
 you're so close aboard the West Indies, you make but a small run of it.
-By the Lord Harry, woman, if Garnsey only lay somewhere between Cape
 Hatteras and the bite of Logann, but you'd see rum cheap! As to the
 seas, they runs more in uppers in the Bay of Biscay, unless it may be in
 a sow-wester, when they tumble about quite handsomely; thof it's not in
@@ -6428,7 +6336,6 @@ expressed with all that coolness of contempt that a man might well be
 supposed to feel for a monkey.
 
 Nearly two hours passed in this sleep before the major domo was awakened
-by the noisy entrance of Richard, Major Hartmann, and the master of the
 mansion. Benjamin so far rallied his confused faculties as to shape
 the course of the two former to their respective apartments, when he
 disappeared himself, leaving the task of securing the house to him
@@ -6440,13 +6347,12 @@ retired. With this act of prudence closes the first night of our tale.
 
 
 
-CHAPTER XVI
 
 
-     “Watch (aside).
-     Some treason, masters--
-     Yet stand close.”
-      --Much Ado About Nothing.
+“Watch (aside).
+Some treason, masters--
+Yet stand close.”
+--Much Ado About Nothing.
 
 It was fortunate for more than one of the bacchanalians who left the
 “Bold Dragoon” late in the evening that the severe cold of the season
@@ -6798,11 +6704,9 @@ hand and eye. Lead on, Sir Leather-Stocking, and we will follow.”
 Natty, who seemed pleased with the frank address of the young and
 beauteous Elizabeth, who had so singularly intrusted him with such a
 commission, returned the bright smile with which she had addressed him,
-by his own peculiar mark of mirth, and moved across the snow toward
 the spot whence the sounds of boisterous mirth proceeded, with the
 long strides of a hunter. His companions followed in silence, the youth
 casting frequent and uneasy glances toward Elizabeth, who was detained
-by a motion from Richard.
 
 “I should think, Miss Temple,” he said, so soon as the others were out
 of hearing, “that if you really wished a turkey, you would not have
@@ -6823,13 +6727,12 @@ have killed him dead; as it was--”
 
 “You killed the sheep--I know it all, dear coz. Hut would it have been
 decorous for the High Sheriff of--to mingle in such sports as these?”
- “Surely you did not think that I intended actually to fire with my own
+“Surely you did not think that I intended actually to fire with my own
 hands?” said Mr. Jones. “But let us follow, and see the shooting. There
 is no fear of anything unpleasant occurring to a female in this new
 country, especially to your father's daughter, and in my presence.”
 
 “My father's daughter fears nothing, sir, more especially when escorted
-by the highest executive officer in the county.”
 
 She took his arm, and he led her through the mazes of the bushes to the
 spot where most of the young men of the village were collected for
@@ -6839,12 +6742,11 @@ Companions had already preceded them.
 
 
 
-CHAPTER XVII
 
 
-     “I guess, by all this quaint array,
-     The burghers hold their sports to-day.”
-      --Scott.
+“I guess, by all this quaint array,
+The burghers hold their sports to-day.”
+--Scott.
 
 The ancient amusement of shooting the Christmas turkey is one of the
 few sports that the settlers of a new country seldom or never neglect to
@@ -6945,16 +6847,14 @@ comparisons made from their success in various hunting excursions; but
 this was the first time they had ever come in open collision. A good
 deal of higgling about the price of the choicest bird had taken place
 between Billy Kirby and its owner before Natty and his companions
-rejoined the sportsmen It had, however, been settled at one shilling *
 a shot, which was the highest sum ever exacted, the black taking care to
 protect himself from losses, as much as possible, by the conditions of
 the sport.
 
-  * Before the Revolution, each province had its own money of account
-    though neither coined any but copper pieces.  In New York the Spanish
-    dollar was divided into eight shillings, each of the value of a
-    fraction more than sixpence sterling.  At present the Union has
-    provided a decimal system, with coins to represent it.
+though neither coined any but copper pieces.  In New York the Spanish
+dollar was divided into eight shillings, each of the value of a
+fraction more than sixpence sterling.  At present the Union has
+provided a decimal system, with coins to represent it.
 
 The turkey was already fastened at the “mark,” but its body was entirely
 hid by the surrounding snow, nothing being visible but its red swelling
@@ -7061,7 +6961,7 @@ ground.”
 
 The youth fired with great rapidity, but no motion was made by the
 turkey; and, when the examiners for the ball returned from the “mark,”
- they declared that he had missed the stump.
+they declared that he had missed the stump.
 
 Elizabeth observed the change in his countenance, and could not help
 feeling surprise that one so evidently superior to his companions should
@@ -7133,7 +7033,7 @@ likely to know the best? I say no man need tell me that snapping is as
 good as firing when I pull the trigger.”
 
 “Leab it to Massa Jone,” said the alarmed negro; “he know eberyting.”
- This appeal to the knowledge of Richard was too flattering to be
+This appeal to the knowledge of Richard was too flattering to be
 unheeded. He therefore advanced a little from the spot whither the
 delicacy of Elizabeth had induced her to withdraw, and gave the
 following opinion, with the gravity that the subject and his own rank
@@ -7218,7 +7118,7 @@ now, and that when he's been hard pressed by the savages and wild
 beasts.”
 
 “Perhaps there is one whose rights come before ours, Leather-Stocking,”
- said Miss Temple. “If so, we will waive our privilege.”
+said Miss Temple. “If so, we will waive our privilege.”
 
 “If it be me that you have reference to,” said the young hunter, “I
 shall decline another chance. My shoulder is yet weak, I find.”
@@ -7308,14 +7208,13 @@ rejoin the sportsmen.”
 
 
 
-CHAPTER XVIII.
 
 
-     “Poor wretch! the mother that him bare,
-     If she had been in presence there,
-     In his wan face, and sunburnt hair,
-     She had not known her child.”
-      --Scott.
+“Poor wretch! the mother that him bare,
+If she had been in presence there,
+In his wan face, and sunburnt hair,
+She had not known her child.”
+--Scott.
 
 It diminished, in no degree, the effect produced by the conversation
 which passed between Judge Temple and the I young hunter, that the
@@ -7390,9 +7289,8 @@ join my family, if it be but till thy arm is healed. My daughter here,
 who is mistress of my dwelling, wilt tell thee that thou art welcome.”
 
 “Certainly,” said Elizabeth, whose earnestness was a little checked
-by female reserve. “The unfortunate would be welcome at any time, but
 doubly so when we feel that we have occasioned the evil ourselves,”
- “Yes,” said Richard, “and if you relish turkey, young man, there are
+“Yes,” said Richard, “and if you relish turkey, young man, there are
 plenty in the coops, and of the best kind, I can assure you.”
 
 Finding himself thus ably seconded, Marmaduke pushed his advantage to
@@ -7625,11 +7523,10 @@ bordered on the supernatural.
 
 
 
-CHAPTER XIX.
 
 
-    “And yet, poor Edwin was no vulgar boy.”
-     --Beattie.
+“And yet, poor Edwin was no vulgar boy.”
+--Beattie.
 
 The close of Christmas Day, A.D. 1793, was tempestuous, but
 comparatively warm. When darkness had again hid the objects in the
@@ -7766,7 +7663,7 @@ afraid to break a charm with her voice:
 hounds from the hut of Leather-Stocking?”
 
 “They are wolves, who have ventured from the mountain, on the lake,”
- whispered Louisa, “and who are only kept from the village by the lights.
+whispered Louisa, “and who are only kept from the village by the lights.
 One night, since we have been here, hunger drove them to our very door.
 Oh, what a dreadful night it was! But the riches of Judge Temple have
 given him too many safeguards, to leave room for fear in this house.”
@@ -7836,7 +7733,7 @@ was necessary before she was able to recognize the person of the young
 hunter in a plain, but assuredly the ordinary, garb of a gentleman.
 
 “Everything in this magical country seems to border on the marvellous,”
- said Elizabeth; “and, among all the changes, this is certainly not the
+said Elizabeth; “and, among all the changes, this is certainly not the
 least wonderful, The actors are as unique as the scenery.”
 
 Miss Grant colored and drew in her head.
@@ -7957,12 +7854,11 @@ civilization than could, in reason, be expected.”
 
 
 
-CHAPTER XX.
 
 
-     “Away! nor let me loiter in my song,
-     For we have many a mountain-path to tread.”
-      --Byron.
+“Away! nor let me loiter in my song,
+For we have many a mountain-path to tread.”
+--Byron.
 
 As the spring gradually approached, the immense piles of snow that, by
 alternate thaws and frosts, and repeated storms, had obtained a firmness
@@ -8000,7 +7896,7 @@ varied sources of pleasure on the bosom of their frozen lake. There had
 been excursions in the equipage of Richard, when with his four horses
 he had outstripped the winds, as it flew over the glassy ice which
 invariably succeeded a thaw. Then the exciting and dangerous “whirligig”
- would be suffered to possess its moment of notice. Cutters, drawn by a
+would be suffered to possess its moment of notice. Cutters, drawn by a
 single horse, and handsleds, impelled by the gentlemen on skates, would
 each in turn be used; and, in short, every source of relief against the
 tediousness of a winter in the mountains was resorted to by the family,
@@ -8250,7 +8146,7 @@ harmony.
 “Well done us!” roared the sheriff, on the same key with the tune;
 “a very good song, Billy Kirby, and very well sung. Where got you the
 words, lad? Is there more of it, and can you furnish me with a copy?”
- The sugar-boiler, who was busy in his “camp,” at a short distance from
+The sugar-boiler, who was busy in his “camp,” at a short distance from
 the equestrians, turned his head with great indifference, and surveyed
 the party, as they approached, with admirable coolness. To each
 individual, as he or she rode close by him, he gave a nod that was
@@ -8320,7 +8216,6 @@ distinguish a tree that is well from one that is diseased?”
 Richard. “By examining the skin, and feeling the pulse, to be sure.”
 
 “Sartain,” continued Billy; “the squire ain't far out of the way. It's
-by the look of the thing, sure enough. Well, when the sap begins to
 get a free run, I hang over the kettles, and set up the bush. My first
 boiling I push pretty smartly, till I get the virtue of the sap; but
 when it begins to grow of a molasses nater, like this in the kettle, one
@@ -8388,7 +8283,7 @@ grove, making observations on his favorite trees, and the wasteful
 manner in which the wood-chopper conducted his manufacture.
 
 “It grieves me to witness the extravagance that pervades this country,”
- said the Judge, “where the settlers trifle with the blessings they
+said the Judge, “where the settlers trifle with the blessings they
 might enjoy, with the prodigality of successful adventurers. You are not
 exempt from the censure yourself, Kirby, for you make dreadful wounds
 in these trees where a small incision would effect the same object. I
@@ -8460,12 +8355,11 @@ little to me.”
 
 
 
-CHAPTER XXI.
 
 
-     “Speed! Malise, speed! such cause of haste
-     Thine active sinews never braced.”
-      --Scott.
+“Speed! Malise, speed! such cause of haste
+Thine active sinews never braced.”
+--Scott.
 
 The roads of Otsego, if we except the principal high ways, were, at the
 early day of our tale, but little better than wood-paths. The high trees
@@ -8532,7 +8426,7 @@ read his thoughts.
 
 “Thou wast then young, my child, but must remember when I left thee and
 thy mother, to take my first survey of these uninhabited mountains,”
- said Marmaduke. “But thou dost not feel all the secret motives that can
+said Marmaduke. “But thou dost not feel all the secret motives that can
 urge a man to endure privations in order to accumulate wealth. In my
 case they have not been trifling, and God has been pleased to smile
 on my efforts. If I have encountered pain, famine, and disease in
@@ -8552,7 +8446,6 @@ starving families.”
 
 “Ay!” cried Richard, who happened to overhear the last of this speech
 between the notes of the wood-chopper's song, which he was endeavoring
-to breathe aloud; “that was the starving-time,* Cousin Bess. I grew
 as lank as a weasel that fall, and my face was as pale as one of your
 fever-and-ague visages. Monsieur Le Quoi, there, fell away like a
 pumpkin in drying; nor do I think you have got fairly over it yet,
@@ -8563,13 +8456,12 @@ him ever so little. I had half a mind to quit you then, 'Duke, and to
 go into Pennsylvania to fatten; but, damn it, thinks I, we are sisters'
 children, and I will live or die with him, after all.”
 
-  * The author has no better apology for interrupting the interest of a
-    work of fiction by these desultory dialogues than that they have ref-
-    erence to facts.  In reviewing his work, after so many years, he is
-    compelled to confess it is injured by too many allusions to incidents
-    that are not at all suited to satisfy the just expectations of the
-    general reader.  One of these events is slightly touched on in the
-    commencement of this chapter.
+work of fiction by these desultory dialogues than that they have ref-
+erence to facts.  In reviewing his work, after so many years, he is
+compelled to confess it is injured by too many allusions to incidents
+that are not at all suited to satisfy the just expectations of the
+general reader.  One of these events is slightly touched on in the
+commencement of this chapter.
 
 More than thirty years since a very near and dear relative of the
 writer, an elder sister and a second mother, was killed by a fall from a
@@ -8604,7 +8496,7 @@ scarcity which extended to the East tended to increase the number of
 adventurers.”
 
 “And how, dearest father, didst thou encounter this dreadful evil?”
- said Elizabeth, unconsciously adopting the dialect of her parent in the
+said Elizabeth, unconsciously adopting the dialect of her parent in the
 warmth of her sympathy. “Upon thee must have fallen the responsibility,
 if not the suffering.”
 
@@ -8623,9 +8515,7 @@ in our favor, for enormous shoals of herrings were discovered to have
 wandered five hundred miles through the windings of the impetuous
 Susquehanna, and the lake was alive with their numbers. These were at
 length caught and dealt out to the people, with proper portions of salt,
-and from that moment we again began to prosper.” *
 
-  * All this was literally true.
 
 “Yes,” cried Richard, “and I was the man who served out the fish and
 salt. When the poor devils came to receive their rations, Benjamin, who
@@ -8721,7 +8611,6 @@ country.”
 him, and may have forgotten what he said; for the Indian title was
 extinguished so far back as the close of the old war, and if it had not
 been at all, I hold under the patents of the Royal Governors, confirmed
-by an act of our own State Legislature, and no court in the country
 can affect my title.”
 
 “Doubtless, sir, your title is both legal and equitable,” returned the
@@ -8778,7 +8667,6 @@ route, the watchful eye of Judge Temple pointed out to his daughter the
 approach of a tempest. Flurries of snow already obscured the mountain
 that formed the northern boundary of the lake, and the genial sensation
 which had quickened the blood through their veins was already succeeded
-by the deadening influence of an approaching northwester.
 
 All of the party were now busily engaged in making the best of their
 way to the village, though the badness of the roads frequently compelled
@@ -8850,7 +8738,6 @@ however, was the only injury that the clergyman's daughter had
 sustained, and, with the aid of Elizabeth, she was soon restored to her
 senses. After some little time was lost in recovering her strength, the
 young lady was replaced in her saddle, and supported on either side
-by Judge Temple and Mr. Edwards she was enabled to follow the party in
 their slow progress.
 
 “The sudden fallings of the trees,” said Marmaduke, “are the most
@@ -8902,13 +8789,12 @@ snow.
 
 
 
-CHAPTER XXII
 
 
-     “Men, boys, and girls
-     Desert the unpeopled village; and wild crowds
-     Spread o'er the plain, by the sweet phrensy driven.”
-      --Somerville.
+“Men, boys, and girls
+Desert the unpeopled village; and wild crowds
+Spread o'er the plain, by the sweet phrensy driven.”
+--Somerville.
 
 From this time to the close of April the weather continued to be a
 succession of neat and rapid changes. One day the soft airs of
@@ -9145,7 +9031,7 @@ of the report.
 Natty, with a single ball?”
 
 “Haven't I killed loons before now, lad, that dive at the flash?”
- returned the hunter. “It's much better to kill only such as you want,
+returned the hunter. “It's much better to kill only such as you want,
 without wasting your powder and lead, than to be firing into God's
 creatures in this wicked manner. But I came out for a bird, and you know
 the reason why I like small game, Mr. Oliver, and now I have got one
@@ -9256,12 +9142,11 @@ occasion of Rodney's victory.
 
 
 
-CHAPTER XXIII.
 
 
-  “Help, masters, help; here's a fish hangs in the net, like a poor
-  Man's right in the law.”
-   --Pericles of Tyre.
+“Help, masters, help; here's a fish hangs in the net, like a poor
+Man's right in the law.”
+--Pericles of Tyre.
 
 The advance of the season now became as rapid as its first approach
 had been tedious and lingering. The days were uniformly mild, while
@@ -9288,7 +9173,6 @@ ingenuity or the art of man had invented. But the slow though certain
 adventures with hook and line were ill suited to the profusion and
 impatience of the settlers. More destructive means were resorted to;
 and, as the season had now arrived when the bass fisheries were allowed
-by the provisions of the law that Judge Temple had procured, the sheriff
 declared his intention, by availing himself of the first dark night, to
 enjoy the sport in person.
 
@@ -9505,7 +9389,7 @@ prided himself greatly on his skill in throwing the net, and, in
 fact, most of the success of the sport depended on its being done with
 judgment. At length a loud splash in the water, as he threw away the
 “staff,” or “stretcher,” with a hoarse call from the steward of “Clear,”
- announced that the boat was returning; when Richard seized a brand
+announced that the boat was returning; when Richard seized a brand
 from the fire, and ran to a point as far above the centre of the
 fishing-ground, as the one from which the batteau had started was below
 it.
@@ -9626,10 +9510,8 @@ which by to-morrow evening will be rejected food on the meanest table in
 Templeton, are of a quality and flavor that, in other countries, would
 make them esteemed a luxury on the tables of princes or epicures. The
 world has no better fish than the bass of Otsego; it unites the richness
-of the shad* to the firmness of the salmon.”
 
-  * Of all the fish the writer has ever tasted, he thinks the one in
-    question the best.
+question the best.
 
 “But surely, dear sir,” cried Elizabeth, “they must prove a great
 blessing to the country, and a powerful friend to the poor.”
@@ -9684,12 +9566,11 @@ superintendence of Benjamin, prepared the seine for a second haul.
 
 
 
-CHAPTER XXIV.
 
 
-     “While from its margin, terrible to tell,
-     Three sailors with their gallant boatswain fell.”
-      --Falconer.
+“While from its margin, terrible to tell,
+Three sailors with their gallant boatswain fell.”
+--Falconer.
 
 While the fishermen were employed in making the preparations for an
 equitable division of the spoil, Elizabeth and her friend strolled
@@ -10222,14 +10103,13 @@ impulse.
 
 
 
-CHAPTER XXV.
 
 
-     “Cease all this parlance about hills and dales.
-     None listen to thy scenes of boyish frolic.
-     Fond dotard! with such tickled ears as thou dost
-     Come to thy tale.”
-      --Duo.
+“Cease all this parlance about hills and dales.
+None listen to thy scenes of boyish frolic.
+Fond dotard! with such tickled ears as thou dost
+Come to thy tale.”
+--Duo.
 
 Mr. Jones arose on the following morning with the sun, and, ordering
 his own and Marmaduke's steeds to be saddled, he proceeded, with a
@@ -10474,11 +10354,9 @@ of celibacy. Where shall I find a husband in these forests?”
 
 “There is none, Miss Temple,” said Edwards quickly; “there is none who
 has a right to aspire to you, and I know that you will wait to be sought
-by your equal; or die, as you live, loved, respected, and admired by all
 who know you.”
 
 The young man seemed to think that he had said all that was required
-by gallantry, for he arose, and, taking his hat, hurried from the
 apartment. Perhaps Louisa thought that he had said more than was
 necessary, for she sighed, with an aspiration so low that it was
 scarcely audible to herself, and bent her head over her work again.
@@ -10512,7 +10390,6 @@ be a busy day with us at the mansion-house.”
 we have no other evidence of the fact than your own testimony], as I
 understand you have given it to Judge Temple), good-morning, sir. It
 is, apparently a busy day (but a man of your discretion need not be told
-[having, doubtless, discovered it of your own accord], that appearances
 are often deceitful) up at the mansion-house.”
 
 “Have you papers of consequence that will require copying? Can I be of
@@ -10610,12 +10487,11 @@ devoting the following day to the desired excursion.
 
 
 
-CHAPTER XXVI.
 
 
-     “Speak on, my dearest father!
-     Thy words are like the breezes of the west.”
-      --Milman.
+“Speak on, my dearest father!
+Thy words are like the breezes of the west.”
+--Milman.
 
 It was a mild and soft morning, when Marmaduke and Richard mounted their
 horses and proceeded on the expedition that had so long been uppermost
@@ -10838,7 +10714,7 @@ that simple man, the sheriff; and I dread that his impertinent curiosity
 may yet give us much trouble.”
 
 “If he harbors too much about the cabin, lad, I'll shoot the creatur',”
- said the Leather-Stocking, quite simply.
+said the Leather-Stocking, quite simply.
 
 “No, no, Natty, you must remember the law,” said Edwards, “or we shall
 have you in trouble; and that, old man, would be an evil day and sore
@@ -11028,7 +10904,6 @@ his cry on the mountain.”
 “It is impossible,” said Edwards; “it is not an hour since I saw him in
 his kennel.”
 
-By this time the attention of Mohegan was attracted to the sounds; but,
 notwithstanding the youth was both silent and attentive, he could hear
 nothing but the lowing of some cattle from the western hills. He looked
 at the old men, Natty sitting with his hand to his ear, like a trumpet,
@@ -11058,12 +10933,11 @@ against the water.
 
 
 
-CHAPTER XXVII.
 
 
-     “Oft in the full descending flood he tries
-     To lose the scent, and lave his burning sides.”
-      --Thomson.
+“Oft in the full descending flood he tries
+To lose the scent, and lave his burning sides.”
+--Thomson.
 
 “I knowed it--I knowed it!” cried Natty, when both deer and hounds were
 in full view; “the buck has gone by them with the wind, and it has been
@@ -11134,7 +11008,6 @@ might, by possibility, be of service in his pursuits. From his rifle he
 never parted; and although intending to fish with the line, the canoe
 was invariably furnished with all of its utensils, even to its grate
 This precaution grew out of the habits of the hunter, who was often led,
-by his necessities or his sports, far beyond the limits of his original
 destination. A few years earlier than the date of our tale, the
 Leather-Stocking had left his hut on the shores of the Otsego, with his
 rifle and his hounds, for a few days' hunting in the hills; but before
@@ -11298,15 +11171,14 @@ mountain, with an intention of going to the hut by land.
 
 
 
-CHAPTER XXVIII.
 
 
-     “Ask me not what the maiden feels,
-     Left in that dreadful hour alone:
-     Perchance, her reason stoops, or reel!
-     Perchance, a courage not her own
-     Braces her mind to desperate tone.”
-      --Scott.
+“Ask me not what the maiden feels,
+Left in that dreadful hour alone:
+Perchance, her reason stoops, or reel!
+Perchance, a courage not her own
+Braces her mind to desperate tone.”
+--Scott.
 
 While the chase was occurring on the lake, Miss Temple and her companion
 pursued their walk on the mountain. Male attendants on such excursions
@@ -11452,7 +11324,6 @@ momentary grief in audible sobs. When this burst of emotion had
 subsided, Louisa raised her mild countenance, and they continued their
 walk in silence.
 
-By this time they had gained the summit of the mountain, where they left
 the highway, and pursued their course under the shade of the stately
 trees that crowned the eminence. The day was becoming warm, and
 the girls plunged more deeply into the forest, as they found its
@@ -11544,7 +11415,6 @@ approached nigher to the dog, the growling of the three becoming
 more horrid at each moment, until the younger beast, over-leaping its
 intended bound, fell directly before the mastiff. There was a moment of
 fearful cries and struggles, but they ended almost as soon as commenced,
-by the cub appearing in the air, hurled from the jaws of Brave, with
 a violence that sent it against a tree so forcibly as to render it
 completely senseless. Elizabeth witnessed the short struggle, and her
 blood was warming with the triumph of the dog, when she saw the form of
@@ -11608,7 +11478,6 @@ bosom; when she heard the report of the rifle, the whizzing of the
 bullet, and the enraged cries of the beast, who was rolling over on the
 earth, biting its own flesh, and tearing the twigs and branches within
 its reach. At the next instant the form of the Leather-Stocking rushed
-by her, and he called aloud:
 
 “Come in, Hector! come in, old fool; 'tis a hard-lived animal, and may
 jump agin.”
@@ -11687,7 +11556,7 @@ rifle, that was already lowered in his direction. “What! shooting this
 warm day! Mind, old man, the law don't get hold on you.”
 
 “The law, squire! I have shook hands with the law these forty year,”
- returned Natty; “for what has a man who lives in the wilderness to do
+returned Natty; “for what has a man who lives in the wilderness to do
 with the ways of the law?”
 
 “Not much, maybe,” said Hiram; “but you sometimes trade in venison. I
@@ -11867,11 +11736,10 @@ of the door of the cabin.
 
 
 
-CHAPTER XXIX.
 
 
-     “It is noised, he hath a mass of treasure.”
-      --Timon of Athens.
+“It is noised, he hath a mass of treasure.”
+--Timon of Athens.
 
 When Marmaduke Temple and his cousin rode through the gate of the
 former, the heart of the father had been too recently touched with
@@ -12102,7 +11970,7 @@ and repulsed the offer in such a manner that the squire said he had half
 a mind to swear the peace against him. Since the snow has been off,
 more especially after the frosts got out of the ground, we have kept a
 watchful eye on the gentle man, in which we have found Jotham useful.”
- Marmaduke did not much like the associates of Richard in this business;
+Marmaduke did not much like the associates of Richard in this business;
 still he knew them to be cunning and ready expedients; and as there was
 certainly something mysterious, not only in the connection between the
 old hunters and Edwards, but in what his cousin had just related,
@@ -12224,7 +12092,6 @@ the effect of chance, as the roof of the cavern was a natural stratum of
 rock that projected many feet beyond the base of the pile. Immediately
 in front of the recess, or cave, was a little terrace, partly formed by
 nature, and partly by the earth that had been carelessly thrown aside
-by the laborers. The mountain fell off precipitously in front of the
 terrace, and the approach by its sides, under the ridge of the rocks,
 was difficult and a little dangerous. The whole was wild, rude, and
 apparently incomplete; for, while looking among the bushes, the sheriff
@@ -12282,11 +12149,10 @@ law Less and depredating squatter, but as the preserver of his child.
 
 
 
-CHAPTER XXX.
 
 
-     “The court awards it, and the law doth give it.”
-      --Merchant of Venice.
+“The court awards it, and the law doth give it.”
+--Merchant of Venice.
 
 Remarkable Pettibone, who had forgotten the wound received by her pride,
 in contemplation of the ease and comforts of her situation, and who
@@ -12302,7 +12168,7 @@ air, and his child reclining on a settee, with a flushed cheek, and her
 dark eyes seeming to float in crystals.
 
 “It was a timely rescue! it was, indeed, a timely rescue, my child!”
- cried the Judge. “Then thou didst not desert thy friend, my noble Bess?”
+cried the Judge. “Then thou didst not desert thy friend, my noble Bess?”
 
 “I believe I may as well take the credit of fortitude,” said Elizabeth,
 “though I much doubt if flight would have availed me anything, had I
@@ -12404,7 +12270,7 @@ caught in the act, I think it likely that they'll be indicted, in which
 case it's probable they'll be tried.”
 
 “Certainly, sir; I had forgotten those men. There are no more, I hope.”
- “Why, there is a threaten to come forward with an assault that happened
+“Why, there is a threaten to come forward with an assault that happened
 at the last independence day; but I'm not sartain that the law'll take
 hold on't. There was plaguey hard words passed, but whether they struck
 or not I haven't heard. There's some folks talk of a deer or two being
@@ -12454,7 +12320,7 @@ go home and make it out myself.”
 “I have not refused your application, sir,” said Marmaduke, perceiving
 at once that his reputation for impartiality was at stake; “go into my
 office, Mr. Doolittle, where I will join you, and sign the warrant.”
- Judge Temple stopped the remonstrances which Elizabeth was about to
+Judge Temple stopped the remonstrances which Elizabeth was about to
 utter, after Hiram had withdrawn, by laying his hand on her mouth, and
 saying:
 
@@ -12687,7 +12553,6 @@ can read it, it's all well, and if you can't, here's Squire Doolittle at
 hand, to let you know what it means. It seems you mistook the twentieth
 of July for the first of August, that's all.”
 
-By this time Natty had discovered the lank person of Hiram, drawn up
 under the cover of a high stump; and all that was complacent in his
 manner instantly gave way to marked distrust and dissatisfaction. He
 placed his head within the door of his hut, and said a few words in an
@@ -12847,13 +12712,12 @@ suspended for six-and-thirty hours.
 
 
 
-CHAPTER XXXI.
 
 
-     “And dar'st thou then
-     To beard the lion in his den,
-     The Douglas in his hall.”
-      --Marmion.
+“And dar'st thou then
+To beard the lion in his den,
+The Douglas in his hall.”
+--Marmion.
 
 The commotion was just subsiding, and the inhabitants of the village had
 begun to disperse from the little groups that had formed, each retiring
@@ -12945,7 +12809,6 @@ before them, and the proof is clear, I shall acknowledge that you
 know more law than I do, who have had a license in my pocket for three
 years.”
 
-By this time the reason of Edwards was getting the ascendency of his
 feelings, and, as he began to see the real difficulties of the case,
 he listened more readily to the conversation of the lawyer. The
 ungovernable emotion that escaped the youth, in the first moments of his
@@ -12961,7 +12824,7 @@ under stand that he retained him in the event of a trial, an assurance
 that at once satisfied the lawyer, they parted, one taking his course
 with a deliberate tread in the direction of the little building that
 had a wooden sign over its door, with “Chester Lippet, Attorney-at-law,”
- painted on it; and the other pacing over the ground with enormous
+painted on it; and the other pacing over the ground with enormous
 strides toward the mansion-house. We shall take leave of the attorney
 for the present, and direct the attention of the reader to the client.
 
@@ -13198,12 +13061,11 @@ cabin of the hunters.
 
 
 
-CHAPTER XXXII.
 
 
-     “Who measured earth, described the starry spheres,
-     And traced the long records of lunar years.”
-      --Pope.
+“Who measured earth, described the starry spheres,
+And traced the long records of lunar years.”
+--Pope.
 
 Richard did not return from the exercise of his official duties until
 late in the evening of the following day. It had been one portion of his
@@ -13230,7 +13092,6 @@ know whether it was an honest man or not. He could tell by his nose,
 almost as well as I could myself by looking at them. Holla! you
 Agamemnon! where are you? Oh! here comes the dog at last.”
 
-By this time the sheriff had dismounted, and observed a form, which he
 supposed to be that of Brave, slowly creeping out of the kennel; when,
 to his astonishment, it reared itself on two legs instead of four, and
 he was able to distinguish, by the starlight, the curly head and dark
@@ -13240,7 +13101,6 @@ visage of the negro.
 “Is it not hot enough for your Guinea blood in the house this warm
 night, but you must drive out the poor dog, and sleep in his straw?”
 
-By this time the boy was quite awake, and, with a blubbering whine, he
 attempted to reply to his master.
 
 “Oh! masser Richard! masser Richard! such a ting! such a ting! I nebber
@@ -13455,7 +13315,7 @@ to them here young ladies.”
 “And what the devil does all this mean?” cried Richard, impatiently.
 
 “Mean!” echoed Benjamin; “it is as true as the Boadishey's log book--”
- He was interrupted by the sheriff, who put a few direct questions to
+He was interrupted by the sheriff, who put a few direct questions to
 him, that obtained more intelligible answers, by which means he became
 possessed of a tolerably correct idea of the truth, When the wonder,
 and we must do Richard the justice to say, the feelings also, that were
@@ -13557,7 +13417,6 @@ and his dogs to oppose you; and discretion, which here means caution and
 prudence, that he may not escape from this sudden attack--and for other
 good reasons that I need not mention. You will form yourselves in a
 complete circle around his hut, and at the word 'advance,' called aloud
-by me, you will rush forward and, without giving the criminal time for
 deliberation, enter his dwelling by force, and make him your prisoner.
 Spread yourselves for this purpose, while I shall descend to the shore
 with a deputy, to take charge of that point; and all communications
@@ -13649,13 +13508,12 @@ friendless Leather-Stocking.
 
 
 
-CHAPTER XXXIII.
 
 
-     “Fetch here the stocks, ho!
-     You stubborn ancient knave, you reverend bragget,
-     We'll teach you.”
-      --Lear.
+“Fetch here the stocks, ho!
+You stubborn ancient knave, you reverend bragget,
+We'll teach you.”
+--Lear.
 
 The long days and early sun of July allowed time for a gathering of the
 interested, before the little bell of the academy announced that the
@@ -13683,7 +13541,6 @@ petit juror. Fifty similar little knots of countrymen might have been
 seen, on that morning, journeying toward the shire-town on the same
 errand.
 
-By ten o'clock the streets of the village were filled with busy faces;
 some talking of their private concerns, some listening to a popular
 expounder of political creeds; and others gaping in at the open
 stores, admiring the finery, or examining scythes, axes, and such other
@@ -13714,7 +13571,6 @@ but this incongruity excited neither notice nor comment. Three or four
 clean-shaved lawyers followed, as meek as if they were lambs going to
 the slaughter. One or two of their number had contrived to obtain an air
 of scholastic gravity by wearing spectacles. The rear was brought up
-by another posse of constables, and the mob followed the whole into the
 room where the court held its sitting.
 
 The edifice was composed of a basement of squared logs, perforated here
@@ -13756,7 +13612,6 @@ observed, at the first glance of his eye, the name of Nathaniel Bumppo.
 It was a leisure moment with the court; some low whispering passed
 between the bench and the sheriff, who gave a signal to his officers,
 and in a very few minutes the silence that prevailed was interrupted
-by a general movement in the outer crowd, when presently the
 Leather-Stocking made his appearance, ushered into the criminal's bar
 under the custody of two constables, The hum ceased, the people closed
 into the open space again, and the silence soon became so deep that the
@@ -13989,7 +13844,6 @@ there's some who thinks there's no God in a wilderness!”
 accused of using your rifle against an officer of justice? Are you
 guilty or not guilty?”
 
-By this time the irritated feelings of Natty had found vent: and he
 rested on the bar for a moment, in a musing posture, when he lifted his
 face, with his silent laugh, and, pointing to where the wood-chopper
 stood, he said:
@@ -14118,7 +13972,7 @@ believe that pointing a rifle at a constable (elected or deputed) is
 a very innocent affair; and that society (I mean the commonwealth,
 gentlemen) shall not be endangered thereby. But let me claim your
 attention, while we look over the particulars of this heinous offence.”
- Here Mr. Vain der School favored the jury with an abridgment of
+Here Mr. Vain der School favored the jury with an abridgment of
 the testimony, recounted in such a manner as utterly to confuse the
 faculties of his worthy listeners. After this exhibition he closed as
 follows: “And now, gentlemen, having thus made plain to your senses the
@@ -14268,10 +14122,9 @@ disgrace followed.
 
 
 
-CHAPTER XXXIV.
 
 
-     “Ha! ha! look! he wears cruel garters!”--Lear.
+“Ha! ha! look! he wears cruel garters!”--Lear.
 
 
 The punishments of the common law were still known, at the time of
@@ -14541,7 +14394,6 @@ had recourse to his lungs.
 law on you for this. I call on you, Mr. Sheriff, to seize this man, and
 I demand that you take his body into custody.”
 
-By this time Richard was master of the true state of the case, and,
 turning to the steward, he said reproach fully:
 
 “Benjamin, how came you in the stocks? I always thought you were mild
@@ -14594,7 +14446,6 @@ had communicated words of comfort to the hunter, who threw himself on
 his pallet and was soon in a deep sleep. The curious spectators had
 exhausted the conversation of the steward, who had drunk good fellowship
 with half of his acquaintance, and, as Natty was no longer in motion,
-by eight o'clock, Billy Kirby, who was the last lounger at the window,
 retired into the “Templeton Coffee-house,” when Natty rose and hung a
 blanket before the opening, and the prisoners apparently retired for the
 night.
@@ -14602,14 +14453,13 @@ night.
 
 
 
-CHAPTER XXXV.
 
 
-     “And to avoid the foe's pursuit,
-     With spurring put their cattle to't;
-     And till all four were out of wind,
-     And danger too, neer looked behind.”
-      --Hudibras.
+“And to avoid the foe's pursuit,
+With spurring put their cattle to't;
+And till all four were out of wind,
+And danger too, neer looked behind.”
+--Hudibras.
 
 As the shades of evening approached, the jurors, witnesses, and other
 attendants on the court began to disperse, and before nine o'clock the
@@ -14752,7 +14602,7 @@ earnest, and in a short time the lock yielded, when the door was opened.
 
 Benjamin had evidently been anticipating the seizure of his money, for
 he had made frequent demands on the favorite cask at the “Bold Dragoon,”
- during the afternoon and evening, and was now in that state which by
+during the afternoon and evening, and was now in that state which by
 marine imagery is called “half-seas-over.” It was no easy thing to
 destroy the balance of the old tar by the effects of liquor, for, as he
 expressed it himself, “he was too low-rigged not to carry sail in
@@ -15034,7 +14884,6 @@ all be given to Mr. Edwards, and that added to--”
 “Listen!” said Elizabeth; “I hear the rustling of the hay; they are
 escaping at this moment. Oh! they will be detected instantly!”
 
-By this time they were at the corner, where Edwards and Natty were in
 the act of drawing the almost helpless body of Benjamin through the
 aperture. The oxen had started back from their hay, and were standing
 with their heads down the street, leaving room for the party to act in.
@@ -15194,18 +15043,16 @@ still as when she issued from the gate on her mission to the jail.
 
 
 
-CHAPTER XXXVI.
 
 
-     “And I could weep”--
-     th' Oneida chief
-     His descant wildly thus begun--
-     “But that I may not stain with grief
-     The death-song of my father's son.”
-      --Gertrude of Wyoming.
+“And I could weep”--
+th' Oneida chief
+His descant wildly thus begun--
+“But that I may not stain with grief
+The death-song of my father's son.”
+--Gertrude of Wyoming.
 
 It was yet early on the following morning, when Elizabeth and Louisa met
-by appointment, and proceeded to the store of Monsieur Le Quoi, in order
 to redeem the pledge the former had given to the Leather-Stocking. The
 people were again assembling for the business of the day, but the hour
 was too soon for a crowd, and the ladies found the place in possession
@@ -15226,7 +15073,7 @@ Kirby:
 chére France! I vill see you again.”
 
 “I rejoice, monsieur, at anything that contributes to your happiness,”
- said Elizabeth, “but hope we are not going to lose you entirely.”
+said Elizabeth, “but hope we are not going to lose you entirely.”
 
 The complaisant shopkeeper changed the language to French and recounted
 rapidly to Elizabeth his hopes of being permitted to return to his own
@@ -15312,7 +15159,7 @@ but the disappointment, and even the helplessness, the hunter would
 experience without her aid.
 
 On the summit of the mountain which Judge Temple had named the “Vision,”
- a little spot had been cleared, in order that a better view might
+a little spot had been cleared, in order that a better view might
 be obtained of the village and the valley. At this point Elizabeth
 understood the hunter she was to meet him; and thither she urged
 her way, as expeditiously as the difficulty of the ascent, and the
@@ -15470,7 +15317,7 @@ have different fashions; but do you think John did not love the wife of
 his youth--the mother of his children?”
 
 “And what has become of your family, John--your wife and your children?”
- asked Elizabeth, touched by the Indian's manner.
+asked Elizabeth, touched by the Indian's manner.
 
 “Where is the ice that covered the great spring? It is melted, and gone
 with the waters. John has lived till all his people have left him for
@@ -15547,11 +15394,10 @@ horror an every feature.
 
 
 
-CHAPTER XXXVII.
 
 
-     “Love rules the court, the camp, the grove.”
-      --Lay of the Last Minstrel.
+“Love rules the court, the camp, the grove.”
+--Lay of the Last Minstrel.
 
 “IT would have been sad, indeed, to lose you in such manner, my old
 friend,” said Oliver, catching his breath for utterance. “Up and away!
@@ -15680,7 +15526,7 @@ words; “let us return to the point of the rock--there is--there must
 be--some place about it where we can descend.
 
 “Lead me there,” exclaimed Elizabeth; “let us leave no effort untried.”
- She did not wait for his compliance, but turning, retraced her steps
+She did not wait for his compliance, but turning, retraced her steps
 to the brow of the precipice, murmuring to herself, in suppressed,
 hysterical sobs, “My father! my poor, my distracted father!”
 
@@ -15893,12 +15739,11 @@ encountered.
 
 
 
-CHAPTER XXXVIII.
 
 
-     “Even from the land of shadows, now
-     My father's awful ghost appears.”
-      --Gertrude Of Wyoming.
+“Even from the land of shadows, now
+My father's awful ghost appears.”
+--Gertrude Of Wyoming.
 
 For an hour after Louisa Grant was left by Miss Temple, in the situation
 already mentioned, she continued in feverish anxiety, awaiting the
@@ -15990,7 +15835,7 @@ Come. Let Mohegan die.”
 “But you forget your friend,” cried Edwards,
 
 “'Tis useless to talk to an Indian with the death-fit on him, lad,”
- interrupted Natty, who seized the strips of the blanket, and with
+interrupted Natty, who seized the strips of the blanket, and with
 wonderful dexterity strapped the passive chieftain to his own back; when
 he turned, and with a strength that seemed to bid defiance, not only to
 his years, but to his load, he led the way to the point whence he had
@@ -16115,7 +15960,7 @@ into this dangerous place; and I think, but for God's mercy, through the
 dogs of Natty, I should have perished in the flames myself.”
 
 “Ay! follow the hounds, and if there's an opening they'll scent it out,”
- said Natty; “their noses be given them the same as man's reason.”
+said Natty; “their noses be given them the same as man's reason.”
 
 “I did so, and they led me to this place; but, praise be to God that I
 see you all safe and well.”
@@ -16241,7 +16086,6 @@ salvation to the Rock of Ages?”
 Although the faith of the hunter was by no means clear, yet the fruits
 of early instruction had not entirely fallen in the wilderness. He
 believed in one God, and one heaven; and when the strong feeling excited
-by the leave-taking of his old companion, which was exhibited by the
 powerful working of every muscle in his weather-beaten face, suffered
 him to speak, he replied:
 
@@ -16350,31 +16194,28 @@ A carriage had been provided, into which Miss Temple hastily entered;
 when the cry was passed along the hill, that the lost one was found, and
 the people returned to the village wet and dirty, but elated with the
 thought that the daughter of their landlord had escaped from so horrid
-and untimely an end.*
 
-  * The probability of a fire in the woods similar to that here described
-    has been questioned.  The writer can only say that he once witnessed a
-    fire in another part of New York that compelled a man to desert his
-    wagon and horses in the highway, and in which the latter were
-    destroyed.  In order to estimate the probability of such an event, it
-    is necessary to remember the effects of a long drought in that climate
-    and the abundance of dead wood which is found in a forest like that
-    described, The fires in the American forests frequently rage to such
-    an extent as to produce a sensible effect on the atmosphere at a
-    distance of fifty miles.  Houses, barns, and fences are quite commonly
-    swept away in their course.
+has been questioned.  The writer can only say that he once witnessed a
+fire in another part of New York that compelled a man to desert his
+wagon and horses in the highway, and in which the latter were
+destroyed.  In order to estimate the probability of such an event, it
+is necessary to remember the effects of a long drought in that climate
+and the abundance of dead wood which is found in a forest like that
+described, The fires in the American forests frequently rage to such
+an extent as to produce a sensible effect on the atmosphere at a
+distance of fifty miles.  Houses, barns, and fences are quite commonly
+swept away in their course.
 
 
 
 
-CHAPTER XXXIX.
 
 
-     “Selictar! unsheathe then our chief's scimetar;
-     Tambourgi! thy 'larum gives promise of war;
-     Ye mountains! that see us descend to the shore,
-     Shall view us as victors, or view us no more.”
-      --Byron.
+“Selictar! unsheathe then our chief's scimetar;
+Tambourgi! thy 'larum gives promise of war;
+Ye mountains! that see us descend to the shore,
+Shall view us as victors, or view us no more.”
+--Byron.
 
 The heavy showers that prevailed during the remainder of the day
 completely stopped the progress of the flames; though glimmering fires
@@ -16428,7 +16269,7 @@ state.
 At twelve precisely a drum beat the “long roll” before the “Bold
 Dragoon,” and Richard appeared, accompanied by Captain Hollister, who
 was clad in Investments as commander of the “Templeton Light Infantry,”
- when the former demanded of the latter the aid of the posse comitatus
+when the former demanded of the latter the aid of the posse comitatus
 in enforcing the laws of the country. We have not room to record the
 speeches of the two gentlemen on this occasion, but they are preserved
 in the columns of the little blue newspaper, which is yet to be found on
@@ -16624,7 +16465,7 @@ than my worst enemy will say of any of the family of Benjamin Stubbs.”
 from behind his cover.
 
 “Put in a jackass, and you'll put in yourself, Mister Doo-but-little,”
- shouted Benjamin, who kept squinting along his little iron tube, with
+shouted Benjamin, who kept squinting along his little iron tube, with
 great steadiness.
 
 “I give you but one moment to yield,” cried Richard. “Benjamin!
@@ -16683,7 +16524,6 @@ was turned instantly toward the captain. There was a moment when the
 life of the old soldier was in great jeopardy but the object to shoot at
 was both too large and too near for the Leather-Stocking, who, instead
 of pulling his trigger, applied the gun to the rear of his enemy, and
-by a powerful shove sent him outside of the works with much greater
 rapidity than he had entered them. The spot on which Captain Hollister
 alighted was directly in front, where, as his feet touched the ground,
 so steep and slippery was the side of the mountain, it seemed to recede
@@ -16804,11 +16644,10 @@ astonishment.
 
 
 
-CHAPTER XL.
 
 
-     “I am dumb. Were you the doctor, and I knew you not?”
-      --Shakespeare.
+“I am dumb. Were you the doctor, and I knew you not?”
+--Shakespeare.
 
 During the five or six minutes that elapsed before the youth and Major
 reappeared. Judge Temple and the sheriff together with most of the
@@ -17122,7 +16961,6 @@ one part, and of Oliver Effingham, formerly a major in the army of Great
 Britain, and of his son Ed ward Effingham, and of his son Edward Oliver
 Effingham, or to the survivor of them, and the descendants of such
 survivor, forever, on the other part. The trust was to endure until
-1810, when, if no person appeared, or could be found, after sufficient
 notice, to claim the moiety so devised, then a certain sum, calculating
 the principal and interest of his debt to Colonel Effingham, was to be
 paid to the heirs-at-law of the Effingham family, and the bulk of his
@@ -17211,16 +17049,15 @@ tow, they doesn't like to be cast off agin.”
 
 
 
-CHAPTER XLI.
 
 
-     “Yes, sweep ye on!--
-     We will not leave,
-     For them who triumph those who grieve.
-     With that armada gay
-     Be laughter loud, and jocund shout--
-     But with that skill Abides the minstrel tale.”
-      --Lord of the Isles.
+“Yes, sweep ye on!--
+We will not leave,
+For them who triumph those who grieve.
+With that armada gay
+Be laughter loud, and jocund shout--
+But with that skill Abides the minstrel tale.”
+--Lord of the Isles.
 
 The events of our tale carry us through the summer; and after making
 nearly the circle of the year, we must conclude our labors in the
@@ -17247,7 +17084,7 @@ Mr. Doolittle began to discover that neither architecture nor his
 law was quite suitable to the growing wealth and intelligence of the
 settlement; and after exacting the last cent that was attainable in his
 compromise, to use the language of the country he “pulled up stakes,”
- and proceeded farther west, scattering his professional science and
+and proceeded farther west, scattering his professional science and
 legal learning through the land; vestiges of both of which are to be
 discovered there even to the present hour.
 
@@ -17381,14 +17218,12 @@ subject was changed by common consent.
 The place at which they arrived was the little spot of level ground
 where the cabin of the Leather-Stocking had so long stood. Elizabeth
 found it entirely cleared of rubbish, and beautifully laid down in turf,
-by the removal of sods, which, in common with the surrounding country,
 had grown gay, under the influence of profuse showers, as if a second
 spring had passed over the land. This little place was surrounded by a
 circle of mason-work, and they entered by a small gate, near which, to
 the surprise of both, the rifle of Natty was leaning against the wall.
 Hector and the slut reposed on the grass by its side, as if conscious
 that, however altered, they were lying on the ground and were surrounded
-by objects with which they were familiar. The hunter himself was
 stretched on the earth, before a head-stone of white marble, pushing
 aside with his fingers the long grass that had already sprung up
 from the luxuriant soil around its base, apparently to lay bare the
@@ -17397,7 +17232,6 @@ the head of a grave, stood a rich monument, decorated with an urn and
 ornamented with the chisel.
 
 Oliver and Elizabeth approached the graves with a light tread, unheard
-by the old hunter, whose sunburnt face was working, and whose eyes
 twinkled as if something impeded their vision. After some little time
 Natty raised himself slowly from the ground, and said aloud:
 
@@ -17544,7 +17378,7 @@ camp-kettle, and a canister of powder! He must not be suffered to wander
 so far from us, Oliver; remember how suddenly Mohegan dropped away.”
 
 “I knowed the parting would come hard, children--I knowed it would!”
- said Natty, “and so I got aside to look at the graves by myself, and
+said Natty, “and so I got aside to look at the graves by myself, and
 thought if I left ye the keep sake which the Major gave me, when we
 first parted in the woods, ye wouldn't take it unkind, but would know
 that, let the old man's body go where it might, his feelings stayed
