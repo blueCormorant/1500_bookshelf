@@ -1,66 +1,6 @@
 
 
 
-
-
-
-
-
-
-A Prince To Order
-
-
-
-
-  A PRINCE
-  TO ORDER
-
-  _A NOVEL_
-
-  BY
-  CHARLES STOKES WAYNE
-
-
-  JOHN LANE THE BODLEY HEAD
-  NEW YORK AND LONDON MCMV
-
-
-
-
-  COPYRIGHT, 1904
-  BY CHARLES STOKES WAYNE
-
-  COPYRIGHT, 1905
-  BY JOHN LANE
-
-
-  SET UP AND ELECTROTYPED BY
-  WILLIAM G. HEWITT, NEW YORK CITY, U.S.A.
-  PRINTED BY
-  THE CAXTON PRESS, NEW YORK CITY, U.S.A.
-
-
-
-
-  TO MY WIFE
-
-  WHO, AS THE INSPIRATION, EXCITED THE IMPULSE AND
-  FURNISHED THE INCENTIVE FOR ITS PRODUCTION,
-  THIS TALE IS AFFECTIONATELY
-
-  DEDICATED
-
-
-
-
-A Prince To Order
-
-
-
-
-I
-
-
 Grey’s awakening was as gradual as a clouded dawn. For a time dreams
 and realities intermingled. Then slowly a partial consciousness of his
 physical being obtruded: his fingers were clutching a silken coverlet;
@@ -211,7 +151,7 @@ street the messages took form, and on reaching the office it was but
 the labour of a moment to put them on paper, poke them in through the
 little window and pay the stipulated toll. To his mother he wired:
 
-    Safe and well. Sailing first steamer. Hôtel Grammont.
+Safe and well. Sailing first steamer. Hôtel Grammont.
 
 And the others--one addressed to Hope Van Tuyl, East Sixty-fourth
 street, New York, and one to “Malgrey,” the code name of the stock
@@ -428,7 +368,6 @@ dispatched and that no power on earth could recall them.
 
 
 
-II
 
 
 Consumed with eager concern, Grey had himself driven to the office of
@@ -454,9 +393,6 @@ now with dread expectation. He had been standing, the file on a table
 at arm’s length, but suddenly he sat down, stunned by the message of
 the types that faced him:
 
-    “CAREY GREY AN EMBEZZLER--WELL-KNOWN WALL STREET BROKER
-    HYPOTHECATES FIRM’S SECURITIES AND DISAPPEARS--UPWARDS OF A
-    HUNDRED THOUSAND DOLLARS GONE.”
 
 His heart was pounding very hard and his head was bursting.
 
@@ -565,7 +501,6 @@ At the corner of the Rue de la Paix is the office of Thomas Cook &
 Sons, and Grey entered and inquired as to the sailing of transatlantic
 liners. The _Celtic_, he learned, was to sail the next day from
 Liverpool, but he could make better time probably, the clerk told him,
-by taking the _Deutschland_ from Boulogne, or the _Kaiser Wilhelm der
 Grosse_ from Cherbourg, on Saturday. The tide of travel was all the
 other way at this season and he would have no difficulty in securing a
 stateroom, even at the last minute.
@@ -641,7 +576,6 @@ And then they turned in at the broad marble entrance of the hotel.
 
 
 
-III
 
 
 The room into which Johann conducted Grey was on the second floor, its
@@ -841,11 +775,10 @@ rather a sense of impropriety that he took it up and tore off the end.
 Revelation after revelation had followed one another so rapidly that
 afternoon that he was growing callous to discovery, and when he read--
 
-  MY DEAR MAX:
 
-    I shall be unable to dine with you tonight as I promised, but
-    will meet you later in the Café Américain if you can arrange
-    it--say between eleven and midnight. JACK.
+I shall be unable to dine with you tonight as I promised, but
+will meet you later in the Café Américain if you can arrange
+it--say between eleven and midnight. JACK.
 
 --it was with scarcely a tremour of surprise. Indeed there was
 something in the tone of the scrawl--something, perhaps, in the
@@ -947,7 +880,6 @@ forced by the draft from the window.
 
 
 
-IV
 
 
 It lacked but a few minutes of midnight when Grey entered the
@@ -1320,7 +1252,6 @@ before he fell into a restless, troubled, unrefreshing slumber.
 
 
 
-V
 
 
 Mr. Herbert Frothingham had that evening been one of a dinner party of
@@ -1659,7 +1590,6 @@ I fear, I fear, that is something very terrible.”
 
 
 
-VI
 
 
 There came a gentle tap on Grey’s door; then a rap, louder and more
@@ -1790,7 +1720,7 @@ it?”
 “Here, I wrote it down so as not to forget,” and O’Hara, after fumbling
 in his breast pocket, produced an envelope on which was written:
 
-    Overcome with joy. I never gave up hope. God bless you.--MOTHER.
+Overcome with joy. I never gave up hope. God bless you.--MOTHER.
 
 Grey turned to the window again, his eyes as wet as the panes. After a
 little he asked:
@@ -2097,7 +2027,6 @@ without more ado.
 
 
 
-VII
 
 
 Grey dined that evening across the Boulevard at the Maison Dorée, in
@@ -2175,7 +2104,6 @@ hours must elapse before the dawn; and as he waited, his senses alert,
 there broke softly on the silence the stealthy tread of feet in the
 passage on the other side of the wall near which he lay. No sooner had
 he heard the footsteps than they ceased, and the sound was succeeded
-by a muffled, metallic clicking from the direction of his door. With
 Lindenwald’s warning in mind he had turned the key in the lock before
 retiring, and he recalled this now with a sense of satisfied security;
 but even as he did so he was conscious of the door being pushed slowly
@@ -2358,7 +2286,6 @@ Lindenwald made no further plea.
 
 
 
-VIII
 
 
 It was deemed best not to mention the incident of the night to Miss
@@ -2789,7 +2716,6 @@ Budavia.”
 
 
 
-IX
 
 
 On the way back to Paris Grey’s thoughtful silence contrasted so
@@ -2994,13 +2920,13 @@ god.
 
 Sitting down at his table Grey took up a pen and wrote:
 
-    MY DARLING: For the last two hours I have been in purgatory. What
-    must you think of me? I would come to you at once if I could, but
-    it is impossible. Tomorrow morning, though, I must see you. At
-    the end of the Tuileries gardens, near the Place de la Concorde,
-    there is, you may remember, a grove of trees. Arrange to be there
-    with your maid at eleven o’clock. There will be few there at that
-    hour.
+MY DARLING: For the last two hours I have been in purgatory. What
+must you think of me? I would come to you at once if I could, but
+it is impossible. Tomorrow morning, though, I must see you. At
+the end of the Tuileries gardens, near the Place de la Concorde,
+there is, you may remember, a grove of trees. Arrange to be there
+with your maid at eleven o’clock. There will be few there at that
+hour.
 
 This he despatched to the Ritz by messenger.
 
@@ -3194,7 +3120,6 @@ the boulevard cafés around the hour of midnight.
 
 
 
-X
 
 
 At the door of the Hôtel Grammont, Grey and O’Hara stood for some
@@ -3292,7 +3217,6 @@ knotted about the heavy post of an old-fashioned mahogany bedstead
 which stood against the opposite wall. On more careful inspection he
 saw that the man was deliberately making a slip knot of the pattern
 known as a hangman’s noose. The only light in the room was that given
-by a single candle, but it sufficed for Grey to gather these details.
 
 The smaller man leaned out of the window for a moment, and on drawing
 in his head he turned to the other with the remark:
@@ -3461,7 +3385,6 @@ of the Prince of Kronfeld alone was missing.
 
 
 
-XI
 
 
 Resentment--fierce, vengeful, absorbing--took possession of Carey
@@ -3476,7 +3399,6 @@ the victim’s bitter animosity. Indeed, he felt that death had cheated
 him of what he craved as a meagre compensation for his wrongs--the
 opportunity to visit personally upon the arch-offender his own
 retribution. But if Herr Schlippenbach had been snatched from his hands
-by a too kindly Providence there were others remaining who should feel
 the weight of his relentless vengeance.
 
 In this mood, wakeful and dreamful by turns, a cold compress on his
@@ -3709,7 +3631,6 @@ destination was the same as theirs. She had a married sister living
 in Kürschdorf, and she was most anxious to join her at the earliest
 possible moment.
 
-By half-past five everything was in readiness for their departure;
 Baptiste had retired with a liberal tip, and Grey and O’Hara were
 making themselves ready for the journey. Just at this juncture there
 was a knock at the door, and in answer to Grey’s command to enter,
@@ -3816,7 +3737,6 @@ sort of emotional nausea.
 
 
 
-XII
 
 
 On the platform of the Gare de l’Est, with ten minutes to spare before
@@ -4145,7 +4065,6 @@ these crawling French railway trains five hours to make the journey.”
 
 
 
-XIII
 
 
 “Kürschdorf,” the guide-books will tell you, “is the Capital of the
@@ -4169,7 +4088,6 @@ of the Museum, where the chief treasures of Kürschdorf are on view
 daily (10 A. M. TO 4 P. M.); and of the Hof Theatre, and of the beer
 gardens. And they will give you a long and detailed description of the
 cathedral, completed in 1317, with its spire 452 feet high, ascended
-by 575 steps, its wonderful astronomical clock, and its great west
 window. They will even tell you that the best shops are in the Schloss
 Strasse, and that the Grand Hotel Königin Anna is a first-class and
 well-situated hostelry. But in no one of them will you find any mention
@@ -4277,7 +4195,6 @@ suicide--was drowned or something.”
 
 “It will be possible, I presume,” the Count pursued, after another
 moment of meditation, “to have the present temporary regency continued
-by simply proving that Prince Maximilian, the heir apparent, is alive
 and mentally incapacitated, though to have had him here in the flesh
 would have been far better. And now as to these proofs--I am in
 possession of copies of the papers, but where are the originals?”
@@ -4347,7 +4264,6 @@ duplicate keys. But the strong-box when we reached Paris was not
 brought to our hotel. Schlippenbach seemed to think it would be safer
 at the railway station. I argued with him, but to no avail. There was
 a fire, you remember, at our hotel in London, and that it and its
-contents were not destroyed was simply miraculous. It was that which
 frightened the Herr Doctor, and he refused to risk it in another hotel.
 Well, your Excellency, after his death we could find no trace of the
 box. The receipt for it had disappeared. I did my utmost to locate and
@@ -4417,8 +4333,8 @@ The face of the Herr Captain went ashen white. He caught his breath
 sharply, and his left hand gripped the chair back where a second before
 his arm had rested.
 
-    “_Am leaving this evening, Orient Express_,” he read. “_Have me
-    met on arrival._ ARNDT.”
+“_Am leaving this evening, Orient Express_,” he read. “_Have me
+met on arrival._ ARNDT.”
 
 He made as if to speak, but his lips emitted no sound.
 
@@ -4454,7 +4370,6 @@ shadows.
 
 
 
-XIV
 
 
 Passengers for Kürschdorf by the Orient Express change cars at
@@ -4547,7 +4462,6 @@ followed by a nervous blurting of the question in conclusion.
 anything else.” And he took the little hand from his coat and pressed
 it affectionately.
 
-       *       *       *       *       *
 
 When the train for Kürschdorf arrived at Anslingen, on the Budavian
 border, there was more than the ordinary delay. There was, moreover,
@@ -4556,14 +4470,12 @@ suppressed excitement of those composing it. Johann, who had sprung
 out instantly from the third-class carriage in which he and Marcelle
 were travelling--his object being to secure the passage of the party’s
 luggage through the Custom House--was at once recognised and besieged
-by a horde of questioners.
 
 “The Prince!” they cried with one accord. “You are with him, are you
 not? Where is he? In which carriage? What is he like?” And he had no
 little difficulty in shaking them off and attending to the business in
 hand.
 
-By some mysterious means the report had spread, and what was at first
 mere rumour had later found substantial confirmation in the discovered
 presence at the station of two distinguished personages: General
 Roederer, Commander of the Budavian army, and Prince von Eisenthal,
@@ -4610,7 +4522,6 @@ spoken, his companions had, intuitively, or by some other occult means,
 become aware of what was impending, and sat in breathless expectation.
 
 And then, suddenly, before anticipation had been quite dethroned
-by realization, the officer was saluting, was being joined by his
 superiors and the rest of their retinues, and Grey was standing erect
 and dignified, listening to a little formal speech of welcome from the
 bearded lips of Prince von Eisenthal.
@@ -4760,12 +4671,10 @@ of rooms in the Flag Tower that had been prepared against his coming.
 
 
 
-XV
 
 
 The Grand Hotel Königin Anna at Kürschdorf is much like the
 Schweitzerhof at Lucerne. It stretches its long, yellow front, bordered
-by a stone terrace, along the wide Schloss Strasse, on the other side
 of which, shaded by four rows of leafy linden trees, is the Königin
 Quai, skirting the fast-flowing Weisswasser. At one end of the Quai is
 the Wartburg Brücke, and at the other the Kursaal.
@@ -4996,7 +4905,6 @@ the type of successful Americans that do things.
 
 
 
-XVI
 
 
 The apartment in the Flag Tower to which Carey Grey was conducted by
@@ -5309,7 +5217,6 @@ And he saluted again.
 
 
 
-XVII
 
 
 The realisation that he was a prisoner aroused in Carey Grey a spirit
@@ -5364,7 +5271,6 @@ prisoners on the floor above could be communicated with and a plan
 of concerted action agreed upon there might be a fighting chance of
 success. But the question was, how to reach them. The ceilings were
 high and the floors thick, and to invent and execute a code of signals
-by rapping would be a tedious and not at all promising undertaking.
 Nevertheless Grey was more than half inclined to try it. By piling one
 piece of furniture on another the ceiling could be reached readily
 enough, and by giving each letter of the alphabet its number it would
@@ -5652,7 +5558,6 @@ lay outside our door.”
 
 
 
-XVIII
 
 
 The rumoured meeting of the Budavian Assembly proved, like many other
@@ -5685,7 +5590,6 @@ direction of his faithful carrying out of his mission?
 Upon these points the Privy Council debated long and eagerly, if not
 altogether wisely. Men are slow to confess even to themselves that
 they have been imposed upon, and the State Council had months before
-by an overwhelming majority declared its faith in the integrity of
 the claimant. It was, therefore, no more than to be expected that
 the majority should still favour the theory that Prince Max, in his
 assertion that he was simply a plain American citizen, was labouring
@@ -5877,7 +5781,6 @@ It was long after midnight when the Council adjourned, and the
 Chancellor returned to his ancient mansion on the Graf Strasse. Rest
 for him, however, was not yet to come. Upon the writing table in his
 library were many State papers demanding his attention, and, aided
-by his secretary, who had been awaiting his home-coming, he went
 systematically to work to clear away the more important before retiring.
 
 At a quarter past two he threw down his quill and leaned back in his
@@ -5903,7 +5806,6 @@ broken leg, and three others are slightly injured.”
 
 
 
-XIX
 
 
 The following day was rife with revelations. Grey and Johann had
@@ -5928,7 +5830,6 @@ refugees needed rest, and was for sending them to bed for a few hours’
 sleep, but Grey protested and Johann blankly refused.
 
 In the American’s mind one desire was now dominant--to see the
-contents of the late Herr Schlippenbach’s luggage, among which, he
 was impressed, he would find some clue to the mystery--some evidence,
 perhaps, that would make clear what was still the most perplexing of
 enigmas. Whether this impression was born of hope, merely, or whether
@@ -5996,17 +5897,17 @@ recent of these letters were to Grey of paramount interest, and he
 read them with careful attention, and especially one in which appeared
 the following paragraph:
 
-    You can fancy the surprise, not unmixed with joy, with which I
-    read your letter of the twenty-fifth of August. The fact that
-    the heir to our throne is still alive and where you can lay your
-    hands upon him seems a wonderful dispensation of an all-wise
-    Providence; for in the event of His Majesty’s death--and he
-    has been for two years a terrible sufferer from an incurable
-    ailment--the crown must otherwise go, as you know, to that prince
-    of scapegraces, Hugo. I have given your communication to the
-    Chancellor, and you will doubtless hear from him in the near
-    future. Fancy our future King, all unmindful, serving in the
-    capacity of a valet! Truth is indeed stranger than fiction.
+You can fancy the surprise, not unmixed with joy, with which I
+read your letter of the twenty-fifth of August. The fact that
+the heir to our throne is still alive and where you can lay your
+hands upon him seems a wonderful dispensation of an all-wise
+Providence; for in the event of His Majesty’s death--and he
+has been for two years a terrible sufferer from an incurable
+ailment--the crown must otherwise go, as you know, to that prince
+of scapegraces, Hugo. I have given your communication to the
+Chancellor, and you will doubtless hear from him in the near
+future. Fancy our future King, all unmindful, serving in the
+capacity of a valet! Truth is indeed stranger than fiction.
 
 Subsequent letters gave hints here and there of the progress of the
 investigation, which, it seemed, was conducted with no little secrecy.
@@ -6019,21 +5920,21 @@ household in Avenue A. Of his removal from where he was supposed to
 have been in service to the home of the old Herr Doctor, Professor
 Trent wrote:
 
-    And you have not told him yet, you say, of the honours that are
-    his. All through this I can see the Divine Hand. The embezzlement
-    and disappearance of his employer offered just the opportunity
-    you desired to have him with you. You can now, by degrees, fit
-    him--gradually prepare him, I mean--for the high estate which is
-    his inheritance; whereas had he continued in his employment such
-    a procedure would have been hedged around with difficulties. I
-    am glad you set me right in the matter of names. I knew that he
-    had gone by the name of Lutz; and I could not understand who this
-    other Lutz was. You say he is his foster-brother, the son of the
-    woman who reared him. I think it wise to have him take another
-    name for the journey over here; and your idea of having him pose
-    as your nephew, Arndt, is capital, provided, of course, there is
-    none of your nephews’ friends or acquaintances coming on the same
-    steamer.
+And you have not told him yet, you say, of the honours that are
+his. All through this I can see the Divine Hand. The embezzlement
+and disappearance of his employer offered just the opportunity
+you desired to have him with you. You can now, by degrees, fit
+him--gradually prepare him, I mean--for the high estate which is
+his inheritance; whereas had he continued in his employment such
+a procedure would have been hedged around with difficulties. I
+am glad you set me right in the matter of names. I knew that he
+had gone by the name of Lutz; and I could not understand who this
+other Lutz was. You say he is his foster-brother, the son of the
+woman who reared him. I think it wise to have him take another
+name for the journey over here; and your idea of having him pose
+as your nephew, Arndt, is capital, provided, of course, there is
+none of your nephews’ friends or acquaintances coming on the same
+steamer.
 
 The insight which these letters gave to Grey only served to whet his
 appetite for additional detail. Many of the revelations were startling,
@@ -6171,7 +6072,6 @@ question his heart was asking.
 
 
 
-XX
 
 
 Grey had set apart the books and papers that had to do either directly
@@ -6466,7 +6366,6 @@ of so baseless and yet so dangerous a slander.”
 
 
 
-XXI
 
 
 The contrast between the tiny white room in the hospital with the
@@ -6502,10 +6401,10 @@ Grey’s response was brief but enthusiastic, and the significance of the
 quotation with which he closed it evoked an outburst of applause that
 must have been heard as far as the Kursaal, two blocks away.
 
-    “All yet seems well, and if it end so meet,
-    The bitter past, more welcome is the sweet.
-    The king’s a beggar now the play is done:
-    All is well ended, if _this_ suit be won.”
+“All yet seems well, and if it end so meet,
+The bitter past, more welcome is the sweet.
+The king’s a beggar now the play is done:
+All is well ended, if _this_ suit be won.”
 
 He did not know it at the time, but prior to his coming the whole
 story of his adventure had been related and discussed, much to the
@@ -6699,27 +6598,4 @@ Van Tuyl’s face asked for enlightenment.
 “I could hardly have been mistaken,” Grey answered, with assurance. “I
 saw the fellow just a moment before. It was Captain Lindenwald, of the
 Royal Household and Equerry to the late King Frederic of Budavia.”
-
-
-THE END
-
-
-
-
-Transcriber’s Notes
-
-
-Punctuation, hyphenation, and spelling were made consistent when a
-predominant preference was found in this book; otherwise they were not
-changed.
-
-Spelling and punctuation of non-English words was not changed.
-
-Simple typographical errors were corrected; occasional unbalanced
-quotation marks retained.
-
-Ambiguous hyphens at the ends of lines were retained.
-
-
-
 
